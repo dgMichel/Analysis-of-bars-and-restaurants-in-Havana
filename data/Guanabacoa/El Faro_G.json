@@ -1,0 +1,159 @@
+{
+    "general_info": {
+        "name": "El Faro",
+        "township": "Guanabacoa",
+        "adress": "Maximo Gomez",
+        "local": "bar-restaurante",
+        "open": "09:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            "WhatsApp"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "Efectivo",
+            "Transfermovil"
+        ],
+        "online_reservation": null,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "enchilado de cangrejo",
+                    "croqueta de la casa",
+                    "ensalada fria de jamon",
+                    "ensalada fria de atun",
+                    "picadera tropical",
+                    "plato a lo cubano"
+                ],
+                "appetizers_price": [
+                    750,
+                    180,
+                    700,
+                    1200,
+                    850,
+                    800
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "pan con hamburguesa",
+                    "hamburguesa faro"
+                ],
+                "hamburger_price": [
+                    500,
+                    900
+                ]
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "costillas de cerdo",
+                    "pollo grille"
+                ],
+                "main_price": [
+                    1200,
+                    950
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "ruedas de pescado grille"
+                ],
+                "sea_food_price": [
+                    1400
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghetti napolitano",
+                    "spaghetti de jamon"
+                ],
+                "pasta_price": [
+                    750,
+                    850
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza el faro",
+                    "pizza combinada",
+                    "pizza hawaiana",
+                    "pizza de cebolla",
+                    "pizza de pimiento",
+                    "pizza gustazo (doble queso)",
+                    "pizza jamon"
+                ],
+                "pizza_price": [
+                    900,
+                    900,
+                    900,
+                    900,
+                    900,
+                    900,
+                    900
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Bar",
+            "Criolla",
+            "Pizzas"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "A la Carta",
+            "Entretenimiento"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

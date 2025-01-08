@@ -1,0 +1,225 @@
+{
+    "general_info": {
+        "name": "Polo",
+        "township": "Guanabacoa",
+        "adress": "Cruz Verde",
+        "local": "bar-restaurante",
+        "open": "12:00",
+        "close": "00:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            "Facebook",
+            "WhatsApp",
+            "Instagram"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "Transfermovil",
+            "Efectivo"
+        ],
+        "online_reservation": null,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "toston relleno de jamon y queso",
+                    "toston relleno de atun y queso",
+                    "fajitas de pechuga",
+                    "ensaladas frias de jamon",
+                    "ensalada fria de atun",
+                    "eperlano de pescado",
+                    "croquetas de la casa",
+                    "frituras malanga",
+                    "coctel camarones",
+                    "papas fritas"
+                ],
+                "appetizers_price": [
+                    450,
+                    600,
+                    850,
+                    500,
+                    650,
+                    1100,
+                    450,
+                    450,
+                    1300,
+                    550
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "arroz moro y cristiano",
+                    "arroz pilaf",
+                    "arroz salteado con vegetales"
+                ],
+                "garnishes_price": [
+                    120,
+                    180,
+                    200,
+                    250
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "bistec de cerdo grille encebollado",
+                    "uruguallo de cerdo",
+                    "bistec princesa",
+                    "pechuga grille",
+                    "pechuga gratinada",
+                    "lomo ahumado",
+                    "cordon bleu de pechuga",
+                    "bistec de res encebollado",
+                    "uruguallo de res",
+                    "ropa vieja de res",
+                    "arroz frito con camarones"
+                ],
+                "main_price": [
+                    1900,
+                    2400,
+                    2500,
+                    1850,
+                    2200,
+                    2400,
+                    2500,
+                    2000,
+                    2500,
+                    2300,
+                    1500
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado grille",
+                    "filete montero",
+                    "filete canciller",
+                    "filete gratinado",
+                    "camaron enchilado",
+                    "camaron al ajillo",
+                    "camaron empanizado",
+                    "filete mediterraneo",
+                    "mar y tierra",
+                    "masa de vida"
+                ],
+                "sea_food_price": [
+                    2200,
+                    2800,
+                    2900,
+                    2600,
+                    2700,
+                    2600,
+                    2700,
+                    3500,
+                    4500,
+                    4100
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghetti napolitano",
+                    "spaghetti carbonara"
+                ],
+                "pasta_price": [
+                    850,
+                    1400
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza hawaiana"
+                ],
+                "pizza_price": [
+                    900,
+                    1300
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza nacional",
+                    "cerveza importada"
+                ],
+                "alcohol_price": [
+                    350,
+                    250
+                ],
+                "infusions_list": [
+                    "cafe expreso"
+                ],
+                "infusions_price": [
+                    250
+                ],
+                "non_alcoholic_list": [
+                    "energizante",
+                    "agua natural 500ml",
+                    "refresco nacional",
+                    "refrescos importados",
+                    "malta nacional",
+                    "malta importada",
+                    "jugo de caja",
+                    "jugo de lata"
+                ],
+                "non_alcoholic_price": [
+                    300,
+                    200,
+                    250,
+                    280,
+                    250,
+                    280,
+                    200,
+                    280
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Bar",
+            "Internacional"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "A la carta"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

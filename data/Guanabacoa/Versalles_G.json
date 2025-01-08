@@ -1,0 +1,300 @@
+{
+    "general_info": {
+        "name": "Cafe Versalles",
+        "township": "Guanabacoa",
+        "adress": "Marti",
+        "local": "bar-restaurante",
+        "open": "09:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            "Facebook",
+            "Instagram"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "Efectivo",
+            "Transfermovil"
+        ],
+        "online_reservation": null,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "ensalada fria de jamon",
+                    "ensalada fria de atun",
+                    "croquetas de la casa",
+                    "eperlan de pescado",
+                    "fajitas de pollo empanado",
+                    "maripositas chinas",
+                    "ceviche pescado",
+                    "cesta bananera",
+                    "coctel de camaron"
+                ],
+                "appetizers_price": [
+                    500,
+                    700,
+                    500,
+                    1600,
+                    1500,
+                    700,
+                    1000,
+                    850,
+                    1200
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo grille",
+                    "pollo cantones",
+                    "cordon bleu",
+                    "medio pollo al carbon con bbq",
+                    "chuleta de cerdo al carbon con bbq 1 libra",
+                    "solomillo de cerdo al carbon con bbq 1 libra",
+                    "uruguayo de cerdo",
+                    "masa de cerdo frita 300 gr",
+                    "bistec de cerdo encebollado"
+                ],
+                "main_price": [
+                    1400,
+                    2200,
+                    2500,
+                    2500,
+                    3600,
+                    3000,
+                    2500,
+                    2800,
+                    1600
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "pescado versalles",
+                    "canciller",
+                    "montetoro",
+                    "filete grille",
+                    "camaron al gusto"
+                ],
+                "sea_food_price": [
+                    2800,
+                    2800,
+                    2200,
+                    1600,
+                    2500
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghettis",
+                    "lazanna de jamon"
+                ],
+                "pasta_price": [
+                    800,
+                    1200
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napoles",
+                    "pizza queso gouda",
+                    "pizza jamon",
+                    "pizza chorizo",
+                    "pizza camarones",
+                    "pizza cebolla",
+                    "pizza aceituna",
+                    "pizza pinna",
+                    "pizza atun",
+                    "pizza lomo ahumado",
+                    "pizza beicon",
+                    "pizza pimiento"
+                ],
+                "pizza_price": [
+                    900,
+                    1260,
+                    1150,
+                    1250,
+                    1700,
+                    1150,
+                    1200,
+                    1150,
+                    1250,
+                    1250,
+                    1300,
+                    1200
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "ron seleccion de maestros",
+                    "ron annejo especial",
+                    "ron santiago",
+                    "ron cubay",
+                    "ron 3 annos",
+                    "ron reserva",
+                    "ron 7 annos",
+                    "tequila reposado",
+                    "tequila olmega silver",
+                    "whisky chivas regal",
+                    "whisky white label",
+                    "whisky ballantines",
+                    "whisky jack daniels",
+                    "whisky jameson",
+                    "vodka absolut",
+                    "daiquiri",
+                    "tinto verano",
+                    "jack in black",
+                    "bandera",
+                    "margarita",
+                    "margarita blue",
+                    "daiquiri frutas",
+                    "daiquiri rebelde",
+                    "cubanito",
+                    "bloody mary",
+                    "limonada frappe",
+                    "limonada clarete",
+                    "sangria",
+                    "pinna colada",
+                    "limonada frescura",
+                    "cubata",
+                    "cuba libre",
+                    "mojito",
+                    "ron collins",
+                    "caipirissima",
+                    "caipiroska",
+                    "caipiroska vip",
+                    "vodka tonic",
+                    "gin tonic",
+                    "cerveza cristal",
+                    "cerveza importada (heineken)",
+                    "jarra de cerveza",
+                    "tarro de cerveza",
+                    "cafe rocio de gallo"
+                ],
+                "alcohol_price": [
+                    900,
+                    350,
+                    500,
+                    350,
+                    350,
+                    350,
+                    350,
+                    600,
+                    500,
+                    1000,
+                    350,
+                    450,
+                    450,
+                    450,
+                    500,
+                    500,
+                    500,
+                    600,
+                    600,
+                    600,
+                    700,
+                    600,
+                    500,
+                    500,
+                    600,
+                    250,
+                    400,
+                    500,
+                    550,
+                    350,
+                    700,
+                    500,
+                    500,
+                    500,
+                    500,
+                    500,
+                    850,
+                    850,
+                    700,
+                    350,
+                    400,
+                    550,
+                    2500,
+                    250
+                ],
+                "infusions_list": [
+                    "cafe expreso",
+                    "cafe bombon",
+                    "cafe cortado"
+                ],
+                "infusions_price": [
+                    100,
+                    250,
+                    200
+                ],
+                "non_alcoholic_list": [
+                    "agua natural",
+                    "refresco importado",
+                    "refresco nacional",
+                    "malta",
+                    "jugos naturales"
+                ],
+                "non_alcoholic_price": [
+                    200,
+                    250,
+                    250,
+                    320,
+                    350
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Bar",
+            "Criolla"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "A la carta"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

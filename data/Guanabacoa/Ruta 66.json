@@ -1,0 +1,196 @@
+{
+    "general_info": {
+        "name": "Ruta 66",
+        "township": "Guanabacoa",
+        "adress": "",
+        "local": "restaurante",
+        "open": "12:00",
+        "close": "21:30",
+        "days_of_week": [
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            null
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "Transferencia",
+            "Efectivo"
+        ],
+        "online_reservation": null,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "tostones rellenos de jamon y queso",
+                    "tostones rellenos de bolognesa",
+                    "tostones rellenos de vegetales salteados y queso",
+                    "garbanzos fritos",
+                    "ceviche de pescado",
+                    "frituras de malanga",
+                    "croquetas",
+                    "brosquetas",
+                    "tamal"
+                ],
+                "appetizers_price": [
+                    1090,
+                    950,
+                    910,
+                    1900,
+                    1500,
+                    595,
+                    490,
+                    420,
+                    400
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz frito",
+                    "arroz blanco",
+                    "pure de malanga",
+                    "ensalada mixta de estacion"
+                ],
+                "garnishes_price": [
+                    1280,
+                    200,
+                    335,
+                    425
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "arroz frito especial route 66",
+                    "lomo ahumado (con gratinado de queso)",
+                    "lomo ahumado (con salsa de pinna)",
+                    "super route 66 (cerdo)",
+                    "castrol (cerdo)",
+                    "texaco (cerdo)"
+                ],
+                "main_price": [
+                    2065,
+                    1850,
+                    2000,
+                    1965,
+                    1255,
+                    940
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "enchilado de camarones",
+                    "camarones al ajillo",
+                    "camarones en salsa de frutas",
+                    "enchilado de pulpo",
+                    "pulpo al ajillo",
+                    "filete de pescado route 66 (a la plancha gratinado con queso y camaron)",
+                    "monte toro a la francesa (a la plancha gratinado con queso)",
+                    "filete de pescado en salsa de frutas",
+                    "filete de pescado a la plancha"
+                ],
+                "sea_food_price": [
+                    3300,
+                    2950,
+                    2800,
+                    2690,
+                    2470,
+                    3550,
+                    2400,
+                    2250,
+                    1800
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "lasagna queso gouda",
+                    "spaghettis de queso gouda"
+                ],
+                "pasta_price": [
+                    1420,
+                    1100
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza de queso gouda"
+                ],
+                "pizza_price": [
+                    850
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza importada",
+                    "vino tinto"
+                ],
+                "alcohol_price": [
+                    210,
+                    2200
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "refrescos importados",
+                    "malta importada",
+                    "agua mineral",
+                    "jugos importados"
+                ],
+                "non_alcoholic_price": [
+                    240,
+                    250,
+                    190,
+                    210
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "criolla",
+            "hamburguesas",
+            "pizzas",
+            "pastas"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [
+            null
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

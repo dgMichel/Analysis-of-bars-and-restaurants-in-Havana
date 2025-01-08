@@ -1,0 +1,234 @@
+{
+    "general_info": {
+        "name": "Anillo Habanero",
+        "township": "Guanabacoa",
+        "adress": "Primer Anillo de La Habana",
+        "local": "restaurante",
+        "open": "10:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            "Instagram",
+            "Facebook",
+            "Whatsapp"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "Transfermovil",
+            "Efectivo",
+            "EnZona"
+        ],
+        "online_reservation": null,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "picadera anillo",
+                    "tacos de vegetales",
+                    "croquetas habaneras",
+                    "nachos, salsa rosa y guacamole",
+                    "brochetas",
+                    "coctel de camarones",
+                    "frituras",
+                    "tostones rellenos",
+                    "tacos de pollo"
+                ],
+                "appetizers_price": [
+                    3000,
+                    600,
+                    400,
+                    400,
+                    1300,
+                    2000,
+                    300,
+                    550,
+                    800
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "lomo ahumado",
+                    "chuletas de cerdo",
+                    "ropa vieja",
+                    "vaca frita"
+                ],
+                "main_price": [
+                    2000,
+                    3000,
+                    3000,
+                    3000
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "camarones enchilados",
+                    "camarones al ajillo"
+                ],
+                "sea_food_price": [
+                    3500,
+                    3500
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghettis napoles"
+                ],
+                "pasta_price": [
+                    850
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana"
+                ],
+                "pizza_price": [
+                    800
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "tarta de vainilla",
+                    "cheesecake de limon",
+                    "coctel de frutas importadas"
+                ],
+                "dessert_price": [
+                    750,
+                    750,
+                    350
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "michelada",
+                    "margarita",
+                    "caipiroska",
+                    "cocteles analcoholicos",
+                    "caipirisima",
+                    "vodka tonic",
+                    "screwdriver",
+                    "gin tonic",
+                    "agua marina",
+                    "cancha",
+                    "tinto de verano",
+                    "limonada frappe",
+                    "daiquiri",
+                    "chelada",
+                    "pinna colada",
+                    "sangria",
+                    "cerveza nacional",
+                    "cerveza importada",
+                    "trago jonny walker",
+                    "william lawsons",
+                    "lyubov vodka"
+                ],
+                "alcohol_price": [
+                    600,
+                    800,
+                    800,
+                    500,
+                    800,
+                    900,
+                    800,
+                    900,
+                    800,
+                    800,
+                    800,
+                    250,
+                    800,
+                    450,
+                    1000,
+                    1000,
+                    350,
+                    300,
+                    500,
+                    350,
+                    200
+                ],
+                "infusions_list": [
+                    "expresso",
+                    "cortadito",
+                    "capuchino"
+                ],
+                "infusions_price": [
+                    100,
+                    200,
+                    250
+                ],
+                "non_alcoholic_list": [
+                    "energizantes importados",
+                    "maltas importadas",
+                    "pepsi refresco gaseado",
+                    "jugos naturales",
+                    "agua natural",
+                    "kermato",
+                    "refrescos importados"
+                ],
+                "non_alcoholic_price": [
+                    500,
+                    320,
+                    400,
+                    250,
+                    200,
+                    700,
+                    300
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "criolla",
+            "pizzas",
+            "cocteles",
+            "pastas"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Entretenimiento",
+            "Parque Infantil",
+            "Billar",
+            "Terraza al Aire Libre",
+            "Piscina"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

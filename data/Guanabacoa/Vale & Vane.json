@@ -1,0 +1,191 @@
+{
+    "general_info": {
+        "name": "Vale & Vane",
+        "township": "Guanabacoa",
+        "adress": "",
+        "local": "restaurante",
+        "open": "09:00",
+        "close": "21:00",
+        "days_of_week": [
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            "Facebook",
+            "Instagram"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "Transferencia",
+            "Efectivo"
+        ],
+        "online_reservation": null,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "chuleta de cerdo",
+                    "bistec cerdo grille",
+                    "masa de cerdo frita",
+                    "bistec encebollado",
+                    "costilla cerdo",
+                    "lomo ahumado",
+                    "uruguayo",
+                    "bistec princesa",
+                    "garbanzo frito",
+                    "pollo frito",
+                    "suprema grille",
+                    "bistec princesa",
+                    "suprema encebollada"
+                ],
+                "main_price": [
+                    1100,
+                    1200,
+                    1300,
+                    1450,
+                    1650,
+                    1400,
+                    1600,
+                    1720,
+                    1300,
+                    1000,
+                    1400,
+                    1920,
+                    1650
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete pescado grille",
+                    "camaron grille",
+                    "enchilado camaron",
+                    "mar y tierra",
+                    "vaca frita",
+                    "ropa vieja"
+                ],
+                "sea_food_price": [
+                    1800,
+                    1800,
+                    1850,
+                    2500,
+                    1600,
+                    1600
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghetti napolitano",
+                    "spaghetti con jamon",
+                    "spaghetti con chorizo",
+                    "spaghetti doble queso"
+                ],
+                "pasta_price": [
+                    650,
+                    900,
+                    900,
+                    920
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza napolitana",
+                    "pizza familiar"
+                ],
+                "pizza_price": [
+                    350,
+                    650,
+                    2500
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza cristal (lata)",
+                    "cerveza cristal (botella)",
+                    "cerveza hollandia",
+                    "cerveza wild hill"
+                ],
+                "alcohol_price": [
+                    280,
+                    380,
+                    250,
+                    250
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "tigon",
+                    "agua natural",
+                    "refresco lata",
+                    "malta hyper malta",
+                    "malta bucanero",
+                    "jugo natural (cajita)",
+                    "jugo natural (lata)"
+                ],
+                "non_alcoholic_price": [
+                    280,
+                    180,
+                    250,
+                    270,
+                    300,
+                    200,
+                    270
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "italiana",
+            "criolla"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "A domicilio"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

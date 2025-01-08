@@ -1,0 +1,166 @@
+{
+    "general_info": {
+        "name": "El Pellizco",
+        "township": "Guanabacoa",
+        "adress": "",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            "Instagram"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "Transfermovil",
+            "Efectivo"
+        ],
+        "online_reservation": null,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "caldoza de la casa",
+                    "platano maduro frito"
+                ],
+                "appetizers_price": [
+                    250,
+                    80
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "racion de chicharron",
+                    "racion de empella",
+                    "racion de tostones",
+                    "racion de mariquitas"
+                ],
+                "garnishes_price": [
+                    150,
+                    100,
+                    80,
+                    80
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "bistec de higado",
+                    "higado a la italiana",
+                    "bistec de cerdo",
+                    "masa de cerdo",
+                    "chuleta de cerdo",
+                    "lomo ahumado",
+                    "lonjas de cerdo asada",
+                    "pollo asado",
+                    "costilla asada",
+                    "ropa vieja de cerdo",
+                    "fricase de costilla"
+                ],
+                "main_price": [
+                    400,
+                    450,
+                    600,
+                    650,
+                    650,
+                    650,
+                    600,
+                    450,
+                    650,
+                    650,
+                    650
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana"
+                ],
+                "pizza_price": [
+                    200
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza nacional",
+                    "cerveza importada"
+                ],
+                "alcohol_price": [
+                    220,
+                    220
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "jugo de caja",
+                    "jugo de botella",
+                    "malta",
+                    "agua natural",
+                    "energizante"
+                ],
+                "non_alcoholic_price": [
+                    150,
+                    120,
+                    150,
+                    100,
+                    220
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "criolla"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [
+            null
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "general_info": {
+        "name": "El Mexicano",
+        "township": "Guanabacoa",
+        "adress": "Avenida Quinta",
+        "local": "restaurante",
+        "open": "10:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            null
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "Efectivo"
+        ],
+        "online_reservation": null,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich de jamon y queso",
+                    "sandwich de queso jamon especial"
+                ],
+                "bread_price": [
+                    350,
+                    600
+                ]
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghetti queso gouda"
+                ],
+                "pasta_price": [
+                    770
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza queso gouda"
+                ],
+                "pizza_price": [
+                    450
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza",
+                    "holandia",
+                    "cristal lata",
+                    "cristal botella",
+                    "shaka"
+                ],
+                "alcohol_price": [
+                    200,
+                    200,
+                    250,
+                    200,
+                    350
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "tigon",
+                    "malta 1 hyper",
+                    "pepsi",
+                    "mirinda",
+                    "perla negra",
+                    "ironbeer",
+                    "orange",
+                    "cola polo",
+                    "limon",
+                    "coca cola"
+                ],
+                "non_alcoholic_price": [
+                    300,
+                    270,
+                    270,
+                    280,
+                    270,
+                    240,
+                    220,
+                    220,
+                    220,
+                    280
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "pizzas",
+            "pastas"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "A la carta"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

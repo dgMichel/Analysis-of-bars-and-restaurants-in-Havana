@@ -1,0 +1,291 @@
+{
+    "general_info": {
+        "name": "La Lola",
+        "township": "Cerro",
+        "adress": "Calle Ayestaran entre San Pablo y Pedro Perez",
+        "local": "bar",
+        "open": "14:00",
+        "close": "02:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            null,
+            null
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "Brusquetas",
+                    "Croquetas de jamon",
+                    "Papas fritas",
+                    "Papas gratinadas",
+                    "Toston relleno de atun",
+                    "Toston relleno de jamon y queso",
+                    "Bolitas de queso",
+                    "Frituras de malanga",
+                    "Picadera Lalola",
+                    "Picadera sencilla"
+                ],
+                "appetizers_price": [
+                    700,
+                    600,
+                    550,
+                    800,
+                    1100,
+                    800,
+                    730,
+                    500,
+                    4000,
+                    1500
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "Hamburguesa"
+                ],
+                "hamburger_price": [
+                    1500
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "Bocadillo de jamon y queso",
+                    "Sandwich de jamon y queso/papas",
+                    "Sandwich cubano",
+                    "Sandwich de jamon y queso"
+                ],
+                "bread_price": [
+                    500,
+                    1200,
+                    1100,
+                    900
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "Lonjas de cerdo",
+                    "Nuggets de pollo",
+                    "Masas de cerdo"
+                ],
+                "main_price": [
+                    3500,
+                    2000,
+                    1750
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "Canelones",
+                    "Penne napolitano",
+                    "spaghetti napolitano",
+                    "spaghetti a la carbonara"
+                ],
+                "pasta_price": [
+                    1350,
+                    1100,
+                    1100,
+                    1970
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "Hamburguesa"
+                ],
+                "pizza_price": [
+                    1500
+                ]
+            },
+            "adds": {
+                "adds_list": [
+                    "Aji",
+                    "Chorizo",
+                    "Atun",
+                    "Jamon pierna",
+                    "Pinna",
+                    "Cebolla",
+                    "Queso de cabra",
+                    "Queso Gouda",
+                    "Queso Parmesano",
+                    "Aceituna"
+                ],
+                "adds_price": [
+                    150,
+                    300,
+                    600,
+                    300,
+                    150,
+                    250,
+                    600,
+                    500,
+                    800,
+                    500
+                ]
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "Pinna Colada",
+                    "Ron Collins",
+                    "Sangria",
+                    "Screw Driver",
+                    "Daiquiri",
+                    "Gintonic",
+                    "John Collins",
+                    "Mojito",
+                    "Margarita",
+                    "Blue Hawai",
+                    "Blue Lagoon",
+                    "Caipirinha",
+                    "Caipirisima",
+                    "Caipiroska",
+                    "Cuba Libre",
+                    "Cubanito",
+                    "Cubata",
+                    "Chelada",
+                    "Michelada",
+                    "Botella de whisky Ballantines",
+                    "Botella de whisky Johnnie Walker Red Label",
+                    "Botella de whisky Johnnie Walker Red Label 1LT",
+                    "Botella de whisky Jamerson",
+                    "Botella de whisky Chivas Regal",
+                    "Botella Ron Havana Club Smokey",
+                    "Botella Ron Havana Club Reserva",
+                    "Whisky Chivas Regal 12 annos (4.5L)",
+                    "Cerveza Bucanero lata",
+                    "Cerveza Heineken botella",
+                    "Cerveza Cristal lata",
+                    "Cerveza Cristal botella",
+                    "Cerveza Super Bock botella",
+                    "Cerveza Sol",
+                    "Cubetazo La Lola",
+                    "Cubetazo Picadera"
+                ],
+                "alcohol_price": [
+                    700,
+                    450,
+                    600,
+                    475,
+                    350,
+                    750,
+                    450,
+                    350,
+                    950,
+                    550,
+                    550,
+                    350,
+                    350,
+                    600,
+                    350,
+                    450,
+                    400,
+                    150,
+                    350,
+                    10000,
+                    13000,
+                    15000,
+                    10000,
+                    15000,
+                    5000,
+                    5000,
+                    125440,
+                    350,
+                    574,
+                    350,
+                    420,
+                    370,
+                    480,
+                    4200,
+                    3300
+                ],
+                "infusions_list": [
+                    "cafe bombon",
+                    "cafe cortadito",
+                    "cafe expresso"
+                ],
+                "infusions_price": [
+                    350,
+                    300,
+                    200
+                ],
+                "non_alcoholic_list": [
+                    "Jugo La Estancia",
+                    "Malteada",
+                    "Agua natural Cool Heaven",
+                    "Energizante",
+                    "Energizante Tigon Drink",
+                    "Limonada Frape",
+                    "Kermato",
+                    "Malta Optimal",
+                    "Refresco naranja",
+                    "Refresco de limon",
+                    "Refresco cola",
+                    "Refresco",
+                    "Refresco Pepsi"
+                ],
+                "non_alcoholic_price": [
+                    350,
+                    200,
+                    350,
+                    350,
+                    350,
+                    450,
+                    580,
+                    370,
+                    300,
+                    300,
+                    300,
+                    300,
+                    350
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Cocteleria"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

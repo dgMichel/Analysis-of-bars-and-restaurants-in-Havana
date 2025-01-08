@@ -1,0 +1,213 @@
+{
+    "general_info": {
+        "name": "Pizzas Vip",
+        "township": "Guanabacoa",
+        "adress": "",
+        "local": "restaurante",
+        "open": "10:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            "WhatsApp"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "Transfermovil",
+            "Efectivo"
+        ],
+        "online_reservation": null,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas de la casa",
+                    "fritura de malanga",
+                    "bolita de queso",
+                    "fajita de pechuga",
+                    "ensalada fria",
+                    "papa frita",
+                    "fajita de cerdo",
+                    "crema de queso",
+                    "crema virginia",
+                    "crema aurora",
+                    "crema mixta",
+                    "tacos de jamon",
+                    "tacos de res",
+                    "tacos de cangrejo"
+                ],
+                "appetizers_price": [
+                    400,
+                    300,
+                    650,
+                    1100,
+                    370,
+                    580,
+                    1200,
+                    500,
+                    550,
+                    520,
+                    600,
+                    1030,
+                    1350,
+                    1380
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghettis napolitano",
+                    "spaghettis bolonnesa",
+                    "spaghettis carbonara",
+                    "spaghettis alfredo",
+                    "spaghettis de atun",
+                    "spaghettis pollo",
+                    "spaghettis de camarones",
+                    "spaghettis chorizo",
+                    "spaghettis negro di mare"
+                ],
+                "pasta_price": [
+                    720,
+                    1350,
+                    1350,
+                    1150,
+                    1270,
+                    1120,
+                    1400,
+                    1150,
+                    1500
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza de queso",
+                    "pizza de cebolla",
+                    "pizza de pimiento",
+                    "pizza de jamon",
+                    "pizza de chorizo",
+                    "pizza de hawaiana",
+                    "pizza de bacon",
+                    "pizza doble queso",
+                    "pizza de camaron",
+                    "pizza de res",
+                    "pizza de atun con cebolla",
+                    "pizza de jamon serrano",
+                    "pizza de aceituna"
+                ],
+                "pizza_price": [
+                    800,
+                    1000,
+                    1000,
+                    1100,
+                    1050,
+                    1260,
+                    1240,
+                    1250,
+                    1700,
+                    1300,
+                    1450,
+                    1570,
+                    1200
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "henike",
+                    "cerveza importada",
+                    "cerveza de lata cristal",
+                    "cerveza de botella"
+                ],
+                "alcohol_price": [
+                    360,
+                    250,
+                    300,
+                    300
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "pomitos de agua",
+                    "refresco de pomito",
+                    "refresco de lata",
+                    "malta",
+                    "jugos de lata",
+                    "jugos de cajita",
+                    "tigon",
+                    "refresco importado",
+                    "malta importada"
+                ],
+                "non_alcoholic_price": [
+                    150,
+                    180,
+                    220,
+                    300,
+                    280,
+                    180,
+                    300,
+                    280,
+                    270
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Pizzas",
+            "Pastas"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "A la carta"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}
