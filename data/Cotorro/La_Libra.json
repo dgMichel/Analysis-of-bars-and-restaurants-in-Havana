@@ -1,0 +1,88 @@
+{
+    "general_info": {
+        "name":"La Libra",
+        "township":"Cotorro",
+        "adress":"calle 105 entre 20 y 26, Cotorro",
+        "local":"bar-restaurante",
+        "open":"1100",
+        "close":"1200",
+        "days_of_week":["lunes","martes","miercoles","jueves","viernes","sabado","domingo"],
+        "sector":"privado",
+        "capability":70,
+        "social_network":[],
+        "years":0
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":true,
+        "tips_included":false,
+        "delivery":false 
+    },
+    "food": {
+        "menu": {
+            "appetizers":{
+                "appetizers_list":["fajitas de pollo","fajitas de cerdo","alitas de pollo","croquetas","tostones naturales","tostones al ajillo","tostones rellenos","tostones campesinos","papas fritas","fritura de malanga","entremes de jamon, queso y aceituna","camaron empanado","eperlan"],
+                "appetizers_price":[1700,1600,1300,550,300,350,1100,1100,900,500,1500,1200,2100]
+            },
+            "garnishes":{
+                "garnishes_list":[],
+                "garnishes_price":[]
+            },
+            "hamburger":{
+                "hamburger_list":[],
+                "hamburger_price":[]
+            },
+            "bread":{
+                "bread_list":[],
+                "bread_price":[]
+            },            
+            "main":{
+                "main_list":["bistec de res grille","brocheta","filete de cerdo","bistec uruguayo","masa de cerdo frita","bistec de cerdo","fricase de cerdo","costilla de cerdo frita","costilla de cerdo asada","costilla de cerdo en salsa","chilindron de cordero"],
+                "main_price":[3000,2000,3400,2900,2400,200,2300,2300,2400,2500,3500]
+            },
+            "sea_food":{
+                "sea_food_list":["camaron grille","camaron enchilado","camaron al ajillo","filete de pescado","pescado canciller","calamar en su tinta","filete de salmon","pulpo al ajillo","pulpo grille","langosta grille"],
+                "sea_food_price":[1700,2200,1500,2100,3300,4000,2500,3200,3300,2000]
+            },
+            "pasta":{
+                "pasta_list":["spaghetti napolitano"],
+                "pasta_price":[1200]
+            },
+            "pizza":{
+                "pizza_list":["pizza napolitana"],
+                "pizza_price":[1500]
+            },
+            "adds":{
+                "adds_list":["queso","jamon","aji","camaron","aceituna","cebolla","tomate",""],
+                "adds_price":[700,600,400,800,400,300,500]
+            },
+            "dessert":{
+                "dessert_list":[],
+                "dessert_price":[]
+            },
+            "drinks":{
+                "alcohol_list":[],
+                "alcohol_price":[],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":[],
+                "non_alcoholic_price":[]
+            }
+        },
+        "popular_food":["bistec uruguayo","filete de cerdo"],
+        "popular_drink":["pinna colada","mojito"],
+        "food_especialization":["criolla"],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":true,
+        "blackout_alternatives":true,
+        "entertainment":["show humoristico","cantantes"],
+        "peak_hour":["comida"],
+        "tourism":true,
+        "pets":true,
+        "bathroom":true,
+        "heated":false
+    }
+}

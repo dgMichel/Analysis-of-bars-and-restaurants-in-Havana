@@ -1,0 +1,223 @@
+{
+    "general_info": {
+        "name": "Los caneyes",
+        "township": "Arroyo Naranjo",
+        "adress": "Calle Marti y Gutierrez, Reparto Electrico, Arroyo Naranjo",
+        "local": "Restaurante",
+        "open": "12:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": 0
+    },
+    "economy": {
+        "payment_methods": ["efectivo","transferencia"],
+        "online_reservation": false,
+        "tips_included": false,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "tostones",
+                    "papas fritas",
+                    "fajitas de pollo empanadas",
+                    "fajitas de cerdo empanadas",
+                    "eperlan de pescado",
+                    "masas de cangrejo con tostones",
+                    "milanesa de res con papas fritas"
+                ],
+                "appetizers_price": [
+                    800,
+                    900,
+                    1000,
+                    1000,
+                    1300,
+                    1000,
+                    1500
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "arroz congri",
+                    "yuca con mojo",
+                    "pure de malanga",
+                    "Ensalada Mixta de Estacion"
+                ],
+                "garnishes_price": [
+                    150,
+                    200,
+                    200,
+                    400,
+                    250
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa de res c/ queso gratinado y papas fritas",
+                    "hamburguesas de salmon c/ queso gratinado y tostones"
+                ],
+                "hamburger_price": [
+                    1500,
+                    1500
+                ]
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "lomo ahumado deshuesado",
+                    "bistec de cerdo frito",
+                    "escalope de cerdo",
+                    "bistec de cerdo con jamon, chorizo y queso",
+                    "bistec uruguayo",
+                    "boucht de cerdo",
+                    "ropa vieja",
+                    "vaca frita",
+                    "suprema de pollo",
+                    "fajitas salteadas",
+                    "fajitas empanadas",
+                    "suprema de pollo empanada",
+                    "suprema de pollo con jamon y queso",
+                    "gordon blue",
+                    "suprema de pollo rellena con camarones y queso",
+                    "suprema Los Caneyes"
+                ],
+                "main_price": [
+                    1800,
+                    1300,
+                    1500,
+                    1800,
+                    1800,
+                    1300,
+                    1700,
+                    1700,
+                    1300,
+                    1300,
+                    1400,
+                    1400,
+                    1800,
+                    2300,
+                    2300,
+                    2300
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado grille",
+                    "filete de pescado empanado",
+                    "filete de pescado monte toro",
+                    "filete de pescado caney",
+                    "filete de pescado Los Caneyes",
+                    "masas de cangrejo en salsa de tomate",
+                    "salmon rociado en salsa de tomate",
+                    "camarones al ajillo",
+                    "enchilado de camarones",
+                    "camarones rebozados"
+                ],
+                "sea_food_price": [
+                    1500,
+                    1500,
+                    1800,
+                    1800,
+                    2500,
+                    1300,
+                    1500,
+                    2200,
+                    2200,
+                    2200
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghettis Napolitano"
+                ],
+                "pasta_price": [
+                    700
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza napolitana con queso gouda"
+                ],
+                "pizza_price": [
+                    900,
+                    1300
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "Tarta con Ganache de Chocolate",
+                    "Pote de helado Gusto (1 litro)"
+                ],
+                "dessert_price": [
+                    450,
+                    1000
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cervezas",
+                    "cerveza cristal"
+                ],
+                "alcohol_price": [
+                    330,
+                    300
+                ],
+                "infusions_list": ["cafe"],
+                "infusions_price": [100],
+                "non_alcoholic_list": [
+                    "Refresco cola y limon",
+                    "refresco de mate",
+                    "malta",
+                    "agua mineral embotellada",
+                    "latas de jugo",
+                    "bebida energizante"
+                ],
+                "non_alcoholic_price": [
+                    250,
+                    270,
+                    300,
+                    300,
+                    300,
+                    100
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "house_especiality": ["filete de pescado Los Caneyes","suprema Los Caneyes"],
+        "food_especialization": [
+            "cubana"
+        ]
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

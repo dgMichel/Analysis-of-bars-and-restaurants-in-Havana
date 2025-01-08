@@ -1,0 +1,88 @@
+{
+    "general_info": {
+        "name":"La esquinita del Cotorro",
+        "township":"Cotorro",
+        "adress":"Avenida 71",
+        "local":"cafeteria",
+        "open":"1000",
+        "close":"2000",
+        "days_of_week":["lunes","martes","miercoles","jueves","viernes","sabado","domingo"],
+        "sector":"privado",
+        "capability":24,
+        "social_network":["Facebook","Instagram"],
+        "years": 8
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":false,
+        "tips_included":false,
+        "delivery":false 
+    },
+    "food": {
+        "menu": {
+            "appetizers":{
+                "appetizers_list":["tostones","tortilla natural","tortilla de queso blanco","tortilla de jamon","tortilla de chorizo","tortilla mixta"],
+                "appetizers_price":[200,220,280,320,320,410]
+            },
+            "garnishes":{
+                "garnishes_list":[],
+                "garnishes_price":[]
+            },
+            "hamburger":{
+                "hamburger_list":["hamburguesa simple","hamburguesa doble","hamburguesa esquinita","hamburguesa esquinita plus"],
+                "hamburger_price":[250,380,480,580]
+            },
+            "bread":{
+                "bread_list":["pan con jamon","pan con jamon y chorizo","pan con chorizo"],
+                "bread_price":[240,270,160]
+            },
+            "main":{
+                "main_list":[],
+                "main_price":[]
+            },
+            "sea_food":{
+                "sea_food_list":[],
+                "sea_food_price":[]
+            },
+            "pasta":{
+                "pasta_list":[],
+                "pasta_price":[]
+            },
+            "pizza":{
+                "pizza_list":[],
+                "pizza_price":[]
+            },
+            "adds":{
+                "adds_list":[],
+                "adds_price":[]
+            },
+            "dessert":{
+                "dessert_list":[],
+                "dessert_price":[]
+            },
+            "drinks":{
+                "alcohol_list":[],
+                "alcohol_price":[],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":[],
+                "non_alcoholic_price":[]
+            }
+        },
+        "popular_food":[],
+        "popular_drink":["cerveza"],
+        "food_especialization":["rapida"],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":false,
+        "blackout_alternatives":false,
+        "entertainment":[],
+        "peak_hour":[],
+        "tourism":true,
+        "pets":false,
+        "bathroom":false,
+        "heated":false
+    }
+}

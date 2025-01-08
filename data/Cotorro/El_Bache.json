@@ -1,0 +1,88 @@
+{
+    "general_info": {
+        "name":"El Bache",
+        "township":"Cotorro",
+        "adress":"Calle 30 entre 95 y 97,Las Brisas",
+        "local":"cafeteria",
+        "open":"1030",
+        "close":"2230",
+        "days_of_week":["lunes","martes","miercoles","jueves","viernes"],
+        "sector":"privado",
+        "capability":30,
+        "social_network":["Facebook","Instagram"],
+        "years":15
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":true,
+        "tips_included":true,
+        "delivery":true
+    },
+    "food": {
+        "menu": {
+            "appetizers":{
+                "appetizers_list":[],
+                "appetizers_price":[]
+            },
+            "garnishes":{
+                "garnishes_list":[],
+                "garnishes_price":[]
+            },
+            "hamburger":{
+                "hamburger_list":[],
+                "hamburger_price":[]
+            },
+            "bread":{
+                "bread_list":[],
+                "bread_price":[]
+            },
+            "main":{
+                "main_list":[],
+                "main_price":[]
+            },
+            "sea_food":{
+                "sea_food_list":[],
+                "sea_food_price":[]
+            },
+            "pasta":{
+                "pasta_list":["lasagna","lasagna de queso gouda","spaghetti con queso gouda","spaghetti"],
+                "pasta_price":[800,1200,900,600]
+            },
+            "pizza":{
+                "pizza_list":["pizza napolitana","pizza doble queso","pizza queso gouda","pizza jamon","pizza chorizo","pizza aceituna","pizza aceituna","pizza atun","pizza cebolla","pizza hawaiana","pizza 4 estaciones"],
+                "pizza_price":[600,800,900,800,800,800,1350,800,1100,1450]
+            },
+            "adds":{
+                "adds_list":["queso","jamon","chorizo","aceituna","atun","cebolla","pinna","gouda"],
+                "adds_price":[300,200,200,200,750,200,300,650]
+            },
+            "dessert":{
+                "dessert_list":[],
+                "dessert_price":[]
+            },
+            "drinks":{
+                "alcohol_list":[],
+                "alcohol_price":[],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":[],
+                "non_alcoholic_price":[]
+            }
+        },
+        "popular_food":["Pizza napolitana"],
+        "popular_drink":["cerveza"],
+        "food_especialization":["italiana"],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":false,
+        "blackout_alternatives":true,
+        "entertainment":[],
+        "peak_hour":["comida"],
+        "tourism":false,
+        "pets":false,
+        "bathroom":true,
+        "heated":false
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "general_info": {
+        "name":"Martinez Club",
+        "township":"Cotorro",
+        "adress":null,
+        "local":"cafeteria",
+        "open":"0900",
+        "close":"2100",
+        "days_of_week":["lunes","martes","miercoles","jueves","viernes","sabado","domingo"],
+        "sector":"privado",
+        "capability":20,
+        "social_network":["Facebook","Instagram"],
+        "years": 0
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":true,
+        "tips_included":true,
+        "delivery":true 
+    },
+    "food": {
+        "menu": {
+            "appetizers":{
+                "appetizers_list":["fritura de malanga","ensalada fria","croquetas","tostones al ajillo"],
+                "appetizers_price":[300,150,300,300]
+            },
+            "garnishes":{
+                "garnishes_list":[],
+                "garnishes_price":[]
+            },
+            "hamburger":{
+                "hamburger_list":["hamburguesa simple","hamburguesa con mayonesa","hamburguesa con jamon","hamburguesa con chorizo","hamburguesa con cebolla","hamburguesa con queso blanco","hamburguesa con queso gouda"],
+                "hamburger_price":[230,280,350,350,330,330,430]
+            },
+            "bread":{
+                "bread_list":["pan con jamon","pan con perro","pan con croqueta"],
+                "bread_price":[250,200,100]
+            },           
+            "main":{
+                "main_list":["pollo chiflado","masa de cerdo frita"],
+                "main_price":[700,1100]
+            },
+            "sea_food":{
+                "sea_food_list":[],
+                "sea_food_price":[]
+            },
+            "pasta":{
+                "pasta_list":["spaghetti con queso blanco","spaghetti con queso gouda"],
+                "pasta_price":[350,500]
+            },
+            "pizza":{
+                "pizza_list":["pizza con queso blanco","pizza con queso gouda","pizza familiar con queso blanco","pizza familiar con queso gouda"],
+                "pizza_price":[200,350,450,650]
+            },
+            "adds":{
+                "adds_list":["jamon","perrito","chorizo","cebolla","queso blanco","queso gouda","pinna"],
+                "adds_price":[120,120,120,100,100,200,100]
+            },
+            "dessert":{
+                "dessert_list":[],
+                "dessert_price":[]
+            },
+            "drinks":{
+                "alcohol_list":[],
+                "alcohol_price":[],
+                "infusions_list":["expresso"],
+                "infusions_price":[20],
+                "non_alcoholic_list":["refresco","jugo","malteada"],
+                "non_alcoholic_price":[20,50,330]
+            }
+        },
+        "popular_food":["pollo frito"],
+        "popular_drink":["cerveza"],
+        "food_especialization":["criolla","rapida"],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":false,
+        "blackout_alternatives":false,
+        "entertainment":[],
+        "peak_hour":["almuerzo","comida"],
+        "tourism":false,
+        "pets":true,
+        "bathroom":false,
+        "heated":false
+    }
+}

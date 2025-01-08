@@ -1,0 +1,88 @@
+{
+    "general_info": {
+        "name":"Buena Vibra",
+        "township": "San Miguel del Padron",
+        "adress":null,
+        "local":"cafeteria",
+        "open":"1200",
+        "close":"2200",
+        "days_of_week":["lunes","martes","miercoles","jueves","viernes","sabado","domingo"],
+        "sector":"privado",
+        "capability":20,
+        "social_network":[],
+        "years": 3
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":true,
+        "tips_included":false,
+        "delivery":false 
+    },
+    "food": {
+        "menu": {
+            "appetizers":{
+                "appetizers_list":["croquetas","fritura de malanga","vianda frita","tostones tradicionales","tostones rellenos"],
+                "appetizers_price":[400,400,300,300,500]
+            },
+            "garnishes":{
+                "garnishes_list":[],
+                "garnishes_price":[]
+            },
+            "hamburger":{
+                "hamburger_list":["hamburguesa de pollo"],
+                "hamburger_price":[300]
+            },
+            "bread":{
+                "bread_list":[],
+                "bread_price":[]
+            },
+            "main":{
+                "main_list":["bistec de pollo","bistec de pollo empanado","higado de cerdo","lomo ahumado","bistec de cerdo","pechuga de pollo"],
+                "main_price":[850,900,800,900,900,900]
+            },
+            "sea_food":{
+                "sea_food_list":[],
+                "sea_food_price":[]
+            },
+            "pasta":{
+                "pasta_list":["spaghetti con queso","spaghetti de jamon"],
+                "pasta_price":[400,550]
+            },
+            "pizza":{
+                "pizza_list":[],
+                "pizza_price":[]
+            },
+            "adds":{
+                "adds_list":[],
+                "adds_price":[]
+            },
+            "dessert":{
+                "dessert_list":[],
+                "dessert_price":[]
+            },
+            "drinks":{
+                "alcohol_list":["tequila reposado","licor crema","pinna colada"],
+                "alcohol_price":[300,200,300],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":[],
+                "non_alcoholic_price":[]
+            }
+        },
+        "popular_food":["bistec de cerdo"],
+        "popular_drink":["cerveza"],
+        "food_especialization":["criolla"],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":false,
+        "blackout_alternatives":false,
+        "entertainment":[],
+        "peak_hour":["comida"],
+        "tourism":false,
+        "pets":false,
+        "bathroom":true,
+        "heated":false
+    }
+}

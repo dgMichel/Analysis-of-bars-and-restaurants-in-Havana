@@ -1,0 +1,411 @@
+{
+    "general_info": {
+        "name": "Atlanta",
+        "township": "Arroyo Naranjo",
+        "adress": "Atlanta #9, entre Calzada de Porvenir y Calzada de 10 de octubre, La Palma, Arroyo Naranjo",
+        "local": "Restaurante",
+        "open": "10:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "",
+        "capability": null,
+        "social_network": [
+            "@cafeatlanta",
+            "https://www.facebook.com/atlantacafe"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": false,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas de la casa",
+                    "ensalada de pollo",
+                    "tostones rellenos",
+                    "frituras de malanga",
+                    "garbanzos fritos",
+                    "eperlan de picar",
+                    "fajitas de pollo",
+                    "ceviche ATLANTA"
+                ],
+                "appetizers_price": [
+                    850,
+                    950,
+                    850,
+                    650,
+                    1200,
+                    1200,
+                    950,
+                    950
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "ensalada mixta",
+                    "arroz congris",
+                    "vianda frita"
+                ],
+                "garnishes_price": [
+                    320,
+                    320,
+                    480,
+                    320
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": ["Cheeseburguer","hamburguesa ATLANTA"],
+                "hamburger_price": [1200,1500]
+            },
+            "bread": {
+                "bread_list": ["sandwich de jamon y queso","sandwich de Media Noche","sandwich Cubano","sandwich de atun"],
+                "bread_price": [850,1650,1650,1300]
+            },
+            "main": {
+                "main_list": [
+                    "tacos ATLANTA",
+                    "arroz frito",
+                    "arroz frito especial",
+                    "paella valenciana",
+                    "paella mixta",
+                    "arroz con pollo a la chorrera",
+                    "bistec de cerdo grille",
+                    "masas de cerdo fritas",
+                    "bistec uruguayo de cerdo",
+                    "pollo frito/asado",
+                    "pechuga de pollo grille",
+                    "pechuga gratinada",
+                    "pechuga princesa",
+                    "Gordon Blue",
+                    "lomo ahumado grille",
+                    "lomo ahumado gratinado c/queso",
+                    "lomo ahumado a la pinna",
+                    "pechugon ATLANTA"
+                ],
+                "main_price": [
+                    1650,
+                    1200,
+                    1400,
+                    1500,
+                    1650,
+                    1500,
+                    1600,
+                    2000,
+                    2500,
+                    1500,
+                    1600,
+                    1850,
+                    2000,
+                    2500,
+                    1850,
+                    2150,
+                    2000,
+                    2650
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado grille",
+                    "filete de pescado con queso",
+                    "filete canciller"
+                ],
+                "sea_food_price": [
+                    1850,
+                    2200,
+                    2500
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghetti Napolitano",
+                    "lasagna de jamon"
+                ],
+                "pasta_price": [
+                    950,
+                    950
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza ATLANTA"
+                ],
+                "pizza_price": [
+                    950,
+                    1800
+                ]
+            },
+            "adds": {
+                "adds_list": [
+                    "queso gouda",
+                    "jamon visking",
+                    "queso Azul",
+                    "lomo ahumado",
+                    "jamon pierna",
+                    "bacon",
+                    "cebolla",
+                    "pinna",
+                    "pimientos",
+                    "aceitunas",
+                    "chorizo criollo",
+                    "atun",
+                    "chorizo vela",
+                    "champinnones",
+                    "jamon serrano",
+                    "queso gouda",
+                    "jamon visking",
+                    "queso Azul",
+                    "lomo ahumado",
+                    "jamon pierna",
+                    "bacon",
+                    "cebolla",
+                    "pinna",
+                    "pimientos",
+                    "aceitunas",
+                    "chorizo criollo",
+                    "atun",
+                    "chorizo vela",
+                    "champinnones",
+                    "jamon serrano",
+                    "queso Parmesano"
+                ],
+                "adds_price": [
+                    250,
+                    250,
+                    650,
+                    450,
+                    450,
+                    650,
+                    200,
+                    200,
+                    200,
+                    450,
+                    250,
+                    650,
+                    650,
+                    650,
+                    920,
+                    250,
+                    250,
+                    650,
+                    450,
+                    450,
+                    650,
+                    200,
+                    200,
+                    200,
+                    450,
+                    250,
+                    650,
+                    650,
+                    650,
+                    920,
+                    820
+                ]
+            },
+            "dessert": {
+                "dessert_list": [
+                    "suero de helado"
+                ],
+                "dessert_price": [
+                    850
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "chelada",
+                    "michelada",
+                    "roncollins",
+                    "calimocho",
+                    "tinto de verano",
+                    "caipiroska",
+                    "caipirinha",
+                    "caipirisima",
+                    "canchanchara",
+                    "pinna colada",
+                    "cubalibre",
+                    "sangria",
+                    "mojito",
+                    "daiquiri",
+                    "cubata",
+                    "cubanito",
+                    "sex on the beach",
+                    "bloody mary",
+                    "gintonic",
+                    "vodkatonic",
+                    "margarita",
+                    "jaggerbull",
+                    "negroni",
+                    "ginebra de la casa",
+                    "ginebra Beefeater",
+                    "ginebra Tanqueray",
+                    "ginebra Gordons",
+                    "tequila silver de la casa",
+                    "tequila reposado de la casa",
+                    "tequila Olmeca silver",
+                    "tequila Olmeca reposado",
+                    "tequila Olmeca dark",
+                    "tequila Patron silver",
+                    "tequila Patron reposado",
+                    "vodka de la casa",
+                    "vodka Absolut",
+                    "vodka Grey Goose",
+                    "whisky de la casa",
+                    "william lawson",
+                    "VAT 69",
+                    "Ballantines",
+                    "Jhonie W. etiqueta roja",
+                    "Jhonie W. etiq. negra",
+                    "Buchanans deluxe",
+                    "Chivas Regal",
+                    "ron h.c. blanco",
+                    "ron h.c. 3 annos",
+                    "ron h.c. reserva",
+                    "ron h.c 7 annos",
+                    "ron santiago c. blanca",
+                    "ron santiago 8 annos",
+                    "ron santiago 11 annos",
+                    "ron santiango 12 annos",
+                    "cerveza Cristal (lata)",
+                    "cerveza Cristal (botella)",
+                    "cerveza Bucanero",
+                    "cerveza Corona",
+                    "cerveza Heineken",
+                    "otras cervezas importadas",
+                    "copa de vino de la casa",
+                    "copa de vino Frontera"
+                ],
+                "alcohol_price": [
+                    200,
+                    250,
+                    600,
+                    600,
+                    700,
+                    700,
+                    700,
+                    700,
+                    600,
+                    700,
+                    650,
+                    700,
+                    700,
+                    700,
+                    800,
+                    800,
+                    800,
+                    800,
+                    900,
+                    900,
+                    900,
+                    1250,
+                    1550,
+                    350,
+                    500,
+                    700,
+                    1000,
+                    700,
+                    750,
+                    750,
+                    800,
+                    800,
+                    1550,
+                    1700,
+                    350,
+                    650,
+                    1550,
+                    400,
+                    500,
+                    500,
+                    650,
+                    700,
+                    1250,
+                    1550,
+                    1200,
+                    350,
+                    400,
+                    500,
+                    550,
+                    500,
+                    1000,
+                    1450,
+                    1550,
+                    350,
+                    400,
+                    350,
+                    550,
+                    500,
+                    300,
+                    420,
+                    500
+                ],
+                "infusions_list": [
+                    "cafe expreso",
+                    "cafe cortado",
+                    "cafe bombon",
+                    "capuccino",
+                    "frapuccino",
+                    "frapuccino con helado"
+                ],
+                "infusions_price": [
+                    250,
+                    320,
+                    400,
+                    450,
+                    500,
+                    880
+                ],
+                "non_alcoholic_list": [
+                    "agua natural",
+                    "refrescos importados",
+                    "jugos naturales",
+                    "batidos de frutas",
+                    "red bull",
+                    "malta Bucanero",
+                    "maltas (otras marcas)"
+                ],
+                "non_alcoholic_price": [
+                    250,
+                    350,
+                    350,
+                    600,
+                    650,
+                    400,
+                    350
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],  
+        "house_especiality": ["pizza ATLANTA","hamburguesa ATLANTA","pechugon ATLANTA","tacos ATLANTA"],
+        "food_especialization": [
+            "cubana",
+            "variada"
+        ]
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "general_info": {
+        "name":"Bar Colina",
+        "township": "San Miguel del Padron",
+        "adress":"esquina b y calzada de guines reparto merceditas",
+        "local":"bar",
+        "open":"1100",
+        "close":"1100",
+        "days_of_week":["lunes","martes","miercoles","jueves","viernes","sabado","domingo"],
+        "sector":"privado",
+        "capability":200,
+        "social_network":["Instagram"],
+        "years": 6
+
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":true,
+        "tips_included":true,
+        "delivery":false
+    },
+    "food": {
+        "menu": {
+            "appetizers":{
+                "appetizers_list":["entremes de jamon y queso","croquetas","frituras de malanga","tostones","tostones rellenos","chicharrita"],
+                "appetizers_price":[600,400,550,400,600,300]
+            },
+            "garnishes":{
+                "garnishes_list":[],
+                "garnishes_price":[]
+            },
+            "hamburger":{
+                "hamburger_list":[],
+                "hamburger_price":[]
+            },
+            "bread":{
+                "bread_list":[],
+                "bread_price":[]
+            },
+            "main":{
+                "main_list":[],
+                "main_price":[]
+            },
+            "sea_food":{
+                "sea_food_list":[],
+                "sea_food_price":[]
+            },
+            "pasta":{
+                "pasta_list":["spaghetti napolitano"],
+                "pasta_price":[550]
+            },
+            "pizza":{
+                "pizza_list":["pizza napolitana grande","pizza napolitana"],
+                "pizza_price":[650,220]
+            },
+            "adds":{
+                "adds_list":["queso","chorizo","jamon","pinna"],
+                "adds_price":[200,300,300,150]
+            },
+            "dessert":{
+                "dessert_list":[],
+                "dessert_price":[]
+            },
+            "drinks":{
+                "alcohol_list":[],
+                "alcohol_price":[],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":[],
+                "non_alcoholic_price":[]
+            }
+        },
+        "popular_food":["tapas"],
+        "popular_drink":["cerveza"],
+        "food_especialization":["italiana"],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":true,
+        "blackout_alternatives":true,
+        "entertainment":[],
+        "peak_hour":["comida"],
+        "tourism":true,
+        "pets":false,
+        "bathroom":true,
+        "heated":true
+    }
+}

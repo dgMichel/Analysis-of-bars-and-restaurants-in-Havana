@@ -1,0 +1,89 @@
+{
+    "general_info": {
+        "name":"Don Omar",
+        "township":"Cotorro",
+        "adress":"Calle 22A % 65 y 63, reparto America, Cotorro",
+        "local":"restaurante",
+        "open":"1100",
+        "close":"1100",
+        "days_of_week":["lunes","martes","miercoles","jueves","viernes","sabado","domingo"],
+        "sector":"privado",
+        "capability":50,
+        "social_network":["Instagram"],
+        "years":14 
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":true,
+        "tips_included":true,
+        "delivery":true 
+    },
+    "food": {
+        "menu": {
+            "appetizers":{
+                "appetizers_list":["picadera Don Omar","ensalada de jamon","ensalada de pollo","eperlan","faja de pollo","faja de cerdo","coctel de camaron","coctel de langosta","entremes surtido","entremes de jamon y queso","tostones de jamon","ensalada de atun","tostones de queso","ensalada de camaron","tostones de jamon y queso","tostones","platano maduro frito","chicharrita de platano","chicharrita de boniato","yuca con mojo","ensalada de estacion","sopa de mariscos","sopa de pollo","sopa de res"],
+                "appetizers_price":[1800,350,400,950,700,850,850,800,650,500,350,350,350,350,800,400,250,250,250,250,250,200,1100,700,900]
+            },
+            "garnishes":{
+                "garnishes_list":["arroz blanco","arroz moro","arroz pilaf"],
+                "garnishes_price":[150,250,300]
+            },
+            "hamburger":{
+                "hamburger_list":[],
+                "hamburger_price":[]
+            },
+            "bread":{
+                "bread_list":[],
+                "bread_price":[]
+            },          
+            "main":{
+                "main_list":["mega grillada del caribe","mar y tierra","Don Omar con lomo","Don Omar con pollo","grillada Don Omar","faja mixta a la criolla","bistec de res uruguayo"," faja de res criolla","bistec de res grille","vaca frita","ropa vieja","pollo parisien","pollo al angel","pollo gordon blue","pollo reina","pollo gratinado con jamon y queso","pollo empanado","pollo ahumado hecho jamon","pollo frito","pollo grille","bistec de pechuga de pollo","lomo hawaiano","bistec de cerdo uruguayo","lomo ahumado","bistec reina","bistec tuna","bistec de cerdo gratinado con jamon y queso","masa de cerdo frita","bistec de cerdo","fricase de cerdo","estofado de cerdo"],
+                "main_price":[4000,3200,2900,2700,2300,2300,1400,1100,1100,1100,1200,1600,950,1100,950,1100,900,900,900,800,1100,1500,1400,1250,1150,1150,1150,1350,1050,1100,1100,1100]
+            },
+            "sea_food":{
+                "sea_food_list":["gran grillada del mar","paella al estilo del chef","cacerola del mar","delicia tropical","tazon mariscos","camaron Hemingway","camaron al ajillo","camaron al vino tinto","camaron empanado","camaron enchilado","camaron grille","enchilado de langosta","langosta al ron","langosta mariposa","ihomville","pescado gratinado con camarones","canciller","pescado gratinado con jamon y queso","pescado gratinado con queso","pescado empanado","pescado grille"],
+                "sea_food_price":[2700,2700,2900,2500,2500,2000,1700,1700,1700,1800,1700,1800,1700,1700,2200,1900,1600,1550,1450,1300,1200]
+            },
+            "pasta":{
+                "pasta_list":["spaghetti mixta","spaghetti con camaron","spaghetti con atun","spaghetti con jamon","spaghetti con chorizo","spaghetti con queso"],
+                "pasta_price":[750,800,500,480,450,400]
+            },
+            "pizza":{
+                "pizza_list":["mixta","hawaiana","atun","camaron","aji","cebolla","chorizo","jamon","queso"],
+                "pizza_price":[950,650,600,900,550,650,600,600,500]
+            },
+            "adds":{
+                "adds_list":["camaron","queso","jamon","chorizo","pinna","atun","cebolla","mayonesa"],
+                "adds_price":[650,300,200,200,150,300,150,150]
+            },
+            "dessert":{
+                "dessert_list":["batido de helado","bolas de helado","postre de la casa","cunna de cake"],
+                "dessert_price":[400,400,500,400]
+            },
+            "drinks":{
+                "alcohol_list":["ron Annejo 7 annos","ron Ritual","ron Reserva","ron Santiago","ron Mulata 15 annos","ron Old Pard","ron Crow Royal","ron Flor de Canna","ron Brugal","ron Santero 7 annos","ron Pacto Navio","ron Seleccion de Maestros","tequila Olmeca reposado","tequila Olmeca blanco","tequila de chocolate","tequila Jose Cuervo","whiskey Jamenson","whiskey Clan Camber","whiskey Ballentine","whiskey chiva Regal 15","whiskey Granst","whiskey WS","whiskey River Queen","whiskey Jack Daniels","whiskey Red Label","whiskey Black Label","whiskey The Glen Livet","whiskey Chanceler","vodka Grey goose","blue love corona","blue love cristal","michelada","chelada","sangria","caipirinna","caipiroska","cuba libre","mojito","gin tonic","pinna colada","cubanito","bloody mary","screwdriver","daiquiri","margarita","vino tinto","vino rosa","vino blanco","cerveza","cerveza Cristal","cerveza Bucanero","cerveza Corona","crema Ruavieja","crema Sheridans"],
+                "alcohol_price":[250,250,250,200,300,350,350,400,400,250,550,550,450,400,400,500,450,350,400,550,300,200,200,550,450,500,500,200,500,1000,900,450,450,400,350,350,350,350,400,400,400,400,350,350,500,450,350,350,260,300,300,400,500,550],
+                "infusions_list":["expresso","cortado"],
+                "infusions_price":[200,250],
+                "non_alcoholic_list":["batido de mango","batido de mamey","jugo de mango","refresco 1500ml","refresco","malta","energizantes","jugo caja","kermato","agua natural","jugo lata","jugo pomo","agua 1000ml","Coca Cola"],
+                "non_alcoholic_price":[400,400,350,550,250,300,300,200,450,160,280,240,200,270]
+            }
+        },
+        "popular_food":["Don Omar"],
+        "popular_drink":["cerveza"],
+        "food_especialization":["criolla","internacional","italiana"],
+        "house_especiality":["Don Omar"]
+        
+    },
+    "social": {
+        "kids_seat":true,
+        "blackout_alternatives":true,
+        "entertainment":["cantantes","bodas","fiestas"],
+        "peak_hour":["comida"],
+        "tourism":true,
+        "pets":false,
+        "bathroom":true,
+        "heated":true
+    }
+}

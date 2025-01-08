@@ -1,0 +1,161 @@
+{
+    "general_info": {
+        "name": "Pizzeria Los Atrevidos",
+        "township": "Arroyo Naranjo",
+        "adress": "Calzada de Bejucal # 2639 e/ Estrella y Camilo Sierra, Arroyo Naranjo",
+        "local": "Cafeteria",
+        "open": "10:00",
+        "close": "21:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            "https://www.facebook.com/pizzerialosatrevidos"
+        ],
+        "years": 0
+    },
+    "economy": {
+        "payment_methods": ["efectivo","transferencia"],
+        "online_reservation": false,
+        "tips_included": false,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "lasagna",
+                    "spaghettis napolitanos",
+                    "spaghettis de parmesano",
+                    "spaghettis de jamon",
+                    "spaghettis de atun",
+                    "spaghettis de chorizo",
+                    "spaghettis de aceituna",
+                    "spaghettis de cebolla",
+                    "spaghettis hawaianos",
+                    "spaghettis 4 quesos",
+                    "spaghettis atrevidos",
+                    "spaghettis bolonnesa"
+                ],
+                "pasta_price": [
+                    1100,
+                    1000,
+                    1200,
+                    1250,
+                    1350,
+                    1250,
+                    1300,
+                    1150,
+                    1300,
+                    1400,
+                    1050,
+                    1450
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza de cebolla",
+                    "pizza de champinnones",
+                    "pizza de pimiento",
+                    "pizza de jamon",
+                    "pizza de aceitunas",
+                    "pizza de chorizo",
+                    "pizza de chorizo vela",
+                    "pizza hawaiana",
+                    "pizza de bacon",
+                    "pizza de atun",
+                    "pizza bolonesa",
+                    "pizza de jamon serrano",
+                    "pizza de camarones",
+                    "pizza 4 quesos",
+                    "pizza atrevida",
+                    "pizza jamon pierna"
+                ],
+                "pizza_price": [
+                    1100,
+                    1250,
+                    1300,
+                    1250,
+                    1350,
+                    1400,
+                    1350,
+                    1150,
+                    1400,
+                    1400,
+                    1500,
+                    1600,
+                    1550,
+                    1650,
+                    1500,
+                    1800,
+                    1500
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "house_especiality": [],
+        "food_especialization": [
+            "Italiana"
+        ]
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

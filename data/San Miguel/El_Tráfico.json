@@ -1,0 +1,88 @@
+{
+    "general_info": {
+        "name":"El Trafico",
+        "township": "San Miguel del Padron",
+        "adress":"Calzada de Guines entre 90 y 94",
+        "local":"restaurante-cafeteria",
+        "open":"1000",
+        "close":"2200",
+        "days_of_week":["lunes","martes","miercoles","jueves","viernes","sabado","domingo"],
+        "sector":"privado",
+        "capability":20,
+        "social_network":["Facebook"],
+        "years": 10
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia","pago en linea"],
+        "online_reservation":true,
+        "tips_included":false,
+        "delivery":false 
+    },
+    "food": {
+        "menu": {
+            "appetizers":{
+                "appetizers_list":[],
+                "appetizers_price":[]
+            },
+            "garnishes":{
+                "garnishes_list":["arroz moro","vianda","ensalada","tamal","papas fritas"],
+                "garnishes_price":[300,150,200,200,600]
+            },
+            "hamburger":{
+                "hamburger_list":[],
+                "hamburger_price":[]
+            },
+            "bread":{
+                "bread_list":[],
+                "bread_price":[]
+            },
+            "main":{
+                "main_list":["bistec de pollo","bistec de cerdo","bistec de res","pechuga de pollo","chuleta de cerdo","masa de cerdo frita","cerdo guisado","lomo ahumado","costilla de cerdo","ropa vieja"],
+                "main_price":[1500,1950,1950,1950,1950,2000,2000,2000,2000,2000,2000]
+            },
+            "sea_food":{
+                "sea_food_list":["filete de merluza"],
+                "sea_food_price":[2000]
+            },
+            "pasta":{
+                "pasta_list":["spaghetti con queso blanco","spaghetti con queso gouda","spaghetti con queso parmesano"],
+                "pasta_price":[400,420,450]
+            },
+            "pizza":{
+                "pizza_list":["pizza de queso blanco","pizza de queso blanco XL","pizza de queso gouda","pizza de queso gouda XL","pizza de queso parmesano","pizza de queso parmesano XL"],
+                "pizza_price":[280,770,320,830,350,850]
+            },
+            "adds":{
+                "adds_list":["queso blanco","queso gouda","queso parmesano","cebolla","pimiento","pinna","camaron","jamon","chorizo","bacon","salchicha","aceituna","atun"],
+                "adds_price":[300,320,350,200,200,200,350,200,200,200,200,300,300]
+            },
+            "dessert":{
+                "dessert_list":[],
+                "dessert_price":[]
+            },
+            "drinks":{
+                "alcohol_list":[],
+                "alcohol_price":[],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":[],
+                "non_alcoholic_price":[]
+            }
+        },
+        "popular_food":["pizza"],
+        "popular_drink":["cerveza","refresco"],
+        "food_especialization":["italiana","criolla"],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":true,
+        "blackout_alternatives":true,
+        "entertainment":[],
+        "peak_hour":["almuerzo"],
+        "tourism":false,
+        "pets":false,
+        "bathroom":true,
+        "heated":false
+    }
+}

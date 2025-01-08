@@ -1,0 +1,88 @@
+{
+    "general_info": {
+        "name":"Don Balbino's",
+        "township": "San Miguel del Padron",
+        "adress":"Calzada San Miguel del Padron entre 8va y B",
+        "local":"bar-cafeteria",
+        "open":"0830",
+        "close":"2300",
+        "days_of_week":["lunes","martes","miercoles","jueves","viernes","sabado","domingo"],
+        "sector":"privado",
+        "capability":50,
+        "social_network":[],
+        "years":32
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia","pago en linea"],
+        "online_reservation":true,
+        "tips_included":true,
+        "delivery":false
+    },
+    "food":{ 
+        "menu":{
+            "appetizers":{
+                "appetizers_list":["bolitas de queso","croquetas especiales de la casa","croquetas del dia","fajitas de pollo","frituras de malanga","masas de cerdo","papas fritas","tabla Don Balbino","tabla de vegetales","tacos de res","tacos de cerdo","tostones rellenos"],
+                "appetizers_price":[950,1200,900,1100,800,1500,850,3000,1400,1500,1400,900]
+            },
+            "garnishes":{
+                "garnishes_list":["arroz blanco","arroz moro","ensalada de vegetales","vegetales salteados","vianda frita","tostones","vianda con mojo","platano maduro frito"],
+                "garnishes_price":[200,300,500,450,300,650,650,500]
+            },
+            "hamburger":{
+                "hamburger_list":["hamburguesa full pork","hamburguesa original beef balbinos","hamburguesa pollo crispy"],
+                "hamburger_price":[800,900,850]
+            },
+            "bread":{
+                "bread_list":["pan con lechon criollo","sandwich balbinos","sandwich de atun","sandwich de pollo","sandwich de jamon y queso","sandwich qbano"],
+                "bread_price":[850,1000,900,850,750,950]
+            },
+            "main":{
+                "main_list":["arroz frito","fabada","pechuga de pollo grille","pollo frito","bistec de cerdo encebollado","cerdo asado","costillas de cerdo","fricase de cerdo a la habanera","lomo ahumado","masa de cerdo frita","bistec de cerdo grille","estofado de res","punta de filete","ropa vieja"],
+                "main_price":[1500,2900,2200,1800,2300,2500,2600,2650,2700,2550,2400,2700,2500,2600]
+            },
+            "sea_food":{
+                "sea_food_list":["camaron grille","enchilado de camaron","enchilado de langosta","langosta grille","filete de pescado grille"],
+                "sea_food_price":[2400,2800,2800,2550,2150]
+            },
+            "pasta":{
+                "pasta_list":["spaghetti napolitano","spaghetti bolognesa","spaghetti Don Balbino"],
+                "pasta_price":[1000,1200,1300]
+            },
+            "pizza":{
+                "pizza_list":["pizza napolitana"],
+                "pizza_price":[1200]
+            },
+            "adds":{
+                "adds_list":["queso gouda","jamon barra","jamon pierna","jamon serrano","bacon","chorizo","salsa bolognesa","atun","ropa vieja","vegetales","aceituna","cebolla","aji pimiento","pinna glaseada","huevos","camarones"],
+                "adds_price":[385,420,440,660,495,330,660,605,660,385,460,365,240,385,275,750]
+            },
+            "dessert":{
+                "dessert_list":["batido de helado","suero de helado"],
+                "dessert_price":[700,930]
+            },
+            "drinks":{
+                "alcohol_list":["cerveza dispensada","cerveza Heineken","cerveza importada","cerveza nacional","chelada","michelada"],
+                "alcohol_price":[400,500,350,350,250,300],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":["agua natural","batido de frutas","jugo natural de frutas","jugo de lata","malta importada","malta Morena","malta nacional","malteada","Redbull","refresco importado","refresco nacional","Tigon","Kermato"],
+                "non_alcoholic_price":[250,550,400,400,400,250,500,300,250,450,500]
+            }
+        },
+        "popular_food":[],
+        "popular_drink":["cerveza","whiskey"],
+        "food_especialization":["criolla","tapas"],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":true,
+        "blackout_alternatives":false,
+        "entertainment":["transmision de eventos deportivos","show de magia"],
+        "peak_hour":["almuerzo","comida"],
+        "tourism":true,
+        "pets":false,
+        "bathroom":true,
+        "heated":true
+    }
+}

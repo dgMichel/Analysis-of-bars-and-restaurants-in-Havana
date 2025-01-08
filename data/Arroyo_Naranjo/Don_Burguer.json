@@ -1,0 +1,218 @@
+{
+    "general_info": {
+        "name": "Don Burguer",
+        "township": "Arroyo Naranjo",
+        "adress": "Calzada de 10 de Octubre, entre  Aranguren y Santa Isabel, La Palma, Arroyo Naranjo",
+        "local": "cafeteria",
+        "open": "10:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            "@donburguercuba",
+            "Don Burguer JJ"
+        ],
+        "years": 0
+    },
+    "economy": {
+        "payment_methods": ["efectivo","transferencia"],
+        "online_reservation": false,
+        "tips_included": false,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "ensalada fria",
+                    "aceitunas (racion)",
+                    "bolitas de queso",
+                    "frituras de malanga",
+                    "croquetas",
+                    "papitas",
+                    "fajitas de pollo",
+                    "entremes surtido",
+                    "brusquetas",
+                    "burritos de jamon y queso"
+                ],
+                "appetizers_price": [
+                    580,
+                    420,
+                    640,
+                    510,
+                    640,
+                    640,
+                    940,
+                    1720,
+                    780,
+                    1260
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa (cerdo)",
+                    "hamburguesa (pollo)",
+                    "hamburguesa (res)",
+                    "doble hamb. (cerdo)",
+                    "doble hamb. (pollo)",
+                    "doble hamb. (res)",
+                    "doble hamburguesa de cerdo(bistec de cerdo y 3 agregos / jamon vicking, queso y chorizo)"
+                ],
+                "hamburger_price": [
+                    740,
+                    740,
+                    860,
+                    1040,
+                    1040,
+                    1480,
+                    2680
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "pan c/ bistec de cerdo",
+                    "pan c/ bistec de pollo",
+                    "pan c/ lechon",
+                    "bocadito de atun",
+                    "sandwich de jamon queso y chorizo",
+                    "sandwich cubano"
+                ],
+                "bread_price": [
+                    840,
+                    810,
+                    890,
+                    840,
+                    890,
+                    1290
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "tacos de vegetales",
+                    "tacos de cerdo",
+                    "tacos de pollo",
+                    "tacos de res"
+                ],
+                "main_price": [
+                    620,
+                    1120,
+                    1120,
+                    1280
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [
+                    "jamon vicking",
+                    "jamon pierna",
+                    "bacon",
+                    "queso",
+                    "chorizo",
+                    "huevo",
+                    "cebolla",
+                    "tomate",
+                    "lechuga",
+                    "pepinillo encurtido",
+                    "pinna glaseada"
+                ],
+                "adds_price": [
+                    120,
+                    190,
+                    190,
+                    150,
+                    120,
+                    190,
+                    60,
+                    60,
+                    30,
+                    30,
+                    80
+                ]
+            },
+            "dessert": {
+                "dessert_list": [
+                    "3 gracias",
+                    "ensalada",
+                    "suero de helado",
+                    "casquitos de guayaba",
+                    "flan",
+                    "dulce de coco",
+                    "torrejas",
+                    "dulce de fruta bomba"
+                ],
+                "dessert_price": [
+                    740,
+                    1080,
+                    840,
+                    560,
+                    560,
+                    460,
+                    680,
+                    460
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "agua",
+                    "refresco",
+                    "batido de frutas",
+                    "limonada frape",
+                    "limonada con hierba buena",
+                    "malta"
+                ],
+                "non_alcoholic_price": [
+                    150,
+                    240,
+                    390,
+                    380,
+                    460,
+                    400
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "house_especiality": [],
+        "food_especialization": [
+            "comida rapida"
+        ]
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

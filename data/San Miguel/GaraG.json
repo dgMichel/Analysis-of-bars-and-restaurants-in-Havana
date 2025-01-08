@@ -1,0 +1,88 @@
+{
+    "general_info": {
+        "name":"GaraG",
+        "township": "San Miguel del Padron",
+        "adress":"Calzada de Guanabacoa entre B y C",
+        "local":"bar-restaurante",
+        "open":"1200",
+        "close":"1200",
+        "days_of_week":["lunes","martes","miercoles","jueves","viernes","sabado","domingo"],
+        "sector":"privado",
+        "capability":50,
+        "social_network":["Instagram"],
+        "years":5
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":false,
+        "tips_included":false,
+        "delivery":false 
+    },
+    "food": {
+        "menu": {
+            "appetizers":{
+                "appetizers_list":["picadera GaraG","toston Alfredo","eperlan","fajitas de pollo","fajitas de cerdo","croquetas de Mima","ceviche","tacos de carne","tacos marineros","ensalada fria","coctel de camaron"],
+                "appetizers_price":[3500,750,1650,1225,1550,750,900,1205,1295,750,1250]
+            },
+            "garnishes":{
+                "garnishes_list":["ensalada estacion","vegetales salteados"],
+                "garnishes_price":[350,350]
+            },
+            "hamburger":{
+                "hamburger_list":[],
+                "hamburger_price":[]
+            },
+            "bread":{
+                "bread_list":[],
+                "bread_price":[]
+            },
+            "main":{
+                "main_list":["pollo frito","bistec de pollo grille","pollo empanado","pollo gordon blue","aporreado de res","ropa vieja","arroz frito especial","arroz frito"],
+                "main_price":[1350,1350,1450,1925,1950,1930,1350,1200]
+            },
+            "sea_food":{
+                "sea_food_list":["filete de pescado grille","filete de pescado empanado","filete de pescado GaraG","pescado canciller","filete Alfredo","masa de pescado al ajillo","pargo frito","camaron al ajillo","camaron grille","enchilado de camaron","camaron empanado","bistec de cerdo encebollado","bistec de cerdo grille","bistec de cerdo empanado","bistec de cerdo uruguayo","masa de cerdo frita","cerdo asado"],
+                "sea_food_price":[1920,1980,2225,2150,2195,1920,2150,2300,2105,2230,2290,1950,1700,1750,1955,2200,2150]
+            },
+            "pasta":{
+                "pasta_list":["spaghetti napolitano"],
+                "pasta_price":[930]
+            },
+            "pizza":{
+                "pizza_list":["pizza napolitana","pizza antihawaiana","pizza lechoncito","pizza 5 quesos"],
+                "pizza_price":[930,1555,1595,1650]
+            },
+            "adds":{
+                "adds_list":["4 quesos","jamon","aceituna","pinna","chorizo","cebolla","atun"],
+                "adds_price":[800,300,290,250,395,250,350]
+            },
+            "dessert":{
+                "dessert_list":["copa de helado","copa lolita","cake a la moda","batido de helado"],
+                "dessert_price":[400,650,850,750]
+            },
+            "drinks":{
+                "alcohol_list":[],
+                "alcohol_price":[],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":[],
+                "non_alcoholic_price":[]
+            }
+        },
+        "popular_food":["pizza"],
+        "popular_drink":["cerveza","malta"],
+        "food_especialization":["italiana"],
+        "house_especiality":["pizza 5 quesos","pizza lechoncito","pizza antihawaiana","filete alfredo"]
+    },
+    "social": {
+        "kids_seat":true,
+        "blackout_alternatives":false,
+        "entertainment":[],
+        "peak_hour":["almuerzo","comida"],
+        "tourism":true,
+        "pets":false,
+        "bathroom":true,
+        "heated":true
+    }
+}

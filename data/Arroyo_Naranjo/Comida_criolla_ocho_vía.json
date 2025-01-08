@@ -1,0 +1,156 @@
+{
+    "general_info": {
+        "name": "Comida Criolla Ocho Vias",
+        "township": "Arroyo Naranjo",
+        "adress": "Avenida 1er Anillo 3km despues de San Agustin, Arroyo Naranjo",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+        ],
+        "years": 0
+    },
+    "economy": {
+        "payment_methods": ["efectivo","transferencia"],
+        "online_reservation": true,
+        "tips_included": false,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "Croquetas de queso",
+                    "Tostones Rellenos",
+                    "Tostones Tradicionales",
+                    "Papas Fritas",
+                    "Platanos Fritos"
+                ],
+                "appetizers_price": [
+                    500,
+                    800,
+                    250,
+                    800,
+                    200
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "Arroz Moro",
+                    "Ensalada Mixta"
+                ],
+                "garnishes_price": [
+                    200,
+                    300
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "Bistec de Higado(460 gramos)",
+                    "Higado Italiana(460 gramos)",
+                    "Bistec de Cerdo(460 gramos)",
+                    "Chuleta de Cerdo(460 gramos)",
+                    "Fricase de Cerdo(430 gramos)",
+                    "Masa Frita(430 gramos)",
+                    "Bistec de Pollo",
+                    "Pechuga de Pollo",
+                    "Costilla Frita o Fricase",
+                    "Fricase de Carnero(960 gramos)",
+                    "Bistec Uruguayo)",
+                    "Ropa Vieja(460 gramos)"
+                ],
+                "main_price": [
+                    1600,
+                    1600,
+                    2200,
+                    2200,
+                    2500,
+                    2200,
+                    2000,
+                    2500,
+                    2200,
+                    2200,
+                    2800,
+                    2700
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "Pescado Entero a la Marinera",
+                    "Camaron Enchilado",
+                    "Langosta Grille(690 gramos)",
+                    "Langosta Enchilada(690 gramos)",
+                    "Pescado Empanado",
+                    "Enchilado de Cangrejo"
+                ],
+                "sea_food_price": [
+                    2200,
+                    2700,
+                    2700,
+                    2800,
+                    2500,
+                    1800
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "house_especiality": [],
+        "food_especialization": [
+            "cubana"
+        ]
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "general_info": {
+        "name": "El Triangulo",
+        "township": "Arroyo Naranjo",
+        "adress": "Esquina Calzada de 10 de octubre y Calzada de Porvenir, La Palma, Arroyo Naranjo",
+        "local": "Cafeteria",
+        "open": "08:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": 0
+    },
+    "economy": {
+        "payment_methods": ["efectivo","transferencia"],
+        "online_reservation": false,
+        "tips_included": false,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "fajitas de pollo",
+                    "croquetas",
+                    "bolitas de queso",
+                    "tostones"
+                ],
+                "appetizers_price": [
+                    350,
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo frito"
+                ],
+                "main_price": [
+                    1000
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza cristal",
+                    "cerveza bucanero",
+                    "cerveza escorial",
+                    "cerveza holanda"
+                ],
+                "alcohol_price": [
+                    250,
+                    250,
+                    200,
+                    200
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "agua",
+                    "refresco",
+                    "jugo de caja",
+                    "red bull",
+                    "malta"
+                ],
+                "non_alcoholic_price": [
+                    120,
+                    220,
+                    180,
+                    230,
+                    220
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "house_especiality": [],
+        "food_especialization": [
+            "cubana"
+        ]
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

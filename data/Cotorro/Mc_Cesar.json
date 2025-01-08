@@ -1,0 +1,88 @@
+{
+    "general_info": {
+        "name":"Mc Cesar",
+        "township":"Cotorro",
+        "adress":"calle primer entre 220 y 221, Cotorro",
+        "local":"cafeteria",
+        "open":"1130",
+        "close":"1100",
+        "days_of_week":["martes","miercoles","jueves","viernes","sabado","domingo"],
+        "sector":"privado",
+        "capability":80,
+        "social_network":[],
+        "years": null
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":true,
+        "tips_included":false,
+        "delivery":false
+    },
+    "food": {
+        "menu": {
+            "appetizers":{
+                "appetizers_list":["dados jamon y queso","eperlan","tostones rellenos", "tostones criollos", "croquetas de la casa", "picadera Mc Cesar","papas fritas","fritura de malanga"],
+                "appetizers_price":[1000,1300,600,350,500,2500,600,400]
+            },
+            "garnishes":{
+                "garnishes_list":["arroz Mc Cesar","arroz a la campesina","arroz moro","arroz blanco","arroz frito"],
+                "garnishes_price":[1500,1500,300,200,500]
+            },
+            "hamburger":{
+                "hamburger_list":["hamburguesa de cerdo"],
+                "hamburger_price":[500]
+            },
+            "bread":{
+                "bread_list":["pan con atun","pan con jamon y queso","pan con pechuga","pan con bistec"],
+                "bread_price":[600,500,500,500]
+            },         
+            "main":{
+                "main_list":["garbanzo frito","higado de cerdo a la italiana","cerdo salteado de vegeteales","bistec uruguayo","brocheta de cerdo y pollo","bistec de cerdo grille","faja de cerdo","escalope de cerdo","solomillo de cerdo","lomo ahumado deshuesado","pechuga de pollo grille","salteado de pollo","pollo deshuesado","pollo gordon blue","suprema de pollo princesa","ropa vieja","vaca frita","bistec de res","churrasco de cerdo","churrasco de res"],
+                "main_price":[1000,1000,1500,1500,1700,1300,1400,1400,2000,1300,1300,1400,900,1500,1500,1800,1800,2000,2000,3000]
+            },
+            "sea_food":{
+                "sea_food_list":["langosta enchilada","langosta al ajillo","langosta mariposa","pescado grille","pescado Mc Cesar","canciller de pescado","pescado empanado","pescado con salsa de limon","camaron grille","camaron al ajillo","camaron enchilado"],
+                "sea_food_price":[2000,2000,2300,1500,2500,1800,1600,1700,1900,1900,2000]
+            },
+            "pasta":{
+                "pasta_list":["spaghetti"],
+                "pasta_price":[500]
+            },
+            "pizza":{
+                "pizza_list":["pizza"],
+                "pizza_price":[500]
+            },
+            "adds":{
+                "adds_list":["atun","cebolla","pimiento","queso","jamon","pinna","chorizo"],
+                "adds_price":[400.250,300,300,200,200,200]
+            },
+            "dessert":{
+                "dessert_list":["torrejas","ensalada de helado","bola de helado","batido de helado"],
+                "dessert_price":[250,500,100,500]
+            },
+            "drinks":{
+                "alcohol_list":[],
+                "alcohol_price":[],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":[],
+                "non_alcoholic_price":[]
+            }
+        },
+        "popular_food":["hamburguesas"],
+        "popular_drink":["cerveza"],
+        "food_especialization":["criolla","italiana","tapas"],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":false,
+        "blackout_alternatives":true,
+        "entertainment":"show humorista,cantantes",
+        "peak_hour":["almuerzo","comida"],
+        "tourism":true,
+        "pets":false,
+        "bathroom":true,
+        "heated":true
+    }
+}

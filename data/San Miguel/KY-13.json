@@ -1,0 +1,89 @@
+{
+    "general_info": {
+        "name":"KY-13",
+        "township": "San Miguel del Padron",
+        "adress":"calzada de guines #45 e/ 13 y 23 AMP. San Matias",
+        "local":"restaurante-cafeteria",
+        "open":"1000",
+        "close":"2300",
+        "days_of_week":["lunes","martes","miercoles","jueves","viernes","sabado","domingo"],
+        "sector":"privado",
+        "capability":24,
+        "social_network":["Facebook","Instagram"],
+        "years": 11
+
+        
+    },
+    "economy": {
+        "payment_methods":["transferencia","efectivo"],
+        "online_reservation":true,
+        "tips_included":false,
+        "delivery":true 
+    },
+    "food": {
+        "menu": {
+            "appetizers":{
+                "appetizers_list":["croquetas de queso","frituras de malanga","tostones rellenos","eperlan","dedos de pollo","coctel de camaron","camaron rebozado","crema de queso","crema aurora","crema virginia","crema de camaron","surtido KY13"],
+                "appetizers_price":[600,600,700,1300,1000,1300,1200,850,550,800,900,4000]
+            },
+            "garnishes":{
+                "garnishes_list":["arroz blanco","arroz moro","vianda frita","ensalada mixta"],
+                "garnishes_price":[300,480,700,700]
+            },
+            "hamburger":{
+                "hamburger_list":["hamburguesa sencilla","hamburguesa KY13"],
+                "hamburger_price":[1400,2950]
+            },
+            "bread":{
+                "bread_list":["sandwich sencillo","sandwich lomo ahumado","sandwich especial","sandwich de atun"],
+                "bread_price":[1250,1250,2100,1150]
+            },
+            "main":{
+                "main_list":["bistec de cerdo grille","bistec de cerdo empanado","uruguayo de cerdo","pechuga de pollo grille","pechuga de pollo gratinada","pollo gordon blue","pollo frito o asado","ropa vieja de res","picadillo a la habanera","chuleta de cerdo","lomo ahumado","costilla de cerdo frita","masa de cerdo frita","bistec de pollo","arroz frito"],
+                "main_price":[2350,2700,3500,2400,2800,3650,2000,2800,2700,2600,2500,2300,3800,2200,2800]
+            },
+            "sea_food":{
+                "sea_food_list":["filete de pescado grille","filete de pescado empanado","filete de pescado gratinado","pescado montetoro","pescado canciller","camaron grille","enchilado de camaron","camaron al ajillo","langosta grille","langosta enchilada"],
+                "sea_food_price":[3000,3300,3500,3800,4250,2600,2800,2700,2700,2800]
+            },
+            "pasta":{
+                "pasta_list":["spaghetti de queso","lasagna de jamon","spaghetti a la carbonara"],
+                "pasta_price":[1300,1800,2000]
+            },
+            "pizza":{
+                "pizza_list":["pizza de queso","pizza familiar de queso"],
+                "pizza_price":[1200,3350]
+            },
+            "adds":{
+                "adds_list":["queso gouda sencilla","queso goud familiar","jamon sencilla","jamon familiar","vegetales sencilla","vegetales familiar","chorizo sencilla","chorizo familiar","aceituna sencilla","aceituna familiar","pinna sencilla","pinna familiar","jamon pierna sencilla","jamon pierna familiar","camaron sencilla","camaron familiar","atun sencilla","atun familiar"],
+                "adds_price":[560,1400,620,1550,500,1250,450,825,600,1500,300,750,700,1750,800,2000,790,1975]
+            },
+            "dessert":{
+                "dessert_list":[],
+                "dessert_price":[]
+            },
+            "drinks":{
+                "alcohol_list":[],
+                "alcohol_price":[],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":[],
+                "non_alcoholic_price":[]
+            }
+        },
+        "popular_food":["pizza"],
+        "popular_drink":["cerveza"],
+        "food_especialization":["criolla","italiana"],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":false,
+        "blackout_alternatives":false,
+        "entertainment":[],
+        "peak_hour":["comida"],
+        "tourism":true,
+        "pets":false,
+        "bathroom":true,
+        "heated":false
+    }
+}

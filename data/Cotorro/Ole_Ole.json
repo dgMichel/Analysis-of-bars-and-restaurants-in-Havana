@@ -1,0 +1,88 @@
+{
+    "general_info": {
+        "name":"Ole Ole",
+        "township":"Cotorro",
+        "adress":"71 esquina 46 y 48, Loteria, Cotorro",
+        "local":"bar-restaurante",
+        "open":"0900",
+        "close":"0000",
+        "days_of_week":["lunes","martes","miercoles","jueves","sabado","domingo"],
+        "sector":"privado",
+        "capability":60,
+        "social_network":["@oleole_Oficial","oleole_Oficial"],
+        "years":
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":true,
+        "tips_included":false,
+        "delivery":false 
+    },
+    "food": {
+        "menu": {
+            "appetizers":{
+                "appetizers_list":["Tacos de Res", "Tacos de cerdo","Frituras de malanga","Chicharritas","Picadera","Brocheta Ole","Croquetas Ole Ole","Tostones Tradicionales","Ensalada Mixta","Tostones Atun","Eperlan","Coctel de Camarones","Baston de Pollo","Entremes","Picadera Premium"],
+                "appetizers_price":[750,750,450,320,1500,1200,500,450,350,1000,1000,1350,900,1000,1800]
+            },
+            "garnishes":{
+                "garnishes_list":["Arroz Blanco","Arroz Moro"],
+                "garnishes_price":[120,220]
+            },
+            "hamburger":{
+                "hamburger_list":[],
+                "hamburger_price":[]
+            },
+            "bread":{
+                "bread_list":[],
+                "bread_price":[]
+            },
+            "main":{
+                "main_list":[],
+                "main_price":[]
+            },
+            "sea_food":{
+                "sea_food_list":[],
+                "sea_food_price":[]
+            },
+            "pasta":{
+                "pasta_list":[],
+                "pasta_price":[]
+            },
+            "pizza":{
+                "pizza_list":["Pizza Napolitana Gouda", "Pizza Jamon Gouda","Pizza Chorizos Gouda"],
+                "pizza_price":[]
+            },
+            "adds":{
+                "adds_list":[],
+                "adds_price":[]
+            },
+            "dessert":{
+                "dessert_list":[],
+                "dessert_price":[]
+            },
+            "drinks":{
+                "alcohol_list":[],
+                "alcohol_price":[],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":[],
+                "non_alcoholic_price":[]
+            }
+        },
+        "popular_food":[],
+        "popular_drink":[],
+        "food_especialization":["criolla"],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":,
+        "blackout_alternatives":true,
+        "entertainment":[],
+        "peak_hour":[],
+        "tourism":,
+        "pets":,
+        "bathroom":,
+        "heated":
+    }
+}

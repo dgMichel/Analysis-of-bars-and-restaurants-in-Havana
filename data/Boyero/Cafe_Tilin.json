@@ -1,0 +1,330 @@
+{
+    "general_info": {
+        "name": "Cafe Tilin",
+        "township": "Boyero",
+        "adress": "Avenida Independencia Km 9 1/2, Fontanar",
+        "local": "",
+        "open": "",
+        "close": "",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            "https://www.instagram.com/cafe_tilin_fontanar/",
+            "https://www.facebook.com/p/Caf%C3%A9-Til%C3%ADn-Fontanar-100091993113611/?_rdr"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": true,
+        "tips_included": false,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas de la casa",
+                    "tostones rellenos de jamon y queso",
+                    "tostones rellenos de atun",
+                    "tostones rellenos de ropa vieja",
+                    "frituras de malanga",
+                    "fajitas de pollo",
+                    "fajitas de cerdo",
+                    "picadera tilin"
+                ],
+                "appetizers_price": [
+                    850,
+                    950,
+                    950,
+                    950,
+                    850,
+                    950,
+                    950,
+                    2500
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz frito",
+                    "arroz moro",
+                    "arroz blanco",
+                    "crema de malanga",
+                    "ensalada mixta",
+                    "viandas fritas",
+                    "papas fritas"
+                ],
+                "garnishes_price": [
+                    1500,
+                    350,
+                    250,
+                    800,
+                    750,
+                    650,
+                    750
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa clasica",
+                    "hamburguesa bar",
+                    "hamburguesa mexicana",
+                    "hamburguesa tilin",
+                    "combo americano",
+                    "hamburguesa la cubana",
+                    "hamburguesa super clasica"
+                ],
+                "hamburger_price": [
+                    1100,
+                    1300,
+                    1750,
+                    2000,
+                    1750,
+                    1800,
+                    1750
+                ]
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "bistec de cerdo encebollado",
+                    "bistec de cerdo grille",
+                    "masas de cerdo",
+                    "escalope de cerdo",
+                    "ropa vieja de cerdo",
+                    "suprema de pollo",
+                    "fajitas de pollo salteadas con vegetales",
+                    "pollo frito",
+                    "brochetas mixtas al carbon",
+                    "gordon bleu",
+                    "bistec uruguayo",
+                    "milanesa a la napolitana"
+                ],
+                "main_price": [
+                    1850,
+                    1600,
+                    1850,
+                    1950,
+                    1700,
+                    1850,
+                    1750,
+                    1450,
+                    2500,
+                    3050,
+                    3250,
+                    3300
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghetti napolitano",
+                    "spaghetti de jamon"
+                ],
+                "pasta_price": [
+                    1300,
+                    1700
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza de chorizo",
+                    "pizza de atun",
+                    "pizza hawaiana",
+                    "pizza tilin",
+                    "pizza de jamon",
+                    "pizza de cebolla",
+                    "pizza napolitana de 21cm"
+                ],
+                "pizza_price": [
+                    1300,
+                    1700,
+                    1700,
+                    1950,
+                    2500,
+                    1700,
+                    1500,
+                    500
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "postre del dia",
+                    "tarta helada",
+                    "flan de caramelo",
+                    "copa de helado",
+                    "copa lolita"
+                ],
+                "dessert_price": [
+                    500,
+                    950,
+                    350,
+                    450,
+                    650
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "Cerveza Nacional",
+                    "Pinna Colada",
+                    "Michelada",
+                    "Chelada",
+                    "Cubanito",
+                    "Mojito",
+                    "Mojito de Fruta",
+                    "Daiquiri",
+                    "Daiquiri de Fruta",
+                    "Caipirinna",
+                    "Caipiroska",
+                    "Caipirisima",
+                    "Bloody Mary",
+                    "Screwdriver",
+                    "Cubalibre",
+                    "Sangria",
+                    "Tequila",
+                    "Margarita",
+                    "Blue Lagon",
+                    "Coctel de La Casa \"Un Tilin\"",
+                    "Copa de Vino Frontera",
+                    "Copa de Vino Casillero del Diablo",
+                    "Linea Chanceler",
+                    "Linea Jaggermeister",
+                    "Linea Red Label",
+                    "Linea Ballentines Finest",
+                    "Linea Ballentines 10 Annos",
+                    "Linea Chivas Regal 12 Annos",
+                    "Linea Jack Daniels",
+                    "Botella de Vino Frontera",
+                    "Botella de Vino Casillero del Diablo"
+                ],
+                "alcohol_price": [
+                    400,
+                    950,
+                    750,
+                    650,
+                    800,
+                    500,
+                    750,
+                    500,
+                    750,
+                    500,
+                    650,
+                    600,
+                    900,
+                    700,
+                    550,
+                    850,
+                    900,
+                    1250,
+                    800,
+                    1500,
+                    900,
+                    1200,
+                    250,
+                    1000,
+                    1200,
+                    1200,
+                    1500,
+                    1800,
+                    2500,
+                    4500,
+                    8000
+                ],
+                "infusions_list": [
+                    "Cafe Expresso",
+                    "Cafe Americano",
+                    "Cafe Cortado",
+                    "Cafe Cappuccino",
+                    "Frapuchino",
+                    "Cafe Tilin",
+                    "Cafe Tolon"
+                ],
+                "infusions_price": [
+                    [
+                        "Cafe Expresso"
+                    ],
+                    [
+                        "Cafe Americano"
+                    ],
+                    [
+                        "Cafe Cortado"
+                    ],
+                    [
+                        "Cafe Cappuccino"
+                    ],
+                    [
+                        "Frapuchino"
+                    ],
+                    [
+                        "Cafe Tilin"
+                    ],
+                    [
+                        "Cafe Tolon"
+                    ]
+                ],
+                "non_alcoholic_list": [
+                    "Jugo de Frutas",
+                    "Suero de Helado",
+                    "Agua Natural Nacional",
+                    "Agua Natural Importada",
+                    "Refresco Importado",
+                    "Energizante",
+                    "Malta Importada",
+                    "Limonada Frappe",
+                    "San Francisco"
+                ],
+                "non_alcoholic_price": [
+                    500,
+                    850,
+                    250,
+                    300,
+                    300,
+                    350,
+                    350,
+                    450,
+                    750
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "music",
+            "eventos especiales",
+            "artistas invitados"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

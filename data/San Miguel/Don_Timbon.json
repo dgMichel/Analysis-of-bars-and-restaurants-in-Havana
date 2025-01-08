@@ -1,0 +1,89 @@
+{
+    "general_info": {
+        "name":"Don Timbon",
+        "township": "San Miguel del Padron",
+        "adress":null,
+        "local":"cafeteria",
+        "open":"0900",
+        "close":"2200",
+        "days_of_week":["lunes","martes","miercoles","jueves","viernes","sabado","domingo"],
+        "sector":"privado",
+        "capability":12,
+        "social_network":[],
+        "years": 6
+
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":false,
+        "tips_included":false,
+        "delivery":false 
+    },
+    "food": {
+        "menu": {
+            "appetizers":{
+                "appetizers_list":[],
+                "appetizers_price":[]
+            },
+            "garnishes":{
+                "garnishes_list":[],
+                "garnishes_price":[]
+            },
+            "hamburger":{
+                "hamburger_list":["hamburguesa sencilla"],
+                "hamburger_price":[350]
+            },
+            "bread":{
+                "bread_list":["pan con bistec"],
+                "bread_price":[550]
+            },
+            "main":{
+                "main_list":["arroz salteado"],
+                "main_price":[500]
+            },
+            "sea_food":{
+                "sea_food_list":[],
+                "sea_food_price":[]
+            },
+            "pasta":{
+                "pasta_list":["lasagna","spaghetti"],
+                "pasta_price":[550,300]
+            },
+            "pizza":{
+                "pizza_list":["pizza napolitana"],
+                "pizza_price":[160]
+            },
+            "adds":{
+                "adds_list":["jamon","chorizo","atun"],
+                "adds_price":[80,100,100]
+            },
+            "dessert":{
+                "dessert_list":[],
+                "dessert_price":[]
+            },
+            "drinks":{
+                "alcohol_list":[],
+                "alcohol_price":[],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":[],
+                "non_alcoholic_price":[]
+            }
+        },
+        "popular_food":["pizza"],
+        "popular_drink":["cerveza"],
+        "food_especialization":["criolla","italiana"],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":false,
+        "blackout_alternatives":false,
+        "entertainment":[],
+        "peak_hour":["almuerzo"],
+        "tourism":false,
+        "pets":true,
+        "bathroom":true,
+        "heated":false
+    }
+}

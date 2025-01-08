@@ -1,0 +1,88 @@
+{
+    "general_info": {
+        "name":"",
+        "township":"",
+        "adress":"",
+        "local":"",
+        "open":"",
+        "close":"",
+        "days_of_week":[],
+        "sector":"",
+        "capability":null,
+        "social_network":[],
+        "years":null
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":null,
+        "tips_included":null,
+        "delivery":null
+    },
+    "food": {
+        "menu": {
+            "appetizers":{
+                "appetizers_list":[],
+                "appetizers_price":[]
+            },
+            "garnishes":{
+                "garnishes_list":[],
+                "garnishes_price":[]
+            },
+            "hamburger":{
+                "hamburger_list":[],
+                "hamburger_price":[]
+            },
+            "bread":{
+                "bread_list":[],
+                "bread_price":[]
+            },
+            "main":{
+                "main_list":[],
+                "main_price":[]
+            },
+            "sea_food":{
+                "sea_food_list":[],
+                "sea_food_price":[]
+            },
+            "pasta":{
+                "pasta_list":[],
+                "pasta_price":[]
+            },
+            "pizza":{
+                "pizza_list":[],
+                "pizza_price":[]
+            },
+            "adds":{
+                "adds_list":[],
+                "adds_price":[]
+            },
+            "dessert":{
+                "dessert_list":[],
+                "dessert_price":[]
+            },
+            "drinks":{
+                "alcohol_list":[],
+                "alcohol_price":[],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":[],
+                "non_alcoholic_price":[]
+            }
+        },
+        "popular_food":[],
+        "popular_drink":[],
+        "food_especialization":[],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":null,
+        "blackout_alternatives":null,
+        "entertainment":[],
+        "peak_hour":[],
+        "tourism":null,
+        "pets":null,
+        "bathroom":null,
+        "heated":null
+    }
+}

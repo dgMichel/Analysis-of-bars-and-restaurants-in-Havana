@@ -1,0 +1,168 @@
+{
+    "general_info": {
+        "name": "Casa del Maiz",
+        "township": "Arroyo Naranjo",
+        "adress": "Avenida 1er anillo % Calzada de Managua y San Agustin, Arroyo Naranjo",
+        "local": "restaurante",
+        "open": "10:00",
+        "close": "20:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            "https://m.facebook.com/lacasadelmaizcuba/"
+        ],
+        "years": 0
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": true,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "Fritura de Malte",
+                    "Fritura de Malanga",
+                    "Toston Relleno",
+                    "Chicharron",
+                    "Garbanzos",
+                    "Cubito de Maiz",
+                    "Garbanzos Fritos"
+                ],
+                "appetizers_price": [
+                    350,
+                    450,
+                    450,
+                    500,
+                    550,
+                    1070,
+                    450
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "Arroz Salteado",
+                    "Arroz Moro",
+                    "Arroz Blanco",
+                    "Tamal Especial",
+                    "Toston Criollo",
+                    "Ensalada Mixta",
+                    "Aji Relleno",
+                    "Malanga Hervida",
+                    "Pure de Boniato",
+                    "Platano Maduro Frito",
+                    "Yuca con Mojo",
+                    "Fufu de Platano"
+                ],
+                "garnishes_price": [
+                    530,
+                    250,
+                    180,
+                    90,
+                    450,
+                    450,
+                    650,
+                    425,
+                    250,
+                    400,
+                    250,
+                    300
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "Fricase de Cerdo",
+                    "Bistec de Cerdo",
+                    "Lomo Ahumado",
+                    "Costilla Ahumada",
+                    "Fajitas de Cerdo",
+                    "Fajita de Pollo",
+                    "Alitas de Pollo",
+                    "Pollo en Cazuela",
+                    "Pechuga de Pollo",
+                    "ropa vieja",
+                    "chilindron de carnero"
+                ],
+                "main_price": [
+                    1150,
+                    1250,
+                    1450,
+                    1450,
+                    1150,
+                    1150,
+                    1050,
+                    1050,
+                    1650,
+                    1420,
+                    1420
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": ["filete de Pescado","eperlan"],
+                "sea_food_price": [1480,1280]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": ["Helado Pote de 1lt","Helado Pote Pequenno","Arroz con Leche"],
+                "dessert_price": [850,490,200]
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "house_especiality": [],
+        "food_especialization": [
+            "cubana"
+        ]
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}
