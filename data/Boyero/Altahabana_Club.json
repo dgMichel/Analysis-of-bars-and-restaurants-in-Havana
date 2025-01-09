@@ -1,0 +1,383 @@
+{
+    "general_info": {
+        "name": "Altahabana_Club",
+        "township": "Boyeros",
+        "adress": "Calle D, esq. a 10, Altabana",
+        "local": "bar",
+        "open": "14:00",
+        "close": "02:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            "https://www.facebook.com/profile.php?id=100064025082729"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": false,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "frituras de malanga",
+                    "papas fritas",
+                    "croquetas de pollo",
+                    "bolitas de queso",
+                    "alitas de pollo",
+                    "entremes de (jamon, queso, aceituna y chorizo)",
+                    "fajitas de pollo",
+                    "eperlan de pescado",
+                    "coctel de camaron",
+                    "tabla chorizos parrillero",
+                    "picadera altahabana (jamon vicky y serrano, queso, aceituna, chorizo, croquetas, bolitas de queso, frituras de malanga)"
+                ],
+                "appetizers_price": [
+                    400,
+                    550,
+                    550,
+                    650,
+                    750,
+                    950,
+                    950,
+                    1150,
+                    1450,
+                    1800,
+                    3500
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "arroz moro",
+                    "vianda frita",
+                    "ensalada de vegetales"
+                ],
+                "garnishes_price": [
+                    250,
+                    350,
+                    400,
+                    500
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa clasica",
+                    "hamburguesa c/ queso",
+                    "hamburguesa c/ jamon",
+                    "hamburguesa c/ bacon",
+                    "hamburguesa altahabana (chorizo, jamon vicky, queso, jamon pierna)"
+                ],
+                "hamburger_price": [
+                    900,
+                    980,
+                    1080,
+                    1080,
+                    1500
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "media noche",
+                    "sandwich de jamon y queso",
+                    "sandwich altahabana (jamon, queso blanco y gouda,chorizo, jamon pierna)"
+                ],
+                "bread_price": [
+                    700,
+                    800,
+                    1350
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pollo asado",
+                    "pollo frito pio pio",
+                    "pollo grille",
+                    "pollo a la gordon blue",
+                    "masas de cerdo frita",
+                    "bistec de cerdo",
+                    "bistec uruguayo",
+                    "vaca frita",
+                    "ropa vieja",
+                    "bistec de res"
+                ],
+                "main_price": [
+                    1300,
+                    1350,
+                    1400,
+                    1750,
+                    1350,
+                    1400,
+                    1750,
+                    1300,
+                    1350,
+                    1600
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado grillet",
+                    "filete de pescado empanado",
+                    "filete canciller",
+                    "camaron enchilado",
+                    "camaron ajillo",
+                    "camaron empanado"
+                ],
+                "sea_food_price": [
+                    1550,
+                    1600,
+                    1800,
+                    1650,
+                    1750,
+                    1800
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espaguetis napolitano",
+                    "espaguetis jamon",
+                    "espaguetis chorizo",
+                    "espaguetis de bacon",
+                    "espaguetis bolonnesa"
+                ],
+                "pasta_price": [
+                    900,
+                    950,
+                    1150,
+                    1200,
+                    1250
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza pimiento",
+                    "pizza cebolla",
+                    "pizza jamon",
+                    "pizza bacon",
+                    "pizza chorizo",
+                    "pizza hawaiana",
+                    "pizza de atun",
+                    "pizza camaron",
+                    "pizza de pepperoni",
+                    "pizza altahabana (bacon, jamon, chorizo, queso blanco, gouda, jamon pierna)"
+                ],
+                "pizza_price": [
+                    950,
+                    1000,
+                    1000,
+                    1150,
+                    1150,
+                    1150,
+                    1250,
+                    1200,
+                    1300,
+                    1500,
+                    1500
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "copa de helado",
+                    "suero de helado"
+                ],
+                "dessert_price": [
+                    500,
+                    750
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "mojito",
+                    "mojito frappe",
+                    "daiquiri",
+                    "daiquiri saborizado",
+                    "canchanchara",
+                    "pinna colada",
+                    "cubata 7 annos",
+                    "screw driver",
+                    "blue lagoon",
+                    "caipiroska",
+                    "caipirinna",
+                    "vodka tonic",
+                    "tinto de verano",
+                    "sangria",
+                    "gin tonic",
+                    "margarita",
+                    "cerveza nacional (lata)",
+                    "cerveza nacional (botella)",
+                    "cerveza importada",
+                    "cerveza corona",
+                    "cerveza heineken",
+                    "servicio de chelada",
+                    "servicio de michelada",
+                    "vodka de la casa",
+                    "vodka absolut",
+                    "havana club annejo 3 annos",
+                    "havana club annejo 7 annos",
+                    "havana club annejo especial",
+                    "havana club reserva",
+                    "havana club ritual",
+                    "santiago 8 annos",
+                    "santiago 11 annos",
+                    "santiago 12 annos",
+                    "seleccion de maestro",
+                    "pacto navio",
+                    "baileys",
+                    "buchanan's 12",
+                    "whisky glenlivet",
+                    "ballantine",
+                    "ballantine 12",
+                    "johnnie walker red label",
+                    "johnnie walker black label",
+                    "olmeca blanco",
+                    "jose cuervo especial",
+                    "jose cuervo reposado",
+                    "jose cuervo tradicional driver",
+                    "tequila patron driver",
+                    "tequila 1800",
+                    "don julio 70",
+                    "licor 43",
+                    "vino (tinto, blanco o rosado)"
+                ],
+                "alcohol_price": [
+                    550,
+                    580,
+                    500,
+                    520,
+                    550,
+                    600,
+                    650,
+                    480,
+                    500,
+                    550,
+                    600,
+                    600,
+                    460,
+                    500,
+                    550,
+                    750,
+                    450,
+                    500,
+                    400,
+                    600,
+                    550,
+                    200,
+                    280,
+                    250,
+                    1000,
+                    420,
+                    700,
+                    530,
+                    560,
+                    600,
+                    850,
+                    1000,
+                    1200,
+                    1300,
+                    1300,
+                    1300,
+                    1600,
+                    1750,
+                    850,
+                    1050,
+                    1000,
+                    1700,
+                    990,
+                    1200,
+                    1300,
+                    1350,
+                    2000,
+                    2500,
+                    4000,
+                    650,
+                    850
+                ],
+                "infusions_list": [
+                    "cafe americano",
+                    "cafe expreso",
+                    "cafe cortado",
+                    "cafe capuccino",
+                    "cafe con leche",
+                    "cafe bombon",
+                    "cafe frappuccino"
+                ],
+                "infusions_price": [
+                    150,
+                    250,
+                    300,
+                    400,
+                    450,
+                    550,
+                    600
+                ],
+                "non_alcoholic_list": [
+                    "limonada natural",
+                    "limonada frappe",
+                    "limonada frescura",
+                    "agua natural (500ml)",
+                    "agua tonica",
+                    "jugos de caja",
+                    "malta",
+                    "malteada",
+                    "refrescos nacionales",
+                    "refrescos importados",
+                    "refresco nacional (1.5 litros)",
+                    "energizantes",
+                    "red bull"
+                ],
+                "non_alcoholic_price": [
+                    500,
+                    520,
+                    540,
+                    200,
+                    250,
+                    300,
+                    380,
+                    500,
+                    300,
+                    350,
+                    550,
+                    350,
+                    550
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "internacional",
+            "cocteleria"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "general_info": {
+        "name": "The Place",
+        "township": "Boyeros",
+        "adress": "calle 100, pasando Aldabo",
+        "local": "restaurante",
+        "open": "08:00",
+        "close": "03:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": false,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas",
+                    "eperlan",
+                    "tostones",
+                    "frituras malanga",
+                    "garbanzos fritos",
+                    "sopon imperial",
+                    "picadera the place",
+                    "papas fritas"
+                ],
+                "appetizers_price": [
+                    600,
+                    900,
+                    500,
+                    500,
+                    1950,
+                    1300,
+                    2300,
+                    800
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pechuga pollo grille",
+                    "pollo frito",
+                    "bistec cerdo grille",
+                    "bistec uruguayo",
+                    "costilla cerdo",
+                    "masa cerdo frita",
+                    "chilindron cordero",
+                    "ropa vieja",
+                    "bistec res",
+                    "chuleta cerdo",
+                    "chuleton"
+                ],
+                "main_price": [
+                    1400,
+                    1200,
+                    1600,
+                    1800,
+                    1700,
+                    1700,
+                    1950,
+                    1500,
+                    1800,
+                    1750,
+                    3000
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "pescado",
+                    "canciller",
+                    "langosta en sus variedades"
+                ],
+                "sea_food_price": [
+                    1500,
+                    1800,
+                    1950
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "Espaguetis napolitanos"
+                ],
+                "pasta_price": [
+                    800
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "Pizza napolitana"
+                ],
+                "pizza_price": [
+                    800
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "jarra cerveza cristal",
+                    "termo cerveza cristal",
+                    "cerveza cristal",
+                    "cerveza importada",
+                    "caipiroska",
+                    "caipirisima",
+                    "mojito",
+                    "gin tonic",
+                    "sangria",
+                    "michelada",
+                    "chelada",
+                    "margarita",
+                    "red label",
+                    "old pard",
+                    "jamerson",
+                    "tequila",
+                    "tequila reposado",
+                    "seleccion maestro",
+                    "pacto navio"
+                ],
+                "alcohol_price": [
+                    300,
+                    2000,
+                    300,
+                    250,
+                    500,
+                    500,
+                    520,
+                    500,
+                    600,
+                    900,
+                    500,
+                    550,
+                    550,
+                    950,
+                    600,
+                    450,
+                    500,
+                    1150,
+                    1150
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "malta bucanero",
+                    "lata refresco",
+                    "caja jugos",
+                    "pomo agua",
+                    "energizante",
+                    "limonada frappe"
+                ],
+                "non_alcoholic_price": [
+                    300,
+                    290,
+                    260,
+                    200,
+                    330,
+                    600
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

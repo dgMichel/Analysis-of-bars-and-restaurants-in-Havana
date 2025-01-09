@@ -1,0 +1,180 @@
+{
+    "general_info": {
+        "name": "Tropikana",
+        "township": "Marianao",
+        "adress": "Avenida 41, calle 72",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "tostones",
+                    "tostones rellenos",
+                    "crema de queso",
+                    "crema aurora",
+                    "crema de jamon",
+                    "consome",
+                    "eperlan",
+                    "croquetas",
+                    "picadera de la casa"
+                ],
+                "appetizers_price": [
+                    350,
+                    450,
+                    450,
+                    450,
+                    450,
+                    450,
+                    500,
+                    500,
+                    100
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz frito"
+                ],
+                "garnishes_price": [
+                    700
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "super hamburguesa"
+                ],
+                "hamburger_price": [
+                    560
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "pan con jamon y queso"
+                ],
+                "bread_price": [
+                    280
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "bistec de cerdo",
+                    "bistec de cerdo a la milanesa",
+                    "bistec de pollo",
+                    "pollo frito",
+                    "pollo a la milanesa",
+                    "ropa vieja"
+                ],
+                "main_price": [
+                    1300,
+                    1800,
+                    1000,
+                    1000,
+                    1500,
+                    1550
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "canciller",
+                    "pescado entero",
+                    "rueda de atun",
+                    "camarones",
+                    "filete de pescado"
+                ],
+                "sea_food_price": [
+                    2500,
+                    2000,
+                    1700,
+                    1700,
+                    1500
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espaguettis a la carbonara",
+                    "espaguettis queso gouda"
+                ],
+                "pasta_price": [
+                    750,
+                    650
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza de queso gouda",
+                    "pizza hawaiana",
+                    "pizza tropicana"
+                ],
+                "pizza_price": [
+                    750,
+                    800,
+                    950
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "helado gusto 1l"
+                ],
+                "dessert_price": [
+                    1000
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [
+            "Bistec de cerdo"
+        ],
+        "popular_drink": [
+            "Cerveza"
+        ],
+        "food_especialization": [
+            " Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

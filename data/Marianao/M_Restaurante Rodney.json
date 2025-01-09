@@ -1,0 +1,190 @@
+{
+    "general_info": {
+        "name": "Bar Tropicana",
+        "township": "Marianao",
+        "adress": "72A,Avenida 41",
+        "local": "bar",
+        "open": "12:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "picadera de la casa",
+                    "entremes de embutido y queso",
+                    "tacos mexicanos de pollo",
+                    "tacos mexicanos de cerdo",
+                    "sopa del dia",
+                    "croquetas",
+                    "crema aurora",
+                    "crema virginia",
+                    "crema de calabaza con queso",
+                    "eperlan de pescado",
+                    "fajitas de pollo"
+                ],
+                "appetizers_price": [
+                    650,
+                    400,
+                    700,
+                    1400,
+                    125,
+                    250,
+                    350,
+                    480,
+                    400,
+                    600,
+                    500
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz rodney",
+                    "filete bacalao a la plancha",
+                    "arroz blanco",
+                    "ensalada de vegetales"
+                ],
+                "garnishes_price": [
+                    780,
+                    250,
+                    120,
+                    120
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich de un agrego",
+                    "sandwich de dos agregos"
+                ],
+                "bread_price": [
+                    230,
+                    300
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "lonjas de cerdo asada",
+                    "fricase de cerdo",
+                    "bistec de cerdo grille",
+                    "pollo asado",
+                    "pollo frito",
+                    "pollo deshuesado",
+                    "filete mignnon",
+                    "steack de res"
+                ],
+                "main_price": [
+                    2000,
+                    2300,
+                    1800,
+                    850,
+                    900,
+                    900,
+                    3000,
+                    1400
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado a la plancha",
+                    "filete de pescado gratinado con queso",
+                    "filete de pescado canciller",
+                    "langosta a la plancha",
+                    "langosta enchilada"
+                ],
+                "sea_food_price": [
+                    1500,
+                    1750,
+                    2000,
+                    1800,
+                    1900
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pata napolitana"
+                ],
+                "pasta_price": [
+                    500
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza campesina",
+                    "pizza especial rodney (rellena con queso)",
+                    "pizza especial rodney (rellena con embutido)",
+                    "pizza super especial rodney (rellena con queso y varios embutidos)"
+                ],
+                "pizza_price": [
+                    500,
+                    1200,
+                    800,
+                    900,
+                    1200
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [
+            "Cerdo"
+        ],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Show"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}
