@@ -1,0 +1,322 @@
+{
+    "general_info": {
+        "name": "Ley Seca",
+        "township": "Habana Vieja",
+        "adress": "Calle Habana #416 entre Obispo y Obrapia, Habana Vieja",
+        "local": "bar-restaurante",
+        "open": "11:30",
+        "close": "04:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            "https://www.instagram.com/ley_seca_speakeasyhabana?igsh=MjZoaGF5ZGhnM3dw",
+            "https://m.facebook.com/61559397838059/"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": true,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas de pescado",
+                    "croquetas de pollo",
+                    "croquetas de embutido",
+                    "croquetas de queso",
+                    "sexy papa frita",
+                    "empanadas de carne",
+                    "tacos de vegetales",
+                    "empanadas de queso",
+                    "tacos de pollo",
+                    "tacos de cerdo",
+                    "tacos de pescado",
+                    "croquetas de serrano",
+                    "tacos de res",
+                    "seleccion charcut",
+                    "chupe de mariscos",
+                    "tacos de langosta",
+                    "garbanzos sin piedad",
+                    "ceviche muuh",
+                    "vegetales we trust",
+                    "tartar fish",
+                    "sandwish ley seca",
+                    "carpaccio de pulpo",
+                    "carpaccio de res",
+                    "tabla d' trafico",
+                    "un poquito d' to",
+                    "desayuno europeo",
+                    "desayuno americano"
+                ],
+                "appetizers_price": [
+                    1500,
+                    1500,
+                    1500,
+                    1500,
+                    1800,
+                    2000,
+                    2000,
+                    2000,
+                    2300,
+                    2300,
+                    2300,
+                    2600,
+                    3000,
+                    3000,
+                    3000,
+                    3500,
+                    4500,
+                    2000,
+                    2000,
+                    2500,
+                    2500,
+                    3000,
+                    3000,
+                    6000,
+                    9000,
+                    3600,
+                    3600
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "rissotto fhungi",
+                    "arroz blackout",
+                    "surtido de la ruta"
+                ],
+                "garnishes_price": [
+                    7000,
+                    7000,
+                    11000
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo grille",
+                    "pollo trufa y parmesano",
+                    "cerdo con masas",
+                    "lomo de cerdo",
+                    "ropa vieja",
+                    "filete a la douche",
+                    "puntaroja",
+                    "filete chateaubriand",
+                    "filete clandestino",
+                    "mignon"
+                ],
+                "main_price": [
+                    2500,
+                    5200,
+                    3000,
+                    4000,
+                    3000,
+                    5000,
+                    5000,
+                    7000,
+                    7000,
+                    7000
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "balas d' camaron",
+                    "langosta ganster",
+                    "pescado al limon",
+                    "pulpo al gusto"
+                ],
+                "sea_food_price": [
+                    3500,
+                    4000,
+                    3500,
+                    5000
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta tres quesos",
+                    "pasta carbonara",
+                    "pasta frutti di madre",
+                    "pasta al buey",
+                    "rissotto de res",
+                    "rissotto del mar"
+                ],
+                "pasta_price": [
+                    3000,
+                    3000,
+                    4500,
+                    5000,
+                    7000,
+                    7000
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "tarta de limon",
+                    "cheesecake",
+                    "casquitos de guayaba",
+                    "torrejas",
+                    "arroz con leche"
+                ],
+                "dessert_price": [
+                    800,
+                    800,
+                    1000,
+                    1000,
+                    1000
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "ley seca",
+                    "al capone",
+                    "bandido",
+                    "green go",
+                    "pub garrison",
+                    "prohibition",
+                    "red pasion",
+                    "dalilah",
+                    "strange wine",
+                    "royal blood",
+                    "cerveza",
+                    "cerveza importada",
+                    "energizante",
+                    "jhonny walker red label",
+                    "johnny walker black label",
+                    "jhonny walker double black label",
+                    "jhonny walker green label",
+                    "jhonny walker golden label",
+                    "jhonny walker blue label",
+                    "buchanan 12 anhos",
+                    "buchanan master",
+                    "buchanan 18 anhos",
+                    "chivas regal 12 anhos",
+                    "chivas regal 18 anhos",
+                    "jack daniel",
+                    "hc seleccion de maestros",
+                    "hc pacto navio",
+                    "santiago 8 anhos",
+                    "santiago 11 anhos",
+                    "santiago 12 anhos",
+                    "hc 15 anhos",
+                    "absolut",
+                    "ciroc sabor",
+                    "ciroc neutro",
+                    "grey goose",
+                    "moet imperial",
+                    "moet ice",
+                    "moet rose"
+                ],
+                "alcohol_price": [
+                    1650,
+                    1650,
+                    1650,
+                    1650,
+                    1650,
+                    1650,
+                    2000,
+                    2500,
+                    2500,
+                    3500,
+                    1000,
+                    1200,
+                    1200,
+                    13000,
+                    20000,
+                    30000,
+                    50000,
+                    60000,
+                    250000,
+                    40000,
+                    70000,
+                    70000,
+                    18000,
+                    70000,
+                    25000,
+                    25000,
+                    30000,
+                    12000,
+                    25000,
+                    35000,
+                    60000,
+                    12000,
+                    30000,
+                    25000,
+                    60000,
+                    60000,
+                    70000,
+                    80000
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "agua natural",
+                    "agua gaseada",
+                    "agua tonica",
+                    "refrescos",
+                    "kermato"
+                ],
+                "non_alcoholic_price": [
+                    700,
+                    700,
+                    700,
+                    800,
+                    1000
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Show",
+            "DJ",
+            "Bailarina",
+            "Mago",
+            "Juegos de mesa",
+            "Hooka"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": false,
+        "bathroom": null,
+        "heated": null
+    }
+}

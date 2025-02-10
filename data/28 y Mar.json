@@ -1,0 +1,316 @@
+{
+    "general_info": {
+        "name": "28 y Mar",
+        "township": "Playa",
+        "adress": "Calle 1ra. esq. 28, Miramar",
+        "local": "restaurante",
+        "open": "08:30",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "28 y Mar Restaurante",
+            "@28_y_mar_restaurante"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "crema aurora",
+                    "crema de queso",
+                    "crema virginia",
+                    "tapas variadas",
+                    "tapas de croquetas",
+                    "tostones rellenos",
+                    "brusquetas",
+                    "bolitas de queso",
+                    "empanadas de queso azul",
+                    "empanadas de bolonesa",
+                    "fajitas de pollo",
+                    "desayuno europeo",
+                    "desayuno americano",
+                    "desayuno miramar",
+                    "desayuno continental",
+                    "ensalada de frutas",
+                    "tortilla natural",
+                    "huevo frito o revuelto con bacon",
+                    "mini bocadito de jamon y queso",
+                    "tostadas con mantequilla",
+                    "crepes"
+                ],
+                "appetizers_price": [
+                    7500,
+                    750,
+                    750,
+                    1100,
+                    1250,
+                    950,
+                    950,
+                    950,
+                    1050,
+                    1050,
+                    1450,
+                    1650,
+                    1650,
+                    2150,
+                    2800,
+                    700,
+                    750,
+                    1050,
+                    800,
+                    650,
+                    750
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "jamon serrano",
+                    "jamon barra",
+                    "jamon pierna",
+                    "chorizo",
+                    "bacon",
+                    "salsa bolonesa",
+                    "pechuga de pollo",
+                    "atun",
+                    "champinon",
+                    "aceitunas",
+                    "vegetal de estacion",
+                    "vianda frita",
+                    "papas fritas",
+                    "pina glaseada",
+                    "queso gouda",
+                    "queso mozzarella",
+                    "queso parmesano",
+                    "queso azul",
+                    "nutella",
+                    "ensalada primavera",
+                    "ensalada caprichosa",
+                    "ensalada verano",
+                    "ensalada marinera"
+                ],
+                "garnishes_price": [
+                    850,
+                    400,
+                    450,
+                    450,
+                    450,
+                    550,
+                    650,
+                    450,
+                    350,
+                    350,
+                    350,
+                    350,
+                    550,
+                    350,
+                    450,
+                    450,
+                    550,
+                    550,
+                    450,
+                    1350,
+                    1750,
+                    1650,
+                    1600
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa otono",
+                    "hamburguesa jamon y queso",
+                    "hamburguesa jamon serrano"
+                ],
+                "hamburger_price": [
+                    1750,
+                    1800,
+                    1950
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich de pepito",
+                    "sandwich de paquito",
+                    "sandwich de elena ruz",
+                    "sandwich de bocadito de atun",
+                    "sandwich de pollo",
+                    "sandwich de jamon serrano",
+                    "sandwich de atun",
+                    "sandwich de bolonesa",
+                    "sandwich de jamon pierna barra y chorizo",
+                    "sandwich vegetariano",
+                    "sandwich de pollo y bacon",
+                    "sandwich de jamon y queso"
+                ],
+                "bread_price": [
+                    3150,
+                    2150,
+                    1850,
+                    1450,
+                    1650,
+                    2150,
+                    1750,
+                    2050,
+                    2050,
+                    1350,
+                    2050,
+                    1750
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pechuga de pollo",
+                    "solomillo de cerdo",
+                    "solomillo de res",
+                    "pollo y cerdo",
+                    "pollo y res",
+                    "res y cerdo",
+                    "trio de fantasia"
+                ],
+                "main_price": [
+                    3500,
+                    4500,
+                    6500,
+                    4000,
+                    5000,
+                    5500,
+                    7250
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghetti",
+                    "lasagna de jamon",
+                    "lasagna de bolonesa"
+                ],
+                "pasta_price": [
+                    1150,
+                    1750,
+                    2150
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza"
+                ],
+                "alcohol_price": [
+                    650
+                ],
+                "infusions_list": [
+                    "cafe expresso",
+                    "cafe americano",
+                    "cafe nespresso",
+                    "cafe bombon",
+                    "cafe capuchino",
+                    "cafe capuchino nespresso",
+                    "cafe cortado",
+                    "cafe con leche",
+                    "cafe irlandes",
+                    "frapuccino",
+                    "chocolate a la espanola",
+                    "te caliente o frio"
+                ],
+                "infusions_price": [
+                    350,
+                    350,
+                    700,
+                    550,
+                    700,
+                    950,
+                    400,
+                    600,
+                    700,
+                    750,
+                    600,
+                    350
+                ],
+                "non_alcoholic_list": [
+                    "agua natural",
+                    "agua natural importada",
+                    "agua carbonatada",
+                    "agua carbonatada importada",
+                    "agua tonica mg",
+                    "agua tonica schweppes",
+                    "refresco nacional",
+                    "refresco importado",
+                    "malta",
+                    "malteada",
+                    "red bull",
+                    "jugo de fruta natural",
+                    "jugo de caja importado",
+                    "kermato"
+                ],
+                "non_alcoholic_price": [
+                    300,
+                    350,
+                    300,
+                    850,
+                    600,
+                    900,
+                    350,
+                    450,
+                    450,
+                    650,
+                    650,
+                    350,
+                    300,
+                    750
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "internacional",
+            "cubana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

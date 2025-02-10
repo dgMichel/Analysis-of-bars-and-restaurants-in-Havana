@@ -1,0 +1,159 @@
+{
+    "general_info": {
+        "name": "Castillo de Farnes",
+        "township": "Habana Vieja",
+        "adress": "Obrapia/ Bernaza y Avenida Belgica",
+        "local": "restaurante",
+        "open": "09:00",
+        "close": "21:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": 20,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz con sustancia"
+                ],
+                "garnishes_price": [
+                    105
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "cerdo estofado",
+                    "fajitas de cerdo",
+                    "bistec de cerdo",
+                    "res estofada",
+                    "lonjas de res"
+                ],
+                "main_price": [
+                    875,
+                    990,
+                    850,
+                    875,
+                    945
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "ron collins 290ml",
+                    "daiquiri 120ml",
+                    "licor cubay de menta 60ml",
+                    "licor curacao azul 60ml",
+                    "licor cubay de anis",
+                    "cerveza importada",
+                    "cerveza nacional",
+                    "parranda 500ml"
+                ],
+                "alcohol_price": [
+                    350,
+                    300,
+                    300,
+                    200,
+                    200,
+                    200,
+                    175,
+                    160
+                ],
+                "infusions_list": [
+                    "cafe express 45ml",
+                    "cafe americano 170ml",
+                    "cafe cortado 60ml",
+                    "cafe con leche 170ml"
+                ],
+                "infusions_price": [
+                    135,
+                    125,
+                    150,
+                    175,
+                    180
+                ],
+                "non_alcoholic_list": [
+                    "jugo nacional",
+                    "limonada 290ml",
+                    "vaso de jugo importado200ml",
+                    "malta importada",
+                    "leche fria"
+                ],
+                "non_alcoholic_price": [
+                    180,
+                    90,
+                    100,
+                    80,
+                    160
+                ]
+            }
+        },
+        "popular_food": ["Cerdo Estofado"],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Televisor"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": true,
+        "bathroom": null,
+        "heated": null
+    }
+}

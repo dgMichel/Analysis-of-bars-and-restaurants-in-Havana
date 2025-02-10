@@ -1,0 +1,227 @@
+{
+    "general_info": {
+        "name": "Venami",
+        "township": "Habana Vieja",
+        "adress": "Monserrate #435 e/ Teniente Rey y Lamparilla, Habana Vieja",
+        "local": "restaurante",
+        "open": "11:30",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": true,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "focaccia a las hierbas",
+                    "brusquetas",
+                    "melanzane bolonhesa",
+                    "melanzane vegetales",
+                    "ensalada capresi",
+                    "ensalada vegetales",
+                    "focaccia rellena",
+                    "estrofollino vegetal",
+                    "estrofollino jamon",
+                    "estrofollino natural",
+                    "focaccia c/ jamon serrano",
+                    "crema de queso",
+                    "crema virginia",
+                    "crema champignon",
+                    "al fungi",
+                    "al fruto de mar",
+                    "al venami"
+                ],
+                "appetizers_price": [
+                    300,
+                    350,
+                    450,
+                    400,
+                    650,
+                    650,
+                    1350,
+                    850,
+                    900,
+                    650,
+                    1100,
+                    600,
+                    630,
+                    650,
+                    1100,
+                    1350,
+                    1050
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo al limon",
+                    "pollo a la piazzola",
+                    "cerdo al limon"
+                ],
+                "main_price": [
+                    1210,
+                    1250,
+                    1300
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "pescado livonnesa",
+                    "pescado al camaron"
+                ],
+                "sea_food_price": [
+                    1310,
+                    1400
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "lazanha",
+                    "fetuccine bolonhesa",
+                    "cenelones",
+                    "penne champignon/serrano",
+                    "spaghetty amatriciana",
+                    "spaghetty alfredo(jamon)",
+                    "spaghetty a la carbonara",
+                    "penne arrabiatta",
+                    "penne a la bolonhesa",
+                    "spaghetty de atun/alcaparras",
+                    "spaghetty pomodoro basilico",
+                    "spaghetty fruto de mar",
+                    "spaghetty al pesto",
+                    "spaghetty al venami",
+                    "spaghetty ajo/peperonchino",
+                    "spaghetty al camaron",
+                    "timbal de pollo",
+                    "timbal de bolonhesa"
+                ],
+                "pasta_price": [
+                    1200,
+                    1050,
+                    1050,
+                    1380,
+                    1100,
+                    1050,
+                    1200,
+                    950,
+                    1050,
+                    1000,
+                    800,
+                    1450,
+                    950,
+                    1250,
+                    850,
+                    1250,
+                    1200,
+                    1100
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza venami",
+                    "pizza deliciosa",
+                    "pizza jamon serrano",
+                    "pizza jamon y cebolla",
+                    "pizza hawaiana",
+                    "pizza 4 estaciones",
+                    "pizza atun y alcaparras",
+                    "pizza fruto de mar",
+                    "pizza margarita",
+                    "calzone bolonhesa",
+                    "pizza diabola",
+                    "pizza bacon y cebolla",
+                    "pizza champignon",
+                    "pizza 4 quesos",
+                    "pizza habanera",
+                    "pizza caribenha",
+                    "pizza de pollo",
+                    "pizza vegetariana"
+                ],
+                "pizza_price": [
+                    1600,
+                    1300,
+                    1500,
+                    1150,
+                    1150,
+                    1250,
+                    1050,
+                    1450,
+                    700,
+                    1100,
+                    1100,
+                    1100,
+                    1000,
+                    1200,
+                    1350,
+                    1500,
+                    1100,
+                    910
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Italiana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": false,
+        "bathroom": null,
+        "heated": null
+    }
+}

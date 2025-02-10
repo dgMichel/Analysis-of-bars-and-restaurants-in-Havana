@@ -1,0 +1,168 @@
+{
+    "general_info": {
+        "name": "Tutti Frutti",
+        "township": "Centro Habana",
+        "adress": "San Lazaro entre San Fransico y Espada",
+        "local": "restaurante",
+        "open": "08:00",
+        "close": "20:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "huevo",
+                    "desayuno completo",
+                    "atun",
+                    "jamon",
+                    "pollo",
+                    "cebolla"
+                ],
+                "appetizers_price": [
+                    250,
+                    1200,
+                    800,
+                    300,
+                    500,
+                    200
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwiche cubano",
+                    "sandwiches aguacate"
+                ],
+                "bread_price": [
+                    1200,
+                    1200
+                ]
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "copa de frutas",
+                    "dulce de fruta",
+                    "tutti frutti",
+                    "frutas dulces"
+                ],
+                "dessert_price": [
+                    400,
+                    600,
+                    500,
+                    300
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "mojito",
+                    "mojito tutti frutti",
+                    "daiquiri",
+                    "daiquiri tutti frutti",
+                    "santiago",
+                    "cuba libre",
+                    "pinha colada",
+                    "canchanchara",
+                    "caribbean",
+                    "emma"
+                ],
+                "alcohol_price": [
+                    700,
+                    800,
+                    700,
+                    800,
+                    900,
+                    700,
+                    900,
+                    800,
+                    900,
+                    900
+                ],
+                "infusions_list": [
+                    "cafe"
+                ],
+                "infusions_price": [
+                    90
+                ],
+                "non_alcoholic_list": [
+                    "jugo natural",
+                    "batidos",
+                    "champola",
+                    "smoothies",
+                    "leche"
+                ],
+                "non_alcoholic_price": [
+                    400,
+                    600,
+                    600,
+                    800,
+                    400
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Desayunos"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

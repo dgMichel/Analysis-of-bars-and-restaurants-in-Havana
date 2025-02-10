@@ -1,0 +1,159 @@
+{
+    "general_info": {
+        "name": "La imprenta",
+        "township": "Habana Vieja",
+        "adress": "Mercaderes entre Lamparilla y Amargura",
+        "local": "restaurante",
+        "open": "12:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "queso escabechado",
+                    "tapas de tomate y queso",
+                    "crema de vegetales",
+                    "judia imprenta",
+                    "garbanzo frito"
+                ],
+                "appetizers_price": [
+                    140,
+                    85,
+                    140,
+                    195,
+                    45
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "vianda hervida con mojo",
+                    "arroz de sustancia ocasion"
+                ],
+                "garnishes_price": [
+                    175,
+                    105
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "lonjas de cerdo",
+                    "cerdo estofado",
+                    "bistec de cerdo",
+                    "barril de cerdo con jamon y queso",
+                    "rollo de cerdo con jamon y queso",
+                    "tablon de carne",
+                    "res estofada",
+                    "ropa vieja imprenta",
+                    "entrecot",
+                    "chateaubriand",
+                    "filete mignon con salsa espanhola",
+                    "brochetas de res"
+                ],
+                "main_price": [
+                    1330,
+                    1670,
+                    1675,
+                    1500,
+                    1350,
+                    2300,
+                    875,
+                    800,
+                    850,
+                    1700,
+                    1300,
+                    1100
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "langosta grille maitre d' hotel",
+                    "anillas de langosta en salsa"
+                ],
+                "sea_food_price": [
+                    4200,
+                    2175
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "brochetas de torrejas"
+                ],
+                "dessert_price": [
+                    60
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica en vivo",
+            "Musica grabada"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

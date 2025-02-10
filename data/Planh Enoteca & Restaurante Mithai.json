@@ -1,0 +1,317 @@
+{
+    "general_info": {
+        "name": "Planh Enoteca & Restaurante Mithai",
+        "township": "Habana Vieja",
+        "adress": "Prado 308 entre animas y Virtudes, Habana Vieja, La Habana",
+        "local": "bar-restaurante",
+        "open": "11:30",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": true,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "ceviche de pescado plan h",
+                    "tapache serrano",
+                    "ceviche de atuan de verano",
+                    "ceviche de pulpo",
+                    "croquetas plan h",
+                    "brochetas de pollo",
+                    "tapa de pulpo a la habanera",
+                    "mix de casabe crujiente",
+                    "vegetariano",
+                    "tropical",
+                    "serrano",
+                    "frutas frescas",
+                    "cesta de pan fresco / mantequilla / jugo natural",
+                    "tabla de 5 quesos",
+                    "tabla parrillera",
+                    "tabla mixta plan h",
+                    "aceitunas negras",
+                    "aceitunas verdes",
+                    "papas fritas"
+                ],
+                "appetizers_price": [
+                    2000,
+                    1900,
+                    2380,
+                    2450,
+                    1000,
+                    2300,
+                    2600,
+                    2050,
+                    3030,
+                    3252,
+                    4165,
+                    805,
+                    1650,
+                    3658,
+                    3320,
+                    4138,
+                    350,
+                    250,
+                    773
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "ensalada salachic",
+                    "ensalada vegana"
+                ],
+                "garnishes_price": [
+                    1447,
+                    765
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo california",
+                    "lomo de res"
+                ],
+                "main_price": [
+                    2465,
+                    3350
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "atuan natural"
+                ],
+                "sea_food_price": [
+                    3500
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta al pesto provenzal",
+                    "pasta bolognesa",
+                    "pasta con salmon",
+                    "pasta a la amatriciana"
+                ],
+                "pasta_price": [
+                    1615,
+                    2400,
+                    2976,
+                    2600
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "i heart chardonnay",
+                    "i heart pinot grigio",
+                    "i heart reisling",
+                    "etcetera rueda verdejo 2022",
+                    "mapu sauvignon blanc",
+                    "i heart merlot",
+                    "trapiche vinyard malbec 2021",
+                    "finca del mar tempranillo 2019",
+                    "freixenet chianti",
+                    "mapu carmenere",
+                    "infinitus tempranillo/cabernet franc",
+                    "j. bouchon rose 2021",
+                    "cava mistinguett brut",
+                    "cava freixenet rose",
+                    "cava brut cordon negro freixenet",
+                    "freye parellada moscat 2022",
+                    "enate chardonnay 2021",
+                    "melior de matarromera verdejo 2021",
+                    "emilio moro 2019",
+                    "melior de matarromera tempranillo 2020",
+                    "pazo pondal olivia rose",
+                    "lafage gallicia 2019",
+                    "cerveza cristal",
+                    "michelada",
+                    "chelada",
+                    "cuba libre",
+                    "pinha colada",
+                    "mojito natural",
+                    "mojito tonic",
+                    "daiquiri",
+                    "mimosas",
+                    "ice on the rock",
+                    "aperol spritz",
+                    "sangria tonic blanca",
+                    "sangria tinta",
+                    "sangria tonic tinta",
+                    "ginebra beefeater y agua tonica",
+                    "ginebra tanqueray y agua tonica",
+                    "ginebra mare y agua tonica",
+                    "ginebra hendricks y agua tonica",
+                    "disaronno",
+                    "limoncello",
+                    "licor 43",
+                    "baileys",
+                    "crema barcelo",
+                    "licor de cafe pazo pondal",
+                    "habana club 3 anhos",
+                    "habana club anhejo especial",
+                    "ron ritual",
+                    "habana club anhejo reserva",
+                    "habana club 7 anhos",
+                    "habana club cuban smoky",
+                    "seleccion de maestro"
+                ],
+                "alcohol_price": [
+                    875,
+                    875,
+                    875,
+                    875,
+                    875,
+                    875,
+                    875,
+                    875,
+                    875,
+                    875,
+                    945,
+                    1050,
+                    945,
+                    875,
+                    4650,
+                    5600,
+                    11230,
+                    10517,
+                    18467,
+                    10517,
+                    15090,
+                    5320,
+                    600,
+                    700,
+                    600,
+                    800,
+                    1000,
+                    850,
+                    1020,
+                    850,
+                    900,
+                    1325,
+                    1450,
+                    1100,
+                    1100,
+                    1592,
+                    950,
+                    1275,
+                    1275,
+                    1645,
+                    1215,
+                    700,
+                    980,
+                    910,
+                    780,
+                    1180,
+                    392,
+                    438,
+                    490,
+                    590,
+                    791,
+                    1150,
+                    2215
+                ],
+                "infusions_list": [
+                    "expresso",
+                    "american",
+                    "cortado",
+                    "cafe con leche",
+                    "capuchino",
+                    "cafe bombon",
+                    "frapuchino",
+                    "mocachino",
+                    "te"
+                ],
+                "infusions_price": [
+                    260,
+                    260,
+                    350,
+                    650,
+                    600,
+                    670,
+                    630,
+                    555,
+                    150
+                ],
+                "non_alcoholic_list": [
+                    "refresco ritz cola",
+                    "refresco ritz naranja",
+                    "redbull",
+                    "limonada frappe",
+                    "limonada frescura",
+                    "jugo natural",
+                    "agua natural don aguiar",
+                    "agua tonica me",
+                    "agua ginger ale"
+                ],
+                "non_alcoholic_price": [
+                    300,
+                    300,
+                    450,
+                    540,
+                    550,
+                    498,
+                    420,
+                    584,
+                    650
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": false,
+        "bathroom": null,
+        "heated": null
+    }
+}

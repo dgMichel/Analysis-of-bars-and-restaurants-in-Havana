@@ -1,0 +1,269 @@
+{
+    "general_info": {
+        "name": "VenaVento",
+        "township": "Boyero",
+        "adress": "Calle 10, esq. Vento",
+        "local": "restaurante",
+        "open": "12:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": true,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "ensalada tibia de langosta",
+                    "tabla iberica mix",
+                    "tabla iberica",
+                    "coctel de gambas",
+                    "coctel de anzuelos",
+                    "ensalada caprese",
+                    "ensalada cesar",
+                    "quesadillas",
+                    "tacos de camaron",
+                    "tostones de cangrejo",
+                    "tortillas rellenas",
+                    "frituras de malanga",
+                    "garbanzos fritos"
+                ],
+                "appetizers_price": [
+                    1600,
+                    3600,
+                    2600,
+                    1300,
+                    1300,
+                    1250,
+                    1250,
+                    1200,
+                    1800,
+                    1650,
+                    1500,
+                    1400,
+                    1500
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "ensalada estacion",
+                    "arroz blanco",
+                    "frijoles de la casa",
+                    "ensalada de tomate",
+                    "moros y cristianos",
+                    "fufuce platano",
+                    "pure de papa"
+                ],
+                "garnishes_price": [
+                    750,
+                    580,
+                    800,
+                    1000,
+                    800,
+                    1200,
+                    1500
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "mar y tierra ( pax 1)",
+                    "pollo grille",
+                    "brocheta de pollo",
+                    "brocheta de cerdo",
+                    "brocheta mixta de carne",
+                    "paella de carne (pax 1)",
+                    "paella de carne (pax 2)",
+                    "suprema de pollo",
+                    "cachopo de cerdo",
+                    "cochino al jugoso",
+                    "pollo al carbon"
+                ],
+                "main_price": [
+                    4000,
+                    1600,
+                    2020,
+                    2170,
+                    2220,
+                    2600,
+                    4400,
+                    2500,
+                    2600,
+                    2420,
+                    1850
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "salmon al ajillo",
+                    "salmon de cerdo",
+                    "salmon a la parrilla",
+                    "grillada de fruta de mar",
+                    "langosta mariscossa",
+                    "brocheta de langosta",
+                    "paella de mariscos (pax 1)",
+                    "paella de mariscos (pax 2)",
+                    "paella mixta (pax 1)",
+                    "paella mixta (pax 2)",
+                    "filete de pescado montadoro",
+                    "filete de pescado carriller",
+                    "filete de pescado don pello",
+                    "filete de pescado flor blue",
+                    "cacerola de pescado y marisco",
+                    "zarzuela de pescado y mariscos",
+                    "camarones al gusto",
+                    "congrejo enchilado",
+                    "langosta enchilada",
+                    "langosta batabano"
+                ],
+                "sea_food_price": [
+                    3500,
+                    3800,
+                    4500,
+                    7600,
+                    3600,
+                    2700,
+                    2770,
+                    4600,
+                    2800,
+                    4800,
+                    2620,
+                    2770,
+                    2770,
+                    2800,
+                    3500,
+                    3500,
+                    3500,
+                    3000,
+                    3100,
+                    3300
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta veranennto",
+                    "pasta carbonara",
+                    "fruti de mare",
+                    "nero di sejia"
+                ],
+                "pasta_price": [
+                    2600,
+                    2500,
+                    3200,
+                    3000
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "copa de helado",
+                    "crema volia",
+                    "flan de caramelo",
+                    "flanada"
+                ],
+                "dessert_price": [
+                    500,
+                    850,
+                    750,
+                    1000
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza nacional",
+                    "cerveza importada",
+                    "servicio de chinchada",
+                    "servicio de vinireda"
+                ],
+                "alcohol_price": [
+                    250,
+                    290,
+                    350,
+                    350
+                ],
+                "infusions_list": [
+                    "cafe expresso",
+                    "cafe nespreso",
+                    "cafe cortadito",
+                    "cafe con leche",
+                    "cafe frappucino",
+                    "cafe amaretto",
+                    "cafe espannol"
+                ],
+                "infusions_price": [
+                    200,
+                    220,
+                    280,
+                    280,
+                    400,
+                    550,
+                    500
+                ],
+                "non_alcoholic_list": [
+                    "aguas naturales",
+                    "batido de frutas",
+                    "san francisco",
+                    "refresco",
+                    "energizante tacon"
+                ],
+                "non_alcoholic_price": [
+                    400,
+                    500,
+                    850,
+                    300,
+                    480
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "cubana",
+            "internacional"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

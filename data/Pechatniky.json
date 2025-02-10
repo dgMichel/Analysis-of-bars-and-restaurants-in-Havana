@@ -1,0 +1,221 @@
+{
+    "general_info": {
+        "name": "Pechatniky",
+        "township": "Playa",
+        "adress": "Calle 22 #3110 / Calle 33 y Calle 31A, Miramar",
+        "local": "restaurante",
+        "open": "00:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "Pechatniky",
+            "@pechatniky"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas de la casa",
+                    "frituras de malanga",
+                    "fajitas de pollo",
+                    "tostones rellenos",
+                    "garbanzo",
+                    "papas fritas",
+                    "picadera pechatniky",
+                    "desayuno pechatniky"
+                ],
+                "appetizers_price": [
+                    950,
+                    820,
+                    950,
+                    700,
+                    1000,
+                    800,
+                    2900,
+                    900
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "jamon",
+                    "queso",
+                    "pollo",
+                    "huevo",
+                    "atun",
+                    "vegetales sarteados al carbon",
+                    "ensalada vegetales",
+                    "arroz frito"
+                ],
+                "garnishes_price": [
+                    250,
+                    300,
+                    350,
+                    300,
+                    500,
+                    900,
+                    700,
+                    1500
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa clasica"
+                ],
+                "hamburger_price": [
+                    750
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "baguette de atun",
+                    "baguette jamon y queso",
+                    "baguette de pollo"
+                ],
+                "bread_price": [
+                    950,
+                    750,
+                    780
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pollo",
+                    "cerdo",
+                    "pelmeni",
+                    "shawarma"
+                ],
+                "main_price": [
+                    1050,
+                    1800,
+                    1100,
+                    1000
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "mariscos"
+                ],
+                "sea_food_price": [
+                    3000
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pastas"
+                ],
+                "pasta_price": [
+                    1300
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza"
+                ],
+                "pizza_price": [
+                    1050
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "copa 2 bolas",
+                    "copa 3 bolas",
+                    "tarta pechatniky"
+                ],
+                "dessert_price": [
+                    320,
+                    380,
+                    590
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza nacional",
+                    "cerveza importada"
+                ],
+                "alcohol_price": [
+                    350,
+                    290
+                ],
+                "infusions_list": [
+                    "expreso",
+                    "cortado",
+                    "capuchino",
+                    "americano",
+                    "pechatniky",
+                    "te o infusion"
+                ],
+                "infusions_price": [
+                    200,
+                    280,
+                    350,
+                    200,
+                    680,
+                    180
+                ],
+                "non_alcoholic_list": [
+                    "agua natural",
+                    "refresco importando",
+                    "refresco nacional",
+                    "malta",
+                    "malteda",
+                    "energizantes",
+                    "jugo natural",
+                    "jugo de lata"
+                ],
+                "non_alcoholic_price": [
+                    170,
+                    350,
+                    250,
+                    330,
+                    420,
+                    350,
+                    280,
+                    350
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "internacional"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": false,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

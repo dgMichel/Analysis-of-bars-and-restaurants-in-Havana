@@ -1,0 +1,194 @@
+{
+    "general_info": {
+        "name": "Infanta 560",
+        "township": "Centro Habana",
+        "adress": null,
+        "local": "restaurante",
+        "open": "08:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            false,
+            false
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "picadera (300g)"
+                ],
+                "appetizers_price": [
+                    550
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "jamon",
+                    "pinha",
+                    "pimiento",
+                    "queso",
+                    "queso gouda",
+                    "cebolla"
+                ],
+                "garnishes_price": [
+                    80,
+                    80,
+                    80,
+                    80,
+                    100,
+                    80
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "fajas de pollo (300g)"
+                ],
+                "main_price": [
+                    600
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghetti (470g)",
+                    "spaghetti queso gouda (470g)"
+                ],
+                "pasta_price": [
+                    300,
+                    420
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana (250g)",
+                    "pizza hawaiana (300g)",
+                    "pizza queso gouda (250g)",
+                    "pizza familiar napolitana (500g)",
+                    "pizza familiar hawaiana (600g)",
+                    "pizza familiar queso gouda (500g)"
+                ],
+                "pizza_price": [
+                    200,
+                    300,
+                    320,
+                    380,
+                    700,
+                    700
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [
+                    "cafe espresso",
+                    "doble espresso",
+                    "descafeinado",
+                    "cafe americano",
+                    "cafe cortado",
+                    "capuchino",
+                    "cafe con leche",
+                    "cafe con hielo",
+                    "cafe americano con leche",
+                    "cafe bombon",
+                    "cafe carajillo",
+                    "cafe brasilenho",
+                    "cafe espanhol",
+                    "cafe irlandes",
+                    "cafe frances",
+                    "frapuchino",
+                    "chocolate frio",
+                    "chocolate caliente",
+                    "batido de helado",
+                    "te negro",
+                    "te rojo",
+                    "te verde",
+                    "infusion de hierba buena o albahaca"
+                ],
+                "infusions_price": [
+                    300,
+                    600,
+                    480,
+                    450,
+                    450,
+                    600,
+                    600,
+                    450,
+                    750,
+                    900,
+                    750,
+                    1050,
+                    1050,
+                    1050,
+                    1050,
+                    1050,
+                    1050,
+                    1050,
+                    1200,
+                    450,
+                    540,
+                    540,
+                    300
+                ],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "italiana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "general_info": {
+        "name": "Ristorante_San_Francesco",
+        "township": "Habana del Este",
+        "adress": "Calle 478 entre 5ta A Y, 5ta D",
+        "local": "restaurante",
+        "open": "08:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "antipasto di montagna maxi",
+                    "bruschetta",
+                    "bruschetta di pate",
+                    "prosciuto crudo",
+                    "raz. pane",
+                    "frittata",
+                    "frittata con cipolle",
+                    "tostones",
+                    "tostones especiales"
+                ],
+                "appetizers_price": [
+                    3500,
+                    850,
+                    900,
+                    2500,
+                    450,
+                    700,
+                    750,
+                    700,
+                    1500
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo con salciccia",
+                    "fajitas de pollo",
+                    "pollo frito",
+                    "pollo asado",
+                    "fajitas de pollo con vegetales",
+                    "chuleta de cerdo(segun gramaje del plato)",
+                    "ropa vieja de cerdo",
+                    "salciccia"
+                ],
+                "main_price": [
+                    2400,
+                    1850,
+                    1800,
+                    1800,
+                    2100,
+                    2850,
+                    2100,
+                    2100
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "aragosta maxi",
+                    "camaron en salsa",
+                    "gamberetti"
+                ],
+                "sea_food_price": [
+                    3800,
+                    2200,
+                    2200
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghetti napoli",
+                    "spaghetti jamon vicky",
+                    "spaghetti tonno",
+                    "spaghetti jamon serrano",
+                    "spaghetti pomodoro e basilico",
+                    "spaghetti aglio-olio-peperoncino",
+                    "spaghetti al pesto",
+                    "spaghetti puttanesca",
+                    "spaghetti amatriciana",
+                    "spaghetti carbonara",
+                    "spaghetti con gamberetti",
+                    "pasta con verdure",
+                    "pasta risotto bolognese",
+                    "pasta risotto fruti di mare",
+                    "risotto bolognese",
+                    "risotto con vegetale",
+                    "pasta con salciccia",
+                    "pasta con salciccia e funghi",
+                    "raz. di rizo",
+                    "raz. di pane"
+                ],
+                "pasta_price": [
+                    1500,
+                    1600,
+                    1700,
+                    1800,
+                    1550,
+                    1350,
+                    1600,
+                    1900,
+                    1700,
+                    1700,
+                    2600,
+                    1500,
+                    1700,
+                    3200,
+                    1650,
+                    1500,
+                    1800,
+                    2000,
+                    600,
+                    550
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza gorgonzola",
+                    "pizza fior di latte",
+                    "pizza fior di latte e prosciutto",
+                    "pizza frutti di mare",
+                    "pizza pomodoro e basilico",
+                    "pizza prosciutto crudo",
+                    "pizza margherita",
+                    "pizza capricciosa",
+                    "pizza con jamon vicky",
+                    "pizza con atun",
+                    "pizza con camarones",
+                    "pizza con salciccia",
+                    "pizza hawaiana",
+                    "pizza con vegetales",
+                    "focaccia",
+                    "focaccia con prosciutto crudo",
+                    "focaccia con prosciutto crudo y agrego de fior di latte"
+                ],
+                "pizza_price": [
+                    1700,
+                    1900,
+                    2100,
+                    2600,
+                    1400,
+                    1900,
+                    1400,
+                    2000,
+                    1700,
+                    1900,
+                    2100,
+                    1900,
+                    1800,
+                    1700,
+                    1300,
+                    1700,
+                    2600
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "dolce san francesco"
+                ],
+                "dessert_price": [
+                    500
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza cristal",
+                    "cerveza bucanero",
+                    "cervezas importadas",
+                    "copa de vino de la casa",
+                    "whisky",
+                    "trago de ron",
+                    "sambuca",
+                    "mojito",
+                    "cuba libre",
+                    "cubanito",
+                    "pinha colada",
+                    "michelada",
+                    "chelada",
+                    "limoncello",
+                    "tequila",
+                    "daiquiri",
+                    "grappa"
+                ],
+                "alcohol_price": [
+                    350,
+                    400,
+                    350,
+                    1200,
+                    900,
+                    600,
+                    800,
+                    850,
+                    800,
+                    800,
+                    900,
+                    1200,
+                    800,
+                    900,
+                    900,
+                    900,
+                    900
+                ],
+                "infusions_list": [
+                    "caffe miscela illy kimbo",
+                    "cafe cortado",
+                    "cafe americano"
+                ],
+                "infusions_price": [
+                    350,
+                    380,
+                    500
+                ],
+                "non_alcoholic_list": [
+                    "refrescos importados",
+                    "red bull",
+                    "refrescos energizantes",
+                    "maltas",
+                    "limonada frappe"
+                ],
+                "non_alcoholic_price": [
+                    350,
+                    400,
+                    400,
+                    400,
+                    500
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Italiana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

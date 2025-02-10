@@ -1,0 +1,136 @@
+{
+    "general_info": {
+        "name": "Don Martin",
+        "township": "Plaza de la Revolucion",
+        "adress": "Calle A, 661",
+        "local": "cafeteria",
+        "open": "10:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [
+                ],
+                "garnishes_price": [
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza de queso gouda",
+                    "familiar queso gouda"
+                ],
+                "pizza_price": [
+                    200,
+                    350,
+                    650
+                ]
+            },
+            "adds": {
+                "adds_list": [
+                    "cebolla",
+                    "queso blanco",
+                    "queso gouda",
+                    "jamon bikin",
+                    "jamon serrano",
+                    "aceitunas"
+                ],
+                "adds_price": [
+                    200,
+                    150,
+                    250,
+                    200,
+                    800,
+                    450
+                ]
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza cristal",
+                    "cerveza bucanero de botella"
+                ],
+                "alcohol_price": [
+                    260,
+                    260
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "agua",
+                    "pepsi"
+                ],
+                "non_alcoholic_price": [
+                    200,
+                    300
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Pizzas"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "general_info": {
+        "name": "Villarino",
+        "township": "Playa",
+        "adress": "Calle 58 e/ 33 y 35",
+        "local": "bar-restaurante",
+        "open": "13:30",
+        "close": "21:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "Restaurante Club Villarino",
+            "@villarino.restaurantehabana"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "crujientes de yuca con aderezo agridulce",
+                    "croquetas de la casa",
+                    "bolitas de queso crujientes",
+                    "eperlan de pescado",
+                    "fajitas de pollo",
+                    "cazuelita de garbanzos a la criolla"
+                ],
+                "appetizers_price": [
+                    480,
+                    520,
+                    720,
+                    720,
+                    680,
+                    680
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz con pollo a la campesina",
+                    "arroz frito especial"
+                ],
+                "garnishes_price": [
+                    800,
+                    800
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich clasico"
+                ],
+                "bread_price": [
+                    520
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "risotto"
+                ],
+                "main_price": [
+                    2250
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta de queso",
+                    "pasta de jamon",
+                    "pasta de chorizo",
+                    "pasta carbonara",
+                    "pasta villarino",
+                    "lasagna de carne"
+                ],
+                "pasta_price": [
+                    850,
+                    920,
+                    880,
+                    950,
+                    1200,
+                    850
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza cebolla",
+                    "pizza chorizo",
+                    "pizza doble queso",
+                    "pizza jamon",
+                    "pizza vegetales",
+                    "pizza hawaiana",
+                    "pizza de pollo",
+                    "pizza del mar",
+                    "pizza de atun",
+                    "pizza de ropa vieja",
+                    "pizza de camarones",
+                    "pizza al gusto"
+                ],
+                "pizza_price": [
+                    700,
+                    750,
+                    780,
+                    950,
+                    800,
+                    800,
+                    880,
+                    800,
+                    1200,
+                    950,
+                    950,
+                    1200,
+                    1000
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cocteles nacionales",
+                    "cocteles internacionales",
+                    "copa de vino",
+                    "cervezas nacionales (cristal/bucanero)",
+                    "cervezas importadas"
+                ],
+                "alcohol_price": [
+                    475,
+                    550,
+                    350,
+                    260,
+                    380
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "agua natural",
+                    "agua tonica",
+                    "malta importada",
+                    "malteada",
+                    "red bull",
+                    "refrescos nacionales",
+                    "refrescos importados",
+                    "limonada frappe",
+                    "jugos naturales",
+                    "jugos importados"
+                ],
+                "non_alcoholic_price": [
+                    150,
+                    300,
+                    280,
+                    480,
+                    220,
+                    220,
+                    235,
+                    200,
+                    180,
+                    210
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "criolla",
+            "italiana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

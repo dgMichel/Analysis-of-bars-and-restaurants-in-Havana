@@ -1,0 +1,145 @@
+{
+    "general_info": {
+        "name": "La casona del cerro",
+        "township": "Cerro",
+        "adress": "Calzada del Cerro entre Alzobispo y Penhon",
+        "local": "restaurante",
+        "open": "10:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo asado",
+                    "masa frita",
+                    "bistec de cerdo",
+                    "fricase de cerdo",
+                    "chuleta"
+                ],
+                "main_price": [
+                    1100,
+                    900,
+                    850,
+                    850,
+                    1000
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghetti c/queso gouda",
+                    "spaghetti c/ jamon y queso gouda",
+                    "spaghetti doble queso gouda",
+                    "spaghetti mixto"
+                ],
+                "pasta_price": [
+                    450,
+                    500,
+                    650,
+                    550
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana c/queso gouda",
+                    "pizza doble queso",
+                    "pizza de jamon y queso gouda",
+                    "pizza mixta c/queso gouda",
+                    "pizza familiar c/queso gouda",
+                    "pizza familiar doble queso",
+                    "pizza familiar de jamon y queso gouda",
+                    "pizza familiar mixta c/queso gouda"
+                ],
+                "pizza_price": [
+                    450,
+                    650,
+                    500,
+                    550,
+                    900,
+                    1200,
+                    1000,
+                    1050
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "flan"
+                ],
+                "dessert_price": [
+                    350
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Comida Criolla"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

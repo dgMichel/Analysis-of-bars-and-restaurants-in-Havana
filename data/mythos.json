@@ -1,0 +1,183 @@
+{
+    "general_info": {
+        "name": "Mythos",
+        "township": "Habana Vieja",
+        "adress": "Calle Cuba No. 211 entre Empedrado y O'Reilly",
+        "local": "bar-restaurante",
+        "open": "08:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": true,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "solomillo de cerdo en salsa de limon griega",
+                    "hummus de garbanzo",
+                    "melitzanosalata",
+                    "tzatziki",
+                    "papas fritas con queso feta y oregano",
+                    "tyropitakias",
+                    "aceitunas marinadas con queso feta",
+                    "saganaki",
+                    "souvlaki de cerdo",
+                    "souvlaki de pechuga de pollo",
+                    "souvlaki de res",
+                    "souvlaki vegano",
+                    "souvlaki de queso feta",
+                    "pastitsio",
+                    "imam",
+                    "saganaki de langosta o camaron",
+                    "saganaki de frutos del mar"
+                ],
+                "main_price": [
+                    3500,
+                    700,
+                    800,
+                    600,
+                    1300,
+                    1000,
+                    700,
+                    1500,
+                    2500,
+                    2100,
+                    2800,
+                    2000,
+                    2500,
+                    2300,
+                    2000,
+                    3500,
+                    4000
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "risotto de pulpo",
+                    "risotto de frutos del mar",
+                    "pulpo grille"
+                ],
+                "sea_food_price": [
+                    3700,
+                    4100,
+                    4200
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta mediterranea",
+                    "pasta de camaron al anis",
+                    "risotto de yogurt griego"
+                ],
+                "pasta_price": [
+                    3000,
+                    3200,
+                    3000
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "tarta de yogurt griego con reduccion de vino tinto"
+                ],
+                "dessert_price": [
+                    1000
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "demeter (ginebra, mix de pepino y jengibre, zumo de pinha)",
+                    "afrodita (ginebra, mix no. 2, licor de orgeat)",
+                    "persefone (ginebra, licor de grosella, vermouth rosso, jarabe de hibiscus)",
+                    "hades",
+                    "dionisio (ron blanco, reduccion de vino tinto, mix no. 3)",
+                    "poseidon",
+                    "ares (ron oscuro, mix no. 5, tajin, mango)",
+                    "apolo (ron blanco, ruavieja, mix no. 7)"
+                ],
+                "alcohol_price": [
+                    1800,
+                    2000,
+                    2100,
+                    2500,
+                    2800,
+                    2500,
+                    2400,
+                    2300
+                ],
+                "infusions_list": [
+                    "freddo expresso (cafe batido servido con hielo)",
+                    "freddo capucchino (cafe batido servido con leche, nata y hielo)"
+                ],
+                "infusions_price": [
+                    450,
+                    650
+                ],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Griega"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

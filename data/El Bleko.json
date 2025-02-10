@@ -1,0 +1,255 @@
+{
+    "general_info": {
+        "name": "El Bleko",
+        "township": "Centro Habana",
+        "adress": null,
+        "local": "bar-restaurante",
+        "open": "13:00",
+        "close": "02:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "El Bleko",
+            "@blecohavana"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "frituras de malanga",
+                    "croquetas mixtas",
+                    "palitos de queso",
+                    "tacos de cerdo",
+                    "tacos de cerdo ahumado",
+                    "tacos de pollo",
+                    "nachos de salsa de queso",
+                    "nachos con pollo a la barbacoa",
+                    "alitas de pollo a la barbacoa",
+                    "crostini mixto",
+                    "torrejas saladas con cerdo ahumado",
+                    "quesadillas de jamon pierna"
+                ],
+                "appetizers_price": [
+                    750,
+                    1050,
+                    1100,
+                    1550,
+                    1750,
+                    1450,
+                    900,
+                    1450,
+                    1350,
+                    950,
+                    1050,
+                    1650
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo frito",
+                    "fajita de pechuga de pollo",
+                    "bistec a la plancha"
+                ],
+                "main_price": [
+                    1500,
+                    2500,
+                    2000
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza de queso",
+                    "pizza de jamon",
+                    "pizza de chorizo"
+                ],
+                "pizza_price": [
+                    1250,
+                    1450,
+                    1450
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "caipirisima",
+                    "canchanchara",
+                    "caipiroska",
+                    "caipirinha",
+                    "mojito",
+                    "cuba libre",
+                    "sangria",
+                    "margarita",
+                    "pinha colada",
+                    "old fashion",
+                    "laguna azul",
+                    "tr reserva",
+                    "tr barcelo dorado",
+                    "tr barcelo anhejo",
+                    "tr ritual",
+                    "tr anhejo especial",
+                    "tr vat 69",
+                    "tr black white",
+                    "tr jw black",
+                    "tr jw red",
+                    "tr ballantines",
+                    "tr doble black",
+                    "gin master",
+                    "gin master pink",
+                    "gin tanqueray",
+                    "gin beefarer",
+                    "gin johpur reserva",
+                    "vodka tonic",
+                    "tr ciroc",
+                    "tr ciroc coco",
+                    "tr finlandia",
+                    "czech driver",
+                    "tequila de la casa",
+                    "licores: bailey's",
+                    "licores: jagermeister",
+                    "licores: jaeger",
+                    "copa de vino",
+                    "cristal lata",
+                    "bucanero lata",
+                    "cristal botella",
+                    "bucanero botella",
+                    "hollandia",
+                    "unlaguer"
+                ],
+                "alcohol_price": [
+                    650,
+                    650,
+                    650,
+                    650,
+                    650,
+                    650,
+                    650,
+                    600,
+                    650,
+                    750,
+                    650,
+                    300,
+                    400,
+                    450,
+                    300,
+                    300,
+                    500,
+                    600,
+                    1500,
+                    1100,
+                    1000,
+                    1800,
+                    650,
+                    650,
+                    650,
+                    550,
+                    900,
+                    500,
+                    1000,
+                    1000,
+                    600,
+                    750,
+                    400,
+                    800,
+                    450,
+                    800,
+                    500,
+                    350,
+                    350,
+                    500,
+                    500,
+                    300,
+                    330
+                ],
+                "infusions_list": [
+                    "cafe expreso",
+                    "cafe capuccino",
+                    "cafe cortadito"
+                ],
+                "infusions_price": [
+                    250,
+                    400,
+                    300
+                ],
+                "non_alcoholic_list": [
+                    "agua natural",
+                    "santa cola",
+                    "santa limon",
+                    "santa naranja",
+                    "energizante"
+                ],
+                "non_alcoholic_price": [
+                    250,
+                    350,
+                    350,
+                    350,
+                    500
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "caribenha",
+            "italiana",
+            "criolla"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

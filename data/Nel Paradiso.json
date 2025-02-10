@@ -1,0 +1,306 @@
+{
+    "general_info": {
+        "name": "Nel Paradiso",
+        "township": "Diez de Octubre",
+        "adress": null,
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "23:30",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas de la casa con salsa rosa",
+                    "frituras de la casa con miel y mostaza",
+                    "bastones de pollo con salsa rosa",
+                    "bastones de mar en salsa alioli",
+                    "tamal en cazuela",
+                    "tamal marinero",
+                    "coctel de langosta",
+                    "tabla de quesos",
+                    "lonjas de jamon serrano",
+                    "salmon paradiso",
+                    "fajitas de cerdo",
+                    "crema de queso",
+                    "crema de calabaza",
+                    "ensalada de atun y huevo",
+                    "ceviche de pescado",
+                    "picadera paradiso ",
+                    "coctel de camarones"
+                ],
+                "appetizers_price": [
+                    792,
+                    880,
+                    1760,
+                    1760,
+                    1584,
+                    2376,
+                    2112,
+                    2816,
+                    2640,
+                    2816,
+                    2112,
+                    1232,
+                    750,
+                    1760,
+                    1584,
+                    2992,
+                    1936
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "arroz moro",
+                    "arroz pilaf",
+                    "pure de malanga",
+                    "ensalada de vegetales",
+                    "arroz frito"
+                ],
+                "garnishes_price": [
+                    422,
+                    636,
+                    880,
+                    640,
+                    633,
+                    2112
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pechuga grille",
+                    "jardinera de pechuga",
+                    "pechuga roquefort",
+                    "pechuga paradiso",
+                    "ropa vieja de res",
+                    "bistec de res",
+                    "fajita de res",
+                    "filete a la douche",
+                    "bistec de cerdo glaseado al vino tinto",
+                    "chuleta en salsa verde",
+                    "entrecot de cerdo",
+                    "estofado de cerdo",
+                    "ropa vieja de cordero",
+                    "cabrito picoso",
+                    "cordero al vino tinto"
+                ],
+                "main_price": [
+                    2112,
+                    2464,
+                    2816,
+                    2992,
+                    2552,
+                    2904,
+                    2464,
+                    2990,
+                    2112,
+                    2288,
+                    3520,
+                    6600,
+                    1848,
+                    2640,
+                    2464
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "camarones a eleccion",
+                    "masa de pescado frita",
+                    "filete john bill",
+                    "paella",
+                    "paella especial"
+                ],
+                "sea_food_price": [
+                    2995,
+                    2640,
+                    3256,
+                    3168,
+                    6600
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "napolitana",
+                    "amatriciana",
+                    "carbonara",
+                    "nero di sepia",
+                    "pasta al pesto",
+                    "lasagna",
+                    "montemari paradiso",
+                    "caldereta de mariscos"
+                ],
+                "pasta_price": [
+                    1230,
+                    1936,
+                    2200,
+                    3256,
+                    2756,
+                    1895,
+                    4576,
+                    4480
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "napolitana",
+                    "margarita",
+                    "de cebolla",
+                    "ortolan",
+                    "hawaiana",
+                    "jamon o chorizo",
+                    "de atun",
+                    "de camarones",
+                    "de jamon serrano",
+                    "pizza nel paradiso"
+                ],
+                "pizza_price": [
+                    1144,
+                    1232,
+                    1325,
+                    1496,
+                    2288,
+                    1760,
+                    2640,
+                    2640,
+                    2816,
+                    2992
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "flan de caramelo",
+                    "bola de helado",
+                    "copa de helado",
+                    "tarta del dia"
+                ],
+                "dessert_price": [
+                    800,
+                    200,
+                    895,
+                    980
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza nacional",
+                    "cerveza importada",
+                    "corona/heineken",
+                    "copa de vino tinto",
+                    "copa de vino blanco",
+                    "sidra",
+                    "freixenet",
+                    "coctel paradiso",
+                    "manhattan",
+                    "blody mary"
+                ],
+                "alcohol_price": [
+                    375,
+                    330,
+                    600,
+                    600,
+                    550,
+                    3000,
+                    6000,
+                    870,
+                    720,
+                    825
+                ],
+                "infusions_list": [
+                    "expresso",
+                    "cortado",
+                    "americano",
+                    "capuchino"
+                ],
+                "infusions_price": [
+                    300,
+                    375,
+                    350,
+                    400
+                ],
+                "non_alcoholic_list": [
+                    "jugos naturales",
+                    "batido de fruta natural",
+                    "malteada",
+                    "batido de helado",
+                    "agua natural",
+                    "refresco nacional",
+                    "refresco importado",
+                    "energizante",
+                    "red bull",
+                    "kermato"
+                ],
+                "non_alcoholic_price": [
+                    270,
+                    450,
+                    675,
+                    987,
+                    260,
+                    300,
+                    350,
+                    330,
+                    600,
+                    600
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Internacional",
+            "Bar",
+            "Criolla"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Guarderia",
+            "Wifi",
+            "A la carta",
+            "A domicilio"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

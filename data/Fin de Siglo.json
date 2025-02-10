@@ -1,0 +1,211 @@
+{
+    "general_info": {
+        "name": "Fin de Siglo",
+        "township": "Centro Habana",
+        "adress": "Aguila entre San Martin y San Rafael",
+        "local": "bar-restaurante",
+        "open": "10:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas de la casa",
+                    "tabla de jamon y queso",
+                    "picadera fin de siglo"
+                ],
+                "appetizers_price": [
+                    700,
+                    1200,
+                    2500
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo salteado con vegetales"
+                ],
+                "main_price": [
+                    800
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espaghetti de queso blanco",
+                    "espaghetti de queso blanco con jamon",
+                    "espaghetti de queso blanco con chorizo",
+                    "espaghetti de queso blanco con pollo",
+                    "espaghetti de queso gouda",
+                    "espaghetti de queso gouda con jamon",
+                    "espaghetti de queso gouda con chorizo"
+                ],
+                "pasta_price": [
+                    900,
+                    1000,
+                    1000,
+                    850,
+                    1200,
+                    1400,
+                    1400
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza de queso blanco",
+                    "pizza de queso blanco con jamon",
+                    "pizza de queso blanco con chorizo",
+                    "pizza de queso blanco hawaiana",
+                    "pizza de queso gouda",
+                    "pizza de queso gouda con jamon",
+                    "pizza de queso gouda con chorizo",
+                    "pizza de queso gouda hawaiana"
+                ],
+                "pizza_price": [
+                    800,
+                    950,
+                    950,
+                    1500,
+                    1200,
+                    1400,
+                    1400,
+                    1800
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza dispensada",
+                    "caipirinha",
+                    "caipirissima",
+                    "caipiroska",
+                    "daiquiri",
+                    "daiquiri rebelde",
+                    "margarita",
+                    "cubata",
+                    "cuba libre",
+                    "3 anhos",
+                    "carta blanca",
+                    "especial",
+                    "pacto navio",
+                    "cuban spiced",
+                    "ron santiago",
+                    "jameson",
+                    "clan sampbell",
+                    "vat 69",
+                    "ballantines",
+                    "old partner",
+                    "red label",
+                    "beeffatter",
+                    "jagger",
+                    "tequila silver",
+                    "tequila reposado",
+                    "tequila chocolate",
+                    "rua vieja",
+                    "amaretto",
+                    "chelada",
+                    "michelada"
+                ],
+                "alcohol_price": [
+                    400,
+                    550,
+                    550,
+                    660,
+                    550,
+                    550,
+                    990,
+                    550,
+                    550,
+                    550,
+                    550,
+                    330,
+                    440,
+                    20000,
+                    550,
+                    880,
+                    1100,
+                    990,
+                    990,
+                    13500,
+                    35000,
+                    1100,
+                    440,
+                    990,
+                    880,
+                    990,
+                    1100,
+                    880,
+                    770,
+                    880
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "refresco"
+                ],
+                "non_alcoholic_price": [
+                    300
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "italiana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

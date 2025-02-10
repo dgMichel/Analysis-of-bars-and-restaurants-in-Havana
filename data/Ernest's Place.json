@@ -1,0 +1,337 @@
+{
+    "general_info": {
+        "name": "Ernest's Place",
+        "township": "Habana del Este",
+        "adress": "Calle Los Pinos, esquina F y Foxa, Cojimar",
+        "local": "restaurante",
+        "open": "08:00",
+        "close": "24:00",
+        "days_of_week": [],
+        "sector": "privado",
+        "capability": 15,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "chicharritas",
+                    "mani natural",
+                    "mani picante",
+                    "tamales",
+                    "tostones naturales",
+                    "tostones de ajo",
+                    "croquetas de pollo",
+                    "croquetas de pescado",
+                    "fritura de malanga",
+                    "papas fritas",
+                    "tostones rellenos de jamon y queso",
+                    "tostones gratinados",
+                    "fajitas de pollo",
+                    "pica-pica",
+                    "rollito de jamon y queso",
+                    "ceviche",
+                    "eperlan",
+                    "fajitas de cerdo",
+                    "fajitas de pechuga",
+                    "taco de vegetales",
+                    "quesadillas",
+                    "taco de jamon y queso",
+                    "taco de pollo salteado",
+                    "taco de cerdo salteado",
+                    "taco de pechuga salteado",
+                    "taco hawaiano de pollo",
+                    "taco hawaiano de pechuga",
+                    "taco hawaiano de cerdo",
+                    "taco hawaiano de pescado",
+                    "taco imperial de cerdo",
+                    "taco imperial de pechuga",
+                    "taco imperial de pescado",
+                    "taco ernest place"
+                ],
+                "appetizers_price": [
+                    100,
+                    120,
+                    150,
+                    250,
+                    170,
+                    190,
+                    320,
+                    350,
+                    320,
+                    450,
+                    550,
+                    480,
+                    1000,
+                    800,
+                    920,
+                    1300,
+                    1530,
+                    1280,
+                    1250,
+                    620,
+                    750,
+                    700,
+                    1050,
+                    1190,
+                    1170,
+                    1170,
+                    1680,
+                    1700,
+                    2000,
+                    1720,
+                    1700,
+                    2000,
+                    2300
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "arroz moro",
+                    "arroz frito"
+                ],
+                "garnishes_price": [
+                    200,
+                    250,
+                    1100
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "higado italiano",
+                    "cordero",
+                    "lonjas de cerdo ahumada",
+                    "lonjas de cerdo a la avilena",
+                    "lonjas de cerdo asado",
+                    "masa frita",
+                    "chuleton de cerdo ahumado",
+                    "polllo grille",
+                    "pollo salteado",
+                    "pollo en fajitas",
+                    "pollo empanado",
+                    "pollo encebollado",
+                    "pollo al ajillo",
+                    "pollo frito",
+                    "pollo gratinado",
+                    "pollo a la milanesa",
+                    "pollo en suprema gratinada",
+                    "pollo montado de jamon y queso",
+                    "gordon blue de pollo",
+                    "bistec grille de cerdo",
+                    "fajitas de cerdo",
+                    "empanado de cerdo",
+                    "bistec de cerdo al ajo",
+                    "bistec de cerdo encebollado",
+                    "cerdo salteado",
+                    "cerdo gratinado",
+                    "supremo gratinado de cerdo",
+                    "cerdo montado de jamon y queso",
+                    "bistec uruguayo de cerdo",
+                    "pechuga grille",
+                    "pechuga salteada",
+                    "pechuga en fajitas",
+                    "pechuga empanada",
+                    "pechuga encebollada",
+                    "pechuga al ajillo",
+                    "pechuga gratinada",
+                    "pechuga a la milanesa",
+                    "pechuga suprema gratinada",
+                    "pechuga en montado de jamon y queso",
+                    "gordon blue de pechuga"
+                ],
+                "main_price": [
+                    1800,
+                    2200,
+                    1500,
+                    2100,
+                    2100,
+                    3000,
+                    2800,
+                    1200,
+                    1300,
+                    1300,
+                    1300,
+                    1330,
+                    1300,
+                    1280,
+                    1380,
+                    1450,
+                    1450,
+                    1480,
+                    1530,
+                    1380,
+                    1480,
+                    1480,
+                    1580,
+                    1680,
+                    1460,
+                    1600,
+                    1750,
+                    1720,
+                    1900,
+                    1340,
+                    1370,
+                    1450,
+                    1450,
+                    1620,
+                    1500,
+                    1500,
+                    1700,
+                    1700,
+                    1650,
+                    1820
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "pescado a la plancha",
+                    "eperlan de pescado",
+                    "pescado empanado",
+                    "pescado encebollado",
+                    "pescado al ajo",
+                    "pescado montetoro",
+                    "gratinado de pescado",
+                    "montado de pescado de jamon y queso",
+                    "pescado canciller"
+                ],
+                "sea_food_price": [
+                    1620,
+                    1730,
+                    1730,
+                    1925,
+                    1850,
+                    1980,
+                    1750,
+                    1930,
+                    2150
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghettis napolitanos",
+                    "spaghettis de jamon y queso",
+                    "spaghettis a la carbonara"
+                ],
+                "pasta_price": [
+                    1100,
+                    1300,
+                    1320
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [
+                    "cebolla",
+                    "ajo",
+                    "pimiento",
+                    "ensalada mixta",
+                    "jamon",
+                    "chorizo",
+                    "queso",
+                    "queso especial",
+                    "pina"
+                ],
+                "adds_price": [
+                    300,
+                    150,
+                    350,
+                    250,
+                    270,
+                    300,
+                    350,
+                    450,
+                    200
+                ]
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "caipirissima",
+                    "habana special",
+                    "mary pickford",
+                    "cuba libre",
+                    "ron collins",
+                    "daiquiri",
+                    "presidente",
+                    "cubanito",
+                    "cubata",
+                    "mojito",
+                    "mojito mafia",
+                    "dark sea",
+                    "pina colada de fresa",
+                    "pina colada"
+                ],
+                "alcohol_price": [
+                    460,
+                    380,
+                    380,
+                    360,
+                    480,
+                    500,
+                    420,
+                    450,
+                    550,
+                    500,
+                    520,
+                    550,
+                    850,
+                    800
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "limonada",
+                    "pina colada de fresa virgen",
+                    "pina colada virgen"
+                ],
+                "non_alcoholic_price": [
+                    400,
+                    800,
+                    750
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Comida mixta"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

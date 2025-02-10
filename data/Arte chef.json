@@ -1,0 +1,250 @@
+{
+    "general_info": {
+        "name": "Arte chef",
+        "township": "Plaza de la Revolucion",
+        "adress": "Calle A entre calle 3 y calle 5",
+        "local": "bar-restaurante",
+        "open": "07:00",
+        "close": "19:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "frituras de malanga",
+                    "fajitas de pollo",
+                    "croquetas de pollo"
+                ],
+                "appetizers_price": [
+                    500,
+                    700,
+                    450
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz congri",
+                    "arroz blanco",
+                    "tostones",
+                    "tamal"
+                ],
+                "garnishes_price": [
+                    150,
+                    100,
+                    150,
+                    100
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "bistec de pollo grille",
+                    "pechuga de pollo grille",
+                    "bistec de cerdo",
+                    "cerdo asado",
+                    "lomo de cerdo grille"
+                ],
+                "main_price": [
+                    1300,
+                    1500,
+                    1500,
+                    1800,
+                    1900
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado grille",
+                    "langosta grille",
+                    "langosta mariposa",
+                    "enchilado de langosta",
+                    "camarones al ajillo",
+                    "enchilado de camarones"
+                ],
+                "sea_food_price": [
+                    2000,
+                    2700,
+                    2700,
+                    2750,
+                    2200,
+                    2600
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza cristal de lata",
+                    "heineken de lata",
+                    "michelada",
+                    "sangria",
+                    "jarra de sangria",
+                    "tinto de verano",
+                    "mojito",
+                    "cuba libre",
+                    "daiquiri",
+                    "habana club 3 anhos",
+                    "habana club 7 anhos",
+                    "habana club reserva",
+                    "habana club seleccion de maestros",
+                    "hc profundo",
+                    "hc dark room",
+                    "hc edicion especial",
+                    "hc spiced",
+                    "hc ritual",
+                    "ron santiago",
+                    "santero aguardiente",
+                    "whisky clan campbell",
+                    "whisky jaminson",
+                    "whisky jb",
+                    "chivas regal",
+                    "ballentines",
+                    "vodka absolut",
+                    "vodka cirot",
+                    "tequila dorado",
+                    "tequila blanco",
+                    "omega alto",
+                    "don julio tequila",
+                    "don mateo destilado",
+                    "tanqueray",
+                    "vino blanco",
+                    "cinzano blanco",
+                    "campari",
+                    "ron malibu",
+                    "ricard 45 anis",
+                    "benedicto penha",
+                    "pisco italia",
+                    "licor sambuca",
+                    "licor ensena",
+                    "pisco quebranta aguardiente",
+                    "licor molineri de cafe",
+                    "licor khalua de cafe"
+                ],
+                "alcohol_price": [
+                    320,
+                    350,
+                    650,
+                    650,
+                    2120,
+                    550,
+                    600,
+                    600,
+                    550,
+                    300,
+                    690,
+                    530,
+                    1700,
+                    800,
+                    500,
+                    500,
+                    600,
+                    600,
+                    800,
+                    300,
+                    1400,
+                    1500,
+                    1500,
+                    1500,
+                    1500,
+                    770,
+                    800,
+                    530,
+                    500,
+                    700,
+                    700,
+                    500,
+                    1600,
+                    550,
+                    700,
+                    550,
+                    700,
+                    1000,
+                    1000,
+                    500,
+                    600,
+                    600,
+                    500,
+                    600,
+                    600
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "agua natural",
+                    "refresco importado",
+                    "malta importada",
+                    "limonada",
+                    "limonada frappe"
+                ],
+                "non_alcoholic_price": [
+                    200,
+                    260,
+                    300,
+                    350,
+                    350
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            " Musica"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "general_info": {
+        "name":"La casa del campesino",
+        "township":"La Lisa",
+        "adress":"",
+        "local":"restaurante",
+        "open":"11:00",
+        "close":"23:00",
+        "days_of_week":[],
+        "sector":"privado",
+        "capability":null,
+        "social_network":[],
+        "years":null
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":false,
+        "tips_included":null,
+        "delivery":false
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers":{
+                "appetizers_list":[
+                    "entremes de embutido y queso",
+                    "ensalada fria",
+                    "croquetas"
+                ],
+                "appetizers_price":[
+                    350,
+                    150,
+                    200
+                ]
+            },
+            "garnishes":{
+                "garnishes_list":[
+                    "vianda frita"
+                ],
+                "garnishes_price":[
+                    120
+                ]
+            },
+            "hamburger":{
+                "hamburger_list":[],
+                "hamburger_price":[]
+            },
+            "bread":{
+                "bread_list":[],
+                "bread_price":[]
+            },
+            "main":{
+                "main_list":[
+                    "chuleta de cerdo",
+                    "bistec de cerdo",
+                    "costilla de cerdo",
+                    "pollo asado"
+                ],
+                "main_price":[
+                    1600,
+                    1350,
+                    1600,
+                    650
+                ]
+            },
+            "sea_food":{
+                "sea_food_list":[],
+                "sea_food_price":[]
+            },
+            "pasta":{
+                "pasta_list":[],
+                "pasta_price":[]
+            },
+            "pizza":{
+                "pizza_list":[],
+                "pizza_price":[]
+            },
+            "adds":{
+                "adds_list":[],
+                "adds_price":[]
+            },
+            
+            "dessert":{
+                "dessert_list":[
+                    "mermelada de mango con queso",
+                    "fruta en almibar"
+                ],
+                "dessert_price":[
+                    190,
+                    160
+                ]
+            },
+            "drinks":{
+                "alcohol_list":[
+                    "cerveza presidente",
+                    "cerveza parranda",
+                    "cerveza bucanero",
+                    "cerveza moosehead",
+                    "cerveza cristal",
+                    "cerveza super bock"
+                ],
+                "alcohol_price":[
+                    180,
+                    180,
+                    180,
+                    180,
+                    180,
+                    180
+                ],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":[
+                    "agua mineral"
+                ],
+                "non_alcoholic_price":[
+                    88
+                ]
+            }
+        },
+        "popular_food":[],
+        "popular_drink":[],
+        "food_especialization":[],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":false,
+        "blackout_alternatives":false,
+        "entertainment":[],
+        "peak_hour":[],
+        "tourism":null,
+        "pets":null,
+        "bathroom":null,
+        "heated":null
+    }
+}

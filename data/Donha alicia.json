@@ -1,0 +1,385 @@
+{
+    "general_info": {
+        "name": "Donha Alicia",
+        "township": "Centro Habana",
+        "adress": "Esquina calle Reina y Padre Varela",
+        "local": "bar-restaurante",
+        "open": "12:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "tacos de camaron",
+                    "tacos de pollo",
+                    "tacos al pastor",
+                    "coctel de langosta",
+                    "tostones rellenos con jamon y queso",
+                    "bolitas de queso",
+                    "fritura de malanga",
+                    "tacos de pollo en salsa pico de gallo",
+                    "tacos de cerdo en salsa de pico de gallo"
+                ],
+                "appetizers_price": [
+                    1500,
+                    1000,
+                    1025,
+                    1000,
+                    700,
+                    1450,
+                    560,
+                    1250,
+                    1200
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "tostones naturales",
+                    "vegetales de temporada",
+                    "arroz blanco",
+                    "arroz moro",
+                    "toston al ajo",
+                    "arroz frito con camaron",
+                    "arroz frito",
+                    "arroz marinero"
+                ],
+                "garnishes_price": [
+                    250,
+                    350,
+                    220,
+                    320,
+                    350,
+                    2450,
+                    1825,
+                    2600
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "fajita pollo crema",
+                    "montado de pollo, jamon y queso",
+                    "pollo gratinado",
+                    "pollo donha alicia",
+                    "fajitas de pollo a la campesina",
+                    "pollo entero relleno",
+                    "bistec de cerdo gratinado con jamon y queso",
+                    "masas de cerdo italianas",
+                    "masas de cerdo con salsa agridulce",
+                    "masa de cerdo con mojo criollo",
+                    "lomo deshuesado con mojo criollo",
+                    "lomo ahumado al graten",
+                    "lomo ahumado agridulce",
+                    "fajitas de cerdo a la campesina",
+                    "ropa vieja de cerdo con salsa de tomate",
+                    "ropa vieja de cerdo sin salsa de tomate",
+                    "lomo ahumado grille",
+                    "lomo deshuesado al graten",
+                    "lomo deshuesado en salsa de cebolla",
+                    "fricase de cerdo",
+                    "ropa vieja res con salsa de tomate",
+                    "ropa vieja res sin salsa de tomate",
+                    "ropa vieja de cordero sin salsa de tomate",
+                    "ropa vieja de cordero con salsa de tomate",
+                    "estofado de cordero al vino tinto",
+                    "chilindron de cordero",
+                    "bistec de la abuela con mjo criollo",
+                    "bistec de la abuela con salsa de cebolla"
+                ],
+                "main_price": [
+                    2700,
+                    2500,
+                    2375,
+                    3250,
+                    2400,
+                    1000,
+                    2200,
+                    3500,
+                    2350,
+                    2350,
+                    2000,
+                    2500,
+                    2250,
+                    2200,
+                    1900,
+                    1820,
+                    2000,
+                    2125,
+                    2000,
+                    2600,
+                    1995,
+                    1970,
+                    1675,
+                    1700,
+                    2300,
+                    2200,
+                    1700,
+                    2000
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "langosta salteada al ajo",
+                    "langosta grille con salsa de la casa",
+                    "enchilado de langosta",
+                    "langosta termidor",
+                    "camaron termidor",
+                    "camaron salteado con ajo",
+                    "camarones enchilados",
+                    "pulpo salteado al ajo",
+                    "pulpo enchilado",
+                    "pescado gratinado jamon y queso",
+                    "dados de pescado al ajo",
+                    "dados de pescado en salsa cubana",
+                    "pescado grille con salsa de la casa",
+                    "dados de pescado en salsa italiana",
+                    "pescado del dia"
+                ],
+                "sea_food_price": [
+                    3150,
+                    3000,
+                    3500,
+                    3125,
+                    3000,
+                    2600,
+                    2800,
+                    2625,
+                    2750,
+                    27500,
+                    2200,
+                    2430,
+                    2100,
+                    2900,
+                    1950
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "lasanha de jamon",
+                    "espaguetis con jamon y queso gouda",
+                    "espaguetis con camarones y queso gouda",
+                    "espaguetis carbonara",
+                    "espaguetis napoles con gouda",
+                    "espaguetis con atun",
+                    "canelon de camaron",
+                    "canelones de jamon",
+                    "espaguetis en salsa blanca cremosa con parmesano y albahaca natural",
+                    "espaguettis de vegetales con grana padano"
+                ],
+                "pasta_price": [
+                    1650,
+                    1510,
+                    2220,
+                    2115,
+                    1105,
+                    1660,
+                    1850,
+                    1650,
+                    1500,
+                    1650
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza de jamon",
+                    "pizza de camarones",
+                    "pizza de atuan",
+                    "pizza de bacon",
+                    "pizza napolitana",
+                    "pizza de aji y cebolla",
+                    "pizza estilo margarita",
+                    "pizza ropa vieja de cerdo",
+                    "pizza 4 queso",
+                    "pizza hawaiana",
+                    "pizza de salsa pesto",
+                    "pizza al pastor",
+                    "pizza de ropa vieja de res"
+                ],
+                "pizza_price": [
+                    1600,
+                    2000,
+                    1750,
+                    2000,
+                    1150,
+                    1550,
+                    1250,
+                    1800,
+                    2000,
+                    1625,
+                    1200,
+                    2000,
+                    2150
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "cake de chocolate (porcion)",
+                    "cisne",
+                    "trufa de chocolate",
+                    "eclear",
+                    "rosca reyes",
+                    "arroz con leche",
+                    "cheesecake de fresa (porcion)",
+                    "tortica"
+                ],
+                "dessert_price": [
+                    850,
+                    95,
+                    160,
+                    530,
+                    350,
+                    580,
+                    520,
+                    100
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza importada modelo especial",
+                    "cerveza presidente",
+                    "heineken botella 330 ml",
+                    "johnnie walker etiqueta roja",
+                    "chivas regal 12 (750ml)",
+                    "h.c seleccion de maestros",
+                    "h.c anhejo reserva",
+                    "h.c anhejo especial",
+                    "tequila olmeca silver",
+                    "cerveza nacional cristal",
+                    "ron santiago de cuba carta blanca (700ml)",
+                    "whisky black & white (750ml)",
+                    "whisky j/w black label (750ml)",
+                    "ron santiago de cuba anhejo 12",
+                    "black tears (700ml)",
+                    "cerveza corona",
+                    "h.c.pacto navio",
+                    "cerveza presidente licht",
+                    "vt frontera merlot (botella)",
+                    "espumoso cava mistinguett brut",
+                    "espumoso cava brut reserva mistinguett",
+                    "espumoso gran baron cava brut",
+                    "vt frontera cabernet sauvignon (mercado)",
+                    "vb frontera chardonay (mercado)",
+                    "vt frontera merlot (mercado)",
+                    "espumoso torre de la vid (brut)",
+                    "vino espumoso rocamar (brut)",
+                    "vino rosado espumoso calavinha",
+                    "vino blanco espumoso calavinha brut",
+                    "cava brut rose gran baron",
+                    "vino blanco espumoso semisecos condelier"
+                ],
+                "alcohol_price": [
+                    650,
+                    595,
+                    495,
+                    9050,
+                    19500,
+                    8950,
+                    4300,
+                    2625,
+                    5800,
+                    440,
+                    3500,
+                    4125,
+                    17500,
+                    12000,
+                    2000,
+                    660,
+                    10000,
+                    570,
+                    2300,
+                    3800,
+                    3800,
+                    3800,
+                    2100,
+                    2100,
+                    2100,
+                    2750,
+                    2750,
+                    2500,
+                    2500,
+                    2250,
+                    2625
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "malta nacional bucanero",
+                    "pepsi cola de lata",
+                    "refresco importado 7 up",
+                    "jugo kermato",
+                    "red bull",
+                    "agua tonica mg",
+                    "agua natural buona",
+                    "refresco santa naranja",
+                    "agua gaseada tehuacan",
+                    "refresco ritz cola"
+                ],
+                "non_alcoholic_price": [
+                    405,
+                    380,
+                    320,
+                    710,
+                    900,
+                    600,
+                    280,
+                    350,
+                    650,
+                    345
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica grabada"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

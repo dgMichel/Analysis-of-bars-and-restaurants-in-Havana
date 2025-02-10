@@ -1,0 +1,164 @@
+{
+    "general_info": {
+        "name": "Home Deli",
+        "township": "Playa",
+        "adress": "Calle 12 entre 23 y 21",
+        "local": "restaurante",
+        "open": "09:00",
+        "close": "21:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "Home Deli",
+            "@homedelicuba"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "chips mariflye",
+                    "focaccina"
+                ],
+                "appetizers_price": [
+                    380,
+                    400
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "serrano",
+                    "chorizo iberico",
+                    "pepperoni",
+                    "jamon york",
+                    "mozarella",
+                    "gouda"
+                ],
+                "garnishes_price": [
+                    850,
+                    550,
+                    700,
+                    720,
+                    980,
+                    700
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich de queso gouda",
+                    "sandwich de jamon serrano",
+                    "sandwich de chorizo iberico",
+                    "sandwich de mortadella",
+                    "sandwich de jamon york"
+                ],
+                "bread_price": [
+                    1400,
+                    1600,
+                    1300,
+                    1300,
+                    1300
+                ]
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza margarita",
+                    "pizza baby"
+                ],
+                "pizza_price": [
+                    1900,
+                    1100
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "copa de helado"
+                ],
+                "dessert_price": [
+                    950
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "copa de vino",
+                    "vaso de cerveza",
+                    "jarra de cerveza"
+                ],
+                "alcohol_price": [
+                    600,
+                    220,
+                    380
+                ],
+                "infusions_list": [
+                    "expresso",
+                    "cortado",
+                    "americano",
+                    "con leche"
+                ],
+                "infusions_price": [
+                    250,
+                    320,
+                    300,
+                    450
+                ],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "italiana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

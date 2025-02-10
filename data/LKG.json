@@ -1,0 +1,142 @@
+{
+    "general_info": {
+        "name": "LKG",
+        "township": "La Lisa",
+        "adress": "",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "22:00",
+        "days_of_week": [],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": null,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "Arroz Frito"
+                ],
+                "garnishes_price": [
+                    600
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "Bistec",
+                    "Fricase",
+                    "Pollo"
+                ],
+                "main_price": [
+                    900,
+                    900,
+                    1200  
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "Cangrejo",
+                    "Langosta",
+                    "Rueda Pescado",
+                    "Pescado Entero"    
+                ],
+                "sea_food_price": [
+                    550,
+                    1400,
+                    950,
+                    950    
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [
+                    "Pizza de Jamon",
+                    "Pizza de Queso",
+                    "Pizza de doble queso",
+                    "Pizza de queso gouda"    
+                ],
+                "pizza_price": [
+                    300,
+                    200,
+                    250,
+                    250    
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "Cerveza"
+                ],
+                "alcohol_price": [
+                    250
+                ],
+                "infusions_list": [
+                    "espresso"
+                ],
+                "infusions_price": [
+                    20
+                ],
+                "non_alcoholic_list": [
+                    "Agua mineral",
+                    "Refresco importado",
+                    "Batidos de frutas"    
+                ],
+                "non_alcoholic_price": [
+                    150,
+                    230,
+                    235    
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Caribbean"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

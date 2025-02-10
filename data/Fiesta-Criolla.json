@@ -1,0 +1,177 @@
+{
+    "general_info": {
+        "name": "Fiesta Criolla",
+        "township": "Arroyo Naranjo",
+        "adress": "Calle 100 #1003 (despues del puente de calabazar), Arroyo Naranjo",
+        "local": "restaurante",
+        "open": "12:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": 0
+    },
+    "economy": {
+        "payment_methods": ["efectivo","transferencia"],
+        "online_reservation": false,
+        "tips_included": false,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "toston criollo",
+                    "toston relleno con jamon y queso",
+                    "toston relleno con atun",
+                    "eperlan",
+                    "fajitas de pollo",
+                    "caldo de mariscos",
+                    "camaron rebosado",
+                    "tamal en hojas",
+                    "fritura de malanga",
+                    "platano frito",
+                    "alitas de pollo"
+                ],
+                "appetizers_price": [
+                    500,
+                    600,
+                    700,
+                    1300,
+                    1300,
+                    1000,
+                    2000,
+                    90,
+                    500,
+                    350,
+                    850
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo asado",
+                    "pechuga grille",
+                    "pechuga gratinada jamon y queso",
+                    "chuleta",
+                    "pechuga salteada con vegetales",
+                    "lomo ahumado",
+                    "lomo deshuesado ahumado",
+                    "costillas fritas",
+                    "masa frita",
+                    "bistec grille",
+                    "bistec gratinado de jamon y queso",
+                    "ropa vieja",
+                    "suprema carnero",
+                    "fricase de carnero",
+                    "camaron grille"
+                ],
+                "main_price": [
+                    1150,
+                    1450,
+                    1600,
+                    1350,
+                    1550,
+                    1350,
+                    1550,
+                    1400,
+                    1550,
+                    1450,
+                    1600,
+                    1500,
+                    1800,
+                    1500,
+                    1900
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "langosta grille",
+                    "pulpo grille",
+                    "pescado grille",
+                    "rueda pescado grille",
+                    "pescado grille gratinado con jamon y queso",
+                    "don pedro",
+                    "masa de cangrejo",
+                    "caldero de mariscos",
+                    "mar y tierra",
+                    "paella",
+                    "mariscada"
+                ],
+                "sea_food_price": [
+                    1900,
+                    2000,
+                    1300,
+                    1300,
+                    1450,
+                    2300,
+                    1050,
+                    3500,
+                    3950,
+                    2300,
+                    2500,
+                    1000
+                ]
+            },
+            "pasta": {
+                "pasta_list": ["spaghettis napolitanos","spaghettis con Jamon y Queso"],
+                "pasta_price": [1000,1250]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": ["dulce tres leches"],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "house_especiality": ["don pedro"],
+        "food_especialization": [
+            "cubana"
+        ]
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,227 @@
+{
+    "general_info": {
+        "name": "Kopas",
+        "township": "Habana del Este",
+        "adress": "Esquina de 5ta Avenida, #482, Guanabo",
+        "local": "bar-restaurante",
+        "open": "10:00",
+        "close": "23:30",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "tacos de camaron",
+                    "tacos de res",
+                    "tacos de cerdo",
+                    "tacos de langosta",
+                    "tacos de pescado",
+                    "fritura de malanga",
+                    "tostones rellenos de camaron",
+                    "tostones rellenos de jamon y queso"
+                ],
+                "appetizers_price": [
+                    1250,
+                    995,
+                    975,
+                    1350,
+                    975,
+                    750,
+                    1100,
+                    975
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "brochetas de pollo",
+                    "fajitas de pollo empanadas",
+                    "bistec de pollo grille",
+                    "pechuga de pollo en salsa de jengibre y ajonjoli",
+                    "pollo al limon y al oregano",
+                    "pollo a la parmesana",
+                    "pollo al ajo y vino blanco",
+                    "fajitas de pollo a la pina y miel",
+                    "pollo princesa",
+                    "lomo de cerdo ahumado con salsa barbecue",
+                    "lomo de cerdo ahumado con salsa agridulce",
+                    "lomo de cerdo ahumado encebollado",
+                    "fajitas de cerdo a la pina y miel",
+                    "uruguayo de cerdo",
+                    "bistec de cerdo princesa",
+                    "masa de cerdo al estilo kopas",
+                    "bistec de cerdo encebollado",
+                    "bistec de res encebollado",
+                    "fajitas de res",
+                    "mignon salsa del chef",
+                    "ropa vieja",
+                    "uruguayo de res",
+                    "vaca frita",
+                    "brochetas de cerdo",
+                    "mar y tierra"
+                ],
+                "main_price": [
+                    1550,
+                    1450,
+                    1250,
+                    1450,
+                    1350,
+                    1650,
+                    1350,
+                    1275,
+                    1650,
+                    1850,
+                    1875,
+                    1775,
+                    1875,
+                    2250,
+                    2000,
+                    1875,
+                    1550,
+                    1750,
+                    1750,
+                    1850,
+                    1575,
+                    2250,
+                    1450,
+                    1850,
+                    3650
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "brochetas de langosta",
+                    "langosta enchilada",
+                    "langosta grille",
+                    "camaron enchilado",
+                    "camaron grille",
+                    "camaron empanado",
+                    "camarones al ajillo",
+                    "langosta al ajillo",
+                    "brochetas de camaron",
+                    "camaron tropical",
+                    "filete de pescado costa sur",
+                    "dados de pescado al ajillo",
+                    "filete a la deutch",
+                    "filete de pescado princesa",
+                    "filete de pescado en salsa de limon",
+                    "langosta a las brasas",
+                    "lomo de pescado a las brasas",
+                    "rueda de albacora a las brasas"
+                ],
+                "sea_food_price": [
+                    2350,
+                    2475,
+                    2100,
+                    2300,
+                    2000,
+                    2300,
+                    2200,
+                    2250,
+                    2100,
+                    3250,
+                    2650,
+                    1750,
+                    1750,
+                    2150,
+                    1975,
+                    2350,
+                    2200,
+                    1775
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "vodka ciroc red berry",
+                    "whisky jameson",
+                    "whisky j&b rare",
+                    "whisky elliot hall",
+                    "whisky chanceler",
+                    "whisky ballantines"
+                ],
+                "alcohol_price": [
+                    8900,
+                    8500,
+                    5900,
+                    4900,
+                    2900,
+                    8500
+                ],
+                "infusions_list": [
+                ],
+                "infusions_price": [
+                ],
+                "non_alcoholic_list": [
+                ],
+                "non_alcoholic_price": [
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Comida mixta"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

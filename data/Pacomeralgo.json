@@ -1,0 +1,188 @@
+{
+    "general_info": {
+        "name": "Pacomeralgo",
+        "township": "La Lisa",
+        "adress": "",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "22:00",
+        "days_of_week": [],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": null,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "entremes de jamon y queso",
+                    "entremes de aceitunas",
+                    "croquetas",
+                    "papas fritas",
+                    "picadera paco"    
+                ],
+                "appetizers_price": [
+                    450,
+                    300,
+                    300,
+                    333,
+                    850    
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "Pan con hamburguesa"
+                ],
+                "hamburger_price": [
+                    450
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "Sandwich de queso",
+                    "sandwich de jamon",
+                    "Sandwich de jamon y queso",
+                    "Sandwich de atun"    
+                ],
+                "bread_price": [
+                    400,
+                    400,
+                    450,
+                    450    
+                ]
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "Lasagna",
+                    "espaguetis napolitanos",
+                    "espaguetis de jamon",
+                    "espaguetis de chorizo",
+                    "espaguetis de atun"    
+                ],
+                "pasta_price": [
+                    615,
+                    600,
+                    720,
+                    720,
+                    790    
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "Pizza de queso",
+                    "Pizza de Jamon",
+                    "Pizza de Chorizo",
+                    "Pizza de Cebolla",
+                    "Pizza de Aji",
+                    "Pizza de Aceituna",
+                    "Pizza hawaiana",
+                    "Pizza de pasas con pinas",
+                    "pizza de atun",
+                    "pizza paco"    
+                ],
+                "pizza_price": [
+                    600,
+                    770,
+                    770,
+                    750,
+                    730,
+                    780,
+                    820,
+                    730,
+                    840,
+                    1000    
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "Cervezas"
+                ],
+                "alcohol_price": [
+                    250
+                ],
+                "infusions_list": [
+                    "expresso",
+                    "americano",
+                    "cortadito",
+                    "Bombon"    
+                ],
+                "infusions_price": [
+                    150,
+                    150,
+                    220,
+                    350    
+                ],
+                "non_alcoholic_list": [
+                    "Refresco de Cola",
+                    "Refresco de limon",
+                    "refresco de naranja",
+                    "jugo pequeno",
+                    "jugo grande",
+                    "malta",
+                    "malteada",
+                    "energizante",
+                    "Yogurt vaso"    
+                ],
+                "non_alcoholic_price": [
+                    250,
+                    250,
+                    250,
+                    250,
+                    900,
+                    350,
+                    650,
+                    350,
+                    200    
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Italian"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

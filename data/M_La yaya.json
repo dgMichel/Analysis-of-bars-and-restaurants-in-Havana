@@ -1,0 +1,178 @@
+{
+    "general_info": {
+        "name": "La yaya",
+        "township": "Marianao",
+        "adress": "100 Y 51",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "11:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "superpicadera",
+                    "tostones rellenos",
+                    "frituras de malanga",
+                    "papas fritas",
+                    "croquetas"
+                ],
+                "appetizers_price": [
+                    2500,
+                    600,
+                    500,
+                    500,
+                    600
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "jamon",
+                    "queso",
+                    "salami"
+                ],
+                "garnishes_price": [
+                    260,
+                    260,
+                    200
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa",
+                    "hamburguesa yuya"
+                ],
+                "hamburger_price": [
+                    400,
+                    900
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "pan con jamon",
+                    "pan con perro"
+                ],
+                "bread_price": [
+                    350,
+                    280
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "fajitas de pollo con papa"
+                ],
+                "main_price": [
+                    900
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaguettis con queso gouda",
+                    "spaguettis doble queso"
+                ],
+                "pasta_price": [
+                    700,
+                    1000
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza doble queso",
+                    "pizza de jamon"
+                ],
+                "pizza_price": [
+                    1000,
+                    1300,
+                    1350
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "helados gusto"
+                ],
+                "dessert_price": [
+                    1000
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cervezas importadas",
+                    "cerveza cubelazo",
+                    "termo de cerveza"
+                ],
+                "alcohol_price": [
+                    250,
+                    2700,
+                    2000
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "refrescos importados",
+                    "jugo de lata",
+                    "jugos caja",
+                    "malta santa isabel"
+                ],
+                "non_alcoholic_price": [
+                    250,
+                    280,
+                    650,
+                    280
+                ]
+            }
+        },
+        "popular_food": [
+            "Espaguetti"
+        ],
+        "popular_drink": [
+            "Cerveza"
+        ],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica grabada"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

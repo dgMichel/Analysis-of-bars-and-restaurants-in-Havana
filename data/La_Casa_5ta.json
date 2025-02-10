@@ -1,0 +1,330 @@
+{
+    "general_info": {
+        "name":"La Casa 5ta",
+        "township":"Habana del Este",
+        "adress":"ave 5ta esquina 472",
+        "local":"restaurante",
+        "open":"09:00",
+        "close":"23:00",
+        "days_of_week":[],
+        "sector":"privado",
+        "capability":42,
+        "social_network":[],
+        "years":null
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":null,
+        "tips_included":null,
+        "delivery":null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers":{
+                "appetizers_list":[
+                    "tostones naturales",
+                    "tostones relleno jamon",
+                    "tostones relleno atun",
+                    "croquetas",
+                    "coctel de camarones",
+                    "eperlan",
+                    "fajitas de pollo",
+                    "entremes de jamon y queso",
+                    "garbanzo frito",
+                    "papas fritas",
+                    "chicharritas",
+                    "picadera casa 5ta",
+                    "bolitas de queso",
+                    "ceviche",
+                    "coctel de langosta"
+                ],
+                "appetizers_price":[
+                    300,
+                    680,
+                    875,
+                    400,
+                    1150,
+                    1200,
+                    1200,
+                    800,
+                    1000,
+                    500,
+                    300,
+                    3100,
+                    600,
+                    750,
+                    1150
+                ]
+            },
+            "garnishes":{
+                "garnishes_list":[
+                    "arroz frito",
+                    "arroz moro",
+                    "arroz blanco",
+                    "arroz pilaf",
+                    "arroz salvaje con pulpo",
+                    "vianda frita",
+                    "ensalada mixta"
+                ],
+                "garnishes_price":[
+                    1350,
+                    200,
+                    200,
+                    300,
+                    1500,
+                    300,
+                    300
+                ]
+            },
+            "hamburger":{
+                "hamburger_list":[],
+                "hamburger_price":[]
+            },
+            "bread":{
+                "bread_list":[],
+                "bread_price":[]
+            },
+            "main":{
+                "main_list":[
+                    "pechuga grille",
+                    "pechuga rellena",
+                    "gordon blue",
+                    "pollo frito",
+                    "pollo al curry",
+                    "cordero montannes",
+                    "chilindron de cordero",
+                    "uruguayo",
+                    "lomo ahumado",
+                    "lomo tres capas",
+                    "bistec de cerdo",
+                    "lomo encebollado",
+                    "filete mignon",
+                    "ropa vieja",
+                    "bistec de res",
+                    "higado de res"
+                ],
+                "main_price":[
+                    1500,
+                    1875,
+                    1850,
+                    1300,
+                    1600,
+                    2900,
+                    2500,
+                    1775,
+                    1675,
+                    1950,
+                    1500,
+                    1675,
+                    2300,
+                    1900,
+                    2000,
+                    1200
+                ]
+            },
+            "sea_food":{
+                "sea_food_list":[
+                    "paella marinera",
+                    "paella mixta",
+                    "canciller",
+                    "langosta al gusto",
+                    "camaron al gusto",
+                    "filete de pescado grille",
+                    "pulpo al gusto",
+                    "grillada mar y tierra",
+                    "grillada de mar",
+                    "cazuela del mar"
+                ],
+                "sea_food_price":[
+                    2900,
+                    3050,
+                    1800,
+                    2150,
+                    2150,
+                    1500,
+                    2800,
+                    3700,
+                    3400,
+                    3400
+                ]
+            },
+            "pasta":{
+                "pasta_list":[
+                    "pasta napolitana",
+                    "lasanna"
+                ],
+                "pasta_price":[
+                    975,
+                    1525
+                ]
+            },
+            "pizza":{
+                "pizza_list":[
+                    "pizza napolitana"
+                ],
+                "pizza_price":[
+                    975
+                ]
+            },
+            "adds":{
+                "adds_list":[
+                    "chorizo",
+                    "jamon",
+                    "champinnones",
+                    "camarones",
+                    "langosta",
+                    "aceitunas",
+                    "pinna",
+                    "vegetales",
+                    "atun",
+                    "bacon"
+                ],
+                "adds_price":[
+                    300,
+                    360,
+                    225,
+                    800,
+                    800,
+                    200,
+                    100,
+                    200,
+                    525,
+                    350
+                ]
+            },
+            
+            "dessert":{
+                "dessert_list":[
+                    "flan"
+                ],
+                "dessert_price":[
+                    500
+                ]
+            },
+            "drinks":{
+                "alcohol_list":[
+                    "cerveza nacional",
+                    "cerveza importada",
+                    "licores nacionales",
+                    "sake",
+                    "havana club 3 annos",
+                    "havana club especial",
+                    "havana club reserva",
+                    "havana club 7 annos",
+                    "seleccion de maestros",
+                    "ginebra",
+                    "vodka",
+                    "tequila",
+                    "crema de whiskey",
+                    "whiskey chivas regal",
+                    "whiskey white label",
+                    "whiskey red label",
+                    "whiskey black label",
+                    "brandy",
+                    "ron ritual",
+                    "ron santiago 12 annos",
+                    "ron legendario",
+                    "pinna colada",
+                    "sangria",
+                    "copa de vino",
+                    "tinto verano",
+                    "daiquiri",
+                    "mojito",
+                    "cuba libre",
+                    "cubata",
+                    "ron collins",
+                    "gin tonic",
+                    "bloody mary",
+                    "caipirinna",
+                    "caipirisima",
+                    "michelada"
+                ],
+                "alcohol_price":[
+                    450,
+                    350,
+                    180,
+                    100,
+                    180,
+                    200,
+                    220,
+                    400,
+                    870,
+                    230,
+                    400,
+                    400,
+                    220,
+                    870,
+                    240,
+                    850,
+                    870,
+                    200,
+                    250,
+                    870,
+                    200,
+                    550,
+                    1400,
+                    650,
+                    1400,
+                    550,
+                    650,
+                    530,
+                    580,
+                    500,
+                    550,
+                    550,
+                    550,
+                    550,
+                    200
+                ],
+                "infusions_list":[
+                    "cafe espreso",
+                    "cafe cortado",
+                    "cafe americano",
+                    "cafe capuccino"
+                ],
+                "infusions_price":[
+                    100,
+                    180,
+                    120,
+                    350
+                ],
+                "non_alcoholic_list":[
+                    "agua natural",
+                    "agua gaseada",
+                    "jugos naturales",
+                    "batido de frutas",
+                    "refrescos nacionales",
+                    "refrescos importados",
+                    "malta",
+                    "bebidas energeticas"
+                ],
+                "non_alcoholic_price":[
+                    250,
+                    350,
+                    300,
+                    450,
+                    325,
+                    350,
+                    350,
+                    350
+                ]
+            }
+        },
+        "popular_food":["Bistec uruguayo"],
+        "popular_drink":[],
+        "food_especialization":["Criolla"],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":null,
+        "blackout_alternatives":null,
+        "entertainment":[],
+        "peak_hour":[],
+        "tourism":null,
+        "pets":null,
+        "bathroom":null,
+        "heated":null
+    }
+}

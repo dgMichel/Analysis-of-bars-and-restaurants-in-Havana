@@ -1,0 +1,345 @@
+{
+    "general_info": {
+        "name": "Ranchon El Pinarenno",
+        "township": "Boyero",
+        "adress": "Calle 16(202) % Calle 9(405) & Calle 7(403), Santiago de las Vegas",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": true,
+        "tips_included": false,
+        "delivery": true,
+        "online_reservations": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "coctel de langosta",
+                    "tostones rellenos con carnero",
+                    "maripositas de la casa",
+                    "fritura de malanga",
+                    "croquetas",
+                    "bolita de carne",
+                    "coctel de camaron",
+                    "fajitas de pollo",
+                    "fajitas de cerdo",
+                    "eperlan",
+                    "tamal"
+                ],
+                "appetizers_price": [
+                    1000,
+                    360,
+                    400,
+                    350,
+                    400,
+                    500,
+                    600,
+                    700,
+                    700,
+                    600,
+                    600
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "ensalada mixta"
+                ],
+                "garnishes_price": [
+                    200
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "ropa vieja de res",
+                    "bistec de res grille",
+                    "bistec de res encebollado",
+                    "uruguayo de res",
+                    "estofado de res",
+                    "picadillo a la habanera",
+                    "fricase de cerdo",
+                    "ropa vieja de cerdo",
+                    "bistec de cerdo",
+                    "bistec de cerdo encebollado",
+                    "escalope de cerdo",
+                    "fajitas de cerdo salteadas",
+                    "masa frita",
+                    "bistec uruguayo de cerdo",
+                    "lonjas de cerdo",
+                    "costillas",
+                    "costillas al ajillo",
+                    "costillas encebolladas",
+                    "chuletas",
+                    "chuletas al ajillo",
+                    "chuleta encebollada",
+                    "lonjas de cerdo a la parilla",
+                    "bistec de pollo",
+                    "pollo a la juliana",
+                    "pollo gratinado",
+                    "golden blue de pollo",
+                    "ropa vieja de carnero",
+                    "chilindron de carnero"
+                ],
+                "main_price": [
+                    500,
+                    900,
+                    960,
+                    1300,
+                    1100,
+                    650,
+                    1200,
+                    500,
+                    800,
+                    850,
+                    850,
+                    700,
+                    1200,
+                    1200,
+                    1000,
+                    1200,
+                    1280,
+                    1300,
+                    1200,
+                    1280,
+                    1300,
+                    1000,
+                    800,
+                    830,
+                    900,
+                    1000,
+                    400,
+                    1200
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "camaron a su eleccion",
+                    "langosta enchilada",
+                    "langosta a la mariposa",
+                    "pescado grille",
+                    "pescado empanizado",
+                    "canciller"
+                ],
+                "sea_food_price": [
+                    1200,
+                    2000,
+                    2000,
+                    900,
+                    950,
+                    1200
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "flan",
+                    "cake"
+                ],
+                "dessert_price": [
+                    250,
+                    350
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "7 Annos Havana Club",
+                    "Barcelo Annejo",
+                    "Barcelo Blanco",
+                    "Barcelo Dorado",
+                    "Barcelo Extra Annejo",
+                    "Especial Havana Club",
+                    "Pacto de Navio Havana Club",
+                    "Reserva Havana Club",
+                    "Ritual Havana Club",
+                    "Ron Blanco Havana Club",
+                    "Ron Blanco Santiago",
+                    "Ron Santiago 12 Annos",
+                    "Smoky Havana Club",
+                    "Aguardiente",
+                    "Ballantines",
+                    "Brandy Torres",
+                    "Chivas 12 Annos",
+                    "Crema de Baileys",
+                    "Crema de Wiscky",
+                    "Ginebra",
+                    "JW Etiqueta Roja",
+                    "Jamerson",
+                    "Old Star",
+                    "Tequila",
+                    "Tequila Reposado",
+                    "Vino Tinto",
+                    "Vodka",
+                    "Blood Mary",
+                    "Caipirisima",
+                    "caipirina",
+                    "Caipiroska",
+                    "Chelada",
+                    "Gintonic",
+                    "Ron collins",
+                    "Sangria",
+                    "Cubalibre",
+                    "Cubanito",
+                    "Cubata",
+                    "Malteada",
+                    "Michelada",
+                    "Cafe Carajillo",
+                    "Rocio Criollo",
+                    "Cristal Lata",
+                    "Cristal botella",
+                    "Corono botella",
+                    "Sol",
+                    "Bucanero Botella"
+                ],
+                "alcohol_price": [
+                    500,
+                    1000,
+                    800,
+                    1000,
+                    1000,
+                    450,
+                    500,
+                    450,
+                    450,
+                    400,
+                    400,
+                    1000,
+                    500,
+                    500,
+                    1000,
+                    1000,
+                    1000,
+                    1000,
+                    600,
+                    500,
+                    1000,
+                    1000,
+                    1000,
+                    500,
+                    500,
+                    400,
+                    1000,
+                    550,
+                    550,
+                    550,
+                    550,
+                    550,
+                    550,
+                    550,
+                    550,
+                    550,
+                    550,
+                    550,
+                    600,
+                    600,
+                    350,
+                    350,
+                    300,
+                    300,
+                    380,
+                    350,
+                    300
+                ],
+                "infusions_list": [
+                    "cafe americano",
+                    "cafe bombom",
+                    "cafe con leche",
+                    "cafe cortadito",
+                    "cafe expreso",
+                    "cafe frapuchino"
+                ],
+                "infusions_price": [
+                    150,
+                    350,
+                    300,
+                    250,
+                    150,
+                    350
+                ],
+                "non_alcoholic_list": [
+                    "malta bucanero",
+                    "limonada frape",
+                    "limonada frecura",
+                    "limonada natural",
+                    "tigon",
+                    "malta bucanero",
+                    "pepsi",
+                    "7 up",
+                    "agua natural",
+                    "red bull",
+                    "jugo de lata",
+                    "jugo de caja"
+                ],
+                "non_alcoholic_price": [
+                    300,
+                    450,
+                    550,
+                    450,
+                    300,
+                    300,
+                    250,
+                    250,
+                    180,
+                    500,
+                    250,
+                    180
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "criollo",
+            "grill"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "music"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "general_info": {
+        "name": "D'kmino",
+        "township": "Playa",
+        "adress": "Av 41 e/ 30 y 34",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "DKmino",
+            "@dkaminocomidasaludable"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas de la abuela",
+                    "frituras de malanga y jamon",
+                    "empanadas de la casa",
+                    "carpaccio de ternera aceite trufas y destellos de parmesano",
+                    "berenjenas a la parmesana",
+                    "quesadilla marinera",
+                    "tostas y tacos de res o camaron",
+                    "ensalada cesar con dados de pollo show",
+                    "chorizo gallego al carbon con queso manchego",
+                    "ceviche de pescado y calamares crujientes",
+                    "steak tartar show",
+                    "calamares a la romana con salsa tartara y aceite de sesamo",
+                    "burrata fresca con aceite de truffas tomate y aguacate",
+                    "yaquitori de langosta crujiente con salsa chipotle",
+                    "provoleta con blanqueta tomate y pimiento asado",
+                    "tamal relleno con lonjas de cerdo y huevo frito"
+                ],
+                "appetizers_price": [
+                    1000,
+                    1700,
+                    1700,
+                    1700,
+                    1700,
+                    1700,
+                    1700,
+                    1700,
+                    1700,
+                    1700,
+                    1700,
+                    945,
+                    2100,
+                    2255,
+                    3335,
+                    2955
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "jamon barra",
+                    "jamon serrano",
+                    "queso gouda",
+                    "queso parmesano",
+                    "bacon",
+                    "pepperoni",
+                    "chorizo asturiano",
+                    "camaron",
+                    "huevo",
+                    "aceitunas",
+                    "cebolla"
+                ],
+                "garnishes_price": [
+                    500,
+                    650,
+                    500,
+                    800,
+                    500,
+                    550,
+                    550,
+                    600,
+                    400,
+                    500,
+                    450
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "pan con chicharrones carnudos y guacamole",
+                    "pan cubano el guapo"
+                ],
+                "bread_price": [
+                    1655,
+                    3555
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "milanesa de pollo con mini ensalada cesar",
+                    "pollo entero relleno de arroz moro y bacon",
+                    "costillas de cerdo caramelizadas con pure de boniato y jengibre",
+                    "churrasco de filete de cerdo con salsa de guayaba y mostaza dijon",
+                    "cerdo asado a lo cubana",
+                    "tamaribs de cerdo 340g con papas fritas",
+                    "bife de chorizo",
+                    "picanha chilena",
+                    "fricando de ternera estofado",
+                    "straccettis con cebolla y jamon",
+                    "solomillo de ternera con papas asadas y crema de piquillos",
+                    "tagliata de res o cerdo queso bifido curado rucula fresca y aceite de truffas",
+                    "punta de filete al ajillo con mostaza"
+                ],
+                "main_price": [
+                    2955,
+                    2955,
+                    4145,
+                    2945,
+                    8500,
+                    4500,
+                    7255,
+                    8000,
+                    4500,
+                    3500,
+                    4550,
+                    7500,
+                    4550
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "zarzuela de mariscos langosta camaron pescado y pulpo",
+                    "gambon argentino al ajillo",
+                    "filete de pescado con vegetales orientales",
+                    "filete de pescado frito con crujientes de cebolla frita y aderezo"
+                ],
+                "sea_food_price": [
+                    5500,
+                    3555,
+                    3755,
+                    2950
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pastas largas y cortas a la piedra",
+                    "pasta alfredo",
+                    "pasta aglio e olio con dados de tomate"
+                ],
+                "pasta_price": [
+                    3100,
+                    2950,
+                    2755
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "real pizza italiana 33 cm",
+                    "pizza imperial"
+                ],
+                "pizza_price": [
+                    2300,
+                    3655
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "cookies recien horneadas con helado y cremas",
+                    "cheesecake",
+                    "tres leche con fanguito y helado",
+                    "brownie de nueces y helado de pistacho",
+                    "es mas que un flan"
+                ],
+                "dessert_price": [
+                    2000,
+                    2000,
+                    2000,
+                    2000,
+                    2000
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "caribenna",
+            "latina",
+            "cubana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

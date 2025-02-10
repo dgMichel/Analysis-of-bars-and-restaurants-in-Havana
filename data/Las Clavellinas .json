@@ -1,0 +1,239 @@
+{
+    "general_info": {
+        "name": "Las Clavellinas ",
+        "township": "Habana Vieja",
+        "adress": "Villegas entre Obrapia y Obispo",
+        "local": "restaurante",
+        "open": "09:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "racion de croquetas",
+                    "tostones de ajo y queso",
+                    "entremes de la casa"
+                ],
+                "appetizers_price": [
+                    900,
+                    900,
+                    1500
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "vianda frita",
+                    "vianda hervida",
+                    "ensalada de vegetales",
+                    "vegetales salteados",
+                    "arroces del dia"
+                ],
+                "garnishes_price": [
+                    600,
+                    600,
+                    600,
+                    600,
+                    600
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo",
+                    "cerdo",
+                    "carne roja"
+                ],
+                "main_price": [
+                    3500,
+                    3500,
+                    3500
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "pescado",
+                    "mariscos",
+                    "paella mixta al estilo rieumont",
+                    "paella de carne",
+                    "paella de marisco"
+                ],
+                "sea_food_price": [
+                    3500,
+                    3500,
+                    3500,
+                    3500,
+                    3500
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "risotto mixto",
+                    "risotto de carne",
+                    "risotto de marisco"
+                ],
+                "pasta_price": [
+                    3500,
+                    3500,
+                    3500
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napoles"
+                ],
+                "pizza_price": [
+                    3000
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza importada",
+                    "chelada importada",
+                    "michelada importada",
+                    "cerveza nacional",
+                    "chelada nacional",
+                    "michelada nacional",
+                    "mojito",
+                    "daiquiri",
+                    "cuba libre",
+                    "cubata",
+                    "caipirisima",
+                    "habana especial",
+                    "cubanito",
+                    "presidente",
+                    "gin tonic",
+                    "pinha colada",
+                    "bloody mary",
+                    "margarita",
+                    "caipirinha",
+                    "caipiroska",
+                    "screw driver",
+                    "martini",
+                    "sangria",
+                    "jarra de sangria",
+                    "copa de vino"
+                ],
+                "alcohol_price": [
+                    600,
+                    600,
+                    600,
+                    600,
+                    900,
+                    900,
+                    2400,
+                    2400,
+                    2400,
+                    2400,
+                    2400,
+                    2400,
+                    2400,
+                    2400,
+                    2700,
+                    2700,
+                    2700,
+                    2700,
+                    2700,
+                    2700,
+                    2700,
+                    2700,
+                    2700,
+                    9000,
+                    1200
+                ],
+                "infusions_list": [
+                    "cafe cubano",
+                    "cafe cortado",
+                    "cafe capuccino",
+                    "cafe carajillo",
+                    "infusiones"
+                ],
+                "infusions_price": [
+                    300,
+                    300,
+                    300,
+                    600,
+                    600
+                ],
+                "non_alcoholic_list": [
+                    "agua natural",
+                    "agua importada",
+                    "batidos",
+                    "sueros de helado",
+                    "jugos naturales",
+                    "limonada frappe",
+                    "jarra de limonada frappe",
+                    "limonada frappe con hierba buena",
+                    "jarra de limonada frappe con hierba buena",
+                    "refresco"
+                ],
+                "non_alcoholic_price": [
+                    300,
+                    600,
+                    900,
+                    900,
+                    600,
+                    600,
+                    2100,
+                    600,
+                    2100,
+                    600
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

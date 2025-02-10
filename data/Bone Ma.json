@@ -1,0 +1,400 @@
+{
+    "general_info": {
+        "name": "Bone Ma",
+        "township": "Plaza de la Revolucion",
+        "adress": "Calle 21 entre M y L",
+        "local": "bar-restaurante",
+        "open": "09:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "papas fritas",
+                    "falafel (fritura de garbanzo)",
+                    "fritura de malanga",
+                    "sopa de vegetales",
+                    "sopa de pollo",
+                    "sopa de lentejas",
+                    "waffle, nutellq, queso crema, mermelada, miel y fruta",
+                    "huevos al gusto, pan, mantequilla, mermelada, fruta de temporada, jugo o cafe",
+                    "huevos al gusto, pan, jamon, queso, mantequilla, jugo o cafe",
+                    "durum kebat (tortilla de harina, pollo asado doner, vegetales y salsa)",
+                    "durum kofte (tortilla de harina, kofte de res, vegetales y salsa)"
+                ],
+                "appetizers_price": [
+                    1050,
+                    1050,
+                    970,
+                    1150,
+                    1350,
+                    1200,
+                    1900,
+                    2100,
+                    2300,
+                    1750,
+                    1750
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "ensalada mixta",
+                    "koban salata",
+                    "caprese",
+                    "ensalada nizarda"
+                ],
+                "garnishes_price": [
+                    950,
+                    1200,
+                    1450,
+                    1800
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa natural smash",
+                    "hamburguesa del falafel",
+                    "hamburguesa smash con bacon y huevo frito",
+                    "hamburguesa smash con aguacate"
+                ],
+                "hamburger_price": [
+                    2150,
+                    1900,
+                    2500,
+                    2250
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich de vegetales",
+                    "sandwich de jamon y queso",
+                    "sandwich de res",
+                    "sandwich de atun",
+                    "sandwich de jamon serrano",
+                    "doner kebat (pan, pollo asado doner, vegetales y salsa)",
+                    "doner falafel (pan, falafel, vegetales y salsa)",
+                    "doner kofte (pan, kofte de res, vegetales y salsa)",
+                    "plato de doner kebat (pollo asado doner, pan, papas fritas, vegetales y salsa)",
+                    "plato de iskender kebat (pollo asado doner, pan, mantequilla, salsa de tomate, yogurt y vegetales)",
+                    "plato de kofte de res (kofte de res, pan, papas fritas, vegetales y salsa)"
+                ],
+                "bread_price": [
+                    1300,
+                    1650,
+                    1800,
+                    1700,
+                    2250,
+                    1700,
+                    1300,
+                    1750,
+                    2300,
+                    2400,
+                    2500
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pechuga de pollo grille",
+                    "pechuga de pollo enchilada",
+                    "schnitzel de pollo (pechuga de pollo empanizada)",
+                    "ropa vieja de res"
+                ],
+                "main_price": [
+                    2350,
+                    2450,
+                    3000,
+                    2800
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado grille",
+                    "langosta grille",
+                    "langosta al ajillo",
+                    "langosta enchilada",
+                    "camarones grille",
+                    "camarones al ajillo",
+                    "camarones enchilados",
+                    "pulpo grille",
+                    "pulpo al ajillo",
+                    "pulpo enchilado"
+                ],
+                "sea_food_price": [
+                    5500,
+                    4500,
+                    4500,
+                    4500,
+                    4500,
+                    4500,
+                    4500,
+                    6000,
+                    6000,
+                    6000
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta napolitana",
+                    "pasta arrabiata",
+                    "pasta pesto",
+                    "pasta bolognesa",
+                    "pasta a la carbonara"
+                ],
+                "pasta_price": [
+                    1900,
+                    2000,
+                    2200,
+                    2800,
+                    2650
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "margarita",
+                    "funghi",
+                    "vegetariana",
+                    "4 quesos",
+                    "hawaiana",
+                    "diabola/pepperoni",
+                    "jamon serrano, rucula y palmesano",
+                    "atun y cebolla"
+                ],
+                "pizza_price": [
+                    2000,
+                    2200,
+                    2300,
+                    2600,
+                    2600,
+                    2700,
+                    3200,
+                    2600
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "flan",
+                    "copa de helado",
+                    "copa lolita"
+                ],
+                "dessert_price": [
+                    700,
+                    900,
+                    1050
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza cristal",
+                    "cerveza bucanero",
+                    "heineken",
+                    "corona",
+                    "servicio de chelada",
+                    "servicio de michelada",
+                    "cuba libre",
+                    "cubata",
+                    "mojito",
+                    "gin basil smash",
+                    "caipirinha",
+                    "strawberry caipi",
+                    "daiquiri",
+                    "strawberry daiquiri",
+                    "pinha colada",
+                    "strawberry colada",
+                    "margarita",
+                    "whisky sour",
+                    "espresso martini",
+                    "sangria",
+                    "yeni raki",
+                    "aperol spritz",
+                    "campari spritz",
+                    "campari soda",
+                    "absolute vodka soda",
+                    "vino tinta (copa)",
+                    "vino blanco(copa)",
+                    "bailileys",
+                    "jagermeistir",
+                    "cinzano rosso",
+                    "martini blanco",
+                    "clan cambell",
+                    "jaminson",
+                    "jack daniels",
+                    "jhonny walker red label",
+                    "jonny walker black label",
+                    "chivas regal 12 anhos",
+                    "ballentines",
+                    "ballentines 12 anhos",
+                    "havana club anhejo 3 anhos",
+                    "havana club anhejo especial",
+                    "havana club anhejo reserva",
+                    "havana club anhejo 7 anhos",
+                    "ron santiago anhejo",
+                    "ron santiago 8 anhos",
+                    "ron santiago 11 anhos",
+                    "seleccion de maestros",
+                    "tanquerai",
+                    "gin mare",
+                    "beefeather",
+                    "london number 1",
+                    "the botanist",
+                    "omelca blanco",
+                    "omelca reposado"
+                ],
+                "alcohol_price": [
+                    600,
+                    600,
+                    750,
+                    800,
+                    250,
+                    300,
+                    1500,
+                    1600,
+                    1600,
+                    1700,
+                    1400,
+                    1550,
+                    1500,
+                    1600,
+                    1700,
+                    1800,
+                    1600,
+                    1650,
+                    1650,
+                    1500,
+                    1300,
+                    1700,
+                    1700,
+                    1600,
+                    1550,
+                    950,
+                    950,
+                    1100,
+                    1200,
+                    1200,
+                    1200,
+                    1200,
+                    1400,
+                    1650,
+                    1400,
+                    1600,
+                    1500,
+                    1100,
+                    1400,
+                    800,
+                    1050,
+                    1100,
+                    1400,
+                    1200,
+                    1650,
+                    2200,
+                    1800,
+                    1600,
+                    1500,
+                    1500,
+                    1900,
+                    2100,
+                    750,
+                    850
+                ],
+                "infusions_list": [
+                    "te",
+                    "cafe espresso",
+                    "cafe crotado",
+                    "cafe americano",
+                    "cafe capuccino",
+                    "frapuccino",
+                    "cafe bombom",
+                    "cafe con leche"
+                ],
+                "infusions_price": [
+                    400,
+                    380,
+                    400,
+                    420,
+                    650,
+                    700,
+                    750,
+                    700
+                ],
+                "non_alcoholic_list": [
+                    "leche con chocolate",
+                    "agua natural",
+                    "agua gaseada",
+                    "agua tonica",
+                    "coca cola/pepsi cola",
+                    "sprite",
+                    "coca cola zero",
+                    "jugo de fruta natural",
+                    "batido de fruta natural",
+                    "limonada natural",
+                    "limonada frappe",
+                    "ayran",
+                    "suero de helado",
+                    "energy drink"
+                ],
+                "non_alcoholic_price": [
+                    700,
+                    450,
+                    750,
+                    700,
+                    600,
+                    600,
+                    600,
+                    600,
+                    950,
+                    500,
+                    550,
+                    500,
+                    1500,
+                    850
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica grabada"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

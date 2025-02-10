@@ -1,0 +1,323 @@
+{
+    "general_info": {
+        "name": "La Juliana",
+        "township": "Centro Habana",
+        "adress": "Esquina de Zanja y San Nicolas",
+        "local": "restaurante",
+        "open": "10:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "platano maduro frito",
+                    "tostones chatinos",
+                    "ensalada de vegetales",
+                    "maripositas chinas",
+                    "caldosa criolla",
+                    "papas fritas",
+                    "ensalada fria",
+                    "frituritas de malanga",
+                    "coctel de camarones",
+                    "tostones rellenos",
+                    "bolitas de queso",
+                    "croquetas de jamon",
+                    "tamal en casuela",
+                    "potaje de garbanzos fritos",
+                    "tacos de cerdo",
+                    "tacos de pollo",
+                    "tacos ropa vieja",
+                    "bastoncitos de pollo",
+                    "club atuan",
+                    "crema de queso",
+                    "crema aurora",
+                    "crema virginia"
+                ],
+                "appetizers_price": [
+                    350,
+                    350,
+                    400,
+                    530,
+                    750,
+                    750,
+                    800,
+                    850,
+                    850,
+                    1150,
+                    1100,
+                    1100,
+                    1150,
+                    1300,
+                    1200,
+                    1400,
+                    1700,
+                    1700,
+                    1300,
+                    780,
+                    800,
+                    960
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz imperial",
+                    "arroz a la chorrera",
+                    "arroz frito"
+                ],
+                "garnishes_price": [
+                    2100,
+                    2450,
+                    2750
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa",
+                    "hamburguesa doble"
+                ],
+                "hamburger_price": [
+                    1300,
+                    2350
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich de jamon y queso",
+                    "sandwich campesino",
+                    "sandwich juliana"
+                ],
+                "bread_price": [
+                    1050,
+                    1450,
+                    1650
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pollo frito/asado",
+                    "pechuga de pollo grille",
+                    "pechuga apanada",
+                    "pechuga salt con vegetales",
+                    "rollo de pechuga",
+                    "pechuga a la crema",
+                    "lomo ahumado",
+                    "bistec de cerdo grille",
+                    "gordon blue",
+                    "escalope de cerdo",
+                    "bistec uruguayo",
+                    "cerdo camaguceyano",
+                    "solomillo de cerdo",
+                    "canciller",
+                    "estofado de res",
+                    "bistec encebollado de res",
+                    "entrecote de res",
+                    "ropa vieja",
+                    "costillas de cerdo bbq"
+                ],
+                "main_price": [
+                    2500,
+                    3000,
+                    3100,
+                    3000,
+                    2800,
+                    3500,
+                    2900,
+                    2470,
+                    3200,
+                    2640,
+                    2800,
+                    2800,
+                    3000,
+                    3900,
+                    3100,
+                    3000,
+                    3000,
+                    3300,
+                    3900
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "camarones grille",
+                    "camarones al ajillo",
+                    "rueda de pescado empanado",
+                    "arroz marinero",
+                    "camarones enchilado",
+                    "enchilado de pescado",
+                    "camaron a la crema",
+                    "rueda de pescado a la crema con camaron"
+                ],
+                "sea_food_price": [
+                    3000,
+                    3150,
+                    3400,
+                    3000,
+                    3600,
+                    3050,
+                    3800,
+                    3650
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "media lasagna",
+                    "lasagna doble",
+                    "canelon",
+                    "espagetti de queso",
+                    "espagetti de jamon",
+                    "espagueti bolognesa",
+                    "espagueti alfredo",
+                    "espagueti juliana",
+                    "espagueti carbonara"
+                ],
+                "pasta_price": [
+                    1500,
+                    3800,
+                    1150,
+                    1100,
+                    1300,
+                    1600,
+                    1800,
+                    1780,
+                    1900
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza de queso",
+                    "pizza de oregano",
+                    "pizza de albahaca",
+                    "pizza de cebolla",
+                    "pizza de pimiento",
+                    "pizza de aceituna",
+                    "pizza de jamon",
+                    "pizza doble de queso",
+                    "pizza de lomo",
+                    "pizza de champinhon",
+                    "pizza de bacon",
+                    "pizza de atuan",
+                    "pizza bolognesa",
+                    "pizza campesina",
+                    "pizza hawaiana",
+                    "pizza de chorizo",
+                    "pizza habanera",
+                    "pizza de serrano",
+                    "pizza de camaron",
+                    "pizza juliana"
+                ],
+                "pizza_price": [
+                    1120,
+                    1300,
+                    1270,
+                    1385,
+                    1430,
+                    1550,
+                    1700,
+                    1800,
+                    1800,
+                    1685,
+                    2050,
+                    1835,
+                    1950,
+                    1820,
+                    1950,
+                    1885,
+                    2200,
+                    2400,
+                    1985,
+                    2250
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "tres gracias",
+                    "flan al caramelo",
+                    "copa lolita",
+                    "cunha de chocolate",
+                    "cunha de chocolate con helado"
+                ],
+                "dessert_price": [
+                    400,
+                    650,
+                    950,
+                    800,
+                    950
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "malteada",
+                    "jugos naturales",
+                    "jugo de mango",
+                    "jugo de pinha",
+                    "coctel de frutas",
+                    "limonadas",
+                    "batidos de frutas",
+                    "suero de helado",
+                    "batido de helado"
+                ],
+                "non_alcoholic_price": [
+                    850,
+                    270,
+                    300,
+                    300,
+                    250,
+                    350,
+                    600,
+                    730,
+                    735
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica grabada"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

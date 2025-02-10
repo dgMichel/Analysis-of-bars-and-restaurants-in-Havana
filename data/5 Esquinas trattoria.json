@@ -1,0 +1,316 @@
+{
+    "general_info": {
+        "name": "5 Esquinas trattoria",
+        "township": "Habana Vieja",
+        "adress": "Calle Habana 104 esquina cuarteles",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "22:30",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            "https://www.instagram.com/5esquinastrattoria?igsh=MXc0c3BjemhhbjZzaA==",
+            "https://www.facebook.com/5esquinastrattoria/"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": true,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "focaccia de la casa",
+                    "cesta de panecillos",
+                    "combinacion de francoise",
+                    "brusqueta mixta",
+                    "ensalada de pulpo y vegetales en pesto de hierbabuena",
+                    "croquetas de la casa",
+                    "tabla de jamon serrano y salami al olivo",
+                    "carpaccio de res al parmesano y alcaparra"
+                ],
+                "appetizers_price": [
+                    1200,
+                    300,
+                    3000,
+                    1200,
+                    2500,
+                    1200,
+                    6000,
+                    2500
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "ensalada griega",
+                    "ensalada cesar",
+                    "ensalada de vegetales frescos",
+                    "ensalada caprese",
+                    "sopa de verduras",
+                    "crema de quewso azul con frutas confitadas",
+                    "gaspacho",
+                    "sopa de vegetales y mariscos",
+                    "tomate",
+                    "pesto a la genovesa",
+                    "ajo, aceite de oliva y peperonchini",
+                    "alfredo",
+                    "sorrentina",
+                    "arrabiata",
+                    "amatriciana",
+                    "bolognesa",
+                    "carbonara",
+                    "mariscos",
+                    "salsa puttanesca"
+                ],
+                "garnishes_price": [
+                    2000,
+                    2000,
+                    1000,
+                    2000,
+                    1200,
+                    1600,
+                    1500,
+                    2000,
+                    2200,
+                    2500,
+                    2500,
+                    2600,
+                    2500,
+                    2500,
+                    2600,
+                    2700,
+                    2700,
+                    3200,
+                    2800
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "solomillo de cerdo",
+                    "filete de res a la milanesa",
+                    "filete de res a la pimienta verde"
+                ],
+                "main_price": [
+                    3900,
+                    4500,
+                    4500
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado en salsa verde",
+                    "suprema de pescado en limon",
+                    "filete de pescado a la milanesa",
+                    "camarones a su gusto"
+                ],
+                "sea_food_price": [
+                    3500,
+                    3500,
+                    3500,
+                    4500
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "lasagna de mejillones y perejil",
+                    "lasagna de mariscos",
+                    "lasagna de frutos secos y judia blanca",
+                    "lasagna a la bolognesa",
+                    "nhoquis a los 4 quesos",
+                    "rabiolis a la mantequilla y ajos",
+                    "rabiolis al pesto",
+                    "rabiolis a la bolognesa",
+                    "berengena palmesana",
+                    "risotto con hongos",
+                    "risotto marinero",
+                    "risotto 5 esquinas"
+                ],
+                "pasta_price": [
+                    3000,
+                    3500,
+                    3000,
+                    3000,
+                    3000,
+                    2800,
+                    2800,
+                    2800,
+                    2800,
+                    3500,
+                    3500,
+                    3500
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza margarita",
+                    "pizza marinara",
+                    "pizza 4 estaciones",
+                    "pizza charcuteria",
+                    "pizza napolitana",
+                    "pizza calzone",
+                    "pizza gultosa",
+                    "pizza 5 esquinas",
+                    "pizza de pepperoni"
+                ],
+                "pizza_price": [
+                    2200,
+                    2000,
+                    2500,
+                    2700,
+                    2600,
+                    2700,
+                    3200,
+                    2800,
+                    2800
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "tiramisu de la casa",
+                    "cheesecake",
+                    "selva negra"
+                ],
+                "dessert_price": [
+                    800,
+                    800,
+                    800
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "mojito",
+                    "pinha colada",
+                    "daiquiri",
+                    "habana special",
+                    "cuba libre",
+                    "cubata",
+                    "caipirinha",
+                    "caipiroska",
+                    "sangria",
+                    "tinto de verano",
+                    "gin tonic",
+                    "vodka tonic",
+                    "cubanito",
+                    "bloody mary",
+                    "margarita",
+                    "copa de vino tinto",
+                    "copa de vino blanco",
+                    "cervezas nacionales",
+                    "cervezas importadas",
+                    "michelada nacional",
+                    "michelada importada"
+                ],
+                "alcohol_price": [
+                    1200,
+                    1200,
+                    1200,
+                    1200,
+                    1200,
+                    1400,
+                    1200,
+                    1200,
+                    1400,
+                    1400,
+                    1600,
+                    1600,
+                    1200,
+                    1200,
+                    1200,
+                    1200,
+                    1200,
+                    600,
+                    550,
+                    900,
+                    800
+                ],
+                "infusions_list": [
+                    "cafe expresso",
+                    "cafe americano",
+                    "cafe capuccino",
+                    "cafe cortado",
+                    "cafe con leche",
+                    "cafe carajillo",
+                    "cafe rocio de gallo",
+                    "te"
+                ],
+                "infusions_price": [
+                    300,
+                    350,
+                    350,
+                    350,
+                    500,
+                    800,
+                    700,
+                    300
+                ],
+                "non_alcoholic_list": [
+                    "agua natural nacional",
+                    "agua gaseada nacional",
+                    "agua gaseada importada",
+                    "agua tonica nacional",
+                    "agua tonica importada",
+                    "refrescos importados",
+                    "jugos naturales",
+                    "limonada natural",
+                    "limoonada frappe"
+                ],
+                "non_alcoholic_price": [
+                    400,
+                    400,
+                    650,
+                    400,
+                    600,
+                    500,
+                    400,
+                    500,
+                    500
+
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": false,
+        "bathroom": null,
+        "heated": null
+    }
+}

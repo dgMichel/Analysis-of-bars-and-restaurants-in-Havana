@@ -1,0 +1,88 @@
+{
+    "general_info": {
+        "name":"Cafe Crystal",
+        "township":"Cotorro",
+        "adress":"Calle 101 #1609 entre 16 y 18, Reparto Centro",
+        "local":"bar-restaurante",
+        "open":"1200",
+        "close":"24:00",
+        "days_of_week":["lunes","martes","miercoles","jueves","viernes","sabado","domingo"],
+        "sector":"privado",
+        "capability":120,
+        "social_network":["Facebook"],
+        "years": 11
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":true,
+        "tips_included":false,
+        "delivery":true 
+    },
+    "food": {
+        "menu": {
+            "appetizers":{
+                "appetizers_list":["crema de queso","crema virginia","entremes de jamon y queso","pica pica Mi Terraza","tostones de jamon y queso","tostones de atun","fajitas de pollo","ensalada de pollo","frituras de malanga","bolitas de queso","croquetas","chicharritas","papas prefitas"],
+                "appetizers_price":[850,1100,1000,1700,1000,1200,1000,400,400,400,400,300,600]
+            },
+            "garnishes":{
+                "garnishes_list":[],
+                "garnishes_price":[]
+            },
+            "hamburger":{
+                "hamburger_list":[],
+                "hamburger_price":[]
+            },
+            "bread":{
+                "bread_list":["sandwich de queso","sandwich de jamon","sandwich de jamon y queso","sandwich de atun","sandwich Mi Terraza"],
+                "bread_price":[700,650,900,1100,1100]
+            },          
+            "main":{
+                "main_list":[],
+                "main_price":[]
+            },
+            "sea_food":{
+                "sea_food_list":[],
+                "sea_food_price":[]
+            },
+            "pasta":{
+                "pasta_list":["spaghetti napolitano","spaghetti de jamon","spaghetti de atun","spaghetti a la carbonara","spaghetti doble queso","canelon"],
+                "pasta_price":[1000,1250,1400,1600,1500,1500]
+            },
+            "pizza":{
+                "pizza_list":["pizza napolitana","pizza hawaiana","pizza Mi Terraza"],
+                "pizza_price":[1200,1700,1800]
+            },
+            "adds":{
+                "adds_list":["doble queso","jamon","cebolla","pinna","atun","aceitunas","chorizo","bacon"],
+                "adds_price":[500,300,250,200,400,400,200,700]
+            },
+            "dessert":{
+                "dessert_list":["batido de helado"],
+                "dessert_price":[600]
+            },
+            "drinks":{
+                "alcohol_list":["chelada"],
+                "alcohol_price":[],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":["limonada frappe","malteada","batido de mango","batido de frutabomba","batido de guayaba"],
+                "non_alcoholic_price":[350,500,550,400,400,400]
+            }
+        },
+        "popular_food":["bistec uruguayo"],
+        "popular_drink":["cerveza"],
+        "food_especialization":["criolla","internacional"],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":true,
+        "blackout_alternatives":false,
+        "entertainment":["actividades para ninnos","cantantes"],
+        "peak_hour":["almuerzo"],
+        "tourism":true,
+        "pets":false,
+        "bathroom":true,
+        "heated": true
+    }
+}

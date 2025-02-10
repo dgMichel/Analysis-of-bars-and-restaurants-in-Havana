@@ -1,0 +1,217 @@
+{
+    "general_info": {
+        "name": "El Tocororo",
+        "township": "Playa",
+        "adress": "Calle 18 entre 5ta. 3ra avenida, Miramar",
+        "local": "restaurante",
+        "open": "12:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "Restaurante BAR Tocororo."
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "panaderia de la casa",
+                    "coctel de langosta",
+                    "coctel de pescado",
+                    "ensalada de pollo tropical",
+                    "dados de queso en escabeche",
+                    "entremes de jamon",
+                    "seviche caribeno",
+                    "picadera especial tocororos",
+                    "frituritas de la abuela",
+                    "croquetas del chef",
+                    "eperlan de pescado",
+                    "mejillones a la diabla"
+                ],
+                "appetizers_price": [
+                    75,
+                    550,
+                    385,
+                    300,
+                    425,
+                    285,
+                    450,
+                    1500,
+                    170,
+                    200,
+                    675,
+                    700
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "arroz moro",
+                    "hortalizas salteadas",
+                    "vianda hervida aderezada con mojo criollo",
+                    "vianda frita",
+                    "papas fritas",
+                    "ensalada de hortalizas del dia",
+                    "sopon campesino",
+                    "frijoles negros a la criolla",
+                    "caldo marinero"
+                ],
+                "garnishes_price": [
+                    110,
+                    200,
+                    100,
+                    100,
+                    100,
+                    150,
+                    100,
+                    80,
+                    180,
+                    195
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo al horno al estilo del chef",
+                    "suprema de pollo perfumada al olivo",
+                    "lonjas de cerdo asado con mojo criollo",
+                    "costilla de cerdo asado a lo cubano",
+                    "higado grille con aderezo primavera",
+                    "ternera guisada a la campesina"
+                ],
+                "main_price": [
+                    820,
+                    850,
+                    1500,
+                    1425,
+                    985,
+                    1550
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "delicias del caribe",
+                    "langosta grille abrillantada con mantequilla y olivo",
+                    "langosta enchilada",
+                    "mejillones a la diabla",
+                    "pesca especial del dia con salsa de limon"
+                ],
+                "sea_food_price": [
+                    1775,
+                    1750,
+                    1700,
+                    1250,
+                    1600
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghetti napolitano",
+                    "spaghetti primavera",
+                    "spaghetti al olio",
+                    "spaghetti guarnecido con jamon",
+                    "spaghetti marinero"
+                ],
+                "pasta_price": [
+                    550,
+                    625,
+                    550,
+                    685,
+                    850
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "deliciosa torta de la casa",
+                    "arroz con leche a la canela",
+                    "dulces en almibar guarnecido con queso",
+                    "helado tocororo"
+                ],
+                "dessert_price": [
+                    285,
+                    200,
+                    200,
+                    180
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [
+                    "cafe expreso",
+                    "cafe cortadito",
+                    "cafe rocio de gallo",
+                    "cafe carajillo",
+                    "cafe americano",
+                    "infusion de manzanilla",
+                    "infusion de menta poleo"
+                ],
+                "infusions_price": [
+                    90,
+                    100,
+                    150,
+                    150,
+                    100,
+                    100,
+                    100
+                ],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "criolla",
+            "caribenna",
+            "latina"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": false,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

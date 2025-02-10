@@ -1,0 +1,129 @@
+{
+    "general_info": {
+        "name": "Restaurante_Europa",
+        "township": "Habana Vieja",
+        "adress": "Obispo #301",
+        "local": "restaurante",
+        "open": "12:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": 130,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "bistec de cerdo grille",
+                    "lonjas de cerdo asada",
+                    "fajitas de cerdo"
+                ],
+                "main_price": [
+                    850,
+                    775,
+                    990
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "langosta entera grille",
+                    "camaron grille",
+                    "camaron enchilado"
+                ],
+                "sea_food_price": [
+                    4500,
+                    1900,
+                    1740
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaguetti napolitano"
+                ],
+                "pasta_price": [
+                    350
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana"
+                ],
+                "pizza_price": [
+                    650
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "gelatina"
+                ],
+                "dessert_price": [
+                    75
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+                
+            }
+        },
+        "popular_food": ["langosta grille"],
+        "popular_drink": [],
+        "food_especialization": [
+            "Criolla"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": false,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,388 @@
+{
+    "general_info": {
+        "name": "Havana Center",
+        "township": "Centro Habana",
+        "adress": "Lagunas",
+        "local": "restaurante",
+        "open": "08:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas de la casa",
+                    "bolitas de queso",
+                    "fajitas de pollo",
+                    "fajitas de cerdo",
+                    "quesadilla de pollo",
+                    "quesadilla de cerdo",
+                    "tostones chatinos",
+                    "tostones rellenas con jamon y queso",
+                    "tostones rellenos con atuan",
+                    "dedos de queso",
+                    "huevo revuelto natural",
+                    "huevo revuelto con vegetales.",
+                    "huevo revuelto con queso",
+                    "huevo revuelto con jamon",
+                    "huevo revuelto con jamon y queso",
+                    "tortilla natural",
+                    "tortilla con vegetales",
+                    "tortilla con queso",
+                    "tortilla con jamon",
+                    "tortilla con jamon y queso"
+                ],
+                "appetizers_price": [
+                    750,
+                    750,
+                    1300,
+                    1500,
+                    1100,
+                    1300,
+                    400,
+                    750,
+                    1200,
+                    750,
+                    500,
+                    550,
+                    600,
+                    600,
+                    650,
+                    425,
+                    475,
+                    475,
+                    475,
+                    540
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz moro",
+                    "arroz",
+                    "vianda frita",
+                    "vegetales salteados",
+                    "arroz amarillo",
+                    "papas fritas"
+                ],
+                "garnishes_price": [
+                    350,
+                    300,
+                    350,
+                    350,
+                    350,
+                    600
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesas sencillas",
+                    "hamburguesas con vegetales",
+                    "hamburguesas con queso",
+                    "hamburguesas con jamon",
+                    "hamburguesas con jamon y queso",
+                    "hamburguesas suaper",
+                    "hamburguesas suaper al burro"
+                ],
+                "hamburger_price": [
+                    380,
+                    400,
+                    450,
+                    460,
+                    500,
+                    750,
+                    850
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich de jamon",
+                    "sandwich de jamon y queso",
+                    "pan con lechon"
+                ],
+                "bread_price": [
+                    300,
+                    350,
+                    600
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "bistec de pollo grille",
+                    "bistec de pollo encebollado",
+                    "bistec gordon blue",
+                    "fajitas de pollo a la pinha",
+                    "fajitas de pollo a la campesina",
+                    "fajitas de pollo empanadas",
+                    "fajitas de pollo encebollado",
+                    "pollo asado",
+                    "pollo frito",
+                    "lomo ahumado",
+                    "bistec de cerdo",
+                    "bistec de cerdo encebollado",
+                    "bistec de cerdo milanesa",
+                    "fajitas de cerdo encebollado",
+                    "fajitas de cerdo a la campesina",
+                    "fajitas de cerdo empanadas",
+                    "ropa vieja de cerdo",
+                    "lonjas de cerdo asado",
+                    "masa de cerdo frita",
+                    "bistec de cerdo uruguayo",
+                    "fricase de cerdo",
+                    "chuleta de cerdo",
+                    "solomillo al jugo",
+                    "fricase de costilla de cerdo",
+                    "chuleton de cerdo asado",
+                    "chuleton de cerdo asado con cebolla",
+                    "chuleton de cerdo gratinado con queso",
+                    "fricase de res",
+                    "bistec uruguayo"
+                ],
+                "main_price": [
+                    1250,
+                    1300,
+                    1700,
+                    1300,
+                    1350,
+                    1400,
+                    1350,
+                    1500,
+                    1500,
+                    1400,
+                    1500,
+                    1550,
+                    1650,
+                    1600,
+                    1600,
+                    1600,
+                    1600,
+                    1600,
+                    1850,
+                    1800,
+                    1850,
+                    1600,
+                    1850,
+                    1800,
+                    2300,
+                    2500,
+                    2800,
+                    2300,
+                    2300
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "pescado frito entero",
+                    "filete de pescado grille",
+                    "filete de pescado encebollado",
+                    "filete de pescado canciller",
+                    "ceviche",
+                    "langosta enchilada",
+                    "langosta a la diabla",
+                    "tabla del mar",
+                    "eperlan"
+                ],
+                "sea_food_price": [
+                    2000,
+                    1200,
+                    1250,
+                    1400,
+                    1350,
+                    2500,
+                    2800,
+                    2500,
+                    1400
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espaguetis napolitano",
+                    "espaguetis con jamon",
+                    "espaguetis de la casa"
+                ],
+                "pasta_price": [
+                    800,
+                    850,
+                    1000
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza jamon",
+                    "pizza cebolla",
+                    "pizza vegetales",
+                    "pizza hawaiana"
+                ],
+                "pizza_price": [
+                    750,
+                    900,
+                    900,
+                    1000,
+                    1200
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza nacional",
+                    "cerveza importada",
+                    "licor triple",
+                    "licor de menta",
+                    "licor de granadina",
+                    "licor de cacao",
+                    "licor de curasao",
+                    "cremas",
+                    "beefeather",
+                    "aguardiente",
+                    "chivas regal 12 anhos",
+                    "black & white",
+                    "ballentine's",
+                    "ballentine's 12 anhos",
+                    "jameson",
+                    "clan campbell",
+                    "old partner",
+                    "blend seven",
+                    "samarskaya",
+                    "iganoff",
+                    "kriloff red",
+                    "kriloff black",
+                    "absolut",
+                    "tequila especial",
+                    "olmeca reposado",
+                    "tequila silver",
+                    "cherry temple",
+                    "pinha colada",
+                    "cuba libre",
+                    "sangria",
+                    "mojito",
+                    "cubata",
+                    "gin tonic ",
+                    "vodka tonic",
+                    "screw driver",
+                    "caipirinha",
+                    "caipiroska",
+                    "daiquiri"
+                ],
+                "alcohol_price": [
+                    300,
+                    250,
+                    150,
+                    150,
+                    250,
+                    150,
+                    250,
+                    350,
+                    350,
+                    250,
+                    300,
+                    350,
+                    350,
+                    400,
+                    350,
+                    400,
+                    180,
+                    200,
+                    250,
+                    200,
+                    200,
+                    200,
+                    450,
+                    600,
+                    600,
+                    450,
+                    250,
+                    450,
+                    450,
+                    450,
+                    450,
+                    450,
+                    500,
+                    500,
+                    450,
+                    450,
+                    450,
+                    500
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "agua natural ciego montero / natural 500ml",
+                    "agua natural ciego montero / natural 1500ml",
+                    "jugos naturales",
+                    "batidos frutas naturales",
+                    "jugos de cajitas",
+                    "refrescos",
+                    "refrescos nacionales",
+                    "maltas nacionales ",
+                    "maltas importadas",
+                    "malteada/ malta con leche",
+                    "energizantes",
+                    "limonada",
+                    "san francisco"
+                ],
+                "non_alcoholic_price": [
+                    150,
+                    300,
+                    250,
+                    400,
+                    260,
+                    300,
+                    260,
+                    300,
+                    320,
+                    500,
+                    300,
+                    250,
+                    350
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica grabada"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

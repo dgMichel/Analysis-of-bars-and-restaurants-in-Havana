@@ -1,0 +1,195 @@
+{
+    "general_info": {
+        "name": "Food Master",
+        "township": "Playa",
+        "adress": "7ma A entre 66 y 70",
+        "local": "restaurante",
+        "open": "10:30",
+        "close": "21:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "Food Master La Habana",
+            "@foodmaster.havana"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "picadera food master",
+                    "salchichas al grill",
+                    "quesadilla",
+                    "tacos",
+                    "croquetas",
+                    "empanadas",
+                    "papas fritas"
+                ],
+                "appetizers_price": [
+                    2700,
+                    1600,
+                    990,
+                    990,
+                    700,
+                    750,
+                    690
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "big master burger",
+                    "hamburguesa suiza",
+                    "hamburguesa max",
+                    "hamburguesa la granja",
+                    "hamburguesa italiana"
+                ],
+                "hamburger_price": [
+                    3500,
+                    2950,
+                    2700,
+                    2550,
+                    2450
+                ]
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza margarita",
+                    "pizza margarita con jamon",
+                    "pizza diavola",
+                    "pizza de jamon serrano",
+                    "pizza de atun",
+                    "la prohibida en italia"
+                ],
+                "pizza_price": [
+                    1900,
+                    2400,
+                    2600,
+                    3200,
+                    3100,
+                    3200
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "empanadas de pinna y queso",
+                    "muffin",
+                    "helado"
+                ],
+                "dessert_price": [
+                    750,
+                    550,
+                    750
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "vino por copa",
+                    "gin & tonic",
+                    "chelada",
+                    "michelada",
+                    "sangria",
+                    "sangria blanca",
+                    "tinto de verano",
+                    "spirit coctel",
+                    "cerveza",
+                    "cerveza gama alta"
+                ],
+                "alcohol_price": [
+                    900,
+                    1200,
+                    900,
+                    1000,
+                    1100,
+                    1100,
+                    900,
+                    800,
+                    600,
+                    800
+                ],
+                "infusions_list": [
+                ],
+                "infusions_price": [
+                ],
+                "non_alcoholic_list": [
+                    "jugo natural",
+                    "jugo cajita",
+                    "fresh de pepino",
+                    "smoothie de frutas",
+                    "batido de helado",
+                    "batido de helado y frutas"
+                ],
+                "non_alcoholic_price": [
+                    500,
+                    400,
+                    300,
+                    600,
+                    750,
+                    750
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "americana",
+            "mexicana",
+            "internacional"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

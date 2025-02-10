@@ -1,0 +1,175 @@
+{
+    "general_info": {
+        "name": "Donna Almira",
+        "township": "Arroyo Naranjo",
+        "adress": "Calle Finlay No.979 % Avenida de Los Pinos y Fernandez de Castro, Arroyo Naranjo",
+        "local": "restaurante",
+        "open": "12:00",
+        "close": "23:00",
+        "days_of_week": [
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+        ],
+        "years": 0
+    },
+    "economy": {
+        "payment_methods": ["efectivo","transferencia"],
+        "online_reservation": true,
+        "tips_included": false,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "tostones rellenos",
+                    "tamal en cazuela",
+                    "vegetales rellenos",
+                    "racion de chicharrones",
+                    "aderezo donna almira",
+                    "salsa agridulce",
+                    "ensalada de chorizo",
+                    "ceviche de pescado"
+                ],
+                "appetizers_price": [
+                    850,
+                    785,
+                    895,
+                    300,
+                    385,
+                    395,
+                    1225,
+                    685
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "Arroz Congris",
+                    "Ensalada Estacion"
+                ],
+                "garnishes_price": [
+                    120,
+                    285
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "bistec americano",
+                    "nasobuco",
+                    "bistec de higado",
+                    "higado a la italiana",
+                    "lomo rostizado",
+                    "pollo donna almira",
+                    "pollo barbacoa",
+                    "pollo salsa agridulce",
+                    "pollo grille",
+                    "pollo en fricase",
+                    "pollo a la pasa",
+                    "pollo grille con camarones",
+                    "cerdo enrrollado asado",
+                    "cerdo enrollado salsa agridulce",
+                    "cerdo enrollado glaseado",
+                    "fricase de cerdo",
+                    "picada a la habanera",
+                    "ropa vieja",
+                    "vaca frita"
+                ],
+                "main_price": [
+                    2430,
+                    1860,
+                    1290,
+                    1380,
+                    2150,
+                    1340,
+                    1195,
+                    1295,
+                    1195,
+                    1200,
+                    1220,
+                    1375,
+                    1545,
+                    1570,
+                    1550,
+                    1520,
+                    1290,
+                    1305,
+                    1260
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "mignnon de pescado grille",
+                    "mignnon de pescado a las finas hierbas",
+                    "mignnon de pescado donna almira",
+                    "mignnon de pescado gratinado",
+                    "mignnon de pescado con queso y bacon"
+                ],
+                "sea_food_price": [
+                    1370,
+                    1410,
+                    1650,
+                    1585,
+                    1720
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "musse variados"
+                ],
+                "dessert_price": [
+                    570
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": ["cafe cubano","cafe cortado"],
+                "infusions_price": [150,180],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "house_especiality": [],
+        "food_especialization": [
+            "cubana"
+        ]
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": false,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

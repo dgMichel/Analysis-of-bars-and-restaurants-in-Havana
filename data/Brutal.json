@@ -1,0 +1,174 @@
+{
+    "general_info": {
+        "name":"Brutal Habana",
+        "township":"Cerro",
+        "adress":"Infanta esquina Calle Universidad, Cerro, La Habana",
+        "local":"restaurante",
+        "open":"12:00",
+        "close":"24:00",
+        "days_of_week":[],
+        "sector":"privado",
+        "capability":null,
+        "social_network":[
+            "@brutal_habana"
+        ],
+        "years":null
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":false,
+        "tips_included":true,
+        "delivery":null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers":{
+                "appetizers_list":[
+                    "brutal junior",
+                    "combo brutal junior",
+                    "papas fritas 100g",
+                    "papas fritas 200g",
+                    "salchipapas",
+                    "salchipapas Brutal",
+                    "croquetas de pollo 5u",
+                    "croquetas de pollo 10u",
+                    "salchipapas Brutal",
+                    "papas fritas Brutal",
+                    "fajitas de pechuga con papas fritas"
+                ],
+                "appetizers_price":[
+                    550,
+                    2550,
+                    300,
+                    600,
+                    500,
+                    1400,
+                    175,
+                    350,
+                    1400,
+                    1100,
+                    1500
+                ]
+            },
+            "garnishes":{
+                "garnishes_list":[],
+                "garnishes_price":[]
+            },
+            "hamburger":{
+                "hamburger_list":[
+                    "hamburguesa Brutal",
+                    "hamburguesa sencilla"
+                ],
+                "hamburger_price":[
+                    3200,
+                    1100
+                ]
+            },
+            "bread":{
+                "bread_list":[
+                    "baguette",
+                    "pan suave",
+                    "croissant",
+                    "pan de hamburguesa",
+                    "baguette Brutal"
+                ],
+                "bread_price":[
+                    150,
+                    120,
+                    450,
+                    150,
+                    2000
+                ]
+            },
+            "main":{
+                "main_list":[],
+                "main_price":[]
+            },
+            "sea_food":{
+                "sea_food_list":[],
+                "sea_food_price":[]
+            },
+            "pasta":{
+                "pasta_list":[],
+                "pasta_price":[]
+            },
+            "pizza":{
+                "pizza_list":[],
+                "pizza_price":[]
+            },
+            "adds":{
+                "adds_list":[
+                    "cebolla",
+                    "pepinillo",
+                    "pimiento",
+                    "tomate",
+                    "aceituna",
+                    "lechuga",
+                    "nutella",
+                    "gomita",
+                    "queso blanco",
+                    "queso cheddar",
+                    "queso cheddar fundido",
+                    "queso curado con trufas",
+                    "queso azul gorgonzola",
+                    "queso gouda",
+                    "queso blanco lombardo"
+                ],
+                "adds_price":[
+                    100,
+                    100,
+                    100,
+                    100,
+                    100,
+                    50,
+                    50,
+                    400,
+                    135,
+                    190,
+                    210,
+                    240,
+                    300,
+                    350,
+                    650
+                ]
+            },
+            
+            "dessert":{
+                "dessert_list":[],
+                "dessert_price":[]
+            },
+            "drinks":{
+                "alcohol_list":[],
+                "alcohol_price":[],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":[
+                    "batido de helado",
+                    "batido de helado con gomitas",
+                    "batido de helado Brutal"
+                ],
+                "non_alcoholic_price":[
+                    1000,
+                    1400,
+                    2000
+                ]
+            }
+        },
+        "popular_food":[],
+        "popular_drink":[],
+        "food_especialization":["Comida Americana"],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":true,
+        "blackout_alternatives":null,
+        "entertainment":[],
+        "peak_hour":[],
+        "tourism":null,
+        "pets":null,
+        "bathroom":null,
+        "heated":null
+    }
+}

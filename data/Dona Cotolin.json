@@ -1,0 +1,272 @@
+{
+    "general_info": {
+        "name": "Dona Cotolin",
+        "township": "Habana del Este",
+        "adress": "Calle 482 entre 5ta Avenida y 5ta D, Guanabo",
+        "local": "bar-restaurante",
+        "open": "11:00",
+        "close": "22:00",
+        "days_of_week": [],
+        "sector": "privado",
+        "capability": 30,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "eperlan de pescado",
+                    "fajitas de pollo",
+                    "frituras de malanga",
+                    "tamal en cazuela",
+                    "tostones rellenos",
+                    "garbanzos fritos",
+                    "mas que taco, es un burrito",
+                    "ensalada fria",
+                    "croquetas de la casa"
+                ],
+                "appetizers_price": [
+                    800,
+                    800,
+                    500,
+                    550,
+                    950,
+                    600,
+                    500,
+                    250
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "arroz congri",
+                    "arroz salteado",
+                    "arroz pilaf"
+                ],
+                "garnishes_price": [
+                    150,
+                    160,
+                    200,
+                    200
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "chuleta de cerdo al carbon",
+                    "costillas de cerdo al carbon",
+                    "masa de cerdo a la brasa",
+                    "lonjas de cerdo asado",
+                    "tabla de la Donna",
+                    "brochetas de cerdo al carbon",
+                    "pollo asado al carbon",
+                    "pollo asado a la pinna",
+                    "paella mar y tierra"
+                ],
+                "main_price": [
+                    1850,
+                    1850,
+                    1800,
+                    2500,
+                    3000,
+                    1500,
+                    1750,
+                    1850,
+                    3000
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "camaron rebosado",
+                    "enchilado de camaron",
+                    "camaron al ajillo",
+                    "camaron hawaiano",
+                    "enchilado de langosta",
+                    "langosta  a la plancha",
+                    "langosta hawaiana",
+                    "pescado frito entero",
+                    "pescado al jugo",
+                    "caldereta de mariscos"
+                ],
+                "sea_food_price": [
+                    1850,
+                    1900,
+                    1850,
+                    2500,
+                    1950,
+                    1900,
+                    2500,
+                    1500,
+                    1850,
+                    3000
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "lasagna de pollo"
+                ],
+                "pasta_price": [
+                    650
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "helados de galletas",
+                    "coco glase",
+                    "arroz con leche"
+                ],
+                "dessert_price": [
+                    500,
+                    650,
+                    400
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "screwdriver",
+                    "cuba libre",
+                    "daiquiri frappe",
+                    "mojito",
+                    "gin tonic",
+                    "caipiroska",
+                    "caipirissima",
+                    "sangria",
+                    "pinna colada",
+                    "canchancara",
+                    "margarita",
+                    "margarita de frutas",
+                    "chelada",
+                    "michelada",
+                    "trago de havana club 3 annos",
+                    "trago de havana club especial",
+                    "trago de havana club 7 annos",
+                    "trago de santiago annejo 8 annos",
+                    "trago de vodka roskof",
+                    "trago de old partner",
+                    "trago de jw red label",
+                    "trago de jw black label",
+                    "trago de jameson",
+                    "trago de ballantine's",
+                    "trago de jaggermeifter",
+                    "trago de olmeca blanco",
+                    "trago de olmeca reposado",
+                    "trago de tequila",
+                    "trago de jose cuervo",
+                    "trago de rua vieja",
+                    "trago de vino blanco",
+                    "trago de vino tinto",
+                    "cerveza cristal",
+                    "cerveza bucanero",
+                    "cerveza importada",
+                    "cerveza corona"
+                ],
+                "alcohol_price": [
+                    450,
+                    400,
+                    400,
+                    400,
+                    550,
+                    450,
+                    450,
+                    500,
+                    500,
+                    400,
+                    450,
+                    450,
+                    150,
+                    250,
+                    200,
+                    200,
+                    250,
+                    300,
+                    280,
+                    350,
+                    450,
+                    650,
+                    350,
+                    350,
+                    650,
+                    530,
+                    450,
+                    300,
+                    320,
+                    350,
+                    700,
+                    300,
+                    400,
+                    450,
+                    350,
+                    350,
+                    230,
+                    550
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "refresco de lata",
+                    "refresco de pomitos",
+                    "maltas",
+                    "jugos naturales",
+                    "agua natural",
+                    "agua tonica",
+                    "energizantes",
+                    "limonada frappe",
+                    "limonada presidente"
+                ],
+                "non_alcoholic_price": [
+                    250,
+                    200,
+                    270,
+                    250,
+                    150,
+                    300,
+                    300,
+                    450,
+                    500
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Cocina criolla y cocteleria"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

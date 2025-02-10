@@ -1,0 +1,405 @@
+{
+    "general_info": {
+        "name": "Toros y Tapas",
+        "township": "Playa",
+        "adress": "Calle 6 #124 e/ 1ra y 3ra, Miramar",
+        "local": "bar-restaurante",
+        "open": "12:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "TOROS & TAPAS",
+            "@torostapashabana"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "tabla mixta de quesos importados",
+                    "carpaccio de ternera",
+                    "ceviche tradicional con panka amarillo",
+                    "tabla de jamon iberico con pan tumaca",
+                    "charcuteria iberica de la casa",
+                    "croquetas de la casa",
+                    "piquillos rellenos de morcillo de ternera en salsa ligeramente trufada",
+                    "callos a la madrilena",
+                    "gambas al ajillo",
+                    "huevos rotos con jamon serrano o iberico",
+                    "pimientos del piquillo rellenos de gambas y chipirones en su tinta",
+                    "manitas de cerdo estofada",
+                    "coctel de ostiones",
+                    "mini tortilla espanola",
+                    "anchoas de santona sobre queso scarmoza",
+                    "burrata ahumada sobre concasse de tomate natural marinado",
+                    "patatas braviolis con crujiente de jamon serrano",
+                    "tentaculo de pulpo (importado) a la plancha"
+                ],
+                "appetizers_price": [
+                    6500,
+                    3900,
+                    2600,
+                    9750,
+                    9750,
+                    2600,
+                    3250,
+                    3250,
+                    2600,
+                    3250,
+                    2600,
+                    2110,
+                    2600,
+                    2600,
+                    3900,
+                    5200,
+                    2600,
+                    2600
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "pure de malanga con crujiente de jamon serrano",
+                    "patatas fritas"
+                ],
+                "garnishes_price": [
+                    650,
+                    975,
+                    1950
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "pan rustico",
+                    "pan baguette con alioli",
+                    "pan chapata con alioli"
+                ],
+                "bread_price": [
+                    650,
+                    650,
+                    650
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "arroz meloso o paella con verduras",
+                    "fideua con costillitas de cerdo y guisantes",
+                    "falso risotto de frutos del mar",
+                    "pierna o paletilla de cabrito lechal al horno con patatas panaderas"
+                ],
+                "main_price": [
+                    3900,
+                    4550,
+                    5200,
+                    9750
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "zarzuela de mariscos",
+                    "parrillada de mariscos",
+                    "calamares a la plancha",
+                    "solomillo de ternera importado",
+                    "pesca del dia",
+                    "paella valenciana",
+                    "paella mixta",
+                    "fideua marinera",
+                    "paella de mariscos",
+                    "arroz negro con calamar y gambas",
+                    "arroz seco trufado de pato con setas",
+                    "arroz meloso con langosta y gambas"
+                ],
+                "sea_food_price": [
+                    11375,
+                    9750,
+                    5200,
+                    9750,
+                    4875,
+                    4550,
+                    4550,
+                    4550,
+                    4550,
+                    5200,
+                    5200,
+                    5200
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "crema catalana",
+                    "coulant de chocolate con helado",
+                    "mini tarta vasca de queso y turron de jijona",
+                    "flan de la casa",
+                    "infusion de arandanos con helado de cereza negra"
+                ],
+                "dessert_price": [
+                    1300,
+                    1950,
+                    1950,
+                    1300,
+                    1950
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza mahou clasica de botella",
+                    "cerveza estrella galicia de botella",
+                    "cerveza super bock de botella",
+                    "cerveza alhambra de botella",
+                    "cerveza estrella galicia (grifo) 300 ml",
+                    "cerveza estrella galicia (grifo) 500 ml",
+                    "tiojito",
+                    "jarra de sangria",
+                    "sangria nevada (con vino blanco)",
+                    "sangria de la casa",
+                    "pina colada",
+                    "daiquiri",
+                    "chelada (salt and lemon)",
+                    "michelada (english sauce, salt and lemon juice)",
+                    "gin tonic con agua tonica importada",
+                    "long island",
+                    "caipirinha (black tear, lemon and sugar)",
+                    "caipirisima (white rum, lemon and sugar)",
+                    "caipiroska (vodka, lemon and sugar)",
+                    "mojito",
+                    "cuba libre con refresco importado",
+                    "cubata con refresco importado",
+                    "bloody mary",
+                    "cubanito",
+                    "mary pickford",
+                    "michelada manolete (homemade sauce, english sauce, salt, lemon juice and tajin)",
+                    "martini",
+                    "tinto de verano (7up and red wine)",
+                    "copa de vino blanco",
+                    "copa de vino tinto",
+                    "moscow mule",
+                    "negroni",
+                    "screwdriver",
+                    "toro loco",
+                    "aperol spritz",
+                    "margarita",
+                    "torres 15",
+                    "licor de cafe",
+                    "ron escarchado",
+                    "tostada escachado",
+                    "pazo pondal licor de hierbas de galicia",
+                    "pazo pondal orujo de galicia (blanco)",
+                    "crema ruavieja",
+                    "cointreau",
+                    "sambuca molinari",
+                    "master's",
+                    "bulldog",
+                    "hendrick",
+                    "tanqueray ten",
+                    "london dry gin no3",
+                    "1800 anejo",
+                    "don julio reposado",
+                    "don julio 70",
+                    "havana club anejo anos",
+                    "havana club 15 annos",
+                    "ron zacapa 23",
+                    "santiago 12 annos",
+                    "santiago 8 annos",
+                    "santiago 11 annos",
+                    "santisima trinidad 7 annos",
+                    "seleccion de maestros",
+                    "j.w. gold label 18 annos",
+                    "gentelman jack",
+                    "jack daniels no. 7",
+                    "singleton",
+                    "wood ford (bourbon)",
+                    "glenlivet founder",
+                    "buchanan's 12 annos deluxe",
+                    "j.w. black label",
+                    "j.w. double black",
+                    "stolichnaya",
+                    "prince igor"
+                ],
+                "alcohol_price": [
+                    650,
+                    815,
+                    815,
+                    975,
+                    975,
+                    1625,
+                    1625,
+                    5850,
+                    1465,
+                    1465,
+                    1950,
+                    1140,
+                    325,
+                    650,
+                    1790,
+                    1950,
+                    1300,
+                    1300,
+                    1300,
+                    1300,
+                    1465,
+                    1625,
+                    1465,
+                    1140,
+                    1140,
+                    815,
+                    1790,
+                    1300,
+                    845,
+                    845,
+                    1300,
+                    1625,
+                    1300,
+                    1625,
+                    1625,
+                    1950,
+                    1300,
+                    975,
+                    975,
+                    975,
+                    1140,
+                    1300,
+                    1140,
+                    1300,
+                    1140,
+                    975,
+                    2600,
+                    2275,
+                    1950,
+                    2600,
+                    3900,
+                    3250,
+                    4875,
+                    815,
+                    6500,
+                    4875,
+                    2600,
+                    1140,
+                    1950,
+                    975,
+                    2600,
+                    4875,
+                    1950,
+                    1625,
+                    6500,
+                    5850,
+                    1950,
+                    2115,
+                    1950,
+                    2600,
+                    1140,
+                    975
+                ],
+                "infusions_list": [
+                    "infusion/te",
+                    "cafe express",
+                    "capuchino",
+                    "cafe irlandes",
+                    "cafe cortado",
+                    "cafe con leche",
+                    "cafe carajillo",
+                    "cafe americano",
+                    "cafe bombon"
+                ],
+                "infusions_price": [
+                    490,
+                    490,
+                    815,
+                    1140,
+                    650,
+                    650,
+                    650,
+                    490,
+                    975
+                ],
+                "non_alcoholic_list": [
+                    "agua natural importada",
+                    "agua tonica mg",
+                    "agua gaseada importada (mondariz)",
+                    "agua gaseada importada (tehuacan)",
+                    "agua gaseada importada (perrier)",
+                    "mirinda (naranja)",
+                    "redbull",
+                    "coca cola",
+                    "7up",
+                    "kermato",
+                    "zumos naturales",
+                    "limonada frappe",
+                    "limonada frappe con hierba buena",
+                    "zumo de tomate (mocito)"
+                ],
+                "non_alcoholic_price": [
+                    815,
+                    815,
+                    1300,
+                    815,
+                    975,
+                    650,
+                    820,
+                    975,
+                    650,
+                    975,
+                    650,
+                    975,
+                    1140,
+                    650
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "caribenna",
+            "mediterranea",
+            "espannola",
+            "cubana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

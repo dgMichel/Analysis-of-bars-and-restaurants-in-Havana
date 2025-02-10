@@ -1,0 +1,244 @@
+{
+    "general_info": {
+        "name": "El Meson de la flota",
+        "township": "Habana Vieja",
+        "adress": "Mercaderes entre Amargura y Teniente Rey",
+        "local": "restaurante",
+        "open": "10:00",
+        "close": "18:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": 80,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "vianda frita",
+                    "tostones rellenos de ropa vieja",
+                    "tostones rellenos de jamon y queso",
+                    "frituras de malanga",
+                    "eperlan de pescado con su alioli",
+                    "bolitas de queso"
+                ],
+                "appetizers_price": [
+                    550,
+                    900,
+                    950,
+                    720,
+                    1500,
+                    750
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo grille",
+                    "masa de cerdo frita",
+                    "bistec de cerdo",
+                    "ropa vieja"
+                ],
+                "main_price": [
+                    1715,
+                    1550,
+                    1740,
+                    1785
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "pesca del chef"
+                ],
+                "sea_food_price": [
+                    1600
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cuba libre",
+                    "habana especial",
+                    "cubata",
+                    "daiquiri frape",
+                    "mojito",
+                    "ron collins",
+                    "mari pickford",
+                    "cuban manhattan",
+                    "cuba bella",
+                    "tom collins",
+                    "sangria",
+                    "pinha colada",
+                    "margarita",
+                    "screwdriver",
+                    "caipirinha",
+                    "caipiroska",
+                    "tinto verano",
+                    "coctel paloma",
+                    "martini dulce",
+                    "martini 0",
+                    "gin tonic",
+                    "vodka tonic",
+                    "chivas regal 12 anhos",
+                    "clan campell",
+                    "chivas regal 25 anhos",
+                    "clen black",
+                    "jhonny walker black label",
+                    "jhonny walker blue label",
+                    "jhonny walker red label",
+                    "buchanan master",
+                    "jhonny walker swinm",
+                    "glenlibet reserve",
+                    "buchanan deluxe",
+                    "dimplede luxe 15 years",
+                    "buchanan's special",
+                    "glen silver blenden",
+                    "black & white ",
+                    "old parr 12 anhos",
+                    "buen amigo",
+                    "omelca chocolate",
+                    "omelca blanco",
+                    "don julio gold",
+                    "don ramon gold",
+                    "brandy napoleon bijou",
+                    "brandy napoleon",
+                    "brandy torres 5 anhos reserva",
+                    "brandy torres 10 anhos",
+                    "brandy torres 5 anhos imperia",
+                    "brandy lepanto",
+                    "absolut",
+                    "grey goose",
+                    "vodka igor"
+                ],
+                "alcohol_price": [
+                    450,
+                    450,
+                    500,
+                    450,
+                    550,
+                    500,
+                    550,
+                    550,
+                    550,
+                    550,
+                    650,
+                    500,
+                    450,
+                    600,
+                    550,
+                    550,
+                    550,
+                    500,
+                    600,
+                    600,
+                    650,
+                    650,
+                    1200,
+                    750,
+                    2000,
+                    850,
+                    1500,
+                    2000,
+                    950,
+                    2400,
+                    1250,
+                    1150,
+                    1900,
+                    2400,
+                    2250,
+                    950,
+                    650,
+                    3600,
+                    500,
+                    550,
+                    500,
+                    2100,
+                    1950,
+                    1600,
+                    1500,
+                    1000,
+                    1200,
+                    900,
+                    1500,
+                    600,
+                    1400,
+                    600
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "limonada",
+                    "san francisco",
+                    "pinha colada virgen"
+                ],
+                "non_alcoholic_price": [
+                    300,
+                    350,
+                    350
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica grabada"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": false,
+        "bathroom": null,
+        "heated": null
+    }
+}

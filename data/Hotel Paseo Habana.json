@@ -1,0 +1,131 @@
+{
+    "general_info": {
+        "name": "Hotel Paseo Habana",
+        "township": "Plaza de la Revolucion",
+        "adress": "Calle A entre 15 y 17",
+        "local": "bar-cafeteria",
+        "open": "07:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz amarillo"
+                ],
+                "garnishes_price": [
+                    230
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo asado",
+                    "cerdo estofado"
+                ],
+                "main_price": [
+                    950,
+                    1450
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "vino espumoso condelier",
+                    "vino espumoso brincos",
+                    "vino rosado santa digna",
+                    "vino blanco la vinha",
+                    "vino tinto la vinha",
+                    "vino tinto entre rios"
+                ],
+                "alcohol_price": [
+                    1725,
+                    2398,
+                    2112,
+                    1200,
+                    1200,
+                    1068
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "pomo de refresco sirope"
+                ],
+                "non_alcoholic_price": [
+                    1080
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

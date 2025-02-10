@@ -1,0 +1,297 @@
+{
+    "general_info": {
+        "name": "ChaChaCha",
+        "township": "Habana Vieja",
+        "adress": "Monserrate # 159 e/ Tejadillo y Chacon, Habana Vieja",
+        "local": "bar-restaurante",
+        "open": "12:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": true,
+        "tips_included": true,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "ceviche de la casa",
+                    "carpaccio de pulpo con vinagreta de citricos",
+                    "tiradito de pez con chicharrita",
+                    "carpaccio de res con ruacula y aceite de trufa",
+                    "carpaccio de atuan rojo",
+                    "pan y mantequilla",
+                    "croquetas braseadas de pollo",
+                    "crema de calabaza, betabel y parmesano",
+                    "tacos chachacha",
+                    "empanadillas de carne bbq",
+                    "tabla de jamon serrano, salami y quesos",
+                    "sashimi ahumado",
+                    "tartar de res",
+                    "tartar de atun",
+                    "coctel de langosta",
+                    "papa rellena de camaron y queso",
+                    "frituritas de malanga",
+                    "tamal en cazuela"
+                ],
+                "appetizers_price": [
+                    3050,
+                    3850,
+                    3050,
+                    4450,
+                    4100,
+                    1150,
+                    2250,
+                    1800,
+                    2700,
+                    2250,
+                    5700,
+                    4100,
+                    4450,
+                    4100,
+                    2660,
+                    2700,
+                    2250,
+                    1900
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "vianda frita",
+                    "pure de temporada",
+                    "ensalada de estacion",
+                    "arroz blanco",
+                    "frijoles negros"
+                ],
+                "garnishes_price": [
+                    760,
+                    1140,
+                    1520,
+                    760,
+                    1140
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "masas de cerdo confitadas",
+                    "lechon cubano",
+                    "solomillo de cerdo espanhol",
+                    "puntas de cerdo bbq",
+                    "ropa vieja de la abuela",
+                    "picadillo a la habanera",
+                    "puntas de filete estilo chachacha",
+                    "jorrin",
+                    "cesar con pollo y bacon",
+                    "chachacha",
+                    "arroz thai de pollo, curry de coco y pasas",
+                    "solomillo argentino (280g)",
+                    "entrecote de ternera (350g)",
+                    "patacon chachacha",
+                    "quesadilla cuatro quesos"
+                ],
+                "main_price": [
+                    3800,
+                    4560,
+                    5320,
+                    5320,
+                    4180,
+                    4180,
+                    7600,
+                    3050,
+                    3850,
+                    3850,
+                    4180,
+                    11150,
+                    5320,
+                    2700,
+                    3420
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado al horno con finas hierbas",
+                    "langosta caribenha",
+                    "zarzuela de mariscos",
+                    "camarones al gusto",
+                    "pulpo nordico",
+                    "calamar patagonico",
+                    "mixta de salmon"
+                ],
+                "sea_food_price": [
+                    4180,
+                    6460,
+                    105000,
+                    6460,
+                    9500,
+                    6460,
+                    3850
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "salsa bolonhesa",
+                    "camaron, curry y pimienta rosa",
+                    "salsa alfredo",
+                    "salsa funghi con pollo y trufa",
+                    "salsa carbonara trufada",
+                    "salsa bisque al fruti d'mare",
+                    "nero di sepia",
+                    "funghi - porcini y trufa",
+                    "del mar",
+                    "carbonara trufado",
+                    "semola y trufa"
+                ],
+                "pasta_price": [
+                    3850,
+                    4100,
+                    3850,
+                    4450,
+                    4150,
+                    4900,
+                    4900,
+                    4560,
+                    4560,
+                    4180,
+                    4180
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "brownie",
+                    "esfera de frutas",
+                    "bizcocho",
+                    "arroz con leche de la abuel",
+                    "flan tia lola",
+                    "copa de helado",
+                    "carajillo",
+                    "bombon"
+                ],
+                "dessert_price": [
+                    3000,
+                    3000,
+                    2900,
+                    2500,
+                    2700,
+                    2200,
+                    1050,
+                    1200
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [
+                    "cafe expresso",
+                    "cafe nespresso",
+                    "cafe cortado",
+                    "frappuccino",
+                    "te / infusiones"
+                ],
+                "infusions_price": [
+                    520,
+                    960,
+                    875,
+                    2200,
+                    620
+                ],
+                "non_alcoholic_list": [
+                    "mojito",
+                    "mojito de frutas",
+                    "daiquiri",
+                    "daiquiri de frutas",
+                    "cuba libre",
+                    "cubata",
+                    "cubanito",
+                    "michelada",
+                    "chelada",
+                    "canchanchara",
+                    "dry martini",
+                    "negroni",
+                    "margarita",
+                    "caipirinha",
+                    "caipiroska",
+                    "pina colada",
+                    "bloody mary",
+                    "sangria",
+                    "manhattan",
+                    "vodka tonic"
+                ],
+                "non_alcoholic_price": [
+                    450,
+                    500,
+                    500,
+                    550,
+                    350,
+                    480,
+                    450,
+                    500,
+                    450,
+                    400,
+                    450,
+                    650,
+                    450,
+                    450,
+                    500,
+                    500,
+                    600,
+                    495,
+                    600,
+                    550
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Internacional",
+            "criolla"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

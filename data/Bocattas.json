@@ -1,0 +1,257 @@
+{
+    "general_info": {
+        "name": "Bocattas",
+        "township": "Playa",
+        "adress": "Avenida 29 entre 16 y 18",
+        "local": "restaurante",
+        "open": "00:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "Cafe Bocattas",
+            "@cafe_bocattas"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "tacos de hab c",
+                    "tacos de hamburguesa",
+                    "tacos de cerdo",
+                    "brusquetas",
+                    "chorizo parrillero",
+                    "croquetas de pollo",
+                    "desayuno",
+                    "ensalada fria",
+                    "croquetas de jamon serrano",
+                    "huevos rotos"
+                ],
+                "appetizers_price": [
+                    800,
+                    950,
+                    900,
+                    500,
+                    2000,
+                    650,
+                    980,
+                    540,
+                    750,
+                    1050
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "queso gouda 100g",
+                    "jamon barra",
+                    "jamon serrano",
+                    "jamon pierna especial",
+                    "queso gouda",
+                    "queso azul",
+                    "chorizo espannol",
+                    "bacon",
+                    "huevo",
+                    "mantequilla",
+                    "agrego de cerdo",
+                    "atuan",
+                    "vianda frita",
+                    "mayonesa",
+                    "tomate",
+                    "cebolla",
+                    "pepinillo",
+                    "pico de gallo",
+                    "lechuga",
+                    "pinna"
+                ],
+                "garnishes_price": [
+                    430,
+                    300,
+                    570,
+                    650,
+                    380,
+                    500,
+                    400,
+                    500,
+                    150,
+                    75,
+                    400,
+                    500,
+                    170,
+                    50,
+                    100,
+                    70,
+                    35,
+                    70,
+                    35,
+                    35
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa de res",
+                    "hamburguesa de cerdo",
+                    "smashburger bocattas de res",
+                    "smashburger bocattas de cerdo"
+                ],
+                "hamburger_price": [
+                    1000,
+                    780,
+                    1500,
+                    1500
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "bistec con baguette",
+                    "bistec con pan suave",
+                    "pan con lechon",
+                    "pan redondo suave",
+                    "pan baguette",
+                    "pan suave",
+                    "tostadas"
+                ],
+                "bread_price": [
+                    1700,
+                    1500,
+                    840,
+                    160,
+                    240,
+                    160,
+                    240
+                ]
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta napolitana",
+                    "pasta bolonnesa",
+                    "pasta con bacon",
+                    "pasta con jamon pierna especial",
+                    "pasta con jamon barra"
+                ],
+                "pasta_price": [
+                    900,
+                    2000,
+                    1500,
+                    1800,
+                    1100
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "dulces finos",
+                    "bola de helado",
+                    "copa golosa"
+                ],
+                "dessert_price": [
+                    1000,
+                    150,
+                    800
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza importada",
+                    "cerveza nacional",
+                    "michelada con cerv import",
+                    "michelada con cerv nacional",
+                    "chelada",
+                    "preparado de michelada"
+                ],
+                "alcohol_price": [
+                    280,
+                    400,
+                    660,
+                    750,
+                    180,
+                    340
+                ],
+                "infusions_list": [
+                    "expresso",
+                    "capuchino",
+                    "cortado",
+                    "americano",
+                    "frappuccino",
+                    "cafe con leche"
+                ],
+                "infusions_price": [
+                    130,
+                    225,
+                    150,
+                    210,
+                    600,
+                    275
+                ],
+                "non_alcoholic_list": [
+                    "agua natural 500 ml",
+                    "refresco importado y nacional",
+                    "malta",
+                    "energizantes",
+                    "limonada frappe",
+                    "jugos naturales"
+                ],
+                "non_alcoholic_price": [
+                    200,
+                    260,
+                    300,
+                    400,
+                    600,
+                    250
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "cubana",
+            "internacional"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

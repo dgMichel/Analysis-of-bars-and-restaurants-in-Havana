@@ -1,0 +1,225 @@
+{
+    "general_info": {
+        "name": "Antojos",
+        "township": "Habana Vieja",
+        "adress": "Callejon Espada entre Cuarteles y Chacon, Habana Vieja",
+        "local": "bar-restaurante",
+        "open": "11:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": true,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "fritura de temporada",
+                    "croquetas de la casa",
+                    "tostones campesinos",
+                    "caldosa guajira",
+                    "tacos"
+                ],
+                "appetizers_price": [
+                    950,
+                    1700,
+                    750,
+                    1400,
+                    2700
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "crema de malanga",
+                    "vianda frita",
+                    "potaje",
+                    "arroz blanco",
+                    "pan artesanal",
+                    "vegetales al carbon",
+                    "ensalada campesina",
+                    "arroz a la chorrera",
+                    "pinchos antojos"
+                ],
+                "garnishes_price": [
+                    1400,
+                    800,
+                    950,
+                    800,
+                    1050,
+                    1400,
+                    1800,
+                    3500,
+                    3700
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "trozos de pollo a la mantequilla",
+                    "pollo grille",
+                    "costillas de cerdo barbacoa",
+                    "masas de cerdo frita",
+                    "lomo al carbon",
+                    "bistec de cerdo encebollado",
+                    "ropa vieja con platanitos maduros",
+                    "picadillo a la habanera"
+                ],
+                "main_price": [
+                    2950,
+                    2950,
+                    4300,
+                    3800,
+                    4500,
+                    3550,
+                    3150,
+                    2930
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "camarones al gusto",
+                    "pesca al carbon"
+                ],
+                "sea_food_price": [
+                    3900,
+                    3950
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "postres de la casa"
+                ],
+                "dessert_price": [
+                    950
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "canchanchara",
+                    "cerveza",
+                    "daiquiri",
+                    "vino blanco (copa)",
+                    "havana special",
+                    "vino tinto (copa)",
+                    "gin tonic",
+                    "bloody mary",
+                    "negroni",
+                    "martini",
+                    "caipiroska",
+                    "screwdriver",
+                    "margarita",
+                    "mary pickford",
+                    "chelada",
+                    "michelada",
+                    "michelada de la casa",
+                    "cubata",
+                    "cubanito",
+                    "cuba libre",
+                    "ron collins",
+                    "mojito antojos"
+                ],
+                "alcohol_price": [
+                    1150,
+                    800,
+                    1250,
+                    1400,
+                    1180,
+                    1450,
+                    1450,
+                    1500,
+                    1550,
+                    1500,
+                    1250,
+                    1200,
+                    1380,
+                    1150,
+                    900,
+                    1100,
+                    1200,
+                    1230,
+                    1380,
+                    1230,
+                    1180,
+                    1280
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "limonada",
+                    "jugos naturales",
+                    "refrescos",
+                    "pinha colada",
+                    "red bull",
+                    "aguas naturales",
+                    "aguas tonicas"
+                ],
+                "non_alcoholic_price": [
+                    900,
+                    750,
+                    650,
+                    1630,
+                    850,
+                    650,
+                    750
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Caribenha"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

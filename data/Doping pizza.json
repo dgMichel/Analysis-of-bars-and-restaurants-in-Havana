@@ -1,0 +1,173 @@
+{
+    "general_info": {
+        "name": "Doping pizza",
+        "township": "Centro Habana",
+        "adress": null,
+        "local": "restaurante",
+        "open": "12:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            false,
+            "@dopingpizzas"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "ensalada fria natural",
+                    "ensalada fria de jamon",
+                    "ensalada fria de atun"
+                ],
+                "appetizers_price": [
+                    500,
+                    600,
+                    700
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "queso",
+                    "jamon",
+                    "chorizo",
+                    "atun",
+                    "cebolla",
+                    "pimiento",
+                    "aceituna",
+                    "bacon"
+                ],
+                "garnishes_price": [
+                    450,
+                    350,
+                    350,
+                    400,
+                    200,
+                    200,
+                    300,
+                    400
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghetti napoles",
+                    "lasanha"
+                ],
+                "pasta_price": [
+                    900,
+                    1300
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza de jamon",
+                    "pizza hawaiana",
+                    "pizza de atun",
+                    "pizza de chorizo",
+                    "pizza de bacon",
+                    "pizza doping extreme"
+                ],
+                "pizza_price": [
+                    1000,
+                    1100,
+                    1300,
+                    1300,
+                    1400,
+                    1400,
+                    1500
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "paletica de helado clasica"
+                ],
+                "dessert_price": [
+                    150
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza"
+                ],
+                "alcohol_price": [
+                    300
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "agua",
+                    "refresco",
+                    "malta",
+                    "malteada",
+                    "jugos"
+                ],
+                "non_alcoholic_price": [
+                    150,
+                    250,
+                    300,
+                    650,
+                    300
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "italiana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

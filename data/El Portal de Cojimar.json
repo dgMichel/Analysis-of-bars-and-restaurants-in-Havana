@@ -1,0 +1,303 @@
+{
+    "general_info": {
+        "name": "El Portal de Cojimar",
+        "township": "Habana del Este",
+        "adress": "Esquina K y Carretera del Morro,#8001,Cojimar",
+        "local": "restaurante",
+        "open": "12:00",
+        "close": "23:00",
+        "days_of_week": [],
+        "sector": "privado",
+        "capability": 30,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "surtido parrillero",
+                    "picadera mixta",
+                    "garbanzos fritos",
+                    "rollito de jamon y queso",
+                    "croquetas de la casa",
+                    "eperlan",
+                    "taco de cerdo"
+                ],
+                "appetizers_price": [
+                    2950,
+                    2500,
+                    1750,
+                    1300,
+                    780,
+                    1450,
+                    1750
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "moros y cristianos",
+                    "ensalada de estacion"
+                ],
+                "garnishes_price": [
+                    210,
+                    250,
+                    500
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "parrillon mixto",
+                    "gordon blue",
+                    "chuleta de cerdo a la brasa",
+                    "lomo de cerdo",
+                    "brocheta de cerdo",
+                    "lonjas de cerdo mechado",
+                    "estofado de res",
+                    "exquisitez del portal"
+                ],
+                "main_price": [
+                    6750,
+                    2300,
+                    2950,
+                    2295,
+                    3000,
+                    3400,
+                    3700,
+                    4800
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "sorpresa del mar",
+                    "cazuela de mariscos",
+                    "filete de pescado a la brasa"
+                ],
+                "sea_food_price": [
+                    6950,
+                    3660,
+                    2100
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza hawaiana",
+                    "pizza plus",
+                    "pizza de queso gouda"
+                ],
+                "pizza_price": [
+                    1590,
+                    1510,
+                    960
+                ]
+            },
+            "adds": {
+                "adds_list": [
+                    "aceitunas",
+                    "aceitunas negras",
+                    "queso gouda",
+                    "jamon",
+                    "chorizo",
+                    "atun",
+                    "queso lasqueado"
+                ],
+                "adds_price": [
+                    350,
+                    320,
+                    300,
+                    370,
+                    320,
+                    580,
+                    250
+                ]
+            },
+            "dessert": {
+                "dessert_list": [
+                    "turron blando",
+                    "turron duro",
+                    "batido de helado",
+                    "batido de helado plus",
+                    "cuna de cake",
+                    "cake tres leches y merengue",
+                    "cake bombon de nata",
+                    "copa de chocolate y frutos secos",
+                    "mini mocca tres leches"
+                ],
+                "dessert_price": [
+                    1700,
+                    1000,
+                    700,
+                    1000,
+                    500,
+                    3750,
+                    5750,
+                    500,
+                    500
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza hollandia clasica",
+                    "botella de havana club especial",
+                    "termo de cerveza dispensada",
+                    "jarra de cerveza dispensada",
+                    "isla del tesoro",
+                    "cerveza cristal de botella",
+                    "chivas regal 25 anos",
+                    "cubay extra viejo",
+                    "jarra de cerveza dispensada grande",
+                    "botella cava campo viejo",
+                    "copa de vino blanco",
+                    "copa de vino tinto",
+                    "freixenet ice caba",
+                    "freixenet negro",
+                    "vino blanco campo viejo",
+                    "vino tinto campo viejo tempranillo",
+                    "vino tinto cabernet sauvignon frontera",
+                    "gin tonic de la casa",
+                    "coctel guava",
+                    "appletini",
+                    "blue lagoon",
+                    "cosmopolitan",
+                    "coctel cooler",
+                    "coctel presidente",
+                    "coctel mulata",
+                    "coctel santiago",
+                    "pina colada",
+                    "cuba libre",
+                    "margarita",
+                    "daiquiri frappe",
+                    "mojito",
+                    "negroni",
+                    "gregorio",
+                    "caipiroska",
+                    "bloody mary",
+                    "havana special",
+                    "mary pickford",
+                    "alexander",
+                    "tequila sunrise",
+                    "americano",
+                    "campari orange",
+                    "ron collins",
+                    "manhattan",
+                    "vodka tonic",
+                    "b 52",
+                    "cubata",
+                    "cubanito",
+                    "aperol spritz",
+                    "black russian",
+                    "campari tonic",
+                    "canchanchara 7",
+                    "chelada plus",
+                    "coctel de autor",
+                    "daiquiri de fruta",
+                    "expresso martini",
+                    "gin tonic absenthe",
+                    "gin tonic beefeater",
+                    "gin tonic gordon",
+                    "gin tonic mares",
+                    "gin tonic reythor",
+                    "good father",
+                    "long island ice tea",
+                    "mai tai",
+                    "michelada plus",
+                    "orgasmo",
+                    "sangria",
+                    "screwdriver plus",
+                    "michelada",
+                    "sex on the beach",
+                    "tinto de verano",
+                    "whisky sour",
+                    "hot margarita",
+                    "white russian"
+                ],
+                "alcohol_price": [],
+                "infusions_list": [
+                    "cafe americano",
+                    "cafe cappuccino",
+                    "cafe cortado",
+                    "cafe expresso",
+                    "cafe carajillo",
+                    "cafe frappuccino",
+                    "te",
+                    "te frio"
+                ],
+                "infusions_price": [
+                    160,
+                    500,
+                    300,
+                    210,
+                    190,
+                    650,
+                    60,
+                    30
+                ],
+                "non_alcoholic_list": [
+                    "agua mineral natural 500ml",
+                    "agua mineral natural 330ml",
+                    "refresco de naranja en lata",
+                    "pepsi cola",
+                    "refresco de pinita",
+                    "bebida energetica",
+                    "jugo de naranja",
+                    "malta belga",
+                    "pepsi cola dietetica",
+                    "san francisco",
+                    "refresco de limon 7up"
+                ],
+                "non_alcoholic_price": [
+                    300,
+                    260,
+                    350,
+                    350,
+                    350,
+                    550,
+                    300,
+                    370,
+                    350,
+                    350,
+                    350
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Comida mixta"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

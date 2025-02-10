@@ -1,0 +1,177 @@
+{
+    "general_info": {
+        "name":"Marea",
+        "township":"Playa",
+        "adress":"5ta ave #25804 entre 258 y 260",
+        "local":"restaurante",
+        "open":"12:00",
+        "close":"24:00",
+        "days_of_week":[],
+        "sector":"privado",
+        "capability":null,
+        "social_network":[
+            "@clubmarea",
+            "https://www.facebook.com/clubmarea/?locale=es_LA"
+        ],
+        "years":null
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":null,
+        "tips_included":null,
+        "delivery":null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers":{
+                "appetizers_list":[
+                    "croqueta Marea",
+                    "empanadas bolonnesa",
+                    "crujientes de pollo",
+                    "botanas de yuca y ropa vieja",
+                    "tasty de pescado",
+                    "frituras de marisco",
+                    "tabla Marea",
+                    "carpaccio de res trufado",
+                    "coctel de camaron",
+                    "ensalada panzanella",
+                    "ensalada cesar",
+                    "ceviche de pescado",
+                    "ceviche mixto",
+                    "crema de malanga"
+                ],
+                "appetizers_price":[
+                    850,
+                    750,
+                    850,
+                    750,
+                    900,
+                    3600,
+                    4000,
+                    2350,
+                    1100,
+                    1000,
+                    1400,
+                    900,
+                    1250,
+                    400
+                ]
+            },
+            "garnishes":{
+                "garnishes_list":[
+                    "arroz blanco",
+                    "arroz primavera",
+                    "ensalada de estacion"
+                ],
+                "garnishes_price":[
+                    400,
+                    400,
+                    400
+                ]
+            },
+            "hamburger":{
+                "hamburger_list":[],
+                "hamburger_price":[]
+            },
+            "bread":{
+                "bread_list":[],
+                "bread_price":[]
+            },
+            "main":{
+                "main_list":[
+                    "filete mignon",
+                    "punta de filete de res al fungi",
+                    "manjar criollo",
+                    "pechuga de pollo",
+                    "solomillo de cerdo",
+                    "brocheta de res"
+                ],
+                "main_price":[
+                    5000,
+                    4200,
+                    2200,
+                    2100,
+                    4200,
+                    4200
+                ]
+            },
+            "sea_food":{
+                "sea_food_list":[
+                    "filete de pescado estilo mediterraneo",
+                    "camaron Marea",
+                    "frutos del mar",
+                    "caldereta de mariscos",
+                    "fruto del mar a la brasa"
+                ],
+                "sea_food_price":[
+                    3200,
+                    2500,
+                    3200,
+                    3600,
+                    3200
+                ]
+            },
+            "pasta":{
+                "pasta_list":[
+                    "espaguetis napoles",
+                    "espaguetis carbonara",
+                    "espagueti bolonnesa"
+                ],
+                "pasta_price":[
+                    2000,
+                    2700,
+                    2700
+                ]
+            },
+            "pizza":{
+                "pizza_list":[],
+                "pizza_price":[]
+            },
+            "adds":{
+                "adds_list":[],
+                "adds_price":[]
+            },
+            
+            "dessert":{
+                "dessert_list":[
+                    "coulant",
+                    "blondie de limon",
+                    "mousse de chocolate",
+                    "flan de caramelo",
+                    "tarta fria" 
+                ],
+                "dessert_price":[
+                    700,
+                    1050,
+                    1000,
+                    800,
+                    1100
+                ]
+            },
+            "drinks":{
+                "alcohol_list":[],
+                "alcohol_price":[],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":[],
+                "non_alcoholic_price":[]
+            }
+        },
+        "popular_food":[],
+        "popular_drink":[],
+        "food_especialization":[],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":null,
+        "blackout_alternatives":null,
+        "entertainment":[],
+        "peak_hour":[],
+        "tourism":null,
+        "pets":null,
+        "bathroom":null,
+        "heated":null
+    }
+}

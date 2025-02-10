@@ -1,0 +1,288 @@
+{
+    "general_info": {
+        "name": "Rock_Harlistas_Cafe",
+        "township": "Habana Vieja",
+        "adress": "Compostela, & San Juan de Dios",
+        "local": "bar-cafeteria",
+        "open": "11:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": 30,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa clasica",
+                    "hamburguesa doble",
+                    "hamburguesa harlistas"
+                ],
+                "hamburger_price": [
+                    1260,
+                    1700,
+                    2500
+                ]
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "napolitana",
+                    "pesto",
+                    "carbonara"
+                ],
+                "pasta_price": [
+                    1250,
+                    1300,
+                    1550
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napoles",
+                    "pizza hawaiana"
+                ],
+                "pizza_price": [
+                    1250,
+                    1500
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "hendrick's",
+                    "tanqueray",
+                    "bombay sapphire",
+                    "ungava premium",
+                    "beefeater",
+                    "beefeater 24",
+                    "van gogh",
+                    "mezcal amaras reposado",
+                    "olmeca silver",
+                    "olmeca reposado",
+                    "patron reposado",
+                    "patron silver",
+                    "don julio reposado",
+                    "tromba reposado",
+                    "vino tinto d' la casa",
+                    "vino tinto partager",
+                    "vino blanco marques d' caceres",
+                    "moet y chandom imperial",
+                    "sidra riano palacio",
+                    "ballantines",
+                    "jameson",
+                    "chivas 12",
+                    "jw red label",
+                    "jw black label",
+                    "jack daniels no. 7",
+                    "jack daniels gentleman",
+                    "crown royal",
+                    "scottman",
+                    "bucanero",
+                    "cristal",
+                    "cristal b",
+                    "h.c. 3 anhos",
+                    "h.c. 7 anhos",
+                    "h.c seleccion maestro",
+                    "cubay anhejo 10 anhos",
+                    "santiago 11",
+                    "santiago extra anhejo 12",
+                    "mojito",
+                    "mojito tropical",
+                    "daiquiri",
+                    "daiquiri tropical",
+                    "cuba libre",
+                    "cubata",
+                    "ron collins",
+                    "tom collins",
+                    "bloody mary",
+                    "cubanito",
+                    "caipirinha",
+                    "caipirissima",
+                    "caipiroska",
+                    "caipijagger",
+                    "canchanchara",
+                    "espresso martini",
+                    "dry martini",
+                    "sweet martini",
+                    "perfect martini",
+                    "gin tonic",
+                    "margarita",
+                    "negroni",
+                    "old fashioned",
+                    "pinha colada",
+                    "sangria",
+                    "tinto de verano",
+                    "calimocho",
+                    "screwdriver",
+                    "michelada",
+                    "chelada"
+                ],
+                "alcohol_price": [
+                    1300,
+                    900,
+                    900,
+                    1100,
+                    550,
+                    800,
+                    1100,
+                    900,
+                    800,
+                    900,
+                    2300,
+                    2100,
+                    2900,
+                    1700,
+                    700,
+                    900,
+                    750,
+                    10000,
+                    4000,
+                    950,
+                    900,
+                    1250,
+                    1000,
+                    1250,
+                    2100,
+                    1900,
+                    1900,
+                    700,
+                    550,
+                    500,
+                    600,
+                    550,
+                    700,
+                    1450,
+                    800,
+                    1200,
+                    1100,
+                    900,
+                    1000,
+                    900,
+                    1000,
+                    800,
+                    800,
+                    900,
+                    950,
+                    1100,
+                    1100,
+                    800,
+                    800,
+                    850,
+                    900,
+                    850,
+                    1000,
+                    1000,
+                    1000,
+                    1150,
+                    1000,
+                    900,
+                    1150,
+                    1150,
+                    1100,
+                    950,
+                    950,
+                    900,
+                    1000,
+                    1100,
+                    900
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "batidos tropicales",
+                    "jugos tropicales",
+                    "limonada natural",
+                    "limonada frappe",
+                    "limonada frescura",
+                    "refrescos nacionales",
+                    "refrescos importados",
+                    "agua mineral",
+                    "agua gaseada",
+                    "agua tonica",
+                    "kermato",
+                    "batido de helado",
+                    "copa de helado montano"
+                ],
+                "non_alcoholic_price": [
+                    700,
+                    550,
+                    450,
+                    450,
+                    550,
+                    400,
+                    550,
+                    450,
+                    500,
+                    600,
+                    650,
+                    1100,
+                    900
+                ]
+                
+            }
+        },
+        "popular_food": ["ceviche"],
+        "popular_drink": [],
+        "food_especialization": [
+            "Comida Rapida"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": true,
+        "bathroom": null,
+        "heated": null
+    }
+}

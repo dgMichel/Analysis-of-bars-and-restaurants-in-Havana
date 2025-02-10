@@ -1,0 +1,188 @@
+{
+    "general_info": {
+        "name": "Beer para creer",
+        "township": "Habana del Este",
+        "adress": "Centro comercial Falcon, Alamar",
+        "local": "bar-cafeteria",
+        "open": "10:00",
+        "close": "21:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas del chef"
+                ],
+                "appetizers_price": [
+                    650
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "arroz moro",
+                    "vianda frita",
+                    "ensalada de vegetales",
+                    "arroz a la chorrera",
+                    "arroz frito"
+                ],
+                "garnishes_price": [
+                    250,
+                    180,
+                    100,
+                    80,
+                    1400,
+                    800
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamurguesa simple",
+                    "hamburguesa especial"
+                ],
+                "hamburger_price": [
+                    450,
+                    550
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich pinareno",
+                    "pan con lechon",
+                    "sandwish cubano con lechon"
+                ],
+                "bread_price": [
+                    900,
+                    350,
+                    950
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "fajitas de pollo",
+                    "bistec de pollo grille",
+                    "bistec de pollo gratinado",
+                    "fricase de pollo",
+                    "pollo chiflado",
+                    "masas de cerdo fritas",
+                    "ropa vieja de cerdo",
+                    "fricase de cerdo",
+                    "bistec de cerdo grille",
+                    "bistec de cerdo princesa",
+                    "milanesa de cerdo",
+                    "envoltino de cerdo",
+                    "lomo ahumado",
+                    "lonjas de cerdo asadas al carbon",
+                    "uruguayo de cerdo",
+                    "escalope de cerdo",
+                    "gordon blue de cerdo"
+                ],
+                "main_price": [
+                    850,
+                    850,
+                    1200,
+                    1400,
+                    850,
+                    1350,
+                    1400,
+                    1400,
+                    850,
+                    1100,
+                    1100,
+                    1250,
+                    1000,
+                    1300,
+                    1150,
+                    950,
+                    1250
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghettis napolitanos"
+                ],
+                "pasta_price": [
+                    520
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza de queso blanco",
+                    "pizza de queso gouda"
+                ],
+                "pizza_price": [
+                    160,
+                    250
+                ]
+            },
+            "adds": {
+                "adds_list": [
+                    "jamon",
+                    "queso blanco",
+                    "cebolla",
+                    "chorizo"
+                ],
+                "adds_price": [
+                    100,
+                    80,
+                    120,
+                    100
+                ]
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Comida mixta"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

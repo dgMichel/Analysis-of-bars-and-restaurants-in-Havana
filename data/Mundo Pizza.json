@@ -1,0 +1,161 @@
+{
+    "general_info": {
+        "name": "Mundo Pizza",
+        "township": "Centro Habana",
+        "adress": null,
+        "local": "restaurante",
+        "open": "12:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "Mundo Pizza",
+            "@mundopizza_habana"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas caseras",
+                    "tostones criollos",
+                    "focaccia"
+                ],
+                "appetizers_price": [
+                    590,
+                    540,
+                    560
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghetti",
+                    "lasanha",
+                    "spaghetti al pesto",
+                    "spaghetti del dia"
+                ],
+                "pasta_price": [
+                    950,
+                    1250,
+                    1050,
+                    1600
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza metro criolla",
+                    "pizza metro casa",
+                    "pizza metro gouda",
+                    "pizza metro eleccion",
+                    "pizza 1/2 metro mix",
+                    "pizza 1/2 metro eleccion",
+                    "pizza rossa"
+                ],
+                "pizza_price": [
+                    2800,
+                    3700,
+                    5100,
+                    5150,
+                    2500,
+                    2700,
+                    590
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "postre del dia",
+                    "pizza a chocolate",
+                    "helado 3 gracias",
+                    "yogurt"
+                ],
+                "dessert_price": [
+                    650,
+                    815,
+                    500,
+                    250
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza"
+                ],
+                "alcohol_price": [
+                    300
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "refresco",
+                    "energizante",
+                    "malta",
+                    "jugo cajita"
+                ],
+                "non_alcoholic_price": [
+                    250,
+                    390,
+                    300,
+                    250
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": "italiana",
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

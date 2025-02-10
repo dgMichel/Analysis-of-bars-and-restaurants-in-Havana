@@ -1,0 +1,243 @@
+{
+    "general_info": {
+        "name": "Esto_no_es_un_cafe",
+        "township": "Habana Vieja",
+        "adress": null,
+        "local": "restaurante",
+        "open": "08:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "https://www.instagram.com/estonoesuncafe",
+            "https://www.facebook.com/estonoesuncafe"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": true,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas de la casa",
+                    "tostones rellenos",
+                    "ratatouille",
+                    "cuarteto de camarones",
+                    "pimientos rellenos con farsa de atun",
+                    "bruschettas de berenjena, tomate y mozzarella",
+                    "tempura de vegetales",
+                    "de vegetales tiernos y queso fresco",
+                    "de vegetales con pollo",
+                    "de vegetales y atun",
+                    "huevos fritos",
+                    "tortilla natural"
+                ],
+                "appetizers_price": [
+                    1050,
+                    1050,
+                    1200,
+                    2100,
+                    1350,
+                    1200,
+                    1350,
+                    1050,
+                    1350,
+                    1440,
+                    450,
+                    450
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "la fuentede duchamp",
+                    "pollo pollock",
+                    "tercer mundo de lam",
+                    "la cacerola de broodthaers"
+                ],
+                "main_price": [
+                    2400,
+                    2550,
+                    3150,
+                    5400
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "el pez de christo",
+                    "azul klein"
+                ],
+                "sea_food_price": [
+                    3300,
+                    3900
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [
+                    "queso gouda",
+                    "vegetales salteados",
+                    "aceitunas",
+                    "bacon",
+                    "jamon serrano",
+                    "pan y mantequilla"
+                ],
+                "adds_price": [
+                    540,
+                    300,
+                    600,
+                    600,
+                    750,
+                    600
+                ]
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "postre de la casa",
+                    "brownie",
+                    "copa de helado",
+                    "crepe de frutas",
+                    "crepe de chocolate",
+                    "crepe de limon",
+                    "crepe franz"
+                ],
+                "dessert_price": [
+                    1200,
+                    1500,
+                    1350,
+                    1200,
+                    1050,
+                    600,
+                    1350
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "havana club anhejo 7 anhos",
+                    "havana club seleccion de maestros",
+                    "ron santiago de cuba 11 anhos"
+                ],
+                "alcohol_price": [
+                    1200,
+                    2400,
+                    1950
+                ],
+                "infusions_list": [
+                    "cafe espresso",
+                    "doble espresso",
+                    "descafeinado",
+                    "cafe americano",
+                    "cafe cortado",
+                    "capuchino",
+                    "cafe con leche",
+                    "cafe con hielo",
+                    "cafe americano con leche",
+                    "cafe bombon",
+                    "cafe carajillo",
+                    "cafe brasilenho",
+                    "cafe espanhol",
+                    "cafe irlandes",
+                    "cafe frances",
+                    "frapuchino",
+                    "te negro",
+                    "te rojo",
+                    "te verde",
+                    "infusion de hierba buena o albahaca"
+                ],
+                "infusions_price": [
+                    300,
+                    600,
+                    480,
+                    450,
+                    450,
+                    600,
+                    600,
+                    450,
+                    750,
+                    900,
+                    750,
+                    1050,
+                    1050,
+                    1050,
+                    1050,
+                    1050,
+                    450,
+                    540,
+                    540,
+                    300
+                ],
+                "non_alcoholic_list": [
+                    "jugo de frutas",
+                    "jugo verde",
+                    "jugo de vegetales",
+                    "jugos mixtos",
+                    "chocolate frio",
+                    "chocolate caliente",
+                    "batido de helado"
+                ],
+                "non_alcoholic_price": [
+                    450,
+                    450,
+                    600,
+                    750,
+                    1050,
+                    1050,
+                    1200
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Criolla"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

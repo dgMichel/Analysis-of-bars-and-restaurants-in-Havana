@@ -1,0 +1,433 @@
+{
+    "general_info": {
+        "name": "Mercy bar",
+        "township": "Playa",
+        "adress": "1ra y 70",
+        "local": "bar-restaurante",
+        "open": "12:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "MERCY bar-cafe",
+            "@mercybarcafe"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas del dia (8u)",
+                    "ensalada de vegetales",
+                    "mariquitas de pollo",
+                    "bolitas de queso (8u)",
+                    "yuca rellena",
+                    "tacos del dia (3u)",
+                    "pollo picaro",
+                    "tabla de embutidos",
+                    "tacos mercy",
+                    "tabla de queso",
+                    "eperlan",
+                    "ceviche",
+                    "pescadilla"
+                ],
+                "appetizers_price": [
+                    800,
+                    500,
+                    1200,
+                    950,
+                    1500,
+                    1500,
+                    1600,
+                    1900,
+                    2100,
+                    2600,
+                    2600,
+                    2500,
+                    2800
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz frito",
+                    "garbanzo frito"
+                ],
+                "garnishes_price": [
+                    1350,
+                    1400
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "pan baguette",
+                    "entrepan con atun",
+                    "entrepan cubano",
+                    "entrepan serrano"
+                ],
+                "bread_price": [
+                    250,
+                    1200,
+                    1400,
+                    2200
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pollo asado",
+                    "fajitas de cerdo",
+                    "masas de cerdo",
+                    "lomo ahumado",
+                    "gordon blue de cerdo",
+                    "ropa vieja de res",
+                    "brochetas al hornillo",
+                    "menu ejecutivo (entrante, plato fuerte, jugo/vaso cerveza, cafe)",
+                    "parrillada criolla",
+                    "parrillada marinera",
+                    "parrillada mixta",
+                    "risotto",
+                    "estofado de cordero",
+                    "rabo encendido",
+                    "mixto mercy"
+                ],
+                "main_price": [
+                    1700,
+                    1800,
+                    1800,
+                    2100,
+                    3200,
+                    2600,
+                    2900,
+                    3500,
+                    4700,
+                    7300,
+                    8700,
+                    2900,
+                    3000,
+                    3000,
+                    3450
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "mariscos al gusto",
+                    "pescado frito entero",
+                    "filete de pescado"
+                ],
+                "sea_food_price": [
+                    3500,
+                    3300,
+                    2600
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "canelon de pollo",
+                    "lasagna de jamon",
+                    "pasta mercy"
+                ],
+                "pasta_price": [
+                    1400,
+                    1600,
+                    2800
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza de jamon",
+                    "pizza de chorizo",
+                    "pizza hawaiana",
+                    "pizza de vegetales",
+                    "pizza de aceitunas",
+                    "pizza de atun",
+                    "pizza familiar",
+                    "pizza mercy",
+                    "pizza serrano"
+                ],
+                "pizza_price": [
+                    1300,
+                    1500,
+                    150,
+                    1500,
+                    1500,
+                    1500,
+                    1600,
+                    2200,
+                    3000,
+                    3200
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "tarta nata",
+                    "bola jimagua",
+                    "dulce de tres leche"
+                ],
+                "dessert_price": [
+                    600,
+                    750,
+                    900
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "long island",
+                    "screwdriver",
+                    "mojito",
+                    "daiquiri",
+                    "gin tonic",
+                    "vodka tonic",
+                    "pinna colada",
+                    "caipirisima",
+                    "caipiroska",
+                    "blody mary",
+                    "mary pickfor",
+                    "tequila sunrise",
+                    "cuba libre",
+                    "shot jager meister",
+                    "daiquiri sabor",
+                    "margarita",
+                    "margarita sabor",
+                    "canchanchara con santiago 8 annos",
+                    "sanria",
+                    "tinto de verano",
+                    "sangira blanca",
+                    "martini",
+                    "campari orange",
+                    "cubanito",
+                    "aperol sprite",
+                    "beer beer",
+                    "jager bomb",
+                    "ciroc",
+                    "rones santiago blanco",
+                    "santiago annejo 8 annos",
+                    "santiago annejo 11 annos",
+                    "santiago annejo 12 annos",
+                    "black and white",
+                    "johnnie walker red label",
+                    "johnnie walker black label",
+                    "j&b",
+                    "buchanan \u201cs master",
+                    "buchanan \u201cs master 18 annos",
+                    "jw double black",
+                    "jw gold reserve",
+                    "jw gold 18 annos",
+                    "le tribute",
+                    "tanqueray",
+                    "licor 43",
+                    "baileys",
+                    "sambuca",
+                    "licor frangelico",
+                    "tequila del a casa",
+                    "cubetazo",
+                    "vaso 240 ml",
+                    "jarra 500ml",
+                    "servicio chelar o michelar",
+                    "cerveza lata",
+                    "cerveza cristal",
+                    "cerveza stella artois",
+                    "vino blanco por copa",
+                    "vinna esmeralda",
+                    "sangre de toro blanco",
+                    "celeste verdejo",
+                    "vinna sol original",
+                    "sangre de toro chardonnay selection",
+                    "grahams fine white port",
+                    "waltraud",
+                    "vino tinto o rose por copa",
+                    "santa digna gran reserva",
+                    "sangre de toro rioja",
+                    "altos ibericos crianza",
+                    "torres corona crianza",
+                    "celeste roble",
+                    "jean leon 3055 merlot",
+                    "gran corona reserva",
+                    "altos ibericos reserva",
+                    "grahams fine tawny port",
+                    "celeste crianza",
+                    "purgatori",
+                    "secret del priorat",
+                    "zuccardi o malbec",
+                    "mas la plana",
+                    "sangre de toro rose",
+                    "jean leon 3055",
+                    "santa digna",
+                    "juve & camps gran reserva",
+                    "vinna esmeralda sparkling"
+                ],
+                "alcohol_price": [
+                    700,
+                    750,
+                    750,
+                    750,
+                    750,
+                    975,
+                    750,
+                    750,
+                    750,
+                    750,
+                    750,
+                    900,
+                    750,
+                    750,
+                    1000,
+                    850,
+                    1000,
+                    850,
+                    850,
+                    850,
+                    850,
+                    900,
+                    900,
+                    1000,
+                    1300,
+                    1200,
+                    1200,
+                    780,
+                    600,
+                    650,
+                    1000,
+                    1200,
+                    500,
+                    700,
+                    1000,
+                    650,
+                    1000,
+                    45000,
+                    45000,
+                    65000,
+                    90000,
+                    750,
+                    800,
+                    450,
+                    690,
+                    690,
+                    850,
+                    450,
+                    1800,
+                    250,
+                    450,
+                    200,
+                    380,
+                    500,
+                    600,
+                    850,
+                    4400,
+                    4000,
+                    4200,
+                    4200,
+                    5500,
+                    8800,
+                    9700,
+                    850,
+                    4000,
+                    4400,
+                    4600,
+                    4600,
+                    5000,
+                    6700,
+                    6900,
+                    7900,
+                    8750,
+                    9300,
+                    9900,
+                    1100,
+                    1100,
+                    38400,
+                    6800,
+                    6800,
+                    4000,
+                    28000,
+                    5500
+                ],
+                "infusions_list": [
+                    "te frio o caliente",
+                    "expresso",
+                    "cortado",
+                    "americano",
+                    "capuchino",
+                    "frapuchino",
+                    "carajillo"
+                ],
+                "infusions_price": [
+                    200,
+                    400,
+                    500,
+                    400,
+                    700,
+                    700,
+                    700
+                ],
+                "non_alcoholic_list": [
+                    "agua natural",
+                    "agua gaseada",
+                    "agua gaseada importada",
+                    "agua tonica importada",
+                    "refresco lata",
+                    "redbull",
+                    "malta",
+                    "malteada",
+                    "jugos naturales",
+                    "limonada frappe"
+                ],
+                "non_alcoholic_price": [
+                    280,
+                    300,
+                    750,
+                    590,
+                    400,
+                    650,
+                    450,
+                    600,
+                    250,
+                    400
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "italiana",
+            "cubana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

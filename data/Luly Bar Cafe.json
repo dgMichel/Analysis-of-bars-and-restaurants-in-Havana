@@ -1,0 +1,356 @@
+{
+    "general_info": {
+        "name": "Luly Bar Cafe",
+        "township": "Playa",
+        "adress": "3ra /28 y 30, Miramar",
+        "local": "bar-restaurante",
+        "open": "08:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            false,
+            "@lulybarcafe_"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas de pollo",
+                    "croquetones de serrano",
+                    "croquetones de pescado",
+                    "empanaditas de cerdo",
+                    "pannuelo de carbonara",
+                    "montaditos",
+                    "provolone y serrano",
+                    "tamal en cazuela",
+                    "pimientos piquillo rellenos de atuan",
+                    "tapas de tumaca",
+                    "tapas de serrano",
+                    "tapas de jamon de pavo",
+                    "tapas de jamon st dalmai",
+                    "tapas de salmon",
+                    "tapas de salchichon iberico",
+                    "tapas de chorizo iberico",
+                    "tapas de chorizo cular",
+                    "tapas de queso azul",
+                    "croissant",
+                    "donuts",
+                    "cesta de pan",
+                    "feria de quesos",
+                    "feria de embutidos",
+                    "el verdadero remix",
+                    "lecho fresco de vegetales",
+                    "desayuno standard",
+                    "desayuno xl",
+                    "super bowl",
+                    "ensalada de frutas"
+                ],
+                "appetizers_price": [
+                    1100,
+                    1500,
+                    1300,
+                    1000,
+                    900,
+                    500,
+                    1400,
+                    1000,
+                    1600,
+                    700,
+                    1500,
+                    1100,
+                    1000,
+                    1900,
+                    1300,
+                    1300,
+                    1100,
+                    900,
+                    350,
+                    450,
+                    600,
+                    2200,
+                    3000,
+                    2250,
+                    850,
+                    1800,
+                    2300,
+                    850,
+                    700
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "nutella",
+                    "almendras",
+                    "chia",
+                    "mantequilla",
+                    "serrano",
+                    "jamon de pavo",
+                    "jamon st dalmai",
+                    "salmon",
+                    "salchichon iberico",
+                    "chorizo iberico",
+                    "chorizo cular",
+                    "queso manchego",
+                    "queso azul",
+                    "queso provolone",
+                    "queso feta",
+                    "queso edam",
+                    "queso gouda",
+                    "huevo",
+                    "aceitunas",
+                    "lechon asado"
+                ],
+                "garnishes_price": [
+                    250,
+                    160,
+                    50,
+                    100,
+                    675,
+                    450,
+                    400,
+                    700,
+                    610,
+                    500,
+                    500,
+                    500,
+                    500,
+                    450,
+                    500,
+                    375,
+                    350,
+                    160,
+                    800,
+                    1000
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "baguette jamon st dalmai",
+                    "baguette queso gouda",
+                    "baguette jamon st dalmai y queso gouda",
+                    "baguette serrano",
+                    "baguette jamon de pavo",
+                    "baguette salmon",
+                    "bocadito jamon st dalmai",
+                    "bocadito queso gouda",
+                    "bocadito jamon st dalmai y queso gouda",
+                    "emparedado de huevo",
+                    "emparedado de atuan",
+                    "pan con lechon"
+                ],
+                "bread_price": [
+                    1300,
+                    1200,
+                    1400,
+                    2000,
+                    1500,
+                    2200,
+                    600,
+                    600,
+                    800,
+                    1100,
+                    1200,
+                    1600
+                ]
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "casquitos de guayaba con queso",
+                    "pudin",
+                    "mermelada con queso",
+                    "mini muffin",
+                    "muffin fusion",
+                    "waffle",
+                    "pop waffle"
+                ],
+                "dessert_price": [
+                    500,
+                    250,
+                    300,
+                    300,
+                    500,
+                    600,
+                    900
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cristal",
+                    "bucanero",
+                    "corona",
+                    "cruzcampo",
+                    "michelada",
+                    "copa de campoviejo tempranillo tinto",
+                    "botella de campoviejo tempranillo tinto",
+                    "copa campoviejo tempranillo blanco",
+                    "botella campoviejo tempranillo blanco",
+                    "havana club 7 annos",
+                    "havana club 3 annos",
+                    "havana club profundo",
+                    "santiago annejo 8 annos",
+                    "clan campbell",
+                    "ballantines",
+                    "jameson",
+                    "johnnie walker rl",
+                    "tequila silver/reposado",
+                    "mojito",
+                    "cuba libre",
+                    "cubata",
+                    "gin especial",
+                    "gin tonic",
+                    "vodka tonic",
+                    "caipirinha",
+                    "caipiroska",
+                    "tinto de verano",
+                    "cubanito",
+                    "daiquiri",
+                    "screwdriver"
+                ],
+                "alcohol_price": [
+                    450,
+                    450,
+                    600,
+                    400,
+                    450,
+                    1000,
+                    4700,
+                    900,
+                    4200,
+                    850,
+                    400,
+                    250,
+                    1000,
+                    850,
+                    900,
+                    950,
+                    1000,
+                    1200,
+                    1200,
+                    1000,
+                    1300,
+                    2000,
+                    1600,
+                    1400,
+                    1000,
+                    1100,
+                    1300,
+                    1200,
+                    1025,
+                    1500
+                ],
+                "infusions_list": [
+                    "expresso",
+                    "cortadito",
+                    "americano",
+                    "bombon",
+                    "capuchino",
+                    "frapuchino",
+                    "cafe con leche",
+                    "te",
+                    "te helado"
+                ],
+                "infusions_price": [
+                    200,
+                    300,
+                    300,
+                    500,
+                    400,
+                    800,
+                    600,
+                    200,
+                    300
+                ],
+                "non_alcoholic_list": [
+                    "agua cm",
+                    "agua san benedetto natural",
+                    "agua san benedetto gaseada",
+                    "tonica shweppes",
+                    "tukola",
+                    "pepsi",
+                    "malta",
+                    "granizado",
+                    "jugo cajita",
+                    "jugo natural",
+                    "jugo verde",
+                    "limonada"
+                ],
+                "non_alcoholic_price": [
+                    250,
+                    1000,
+                    1100,
+                    1000,
+                    300,
+                    350,
+                    280,
+                    60,
+                    250,
+                    500,
+                    600,
+                    500
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "internacional"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

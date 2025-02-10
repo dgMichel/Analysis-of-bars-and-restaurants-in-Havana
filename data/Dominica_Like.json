@@ -1,0 +1,333 @@
+{
+    "general_info": {
+        "name": "Dominica Like",
+        "township": "Boyero",
+        "adress": "Calle 11. e/ 6 y 8, Santiago de las Vegas",
+        "local": "restaurante-bar-cafeteria",
+        "open": "12:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": true,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "coctel de camarones",
+                    "papas fritas",
+                    "tostones rellenos (jamon y queso)",
+                    "croquetas de la casa (pollo o pescado)",
+                    "frituras de malanga",
+                    "ensalada fria",
+                    "crema de queso",
+                    "crema virginia",
+                    "crema aurora",
+                    "crema reina (pollo)",
+                    "entremes de jamon, queso y aceitunas"
+                ],
+                "appetizers_price": [
+                    1100,
+                    450,
+                    550,
+                    500,
+                    450,
+                    650,
+                    600,
+                    600,
+                    500,
+                    500,
+                    800
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz moro",
+                    "arroz blanco",
+                    "ensalada de vegetales mixto de la estacion",
+                    "platanito maduro frito",
+                    "tostones al ajillo"
+                ],
+                "garnishes_price": [
+                    300,
+                    200,
+                    300,
+                    250,
+                    250
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "ternera al vino",
+                    "bastones de pechuga de pollo empanados",
+                    "lomo ahumado con salsa de frutas",
+                    "bistec de cerdo grille encebollado",
+                    "bistec uruguayo",
+                    "ropa vieja",
+                    "vaca frita",
+                    "gordon blue de pechuga de pollo",
+                    "pechuga a la pinna",
+                    "bistec de pechuga grille"
+                ],
+                "main_price": [
+                    1900,
+                    1500,
+                    1200,
+                    1400,
+                    1800,
+                    1600,
+                    1600,
+                    1700,
+                    1400,
+                    1400
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "enchilado de cangrejo",
+                    "filete de pescado grille",
+                    "filete de pescado canciller"
+                ],
+                "sea_food_price": [
+                    1200,
+                    1600,
+                    1800
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "lasanna",
+                    "espaguetis napolitana",
+                    "espaguetis a la crema con bacon"
+                ],
+                "pasta_price": [
+                    1100,
+                    950,
+                    1100
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza hawaiana",
+                    "pizza dominica"
+                ],
+                "pizza_price": [
+                    1000,
+                    1300,
+                    1650
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "copa de helado",
+                    "tarta de chocolate con helado"
+                ],
+                "dessert_price": [
+                    400,
+                    400
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza heineken",
+                    "cerveza nacional",
+                    "cerveza importada",
+                    "servicio de michelada",
+                    "servicio de chelada",
+                    "mojito",
+                    "cubanito",
+                    "cuba libre",
+                    "daiquiri",
+                    "daiquiri de frutas",
+                    "margarita",
+                    "margarita blue",
+                    "pinna colada",
+                    "bloody mary",
+                    "bello monte",
+                    "caipirinna",
+                    "caipirisima",
+                    "caipiroska",
+                    "canchanchara",
+                    "manhatan",
+                    "cubata",
+                    "shot medusa",
+                    "screw driver",
+                    "sangria",
+                    "tinto verano",
+                    "coctel barbie",
+                    "blue lagoon",
+                    "expresso martini",
+                    "blow job",
+                    "habana club profundo",
+                    "habana club cuban spiced",
+                    "habana club smoky",
+                    "habana club 7 annos",
+                    "habana club seleccion de maestros",
+                    "santiago de cuba 8 annos",
+                    "santiago de cuba 11 annos",
+                    "santiago de cuba 12 annos",
+                    "don julio reposado",
+                    "jack daniels",
+                    "tequila monte la rosa dorado",
+                    "tequila reina del sur flor salvaje",
+                    "tequila olmeca reposado",
+                    "tequila olmeca silver",
+                    "tequila rose",
+                    "vodka grey goose",
+                    "baileys",
+                    "beefeater",
+                    "tanqueray",
+                    "copa de vino tinto",
+                    "copa de vino blanco"
+                ],
+                "alcohol_price": [
+                    450,
+                    350,
+                    280,
+                    300,
+                    200,
+                    600,
+                    800,
+                    600,
+                    700,
+                    750,
+                    900,
+                    950,
+                    850,
+                    750,
+                    750,
+                    750,
+                    750,
+                    750,
+                    850,
+                    700,
+                    700,
+                    850,
+                    750,
+                    950,
+                    750,
+                    850,
+                    700,
+                    800,
+                    850,
+                    400,
+                    450,
+                    500,
+                    400,
+                    950,
+                    400,
+                    700,
+                    800,
+                    1500,
+                    1500,
+                    700,
+                    750,
+                    800,
+                    850,
+                    1000,
+                    800,
+                    900,
+                    900,
+                    900,
+                    500,
+                    500
+                ],
+                "infusions_list": [
+                    "cafe expreso",
+                    "cafe cortado",
+                    "cafe capuchino",
+                    "cafe frapuchino",
+                    "cafe bombon"
+                ],
+                "infusions_price": [
+                    120,
+                    150,
+                    200,
+                    450,
+                    400
+                ],
+                "non_alcoholic_list": [
+                    "jugos naturales de frutas",
+                    "limonada natural",
+                    "limonada frape",
+                    "limonada frescura",
+                    "batidos de helado",
+                    "servicio de malteada",
+                    "refresco cola",
+                    "refresco naranja",
+                    "refresco limon",
+                    "refresco 7 up",
+                    "malta bucannero",
+                    "energizante",
+                    "agua natural importada",
+                    "agua gaseada carci crespq"
+                ],
+                "non_alcoholic_price": [
+                    180,
+                    400,
+                    400,
+                    450,
+                    600,
+                    200,
+                    250,
+                    250,
+                    250,
+                    280,
+                    350,
+                    280,
+                    200,
+                    300
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "internacional",
+            "italiana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,331 @@
+{
+    "general_info": {
+        "name": "Leyendhabana",
+        "township": "Cerro",
+        "adress": "Calle Santa Rosa No. 217 e/ Infanta y Cruz del Padre",
+        "local": "bar-restaurante",
+        "open": "12:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            "@restaurante.leyendhabana"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "tartaletas mixtas",
+                    "pulpitos al ajillo",
+                    "pimientos de piquillo rellenos",
+                    "frituras de malanga",
+                    "rollitos de salmon rellenos de queso crema y uvas pasas"
+                ],
+                "appetizers_price": [
+                    1254,
+                    1287,
+                    1320,
+                    594,
+                    1650
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "suprema de pollo a la crema",
+                    "cordero asado al romero",
+                    "langosta grille",
+                    "camarones leyendhabana perfumados al vino blanco",
+                    "filete mignon con salsa a eleccion"
+                ],
+                "main_price": [
+                    2145,
+                    2244,
+                    3795,
+                    2557,
+                    3927
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado con crema de limon, uvas pasas y frutos secos",
+                    "filete de salmon rosa grille"
+                ],
+                "sea_food_price": [
+                    2359,
+                    3382
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "tarta de crema",
+                    "brownie"
+                ],
+                "dessert_price": [
+                    1270,
+                    1270
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "ron abuelo anhejo reserva especial",
+                    "ron arecha 15 anhos",
+                    "ron bacardi gold",
+                    "ron havana club 15 anhos",
+                    "ron havana club 3 anhos",
+                    "ron havana club 7 anhos",
+                    "ron havana club blanco",
+                    "ron havana club especial",
+                    "ron havana club maximo",
+                    "ron havana club reserva",
+                    "ron havana club ritual",
+                    "ron legendario anhejo blanco",
+                    "ron legendario dorado",
+                    "ron legendario elixir",
+                    "ron mulata 15 anhos",
+                    "ron santa teresa gran reserva",
+                    "ron santiago 11 anhos",
+                    "ron santiago 20 anhos",
+                    "ron santiago anhejo",
+                    "ron seleccion de maestros",
+                    "ron vigia gran anhejo",
+                    "whisky ballantine\u2019s 12 anhos",
+                    "whisky ballantine\u2019s finest",
+                    "whisky chivas regal 12 anhos",
+                    "whisky chivas regal 18 anhos",
+                    "whisky clan campbell",
+                    "whisky j&b",
+                    "whisky jack daniel\u2019s",
+                    "whisky jameson",
+                    "whisky johnny walker black label",
+                    "whisky johnny walker blue label",
+                    "whisky johnny walker double black",
+                    "whisky johnny walker red label",
+                    "whisky the glenlivet 12 anhos",
+                    "brandy cognac gautier",
+                    "brandy torres 10",
+                    "brandy torres 5",
+                    "ginebra gordon\u2019s",
+                    "ginebra master",
+                    "ginebra tanqueray",
+                    "vodka absolut",
+                    "vodka absolut ruby red",
+                    "vodka absolut vanilia",
+                    "vodka russian shot",
+                    "tequila jarana reposado 100% agave",
+                    "tequila jarana silver 100% agave",
+                    "tequila jose cuervo reposado",
+                    "tequila jose cuervo silver",
+                    "vermouth cinzano bianco",
+                    "vermouth cinzano extra dry",
+                    "vermouth cinzano rosso",
+                    "vermouth martini bianco",
+                    "licor amaretto del conti",
+                    "licor amarula",
+                    "licor anis del mono dulce",
+                    "licor bailey\u2019s",
+                    "licor crema catalana",
+                    "licor frangelico",
+                    "licor kahlua",
+                    "licor malibu",
+                    "licor ricard",
+                    "licor tia maria",
+                    "vino blanco",
+                    "vino rosado",
+                    "vino tinto",
+                    "coctel sex on the beach",
+                    "coctel screwdriver",
+                    "coctel mojito",
+                    "coctel cubanito",
+                    "coctel cubalibre",
+                    "cerveza importada",
+                    "cerveza nacional"
+                ],
+                "alcohol_price": [
+                    1320,
+                    1650,
+                    1650,
+                    4950,
+                    511,
+                    825,
+                    330,
+                    627,
+                    66000,
+                    726,
+                    660,
+                    330,
+                    495,
+                    495,
+                    2640,
+                    1485,
+                    2145,
+                    4950,
+                    511,
+                    1815,
+                    2310,
+                    1980,
+                    990,
+                    1650,
+                    4620,
+                    858,
+                    990,
+                    1980,
+                    990,
+                    1980,
+                    8250,
+                    3300,
+                    990,
+                    1980,
+                    3300,
+                    2310,
+                    1485,
+                    990,
+                    990,
+                    1650,
+                    1320,
+                    1650,
+                    1650,
+                    660,
+                    990,
+                    660,
+                    1320,
+                    990,
+                    990,
+                    990,
+                    990,
+                    990,
+                    1320,
+                    1320,
+                    1320,
+                    1320,
+                    825,
+                    1650,
+                    990,
+                    660,
+                    990,
+                    1485,
+                    1155,
+                    1155,
+                    1155,
+                    990,
+                    990,
+                    825,
+                    825,
+                    825,
+                    825,
+                    577
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "agua ciego montero mineral gaseada",
+                    "agua ciego montero mineral natural",
+                    "agua ciego montero tonica",
+                    "agua fever tree tonic",
+                    "agua mg tonic",
+                    "agua panna",
+                    "agua san pellegrino",
+                    "agua schweppes tonic",
+                    "jugo la estancia",
+                    "jugos naturales",
+                    "malta imp.",
+                    "malta nac.",
+                    "refresco coca cola",
+                    "refresco fanta",
+                    "refresco ironbeer",
+                    "refresco kermato",
+                    "refresco limon",
+                    "refresco naranja",
+                    "refresco pepsi",
+                    "refresco pinhita",
+                    "refresco sprite",
+                    "refresco tukola",
+                    "refresco tukola light"
+                ],
+                "non_alcoholic_price": [
+                    330,
+                    330,
+                    330,
+                    1650,
+                    990,
+                    825,
+                    825,
+                    1320,
+                    495,
+                    495,
+                    495,
+                    396,
+                    643,
+                    643,
+                    330,
+                    577,
+                    330,
+                    330,
+                    643,
+                    330,
+                    643,
+                    330,
+                    330
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Comida Caribenha"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

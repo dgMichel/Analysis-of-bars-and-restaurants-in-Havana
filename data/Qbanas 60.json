@@ -1,0 +1,219 @@
+{
+    "general_info": {
+        "name": "Qbanas 60",
+        "township": "Playa",
+        "adress": "calle 60 e/ 15 y 17",
+        "local": "bar-restaurante",
+        "open": "00:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            false,
+            "@qbanas.60"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "bolitas de queso",
+                    "croquetas de pollo",
+                    "frituras de malanga",
+                    "papas fritas",
+                    "papas fritas con bacon y queso",
+                    "desayuno americano"
+                ],
+                "appetizers_price": [
+                    800,
+                    650,
+                    500,
+                    500,
+                    950,
+                    1500
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "cheddar",
+                    "bacon",
+                    "huevo",
+                    "gouda",
+                    "cebolla"
+                ],
+                "garnishes_price": [
+                    300,
+                    500,
+                    300,
+                    300,
+                    250
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa americana",
+                    "hamburguesa de cerdo"
+                ],
+                "hamburger_price": [
+                    1700,
+                    1400
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich de queso"
+                ],
+                "bread_price": [
+                    600
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pollo chiflado",
+                    "huevos rotos"
+                ],
+                "main_price": [
+                    1200,
+                    1500
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza cubana",
+                    "pizza trufada con tomate asado"
+                ],
+                "pizza_price": [
+                    400,
+                    1500
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "daiquiri",
+                    "old fashion",
+                    "sangria",
+                    "servicio de michelada",
+                    "servicio de chelada",
+                    "pina colada",
+                    "cervezas nacionales",
+                    "cerveza tagu",
+                    "cervezas importadas",
+                    "margarita",
+                    "aperol spritz",
+                    "7annos",
+                    "especial",
+                    "red label",
+                    "tequila olmeca",
+                    "tequila don julio",
+                    "heineken",
+                    "daiquiri de arandano o fresa",
+                    "mojito",
+                    "gin tonic",
+                    "caipis",
+                    "cubata",
+                    "habanos esplendido",
+                    "habanos trinidad",
+                    "ron premium y habanos",
+                    "6 heineken"
+                ],
+                "alcohol_price": [
+                    900,
+                    1800,
+                    1000,
+                    600,
+                    350,
+                    1000,
+                    250,
+                    250,
+                    22000,
+                    900,
+                    1500,
+                    500,
+                    400,
+                    600,
+                    700,
+                    1500,
+                    400,
+                    1200,
+                    700,
+                    1500,
+                    800,
+                    700,
+                    2000,
+                    3100,
+                    4000,
+                    2100
+                ],
+                "infusions_list": [
+                    "expresso",
+                    "cortadito",
+                    "capuchino",
+                    "bombon",
+                    "frapuccino"
+                ],
+                "infusions_price": [
+                    200,
+                    300,
+                    350,
+                    500,
+                    1200
+                ],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "americana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

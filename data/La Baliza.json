@@ -1,0 +1,124 @@
+{
+    "general_info": {
+        "name": "La Baliza",
+        "township": "La Lisa",
+        "adress": "",
+        "local": "cafeteria",
+        "open": "11:00",
+        "close": "22:00",
+        "days_of_week": [],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": null,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "Hamburguesa",
+                    "Super Hamburguesa"    
+                ],
+                "hamburger_price": [
+                    490,
+                    950    
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "Sandwich de Jamon y Queso"
+                ],
+                "bread_price": [
+                    500
+                ]
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [
+                    "Pizza con queso gouda (small)",
+                    "Pizza con queso gouda (large)",
+                    "Pizza de queso blanco (small)"    
+                ],
+                "pizza_price": [
+                    450,
+                    700,
+                    520    
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "Cerveza Importada"
+                ],
+                "alcohol_price": [
+                    250
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "Batido de Mamey",
+                    "Refresco importado",
+                    "Agua mineral natural"    
+                ],
+                "non_alcoholic_price": [
+                    230,
+                    230,
+                    150    
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Fast Food"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

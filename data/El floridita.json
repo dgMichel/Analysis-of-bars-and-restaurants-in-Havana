@@ -1,0 +1,169 @@
+{
+    "general_info": {
+        "name": "El floridita",
+        "township": "Habana Vieja",
+        "adress": "4JPV+X29",
+        "local": "bar-restaurante",
+        "open": "12:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": 80,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "cebiche caribenho",
+                    "coctel de langosta",
+                    "el viejo y el mar",
+                    "jamon serrano",
+                    "seleccion de quesos",
+                    "pica pica del chef(croquetas del dia)",
+                    "tapas de mariscos",
+                    "pasta frutti de mare",
+                    "casuelita colonial",
+                    "crema floridita",
+                    "sopa noche de paris"
+                ],
+                "appetizers_price": [
+                    1200,
+                    1200,
+                    2150,
+                    1350,
+                    1200,
+                    550,
+                    1050,
+                    1450,
+                    1100,
+                    600,
+                    350
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz marinero"
+                ],
+                "garnishes_price": [
+                    1450
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "caserola de pollo gregorin",
+                    "bistec de cerdo finca vijia",
+                    "solomillo de res",
+                    "clasica ropa vieja"
+                ],
+                "main_price": [
+                    1450,
+                    1700,
+                    2400,
+                    1800
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "langosta a su gusto",
+                    "gran plato hemingway (langosta,pescado y gambas)",
+                    "cazuelita del pescador",
+                    "cayuka mixta",
+                    "papa & mary",
+                    "camarones flambeados al ron",
+                    "pincho de camarones",
+                    "filete de pescado al estilo hemingway",
+                    "filete de pescado a la parrilla"
+                ],
+                "sea_food_price": [
+                    2850,
+                    2600,
+                    2400,
+                    2400,
+                    2350,
+                    2200,
+                    1950,
+                    2200,
+                    1800
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "pinha colada",
+                    "daiquiri",
+                    "mojito",
+                    "cuba libre"
+                ],
+                "alcohol_price": [
+                    450,
+                    350,
+                    350,
+                    400
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Criolla"
+        ],
+        "house_especiality": ["Gran Plato Hemingway"]
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica en vivo"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": false,
+        "bathroom": null,
+        "heated": null
+    }
+}

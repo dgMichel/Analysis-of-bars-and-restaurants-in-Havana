@@ -1,0 +1,202 @@
+{
+    "general_info": {
+        "name": "Bar Tropicana",
+        "township": "Marianao",
+        "adress": "72A,Avenida 41",
+        "local": "bar",
+        "open": "12:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cervezas nacionales o importadas",
+                    "cerveza dispensada ",
+                    "copa de vino de la casa",
+                    "havana club 3 annos ",
+                    "especial havana club ",
+                    "havana club 7 annos ",
+                    "havana club pacto navio ",
+                    "havana club seleccion de maestros",
+                    "aguardiente gobernador",
+                    "chiva regal 12 annos",
+                    "ballentinees finest",
+                    "j&b ",
+                    "johnnie walker etiqueta roja",
+                    "jameson",
+                    "vat",
+                    "tequila 3 sombreros",
+                    "vodka igor",
+                    "brandy napoleon",
+                    "cremas y licores (cacao)",
+                    "cremas y licores (cafe)",
+                    "cremas y licores(menta)",
+                    "cremas y licores(marrasquino)",
+                    "cremas y licores(triple sec)",
+                    "cremas y licores(curacao azul)",
+                    "cremas y licores(pinna)",
+                    "daiquiri natural",
+                    "daiquiri frapeado natural",
+                    "cuba libre",
+                    "cubata",
+                    "daiquiri mulata",
+                    "daiquiri saborizado",
+                    "gin cola",
+                    "gin tonic",
+                    "rom tonic",
+                    "vodka cola",
+                    "vodka tonica",
+                    "whisky cola",
+                    "tropicana special ",
+                    "cocteles internacionales",
+                    "canchanchara",
+                    "pinna colada "
+                ],
+                "alcohol_price": [
+                    200,
+                    160,
+                    300,
+                    100,
+                    120,
+                    320,
+                    730,
+                    750,
+                    14300,
+                    995,
+                    500,
+                    650,
+                    550,
+                    650,
+                    580,
+                    300,
+                    395,
+                    190,
+                    85,
+                    85,
+                    85,
+                    85,
+                    85,
+                    85,
+                    85,
+                    450,
+                    450,
+                    730,
+                    700,
+                    620,
+                    450,
+                    750,
+                    785,
+                    550,
+                    600,
+                    650,
+                    500,
+                    450,
+                    500,
+                    450,
+                    450
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "aguas nacionales",
+                    "agua saborizada ",
+                    "agua natural ",
+                    "refresco",
+                    "jugos de frutas en conserva ",
+                    "jugos de frutas naturales"
+                ],
+                "non_alcoholic_price": [
+                    100,
+                    100,
+                    100,
+                    60,
+                    100,
+                    100
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [
+            "Cerveza"
+        ],
+        "food_especialization": [
+            "null"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Show"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

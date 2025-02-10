@@ -1,0 +1,198 @@
+{
+    "general_info": {
+        "name": "Mokalex",
+        "township": "Playa",
+        "adress": "Calle 47 #3417 e/ 34 y 36, Reparto Kholy",
+        "local": "cafeteria",
+        "open": "09:00",
+        "close": "14:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "Mokalex",
+            "@mokalex_cuba"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "tabla de embutidos y quesos",
+                    "aceitunas",
+                    "croissant con nutella",
+                    "croissant con jamon y queso",
+                    "ensalada fria"
+                ],
+                "appetizers_price": [
+                    2300,
+                    700,
+                    1300,
+                    1800,
+                    800
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz frito",
+                    "ensalada de humus con pechuga de pollo y vegetales"
+                ],
+                "garnishes_price": [
+                    1800,
+                    1400
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich cubano",
+                    "sandwich de jamon y queso",
+                    "empanada gallega"
+                ],
+                "bread_price": [
+                    1500,
+                    1300,
+                    800
+                ]
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "lasagna bolognesa",
+                    "spaghetti con jamon"
+                ],
+                "pasta_price": [
+                    1800,
+                    1500
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "pasteleria",
+                    "torta de la casa"
+                ],
+                "dessert_price": [
+                    350,
+                    700
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza",
+                    "michelada",
+                    "copa de vino tinto",
+                    "copa de vino blanco",
+                    "crema catalana",
+                    "havana club especial",
+                    "havana club 7 annos",
+                    "whisky j&b"
+                ],
+                "alcohol_price": [
+                    450,
+                    600,
+                    600,
+                    600,
+                    800,
+                    400,
+                    600,
+                    800
+                ],
+                "infusions_list": [
+                    "cafe exconvicto",
+                    "cafe yuma",
+                    "cafe suturado",
+                    "cafe conde",
+                    "cafe mulata",
+                    "frapuchino",
+                    "frapuhelado",
+                    "capuchino",
+                    "infusiones"
+                ],
+                "infusions_price": [
+                    400,
+                    400,
+                    500,
+                    600,
+                    550,
+                    800,
+                    900,
+                    800,
+                    300
+                ],
+                "non_alcoholic_list": [
+                    "agua natural",
+                    "agua gaseada",
+                    "agua gaseada importada",
+                    "refresco",
+                    "malta",
+                    "energizante",
+                    "jugos naturales",
+                    "jugo oxido rojo"
+                ],
+                "non_alcoholic_price": [
+                    300,
+                    400,
+                    600,
+                    400,
+                    500,
+                    400,
+                    400,
+                    600
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "internacional"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

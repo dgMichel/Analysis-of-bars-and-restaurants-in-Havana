@@ -1,0 +1,186 @@
+{
+    "general_info": {
+        "name": "El Palenque",
+        "township": "Playa",
+        "adress": null,
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "21:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "Restaurante El Palenque"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "cesta de pan",
+                    "croquetas",
+                    "chicharrones",
+                    "entremes surtido",
+                    "entremes de jamon y chorizo",
+                    "variado de queso"
+                ],
+                "appetizers_price": [
+                    100,
+                    150,
+                    400,
+                    100,
+                    150,
+                    200
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "papas fritas",
+                    "ensalada de vegetales",
+                    "arroz con pollo"
+                ],
+                "garnishes_price": [
+                    215,
+                    300,
+                    250
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo asado 1kg",
+                    "pechuga con papas fritas",
+                    "fajitas de pollo salteadas",
+                    "masas de cerdo fritas",
+                    "bistec de cerdo",
+                    "cerdo asado 400gr",
+                    "picadillo de res",
+                    "bistec de res",
+                    "res de campesina",
+                    "chilindron de cordero"
+                ],
+                "main_price": [
+                    630,
+                    700,
+                    400,
+                    1000,
+                    300,
+                    800,
+                    350,
+                    300,
+                    400,
+                    1700
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta napolitana",
+                    "lasagna de carne"
+                ],
+                "pasta_price": [
+                    250,
+                    200
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "mermelada con queso",
+                    "arroz con leche",
+                    "dulce de frutabomba"
+                ],
+                "dessert_price": [
+                    60,
+                    60,
+                    120
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza",
+                    "licores nacionales",
+                    "ron havana club reserva",
+                    "tequila blanco"
+                ],
+                "alcohol_price": [
+                    120,
+                    20,
+                    40,
+                    150
+                ],
+                "infusions_list": [
+                    "cortadito",
+                    "cafe con leche",
+                    "te"
+                ],
+                "infusions_price": [
+                    60,
+                    80,
+                    30
+                ],
+                "non_alcoholic_list": [
+                    "jugos naturales"
+                ],
+                "non_alcoholic_price": [
+                    100
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "caribenna",
+            "latina",
+            "internacional",
+            "cubana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": false,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

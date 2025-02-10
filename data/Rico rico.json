@@ -1,0 +1,185 @@
+{
+    "general_info": {
+        "name": "Rico rico",
+        "township": "Cerro",
+        "adress": "Calle Ayestaran entre Perfecto Lacoste y Aranguren",
+        "local": "restaurante",
+        "open": "09:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "RicoRicopizzeria",
+            "@ricoricopizzeria"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "ensalada fria de atun (pequenha)",
+                    "ensalada fria de atun (mediana)",
+                    "ensalada fria de atun (grande)",
+                    "ensalada fria de jamon y queso (pequenha)",
+                    "bastones de queso",
+                    "empanadas gallegas",
+                    "tequenhos"
+                ],
+                "appetizers_price": [
+                    645,
+                    1200,
+                    2205,
+                    495,
+                    780,
+                    380,
+                    350
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta carbonara",
+                    "calzone napoles",
+                    "megacalzone",
+                    "lasanha bolonhesa",
+                    "lasanha de jamon"
+                ],
+                "pasta_price": [
+                    1000,
+                    1090,
+                    1440,
+                    1550,
+                    1490
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizzeta de napole",
+                    "pizzeta de chorizo",
+                    "pizza napoles",
+                    "pasta napoles"
+                ],
+                "pizza_price": [
+                    230,
+                    325,
+                    920,
+                    920
+                ]
+            },
+            "adds": {
+                "adds_list": [
+                    "aceitunas",
+                    "pinha",
+                    "cebolla",
+                    "atun",
+                    "chorizo",
+                    "bacon",
+                    "jamon",
+                    "jamon serrano",
+                    "parmesano",
+                    "gouda",
+                    "lomo ahumado",
+                    "queso azul"
+                ],
+                "adds_price": [
+                    220,
+                    220,
+                    400,
+                    550,
+                    2390,
+                    360,
+                    320,
+                    480,
+                    350,
+                    360,
+                    380,
+                    300
+                ]
+            },
+            "dessert": {
+                "dessert_list": [
+                    "pastelito de ojaldre de guayaba o coco",
+                    "pastelito de ojaldre de jamon y queso",
+                    "flan"
+                ],
+                "dessert_price": [
+                    260,
+                    280,
+                    590
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "frappi rico",
+                    "mega bati bati",
+                    "super bati bati",
+                    "bati frutas"
+                ],
+                "non_alcoholic_price": [
+                    180,
+                    990,
+                    785,
+                    675
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Comida Italiana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

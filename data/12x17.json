@@ -1,0 +1,243 @@
+{
+    "general_info": {
+        "name": "12X17",
+        "township": "Plaza de la Revolucion",
+        "adress": "12 y 17",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas de la casa",
+                    "frituras de malanga",
+                    "papas foster (papas fritas con jamon, queso y chorizo gratinadas al horno)",
+                    "fajitas de pollo",
+                    "fajitas de cerdo",
+                    "tostones rellenos",
+                    "tostones 12 x 17",
+                    "tacos de res",
+                    "tacos de cerdo",
+                    "tacos de pollo",
+                    "tabla de 12x17"
+                ],
+                "appetizers_price": [
+                    875,
+                    750,
+                    1600,
+                    1200,
+                    1380,
+                    1150,
+                    1350,
+                    1450,
+                    1350,
+                    1250,
+                    3050
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz moro",
+                    "arroz blanco",
+                    "arroz pilaf",
+                    "pure de malanga",
+                    "vianda hervida",
+                    "vianda frita"
+                ],
+                "garnishes_price": [
+                    450,
+                    400,
+                    450,
+                    550,
+                    490,
+                    500
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa sencilla",
+                    "hamburguesa 12x17",
+                    "hamburguesa tik tok",
+                    "cheese burguer"
+                ],
+                "hamburger_price": [
+                    1050,
+                    1650,
+                    1400,
+                    1300
+                ]
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "suprema de pollo",
+                    "bistec de cerdo",
+                    "vaca frita",
+                    "ropa vieja"
+                ],
+                "main_price": [
+                    1950,
+                    1870,
+                    2050,
+                    2050
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta pomodoro",
+                    "pasta bolognesa",
+                    "pasta vegetariana"
+                ],
+                "pasta_price": [
+                    1050,
+                    1850,
+                    1150
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza hawaiana",
+                    "pizza de jamon serrano"
+                ],
+                "pizza_price": [
+                    1350,
+                    1750,
+                    2200
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cuba libre",
+                    "cubata",
+                    "daiquiri",
+                    "daiquiri de frutas",
+                    "mojito",
+                    "screw driver",
+                    "canchanchara",
+                    "pinha colada",
+                    "caipirinha",
+                    "caipirissima",
+                    "caipiroska",
+                    "vodka tonic",
+                    "margarita",
+                    "copa de vino blanco",
+                    "copa de vino tinto",
+                    "gin tonic",
+                    "gin tonic premium",
+                    "gin tonic super premium",
+                    "sangria",
+                    "tinto de verano",
+                    "tequila sunrise",
+                    "aperol spritz",
+                    "cubanito",
+                    "bloddy mary",
+                    "long island ice",
+                    "sex on the beach",
+                    "jack frost",
+                    "negroni de la casa",
+                    "jagger bore",
+                    "bob marley",
+                    "havana tropical",
+                    "tropical fresh"
+                ],
+                "alcohol_price": [
+                    600,
+                    650,
+                    780,
+                    850,
+                    650,
+                    600,
+                    750,
+                    800,
+                    750,
+                    750,
+                    750,
+                    850,
+                    850,
+                    720,
+                    750,
+                    1050,
+                    1150,
+                    1250,
+                    1150,
+                    800,
+                    850,
+                    1480,
+                    850,
+                    980,
+                    980,
+                    850,
+                    950,
+                    1120,
+                    1120,
+                    1100,
+                    720,
+                    1250
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,284 @@
+{
+    "general_info": {
+        "name": "Cafe Clington",
+        "township": "Playa",
+        "adress": "Calle 60 entre 3ra y 3raA",
+        "local": "restaurante",
+        "open": "08:00",
+        "close": "18:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "@cafe_clington_"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "ensalada nicoise",
+                    "ensalada de aguacate y atun",
+                    "ensalada de estacion",
+                    "ensalada cesarin de suprema de pollo",
+                    "pasta fria de atun",
+                    "pasta fria de jamon",
+                    "pasta al pesto",
+                    "tapas de jamon con frutos secos",
+                    "tapas de falsa de atun napado en crema de vinagre balsamico",
+                    "tapa iberica",
+                    "bruschettas",
+                    "black and white",
+                    "anabella",
+                    "hansel y gretel",
+                    "desayuno americano",
+                    "bxb"
+                ],
+                "appetizers_price": [
+                    1500,
+                    600,
+                    500,
+                    1000,
+                    800,
+                    800,
+                    800,
+                    700,
+                    900,
+                    1000,
+                    900,
+                    1000,
+                    600,
+                    600,
+                    2000,
+                    600
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "mini burger",
+                    "hamburguesa"
+                ],
+                "hamburger_price": [
+                    310,
+                    400
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich de atun",
+                    "sandwich de jamon y queso",
+                    "sandwich de vegetales con huevo",
+                    "sandwich de pollo",
+                    "sandwich de pollo con queso gratinado",
+                    "club sandwich",
+                    "sandwich campesino",
+                    "panini",
+                    "pan troceado",
+                    "pan viena",
+                    "pan molde aleman",
+                    "perro new york",
+                    "panini new york",
+                    "pan perro",
+                    "pan rustico",
+                    "pan baguette",
+                    "pan ciabatta",
+                    "pan challah",
+                    "pan iberico",
+                    "pan campesino"
+                ],
+                "bread_price": [
+                    900,
+                    900,
+                    900,
+                    1000,
+                    1200,
+                    1800,
+                    2500,
+                    500,
+                    400,
+                    350,
+                    900,
+                    350,
+                    500,
+                    350,
+                    1000,
+                    700,
+                    550,
+                    1000,
+                    250,
+                    400
+                ]
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "flan fanguito",
+                    "snicker",
+                    "tofi",
+                    "tarta de flan fanguito",
+                    "cheesecake sabor fresa, limon y kiwi",
+                    "donas de chocolate",
+                    "ojos de buey",
+                    "magdalena",
+                    "hoja",
+                    "donas artesanales",
+                    "pastel danes",
+                    "caracol",
+                    "pastel de guayaba",
+                    "palmeras",
+                    "coquito horneado",
+                    "tarta grande de quiche lorraine",
+                    "porcion de tarta quiche lorraine",
+                    "tarta pequenna de quiche lorraine",
+                    "tarta san marcos",
+                    "protiferol",
+                    "eclair"
+                ],
+                "dessert_price": [
+                    600,
+                    750,
+                    600,
+                    3500,
+                    750,
+                    570,
+                    200,
+                    250,
+                    150,
+                    200,
+                    200,
+                    250,
+                    250,
+                    200,
+                    200,
+                    3500,
+                    350,
+                    600,
+                    5000,
+                    450,
+                    450
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza cristal",
+                    "cerveza sol",
+                    "cerveza bucanero",
+                    "cerveza heineken",
+                    "cerveza blue",
+                    "cerveza corona"
+                ],
+                "alcohol_price": [
+                    300,
+                    400,
+                    400,
+                    500,
+                    300,
+                    550
+                ],
+                "infusions_list": [
+                    "expresso",
+                    "cortado",
+                    "capuchino",
+                    "bombon",
+                    "frapuccino",
+                    "con leche",
+                    "chocolate caliente"
+                ],
+                "infusions_price": [
+                    200,
+                    250,
+                    500,
+                    500,
+                    600,
+                    600,
+                    600
+                ],
+                "non_alcoholic_list": [
+                    "agua purificada de 500ml",
+                    "agua purificada de 1l",
+                    "agua purificada de 5l",
+                    "agua gaseada",
+                    "malta",
+                    "pepsi",
+                    "redbull",
+                    "coca cola",
+                    "sprite",
+                    "jugos de 1l",
+                    "copa de jugos naturales"
+                ],
+                "non_alcoholic_price": [
+                    270,
+                    350,
+                    900,
+                    500,
+                    350,
+                    350,
+                    500,
+                    450,
+                    450,
+                    900,
+                    250
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "internacional"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,297 @@
+{
+    "general_info": {
+        "name": "Topoly",
+        "township": "Plaza de la Revolucion",
+        "adress": "Calle 23, esquina D",
+        "local": "bar-restaurante",
+        "open": "09:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "eperlan de pescado",
+                    "oferta de desayuno (jugo, pan, huevo, queso, mantequilla, fruta, dulce, cafe/te)",
+                    "sopa de pollo",
+                    "sopa de cordero",
+                    "sopa de vegetales",
+                    "falafel (croquetas de legumbres)",
+                    "taco de pollo",
+                    "taco chawarma",
+                    "taco vegetariano",
+                    "taco kafta",
+                    "nan",
+                    "empanada de queso",
+                    "empanada de guayaba",
+                    "empanada de coco",
+                    "empanada de vegetales",
+                    "empanada mixta",
+                    "empanada de pollo"
+                ],
+                "appetizers_price": [
+                    2250,
+                    1600,
+                    1250,
+                    1300,
+                    1230,
+                    1300,
+                    1400,
+                    1450,
+                    1260,
+                    1650,
+                    150,
+                    760,
+                    590,
+                    610,
+                    570,
+                    750,
+                    780
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz",
+                    "ensalada mixta",
+                    "racion de frijoles",
+                    "ensalada topoly",
+                    "ensalada de atun",
+                    "ensalada mixta de vegetales"
+                ],
+                "garnishes_price": [
+                    450,
+                    650,
+                    650,
+                    1250,
+                    1600,
+                    650
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa de res",
+                    "hamburguesa de queso, vegetales, encurtido, salsa y papas fritas",
+                    "hamburguesa vegetariana"
+                ],
+                "hamburger_price": [
+                    1400,
+                    700,
+                    1200
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich de jamon y queso",
+                    "sandwich de pollo"
+                ],
+                "bread_price": [
+                    950,
+                    1030
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "jooje kabab (pollo)",
+                    "pollo en salsa con papa dulce, arroz blanco y ensalada",
+                    "khoresht sabzi",
+                    "kufte (albondigas)",
+                    "kafta (brocheta de res molida con arroz)",
+                    "plato mixto (cordero en salsa, brocheta de pollo, pescado al horno, ensalada y arroz)",
+                    "plato cubano (pollo frito, frijoles, arroz blanco, y vegetales)",
+                    "cordero al vino con papa dulce, arroz blanco y ensalada",
+                    "taskabab",
+                    "khoresht sabzi (cordero)",
+                    "dizi (plato tradicional irani)",
+                    "khoresht bademjan (cordero con berenjena)",
+                    "ropa vieja de cordero y res",
+                    "plato vegetariano",
+                    "vegetariano"
+                ],
+                "main_price": [
+                    2800,
+                    2900,
+                    2450,
+                    2500,
+                    2500,
+                    6550,
+                    2750,
+                    3250,
+                    3200,
+                    2655,
+                    3300,
+                    2950,
+                    3200,
+                    2300,
+                    2300
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "plato del mar (camarones, langosta, pescado, arroz blanco y ensalada)",
+                    "camarones enchilados",
+                    "langosta enchilada",
+                    "pescado entero"
+                ],
+                "sea_food_price": [
+                    7200,
+                    3300,
+                    3800,
+                    2900
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza hawaiana",
+                    "topoly"
+                ],
+                "pizza_price": [
+                    1400,
+                    2070,
+                    2270
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "helado"
+                ],
+                "dessert_price": [
+                    370
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "shisha",
+                    "shisha doble",
+                    "cervezas nacionales",
+                    "cervezas importades",
+                    "ron anhejo blanco",
+                    "ron 3 anhos",
+                    "especial",
+                    "whisky",
+                    "sangria espanhola",
+                    "cuba libre",
+                    "roncolli",
+                    "cubata",
+                    "mojito",
+                    "tinto blanco (copa)",
+                    "tinto blanco (botella)",
+                    "vaca blanca/negra"
+                ],
+                "alcohol_price": [
+                    1800,
+                    2200,
+                    450,
+                    600,
+                    390,
+                    480,
+                    560,
+                    470,
+                    690,
+                    630,
+                    630,
+                    690,
+                    700,
+                    900,
+                    5000,
+                    600
+                ],
+                "infusions_list": [
+                    "cafe expresso",
+                    "cafe americano",
+                    "cafe cortado",
+                    "cafe con leche",
+                    "cafe con licor",
+                    "cafe glase",
+                    "te negro/verde/menta/rojo",
+                    "te topoly",
+                    "te tila/manzanilla/manzana/jazmin/azafran"
+                ],
+                "infusions_price": [
+                    180,
+                    180,
+                    210,
+                    480,
+                    260,
+                    440,
+                    350,
+                    500,
+                    300
+                ],
+                "non_alcoholic_list": [
+                    "batido de helado",
+                    "batido de frutas",
+                    "agua natural",
+                    "refrescos nacionales",
+                    "refrescos importados",
+                    "malta",
+                    "chocolate caliente",
+                    "jugo de fruta",
+                    "jugo de frutas con helado",
+                    "limonada natural"
+                ],
+                "non_alcoholic_price": [
+                    790,
+                    650,
+                    250,
+                    350,
+                    450,
+                    450,
+                    550,
+                    350,
+                    550,
+                    500
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Irani"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

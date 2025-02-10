@@ -1,0 +1,139 @@
+{
+    "general_info": {
+        "name": "Buenissimo heladeria",
+        "township": "Centro Habana",
+        "adress": null,
+        "local": "restaurante",
+        "open": "09:30",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            false,
+            "@buenissimo.heladeria"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "1/2 kg de helado",
+                    "1 kg de helado",
+                    "cono (1bola 95gr)",
+                    "cono doble",
+                    "cono maxi",
+                    "copa buenissimo",
+                    "copa family",
+                    "copa firenze",
+                    "copa habana",
+                    "copa roma",
+                    "copeta 1 bola",
+                    "copeta 2 sabores",
+                    "copeta 3 sabores",
+                    "copeta 4 sabores",
+                    "tulipan",
+                    "tulipan max"
+                ],
+                "dessert_price": [
+                    1800,
+                    3600,
+                    280,
+                    560,
+                    850,
+                    1500,
+                    2100,
+                    1200,
+                    620,
+                    950,
+                    300,
+                    630,
+                    920,
+                    1200,
+                    1300,
+                    1500
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "cubana",
+            "italiana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

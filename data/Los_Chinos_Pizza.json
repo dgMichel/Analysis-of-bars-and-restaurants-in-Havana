@@ -1,0 +1,281 @@
+{
+    "general_info": {
+        "name": "Los_Chinos_Pizza",
+        "township": "Habana del Este",
+        "adress": "5ta Avenida Guanabo",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": ["@loschinospizza","https://www.facebook.com/p/Los-Chinos-Pizza-100064164337872/"],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "brusquetas",
+                    "brusquetas con queso",
+                    "focaccia",
+                    "focaccia con salsa de tomate",
+                    "focaccia con queso",
+                    "croquetas caseras",
+                    "tostones rellenos de jamon y queso",
+                    "tostones rellenos de atun",
+                    "coctel de camaron",
+                    "sopa de vegetales",
+                    "crema de queso",
+                    "crema aurora",
+                    "crema virginia"
+                ],
+                "appetizers_price": [
+                    600,
+                    750,
+                    700,
+                    750,
+                    1000,
+                    450,
+                    650,
+                    700,
+                    2600,
+                    500,
+                    450,
+                    480,
+                    550
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "bistec relleno de jamon y queso",
+                    "bistec de pollo",
+                    "fajita de pollo",
+                    "pollo asado",
+                    "bistec de pechuga grille",
+                    "fajita de pechuga",
+                    "pechuga rellena de jamon y queso",
+                    "pollo a la criolla",
+                    "bistec de cerdo",
+                    "fajita de cerdo",
+                    "masas fritas",
+                    "ropa vieja",
+                    "lomo deshuesado",
+                    "chuleta",
+                    "ropa vieja de res"
+                ],
+                "main_price": [
+                    2100,
+                    1600,
+                    1600,
+                    3000,
+                    1700,
+                    1700,
+                    2100,
+                    2000,
+                    1900,
+                    1900,
+                    2000,
+                    1900,
+                    1900,
+                    2100,
+                    3000
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "camarones grille",
+                    "camarones enchilado",
+                    "camarones al ajillo",
+                    "camarones rebosado",
+                    "langosta grille",
+                    "langosta al ajillo",
+                    "langosta enchilada",
+                    "langosta marinera",
+                    "eperlan",
+                    "filete grille",
+                    "filete empanado",
+                    "filete monte toro",
+                    "canciller",
+                    "jhon bill"
+                ],
+                "sea_food_price": [
+                    2600,
+                    2600,
+                    2600,
+                    2700,
+                    3000,
+                    3000,
+                    3600,
+                    4000,
+                    2250,
+                    2100,
+                    2250,
+                    2500,
+                    2600,
+                    3000
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta arrabiata",
+                    "pasta al aglio olio",
+                    "pasta bolognesa",
+                    "pasta carbonara",
+                    "pasta alfredo",
+                    "pasta al pesto",
+                    "pasta matriciana",
+                    "pasta con camarones",
+                    "lasanha bolonhesa",
+                    "lasanha de jamon"
+                ],
+                "pasta_price": [
+                    850,
+                    850,
+                    1700,
+                    1200,
+                    1200,
+                    1200,
+                    1200,
+                    1700,
+                    1900,
+                    1800
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza de queso",
+                    "pizza de jamon",
+                    "pizza con aceitunas:",
+                    "pizza salame",
+                    "pizza chorizo",
+                    "pizza champinhon",
+                    "pizza 3 vegetales",
+                    "pizza 3 embutidos",
+                    "pizza salame y picante",
+                    "pizza pepperoni",
+                    "pizza hawaiana",
+                    "pizza jamon y champinhon",
+                    "pizza atun",
+                    "pizza camaron",
+                    "pizza bacon",
+                    "pizza los chinos",
+                    "pizza cebolla",
+                    "pizza pimiento"
+                ],
+                "pizza_price": [
+                    1150,
+                    1600,
+                    1500,
+                    1500,
+                    1600,
+                    1700,
+                    1700,
+                    1700,
+                    1700,
+                    1700,
+                    1700,
+                    1700,
+                    1700,
+                    2200,
+                    1700,
+                    2200,
+                    1600,
+                    1600
+                ]
+            },
+            "adds": {
+                "adds_list": [
+                    "cebolla",
+                    "jamon",
+                    "salame",
+                    "atun",
+                    "bacon",
+                    "salsa de tomate",
+                    "pinha",
+                    "aceitunas",
+                    "queso",
+                    "chorizo",
+                    "pimiento",
+                    "tomate natural",
+                    "camaron",
+                    "champinhon"
+                ],
+                "adds_price": [
+                    450,
+                    560,
+                    550,
+                    670,
+                    560,
+                    450,
+                    450,
+                    450,
+                    500,
+                    550,
+                    450,
+                    450,
+                    1100,
+                    670
+                ]
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "italiana y criolla"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

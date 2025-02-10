@@ -1,0 +1,165 @@
+{
+    "general_info": {
+        "name": "Tiki_Bar",
+        "township": "Habana del Este",
+        "adress": "3ra y 484, Guanabo",
+        "local": "bar-restaurante",
+        "open": "09:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "tostones de jamon y queso",
+                    "tostones de chorizo y queso",
+                    "tostones de cangrejo",
+                    "tostones de langosta",
+                    "tostones de camaron",
+                    "taco de cangrejo",
+                    "taco de camaron",
+                    "taco de langosta",
+                    "papas tiki",
+                    "ceviche de pescado",
+                    "ceviche de langosta",
+                    "coctel de camaron",
+                    "coctel de langosta",
+                    "fajita de cerdo",
+                    "fajita de pollo"
+                ],
+                "appetizers_price": [
+                    1200,
+                    1200,
+                    2300,
+                    4000,
+                    4000,
+                    2500,
+                    4000,
+                    4000,
+                    1300,
+                    2000,
+                    3000,
+                    3500,
+                    2900,
+                    2250,
+                    2100
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "bistec de cerdo",
+                    "ribeye"
+                ],
+                "main_price": [
+                    2500,
+                    12500
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "camaron al gusto",
+                    "langosta al gusto",
+                    "enchilado de cangrejo",
+                    "pulpo al gusto"
+                ],
+                "sea_food_price": [
+                    4000,
+                    4000,
+                    2500,
+                    3800
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza"
+                ],
+                "alcohol_price": [
+                    500
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "red bull",
+                    "energizante",
+                    "malta",
+                    "refresco",
+                    "malteada"
+                ],
+                "non_alcoholic_price": [
+                    700,
+                    420,
+                    500,
+                    450,
+                    1000
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Mariscos"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

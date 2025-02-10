@@ -1,0 +1,293 @@
+{
+    "general_info": {
+        "name": "Obispo_510",
+        "township": "Habana Vieja",
+        "adress": "Obispo #510 e/ Bernaza y Villegas",
+        "local": "restaurante",
+        "open": "10:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": 30,
+        "social_network": [
+            "@obispo510"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "coctel de camarones",
+                    "tacos",
+                    "tostones a la campesina",
+                    "croquetas",
+                    "frituras de malanga"
+                ],
+                "appetizers_price": [
+                    1500,
+                    1200,
+                    1200,
+                    600,
+                    600
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz frito",
+                    "ensalada primavera",
+                    "arroz con vegetales"
+                ],
+                "garnishes_price": [
+                    600,
+                    600,
+                    900
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich"
+                ],
+                "bread_price": [
+                    1200
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "gordon bleu",
+                    "fricasse de pollo",
+                    "pollo al curry",
+                    "pollo al grill",
+                    "paella",
+                    "chorrera",
+                    "chuleton a la pinha",
+                    "masas de cerdo fritas",
+                    "cerdo encebollado",
+                    "res al vino tinto",
+                    "estofado de res",
+                    "ropa vieja",
+                    "canoa de carnes x2pax",
+                    "mar y tierra x2pax"
+                ],
+                "main_price": [
+                    2100,
+                    1800,
+                    1800,
+                    1500,
+                    3000,
+                    2400,
+                    2100,
+                    2100,
+                    1800,
+                    2400,
+                    2100,
+                    1800,
+                    6000,
+                    10500
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "langosta en salsa americana",
+                    "pulpo al ajillo",
+                    "langosta al grill",
+                    "langosta al ajillo",
+                    "pescado canciller",
+                    "camarones rebozados",
+                    "pescado al grill",
+                    "pescado al plato x kg",
+                    "cazuela marinera x2pax"
+                ],
+                "sea_food_price": [
+                    3600,
+                    3600,
+                    3000,
+                    3000,
+                    3000,
+                    2400,
+                    2100,
+                    4500,
+                    7500
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espaguetis de mariscos",
+                    "espaguetis carbonara",
+                    "espaguetis bolognesa",
+                    "espaguetis pesto",
+                    "espaguetis pomodoro",
+                    "fetuccini ropa vieja"
+                ],
+                "pasta_price": [
+                    3000,
+                    2400,
+                    2100,
+                    1200,
+                    1200,
+                    2100
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza jamon serrano",
+                    "pizza diavola",
+                    "pizza hawaiana",
+                    "pizza napoletana",
+                    "pizza ropa vieja"
+                ],
+                "pizza_price": [
+                    2100,
+                    1500,
+                    1500,
+                    900,
+                    2100
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "tarta",
+                    "affogato",
+                    "batido de helado",
+                    "helado"
+                ],
+                "dessert_price": [
+                    900,
+                    600,
+                    600,
+                    300
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "olmeca blanco",
+                    "olmeca reposado",
+                    "copa de vino tinto",
+                    "copa de vino blanco",
+                    "l. j. w. red label",
+                    "l. c. r. 12 anhos",
+                    "havana club anhejo blanco",
+                    "havana club anhejo especial",
+                    "havana club anhejo reserva",
+                    "havana club 7 anhos",
+                    "santiago 8 anhos",
+                    "santiago 12 anhos",
+                    "ron pacto navio",
+                    "mojito frutal",
+                    "daiquiri",
+                    "cuba libre",
+                    "cubata",
+                    "cancha",
+                    "ron collins",
+                    "cubanito",
+                    "mary pickford",
+                    "presidente",
+                    "cuba bella",
+                    "gin tonic",
+                    "long island",
+                    "bloody mary",
+                    "caipirinha",
+                    "pinha colada",
+                    "michelada",
+                    "chelada",
+                    "sangria",
+                    "cerveza"
+                ],
+                "alcohol_price": [
+                    600,
+                    600,
+                    600,
+                    600,
+                    1200,
+                    1500,
+                    300,
+                    600,
+                    600,
+                    900,
+                    900,
+                    1200,
+                    1500,
+                    600,
+                    600,
+                    600,
+                    900,
+                    600,
+                    600,
+                    600,
+                    1200,
+                    1200,
+                    1200,
+                    1500,
+                    1500,
+                    1200,
+                    1200,
+                    1200,
+                    900,
+                    600,
+                    1200,
+                    450
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "agua natural",
+                    "limonada",
+                    "jugos",
+                    "batidos",
+                    "sodas"
+                ],
+                "non_alcoholic_price": [
+                    300,
+                    300,
+                    300,
+                    600,
+                    400
+                ]
+                
+            }
+        },
+        "popular_food": ["ropa vieja"],
+        "popular_drink": [],
+        "food_especialization": [
+            "Criolla y Italiana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": false,
+        "bathroom": null,
+        "heated": null
+    }
+}

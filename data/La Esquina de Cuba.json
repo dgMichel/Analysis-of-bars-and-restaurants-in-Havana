@@ -1,0 +1,185 @@
+{
+    "general_info": {
+        "name": "La Esquina de Cuba",
+        "township": "Habana Vieja",
+        "adress": "Esquina de Calle Cuba y Empedrado",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            "@laesquinadecuba",
+            "https://www.facebook.com/esquinadecuba/?locale=es_LA"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "fritura de malanga",
+                    "patacon de la esquina",
+                    "montadito de tamal",
+                    "ceviche de pescado",
+                    "taquitos de la casa"
+                ],
+                "appetizers_price": [
+                    750,
+                    1050,
+                    1080,
+                    1450,
+                    1580
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo al vino tinto",
+                    "almuerzo campesino (cerdo asado, arroz, frijoles, tostones)",
+                    "habanero con sabor (ropa vieja, arroz, frijoles, platano macho)",
+                    "guajiro con tumbao (masas de cerdo fritas, arroz, frijoles, matajibaro)",
+                    "arroz con pollo",
+                    "ribeye a la esquinita"
+                ],
+                "main_price": [
+                    2050,
+                    2350,
+                    2380,
+                    2580,
+                    2250,
+                    8450
+
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "pescado grille con crema de malanga",
+                    "camarones enchilados",
+                    "frutos del mar",
+                    "ensalada del mar",
+                    "cazuela del mar"
+                ],
+                "sea_food_price": [
+                    2950,
+                    3050,
+                    3150,
+                    3450,
+                    3550
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "postre del dia"
+                ],
+                "dessert_price": [
+                    595
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza nacional",
+                    "copa de vino",
+                    "pina colada",
+                    "margarita",
+                    "sangria",
+                    "mojito",
+                    "cuba libre",
+                    "daiquiri",
+                    "caipirinha",
+                    "daiquiri de frutas",
+                    "cubata",
+                    "mojito de frutas",
+                    "gin tonic",
+                    "caipiroska"
+                ],
+                "alcohol_price": [
+                    450,
+                    650,
+                    950,
+                    950,
+                    950,
+                    750,
+                    750,
+                    750,
+                    750,
+                    850,
+                    850,
+                    850,
+                    850,
+                    850
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "aguas",
+                    "refrescos"
+                ],
+                "non_alcoholic_price": [
+                    250,
+                    375
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica grabada"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

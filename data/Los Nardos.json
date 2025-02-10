@@ -1,0 +1,332 @@
+{
+    "general_info": {
+        "name": "Los Nardos",
+        "township": "Habana Vieja",
+        "adress": "Paseo de Marti, frente al Capitolio",
+        "local": "restaurante",
+        "open": "12:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "https://www.facebook.com/pages/Los%20Nardos%20Restaurant%20Old%20Havana/235561856463600/?locale=es_LA"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "ensalada de vegetales frescos",
+                    "ensalada de frutas tropicales",
+                    "coctel de frutas tropicales",
+                    "ensalada de rollo de primavera",
+                    "surtidito de la casa",
+                    "ensalada a la vinagreta",
+                    "ensalada mediterranea",
+                    "estilo de los nardos,",
+                    "camaroncillos en coctel",
+                    "ensaladita de atun",
+                    "carpaccio de pescado",
+                    "coctel de pescado",
+                    "ensalada de jamon serrano y frutas tropicales",
+                    "gran tabla de embutidos y quesos",
+                    "tamal en cazuela",
+                    "bolitas de queso",
+                    "garbanzos fritos",
+                    "gran picadera de los nardos",
+                    "sopa de pollo",
+                    "fabada al estilo del chef",
+                    "sopa de vegetales",
+                    "gazpacho andaluz",
+                    "tortilla espanhola",
+                    "tortilla vazca"
+                ],
+                "appetizers_price": [
+                    620,
+                    725,
+                    805,
+                    1035,
+                    2420,
+                    1710,
+                    1710,
+                    1710,
+                    1425,
+                    1425,
+                    935,
+                    935,
+                    2590,
+                    4040,
+                    1060,
+                    1920,
+                    1295,
+                    2485,
+                    865,
+                    1450,
+                    490,
+                    640,
+                    865,
+                    940
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "moros y cristianos",
+                    "frijoles",
+                    "viandas hervidas",
+                    "vegetales salteados",
+                    "arroz indiana"
+                ],
+                "garnishes_price": [
+                    295,
+                    295,
+                    295,
+                    295,
+                    295,
+                    295
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo frito",
+                    "pollo grille",
+                    "pollo gordon blue",
+                    "fajitas de pollo",
+                    "pechuga de pollo grille",
+                    "dados de pollo al gusto",
+                    "brocheta mixta de pollo",
+                    "bistec de cerdo",
+                    "escalope de cerdo",
+                    "uruguayo de cerdo",
+                    "masas de cerdo",
+                    "chuletas de cerdo",
+                    "lomo de cerdo ahumado",
+                    "pierna de cerdo hawaiana",
+                    "pierna de cerdo a la criolla",
+                    "ropa vieja de cerdo",
+                    "cerdo salteado",
+                    "cena cubana",
+                    "cordero al gusto",
+                    "paletilla de cordero a las finas hierbas"
+                ],
+                "main_price": [
+                    2480,
+                    2490,
+                    2870,
+                    2230,
+                    2420,
+                    2160,
+                    2230,
+                    2200,
+                    2330,
+                    2500,
+                    2800,
+                    2500,
+                    2500,
+                    2800,
+                    2800,
+                    2780,
+                    2260,
+                    3235,
+                    2715,
+                    3610
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado grille",
+                    "pescado canciller",
+                    "masas de pescado",
+                    "eperlan de pescado",
+                    "filete de pescado joinville",
+                    "filete de pescado monte toro",
+                    "filete de pescado don pedro",
+                    "camarones al gusto",
+                    "langosta",
+                    "paella mixta",
+                    "paella de vegetales",
+                    "grillada mar y tierra"
+                ],
+                "sea_food_price": [
+                    2500,
+                    2845,
+                    2500,
+                    2500,
+                    2870,
+                    2590,
+                    2745,
+                    2900,
+                    2660,
+                    1920,
+                    1575,
+                    4460
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "flan al caramelo",
+                    "copa lolita",
+                    "torta del dia",
+                    "helado",
+                    "torrejas en almibar",
+                    "cake a la moda",
+                    "torta helada",
+                    "torta 3 leches",
+                    "brownie de chocolate",
+                    "pudin"
+                ],
+                "dessert_price": [
+                    449,
+                    719,
+                    559,
+                    719,
+                    559,
+                    819,
+                    559,
+                    559,
+                    719,
+                    439
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cana de cerveza",
+                    "jarra de cerveza",
+                    "jarrazo",
+                    "michelada",
+                    "cerveza nacional",
+                    "cerveza importada",
+                    "copa de vino",
+                    "vermouth",
+                    "mojito",
+                    "daiquiri",
+                    "cuba libre",
+                    "sangria",
+                    "pinha colada",
+                    "otros cocteles"
+                ],
+                "alcohol_price": [
+                    512,
+                    1650,
+                    659,
+                    308,
+                    308,
+                    461,
+                    345,
+                    230,
+                    385,
+                    385,
+                    456,
+                    495,
+                    439,
+                    439
+                ],
+                "infusions_list": [
+                    "cafe",
+                    "cafe cortado",
+                    "cafe con leche",
+                    "cafe capuccino",
+                    "cafe bombon",
+                    "cafe irlandes"
+                ],
+                "infusions_price": [
+                    219,
+                    219,
+                    274,
+                    274,
+                    274,
+                    109
+                ],
+                "non_alcoholic_list": [
+                    "agua nacional",
+                    "agua importada",
+                    "refresco nacional",
+                    "refresco de maquina",
+                    "refresco importado",
+                    "red bull",
+                    "kermato",
+                    "maltas",
+                    "malteada",
+                    "limonada",
+                    "jugos naturales",
+                    "jugos importados",
+                    "jugos de caja",
+                    "san francisco"
+                ],
+                "non_alcoholic_price": [
+                    164,
+                    219,
+                    275,
+                    207,
+                    275,
+                    461,
+                    449,
+                    649,
+                    274,
+                    263,
+                    349,
+                    247,
+                    165,
+                    329
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

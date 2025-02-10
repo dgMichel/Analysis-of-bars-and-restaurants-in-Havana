@@ -1,0 +1,326 @@
+{
+    "general_info": {
+        "name": "Lacret 559",
+        "township": "Diez de Octubre",
+        "adress": null,
+        "local": "bar-cafeteria",
+        "open": "12:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "frituras de malanga",
+                    "croquetas 559",
+                    "croqueton de res",
+                    "eperlan de pescado",
+                    "carpaccio de res",
+                    "carpaccio de langosta",
+                    "carpaccio de pulpo",
+                    "ceviche",
+                    "piquillos rellenos del mar",
+                    "piquillos rellenos de ropa vieja",
+                    "papas bravas",
+                    "fajitas de pollo",
+                    "brusquetas a la parmesana",
+                    "totopitos al ajo",
+                    "totopitos picantes ",
+                    "papas fritas"
+                ],
+                "appetizers_price": [
+                    425,
+                    650,
+                    1000,
+                    700,
+                    1550,
+                    1500,
+                    1600,
+                    950,
+                    1050,
+                    1550,
+                    700,
+                    700,
+                    600,
+                    400,
+                    400,
+                    700
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa de res"
+                ],
+                "hamburger_price": [
+                    850
+                ]
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pechuga de pollo grille",
+                    "pechuga de pollo a la gordon blue",
+                    "lomo ahumado",
+                    "lomo importado",
+                    "chuleta de cerdo",
+                    "enchilado de cangrado",
+                    "ropa vieja de res",
+                    "tacos de res",
+                    "tacos de mar",
+                    "tacos de cerdo",
+                    "tacos de pollo"
+                ],
+                "main_price": [
+                    1975,
+                    2175,
+                    2175,
+                    2500,
+                    2100,
+                    2400,
+                    2025,
+                    1550,
+                    1550,
+                    1200,
+                    1000
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "langosta al gusto",
+                    "camarones al gusto",
+                    "pescado grille",
+                    "pescado enchilado",
+                    "pescado canciller"
+                ],
+                "sea_food_price": [
+                    2600,
+                    2400,
+                    1975,
+                    1975,
+                    2175
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza queso azul",
+                    "pizza napolitana",
+                    "pizza margarita",
+                    "pizza parmesana",
+                    "pizza carbonara",
+                    "pizza hawaina",
+                    "pizza cantabrica",
+                    "pizza marina",
+                    "pizza mediterranea",
+                    "pizza mixta lacret",
+                    "pizza de jamon",
+                    "pizza de chorizo",
+                    "pizza con bacon",
+                    "pizza de cebolla",
+                    "pizza de pimiento",
+                    "pizza con vegetales",
+                    "pizza de champinhon",
+                    "pizza de atun",
+                    "pizza de aceituna",
+                    "pizza con jamon serrano",
+                    "pizza con jamon iberico",
+                    "pizza con pepperoni",
+                    "pizza ranchera"
+                ],
+                "pizza_price": [
+                    2000,
+                    1360,
+                    1400,
+                    1800,
+                    1950,
+                    1800,
+                    1800,
+                    2400,
+                    1800,
+                    2700,
+                    1500,
+                    1450,
+                    1850,
+                    1400,
+                    1500,
+                    1700,
+                    1700,
+                    2300,
+                    1400,
+                    3000,
+                    3400,
+                    2000,
+                    2500
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "sangria",
+                    "tinto de verano",
+                    "calimocho",
+                    "screwdriver",
+                    "caipiroska",
+                    "caipirissima",
+                    "caipirinha",
+                    "cubata",
+                    "cuba libre",
+                    "cubanito",
+                    "mojito",
+                    "barbados surprise",
+                    "whiscola",
+                    "old fashioned",
+                    "long island",
+                    "gin tobic",
+                    "canchanchara"
+                ],
+                "alcohol_price": [
+                    660,
+                    660,
+                    560,
+                    470,
+                    570,
+                    570,
+                    600,
+                    470,
+                    470,
+                    480,
+                    580,
+                    580,
+                    460,
+                    650,
+                    850,
+                    610,
+                    580
+                ],
+                "infusions_list": [
+                    "cafe espresso",
+                    "doble espresso",
+                    "descafeinado",
+                    "cafe americano",
+                    "cafe cortado",
+                    "capuchino",
+                    "cafe con leche",
+                    "cafe con hielo",
+                    "cafe americano con leche",
+                    "cafe bombon",
+                    "cafe carajillo",
+                    "cafe brasilenho",
+                    "cafe espanhol",
+                    "cafe irlandes",
+                    "cafe frances",
+                    "frapuchino",
+                    "chocolate frio",
+                    "chocolate caliente",
+                    "batido de helado",
+                    "te negro",
+                    "te rojo",
+                    "te verde",
+                    "infusion de hierba buena o albahaca"
+                ],
+                "infusions_price": [
+                    300,
+                    600,
+                    480,
+                    450,
+                    450,
+                    600,
+                    600,
+                    450,
+                    750,
+                    900,
+                    750,
+                    1050,
+                    1050,
+                    1050,
+                    1050,
+                    1050,
+                    1050,
+                    1050,
+                    1200,
+                    450,
+                    540,
+                    540,
+                    300
+                ],
+                "non_alcoholic_list": [
+                    "limonada",
+                    "energizante",
+                    "refresco",
+                    "malta",
+                    "jugos naturales"
+                ],
+                "non_alcoholic_price": [
+                    500,
+                    430,
+                    350,
+                    430,
+                    300
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Cocina creativa",
+            "Internacional"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "A la carta",
+            "A domicilio",
+            "Musica Grabada",
+            "Area de fumadores"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

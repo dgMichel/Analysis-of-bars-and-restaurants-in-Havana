@@ -1,0 +1,138 @@
+{
+    "general_info": {
+        "name": "El portico",
+        "township": "Centro Habana",
+        "adress": "Dragones entre Aguila y Amistad",
+        "local": "bar-restaurante",
+        "open": "00:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "papas fritas",
+                    "croquetas",
+                    "tostones"
+                ],
+                "appetizers_price": [
+                    350,
+                    350,
+                    250
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo chiflado",
+                    "chuleton"
+                ],
+                "main_price": [
+                    400,
+                    950
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza dispensada (jarra)",
+                    "cerveza dispensada (termo)",
+                    "cerveza parranda",
+                    "cerveza hollandia",
+                    "cerveza cacique",
+                    "cerveza unlaguer",
+                    "cerveza la fria",
+                    "cerveza almara",
+                    "cerveza bucanero",
+                    "cerveza cristal"
+                ],
+                "alcohol_price": [
+                    300,
+                    2000,
+                    400,
+                    200,
+                    240,
+                    200,
+                    180,
+                    180,
+                    240,
+                    250
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "cubana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,314 @@
+{
+    "general_info": {
+        "name": "Al Campestre",
+        "township": "Habana del Este",
+        "adress": "El Intermitente, Via  Blanca, Alamar",
+        "local": "restaurante",
+        "open": "09:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "vianda hervida",
+                    "vianda frita",
+                    "tostones criollos",
+                    "croquetas de la casa",
+                    "tostones en tapas",
+                    "firtura de malanga",
+                    "ensalada fria",
+                    "papas fritas",
+                    "ceviche",
+                    "crema de queso",
+                    "crema aurora",
+                    "crema virginia",
+                    "fajitas de pollo",
+                    "eperlan",
+                    "coctel de camarones",
+                    "brusquetas",
+                    "tabla charcutera"
+                ],
+                "appetizers_price": [
+                    180,
+                    350,
+                    350,
+                    400,
+                    560,
+                    450,
+                    650,
+                    700,
+                    1000,
+                    400,
+                    450,
+                    470,
+                    1560,
+                    2100,
+                    2200,
+                    650,
+                    1750
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "ensalada de estacion",
+                    "arroz blanco",
+                    "arroz moro",
+                    "arroz con vegetales",
+                    "vegetales salteados",
+                    "frijoles negros",
+                    "frijoles colorados",
+                    "arroz frito"
+                ],
+                "garnishes_price": [
+                    100,
+                    150,
+                    220,
+                    350,
+                    250,
+                    350,
+                    400,
+                    1300
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "entrecot",
+                    "churrasco de res",
+                    "chuleton de res",
+                    "ropa vieja de res",
+                    "vaca frita",
+                    "filete de res a la deuch",
+                    "tacos al chili",
+                    "tacos de res",
+                    "tacos de pollo",
+                    "tacos de cerdo",
+                    "tacos del mar",
+                    "tacos de queso",
+                    "estofado de conejo",
+                    "fricase de conejo"
+                ],
+                "main_price": [
+                    4150,
+                    4150,
+                    5500,
+                    2450,
+                    2560,
+                    2560,
+                    1600,
+                    2450,
+                    1960,
+                    2500,
+                    2650,
+                    1400,
+                    2750,
+                    2750
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "calamar al ajillo",
+                    "calamar grille",
+                    "calamar en salsa de tomate",
+                    "pulpo grille",
+                    "pulpo enchilado",
+                    "pulpo al ajillo",
+                    "langosta grille",
+                    "langosta americana",
+                    "langosta termidor",
+                    "paella al campestre"
+                ],
+                "sea_food_price": [
+                    4500,
+                    4500,
+                    4500,
+                    5200,
+                    5200,
+                    5200,
+                    4860,
+                    4860,
+                    5000,
+                    10500
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghetti con queso",
+                    "spaghetti frutti di mare",
+                    "spaghetti aioli",
+                    "spaghetti al pesto",
+                    "spaghetti bolonesa",
+                    "spaghetti carbonara",
+                    "spaghetti alfredo",
+                    "spaghetti primavera"
+                ],
+                "pasta_price": [
+                    820,
+                    2400,
+                    960,
+                    1200,
+                    1890,
+                    1450,
+                    930,
+                    1000
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza bambina",
+                    "pizza al campestre"
+                ],
+                "pizza_price": [
+                    970,
+                    550,
+                    1960
+                ]
+            },
+            "adds": {
+                "adds_list": [
+                    "pina",
+                    "cebolla",
+                    "chorizo",
+                    "pimiento",
+                    "jamon",
+                    "bacon",
+                    "queso gouda",
+                    "aceituna",
+                    "atun",
+                    "camarones",
+                    "ropa vieja de cerdo",
+                    "ropa vieja de res",
+                    "pepperoni"
+                ],
+                "adds_price": [
+                    150,
+                    200,
+                    580,
+                    200,
+                    350,
+                    480,
+                    300,
+                    180,
+                    450,
+                    780,
+                    780,
+                    960,
+                    350
+                ]
+            },
+            "dessert": {
+                "dessert_list": [
+                    "dulces caseros",
+                    "torrejas de la casa",
+                    "cuna de mousse",
+                    "tarta de mousse",
+                    "cuna cheesecake",
+                    "tarta cheesecake",
+                    "tarta tiramisu",
+                    "cuna tiramisu"
+                ],
+                "dessert_price": [
+                    380,
+                    500,
+                    570,
+                    4500,
+                    650,
+                    5000,
+                    5000,
+                    650
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "alexander",
+                    "bloddy marry",
+                    "cubanito",
+                    "daiquiri",
+                    "daiquiri rebelde",
+                    "martin",
+                    "mojito",
+                    "pina colada",
+                    "sangria",
+                    "virgen colada",
+                    "caipirina",
+                    "caipiroska",
+                    "caipirisima",
+                    "canchanchara",
+                    "margarita",
+                    "tinto verano"
+                ],
+                "alcohol_price": [
+                    450,
+                    450,
+                    450,
+                    460,
+                    500,
+                    450,
+                    750,
+                    720,
+                    850,
+                    450,
+                    400,
+                    400,
+                    400,
+                    400,
+                    650,
+                    1100
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                ],
+                "non_alcoholic_price": [
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Comida mixta"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

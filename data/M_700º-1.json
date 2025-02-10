@@ -1,0 +1,254 @@
+{
+    "general_info": {
+        "name": "700 Grados",
+        "township": "Marianao",
+        "adress": "avenida 41 esquina 86",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "03:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "tostones rellenos jamon y queso",
+                    "croquetas de la casa",
+                    "finger de pollo empanizado",
+                    "tacos de pollo",
+                    "tacos de cerdo",
+                    "frituras de malanga",
+                    "emtremes de aceituna",
+                    "papas fritas",
+                    "eperlan de pescado",
+                    "coctel de langosta ",
+                    "coctel de camaron"
+                ],
+                "appetizers_price": [
+                    890,
+                    890,
+                    890,
+                    990,
+                    1100,
+                    790,
+                    1130,
+                    890,
+                    1380,
+                    1600,
+                    1600
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz moro",
+                    "vianda frita",
+                    "platano maduro frito",
+                    "ensalada estacion",
+                    "platano chatinos",
+                    "arroz blanco"
+                ],
+                "garnishes_price": [
+                    100,
+                    100,
+                    100,
+                    100,
+                    100,
+                    100
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "lonjas de cerdo al carbon",
+                    "saltimboca de cerdo",
+                    "bistec de cerdo",
+                    "fajitas de cerdo salteadas",
+                    "solomillo de cerdo",
+                    "masas de cerdo en salsa teriyaki",
+                    "fricase de cerdo",
+                    "pechuga de pollo",
+                    "bistec uruguayo",
+                    "ropa vieja de res"
+                ],
+                "main_price": [
+                    1850,
+                    1750,
+                    1650,
+                    1650,
+                    2900,
+                    2200,
+                    2200,
+                    1650,
+                    1850,
+                    2200
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado",
+                    "camaron al gusto",
+                    "enchilado de langosta",
+                    "paella de marisco",
+                    "cazuela de marisco"
+                ],
+                "sea_food_price": [
+                    1850,
+                    2800,
+                    2800,
+                    3550,
+                    3600
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espaguetis napolitano",
+                    "espaguetis con camaron",
+                    "espaguetis de langosta",
+                    "espaguetis marineros"
+                ],
+                "pasta_price": [
+                    1100,
+                    2500,
+                    2500,
+                    1100
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "napolitana",
+                    "hawaiana"
+                ],
+                "pizza_price": [
+                    1200,
+                    1450
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza internacional",
+                    "dispensada cristal",
+                    "cerveza bucanero",
+                    "cerveza cristal",
+                    "cerveza corona",
+                    "cerveza sol",
+                    "cerveza heineken",
+                    "servicio michelada",
+                    "servicio de chelada",
+                    "caipiroska",
+                    "caipirisima",
+                    "mojito",
+                    "caipirina",
+                    "sangria",
+                    "vodca tonic",
+                    "gin tonic",
+                    "cuba libre",
+                    "cubata especial",
+                    "daiquiri",
+                    "pinna colada",
+                    "vino tinto"
+                ],
+                "alcohol_price": [
+                    350,
+                    350,
+                    550,
+                    550,
+                    750,
+                    750,
+                    750,
+                    490,
+                    300,
+                    380,
+                    380,
+                    450,
+                    380,
+                    400,
+                    480,
+                    550,
+                    480,
+                    490,
+                    380,
+                    450,
+                    400
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "agua natural",
+                    "refresco internacional",
+                    "malta internacional",
+                    "energizante",
+                    "red bull",
+                    "limonada frescura",
+                    "limonada natural"
+                ],
+                "non_alcoholic_price": [
+                    290,
+                    380,
+                    440,
+                    550,
+                    830,
+                    250,
+                    250
+                ]
+            }
+        },
+        "popular_food": [
+            "Pizza"
+        ],
+        "popular_drink": [
+            "Cerveza"
+        ],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica grabada"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

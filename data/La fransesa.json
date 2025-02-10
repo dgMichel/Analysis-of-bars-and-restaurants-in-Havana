@@ -1,0 +1,350 @@
+{
+    "general_info": {
+        "name": "La francesa",
+        "township": "Habana Vieja",
+        "adress": "Prado entre San Rafael y San Miguel",
+        "local": "restaurante",
+        "open": "08:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "toston relleno 3.0",
+                    "brusquetas",
+                    "coctel de camarones",
+                    "tostas de jamon serrano",
+                    "bolitas de queso estilo la francesa",
+                    "ceviche de pesca blanca",
+                    "ensalada capricho",
+                    "papas bravas",
+                    "papas fritas",
+                    "frituritas de malanga",
+                    "croissant natural",
+                    "croquetas de la casa",
+                    "tabla fria",
+                    "tabla caliente",
+                    "tabla de jamon serrano"
+                ],
+                "appetizers_price": [
+                    1500,
+                    1500,
+                    1800,
+                    1800,
+                    1600,
+                    1800,
+                    1800,
+                    1500,
+                    1600,
+                    950,
+                    750,
+                    1600,
+                    3200,
+                    3500,
+                    3500
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa la francesa"
+                ],
+                "hamburger_price": [
+                    2500
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich cubano",
+                    "sandwich clasico",
+                    "sandwich club",
+                    "sandwich de atun",
+                    "croissant clasico"
+                ],
+                "bread_price": [
+                    1900,
+                    1750,
+                    2500,
+                    2500,
+                    1500
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "nuggets de pollo",
+                    "brochetas de cerdo",
+                    "tacos de cerdo"
+                ],
+                "main_price": [
+                    1800,
+                    2500,
+                    2000
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "dados de pescado frito con acompanhamiento de salsa tartara"
+                ],
+                "sea_food_price": [
+                    1800
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta napolitana",
+                    "pasta bolonhesa",
+                    "pasta carbonara",
+                    "pasta al pesto",
+                    "pasta aglio olio"
+                ],
+                "pasta_price": [
+                    1250,
+                    1000,
+                    1800,
+                    1800,
+                    1260
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [
+                    "nutella",
+                    "miel",
+                    "mantequilla",
+                    "bacon",
+                    "vegetales",
+                    "huevo",
+                    "cesta de pan"
+                ],
+                "adds_price": [
+                    300,
+                    300,
+                    300,
+                    350,
+                    250,
+                    300,
+                    250
+                ]
+            },
+            "dessert": {
+                "dessert_list": [
+                    "brownie de chocolate",
+                    "mousse de cafe",
+                    "pie de limon",
+                    "chesse cake",
+                    "copa de helado"
+                ],
+                "dessert_price": [
+                    1200,
+                    950,
+                    1200,
+                    1200,
+                    1200
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cuba libre",
+                    "mojito",
+                    "pinha colada",
+                    "margarita",
+                    "daiquiri",
+                    "daiquiri frapeado",
+                    "caipirinha",
+                    "caipiroska",
+                    "caipirisima",
+                    "sangria",
+                    "tinto de verano",
+                    "mimosa",
+                    "aperol spritz",
+                    "michelada",
+                    "havana especial",
+                    "cubata",
+                    "cubanito",
+                    "mary pickford",
+                    "bloody mary",
+                    "gin tonic",
+                    "negroni",
+                    "tequila sunrise",
+                    "old fashioned",
+                    "sex on the beach",
+                    "cristal",
+                    "cristal extra",
+                    "corona",
+                    "bucanero",
+                    "ballantines",
+                    "clan campbell",
+                    "johnnie walker",
+                    "chivas regal 12",
+                    "jb",
+                    "havana club 3 anhos",
+                    "havana club anhejo especial",
+                    "havana club 7 anhos",
+                    "havana club seleccion de maestros",
+                    "santiago 7 anhos",
+                    "santiago 11 anhos",
+                    "santiago 12 anhos",
+                    "cubay",
+                    "pacto navio",
+                    "tequila senhor de los cielos",
+                    "tequila olmeca",
+                    "maestro tequilero",
+                    "maestro tangueray",
+                    "ginebra tanqueray",
+                    "ginebra beefeater",
+                    "vodka lyubov",
+                    "vodka igor",
+                    "vodka absolut",
+                    "copa de vino de la casa"
+                ],
+                "alcohol_price": [
+                    750,
+                    750,
+                    950,
+                    900,
+                    900,
+                    900,
+                    900,
+                    900,
+                    900,
+                    900,
+                    750,
+                    750,
+                    900,
+                    900,
+                    900,
+                    900,
+                    900,
+                    900,
+                    900,
+                    950,
+                    900,
+                    900,
+                    900,
+                    900,
+                    650,
+                    750,
+                    600,
+                    650,
+                    900,
+                    900,
+                    1200,
+                    1200,
+                    950,
+                    650,
+                    700,
+                    900,
+                    1700,
+                    700,
+                    850,
+                    900,
+                    850,
+                    2000,
+                    650,
+                    650,
+                    560,
+                    550,
+                    650,
+                    650,
+                    950,
+                    650,
+                    650,
+                    760
+                ],
+                "infusions_list": [
+                    "espresso",
+                    "cortado",
+                    "capuccino",
+                    "frapuccino",
+                    "bombon",
+                    "carajillo",
+                    "espresso martini",
+                    "cafe con leche",
+                    "leche con chocolate",
+                    "te"
+                ],
+                "infusions_price": [
+                    300,
+                    350,
+                    450,
+                    550,
+                    550,
+                    550,
+                    700,
+                    700,
+                    750,
+                    300
+                ],
+                "non_alcoholic_list": [
+                    "batidos de frutas",
+                    "batido de helado",
+                    "malteada",
+                    "limonada frescura",
+                    "jugos de frutas",
+                    "refrescos (cola, limon y naranja)",
+                    "malta",
+                    "agua natural",
+                    "agua gaseada",
+                    "pinha colada sin alcohol"
+                ],
+                "non_alcoholic_price": [
+                    500,
+                    500,
+                    500,
+                    700,
+                    700,
+                    500,
+                    500,
+                    450,
+                    600,
+                    900
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Tapas"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

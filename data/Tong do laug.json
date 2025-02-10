@@ -1,0 +1,163 @@
+{
+    "general_info": {
+        "name": "Tong Do Laug",
+        "township": "Centro Habana",
+        "adress": "Cuchillo entre San Nicolas y Rayo",
+        "local": "restaurante",
+        "open": "10:00",
+        "close": "21:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "bao",
+                    "siumi",
+                    "chunkun rollitos de primavera",
+                    "sopa china"
+                ],
+                "appetizers_price": [
+                    700,
+                    1200,
+                    1050,
+                    990
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz frito especial"
+                ],
+                "garnishes_price": [
+                    1100
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "fajitas de pechuga",
+                    "lomo ahumado"
+                ],
+                "main_price": [
+                    2200,
+                    2000
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "mariscos",
+                    "mar y tierra",
+                    "camarones",
+                    "pescado"
+                ],
+                "sea_food_price": [
+                    2500,
+                    3850,
+                    3600,
+                    1650
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "jiaozi ravioles",
+                    "mia especial tallarines"
+                ],
+                "pasta_price": [
+                    1350,
+                    1100
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza",
+                    "cerveza nacional"
+                ],
+                "alcohol_price": [
+                    300,
+                    500
+                ],
+                "infusions_list": [
+                    "cafe",
+                    "te",
+                    "frapeado"
+                ],
+                "infusions_price": [
+                    390,
+                    170,
+                    330
+                ],
+                "non_alcoholic_list": [
+                    "refresco",
+                    "jugo",
+                    "cocteles",
+                    "agua",
+                    "agua caliente"
+                ],
+                "non_alcoholic_price": [
+                    300,
+                    330,
+                    660,
+                    220,
+                    220
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Comida china"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

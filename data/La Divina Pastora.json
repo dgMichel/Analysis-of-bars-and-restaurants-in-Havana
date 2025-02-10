@@ -1,0 +1,143 @@
+{
+    "general_info": {
+        "name": "La Divina Pastora",
+        "township": "Habana del Este",
+        "adress": "Complejo Morro Cabana, Via Monumental",
+        "local": "restaurante",
+        "open": "12:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croqueticas la tasca",
+                    "deditos de pollo",
+                    "empanadas divina pastora",
+                    "fritura de malanga",
+                    "garbanzo frito",
+                    "tablita de salmon ahumado",
+                    "pastas fruto del mar"
+                ],
+                "appetizers_price": [
+                    540,
+                    540,
+                    1500,
+                    540,
+                    1620,
+                    1620,
+                    2100
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa pastora"
+                ],
+                "hamburger_price": [
+                    1080
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich roast beef"
+                ],
+                "bread_price": [
+                    1620
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pollo empanado a la parmesana",
+                    "filete de pescado",
+                    "filete de cerdo",
+                    "rollito de cerdo",
+                    "filete de res",
+                    "estofado de res"
+                ],
+                "main_price": [
+                    1200,
+                    2300,
+                    2040,
+                    1560,
+                    2880,
+                    2040
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "langosta divina pastora"
+                ],
+                "sea_food_price": [
+                    2500
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Comida cubana estilizada (nativa)"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "general_info": {
+        "name":"Mi Terraza",
+        "township":"Cotorro",
+        "adress":"Calle 71 entre 24 y 26, Las Brisas",
+        "local": "restaurante",
+        "open":"1100",
+        "close":"1100",
+        "days_of_week":["lunes","martes","miercoles","jueves","viernes","sabado","domingo"],
+        "sector":"privado",
+        "capability":50,
+        "social_network":["Instagram"],
+        "years":0
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":true,
+        "tips_included":true,
+        "delivery":true
+    },
+    "food": {
+        "menu": {
+            "appetizers":{
+                "appetizers_list":["Crema de queso","Crema Virginia","Pica Pica Mi Terraza","Tostones de jamon y queso","Tostones de atun","Fajitas de pollo (con mayonesa)","Ensalada de pollo","Frituras de malanga (con miel)","Bolitas de queso (con miel)","Croquetas (con mayonesa)","Chicharritas","Papas prefritas"],
+                "appetizers_price":[850,1100,1700,1000,1200,1000,400,400,400,400,300,600]
+            },
+            "garnishes":{
+                "garnishes_list":[],
+                "garnishes_price":[]
+            },
+            "hamburger":{
+                "hamburger_list":[],
+                "hamburger_price":[]
+            },
+            "bread":{
+                "bread_list":["Sandwich de queso","Sandwich de jamon","Sandwich de jamon y queso","Sandwich de atun","Sandwich Mi Terraza"],
+                "bread_price":[700,650,900,1100,1100]
+            },           
+            "main":{
+                "main_list":[],
+                "main_price":[]
+            },
+            "sea_food":{
+                "sea_food_list":[],
+                "sea_food_price":[]
+            },
+            "pasta":{
+                "pasta_list":["espaguetis napolitanos","Espaguetis de jamon","Espaguetis de atun","Espaguetis a la Carbonara","Espaguetis doble queso","Canelon"],
+                "pasta_price":[1000,1250,1400,1600,1500,1500]
+            },
+            "pizza":{
+                "pizza_list":["Pizza Napolitana","Pizza Hawaiana","Pizza Mi Terraza"],
+                "pizza_price":[1200,1700,1800]
+            },
+            "adds":{
+                "adds_list":["Doble queso (150g)","Jamon (60g)","Cebolla","Pinna","Atun","Aceitunas","Chorizo","Bacon"],
+                "adds_price":[500,300,250,200,400,400,200,700]
+            },
+            "dessert":{
+                "dessert_list":[],
+                "dessert_price":[]
+            },
+            "drinks":{
+                "alcohol_list":["Chelada"],
+                "alcohol_price":[550],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":["Limonada Frappe","Malteada","Batidos (mango, fruta bomba o guayaba)","Batidos de Helado (fresa, chocolate, helado con galleta, mozcatel)"],
+                "non_alcoholic_price":[350,500,400,600]
+            }
+        },
+        "popular_food":["Pizza Mi Terraza"],
+        "popular_drink":["malteada","limonada"],
+        "food_especialization":["italiana","tapas"],
+        "house_especiality":["Pizza Mi Terraza"]
+    },
+    "social": {
+        "kids_seat":false,
+        "blackout_alternatives":true,
+        "entertainment":["show humoristico"],
+        "peak_hour":["tarde"],
+        "tourism":true,
+        "pets":true,
+        "bathroom":true,
+        "heated": true
+    }
+}

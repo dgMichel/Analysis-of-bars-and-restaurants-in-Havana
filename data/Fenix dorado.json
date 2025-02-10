@@ -1,0 +1,259 @@
+{
+    "general_info": {
+        "name": "Fenix dorado",
+        "township": "Centro Habana",
+        "adress": "Cuchillo entre San Nicolas y Rayo",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "picadera fenix",
+                    "entremes jamon y aceite",
+                    "entremes jamon y queso",
+                    "entremes aceitunas",
+                    "coctel camarones",
+                    "ensalada fria jamon",
+                    "ensalada fria atun",
+                    "vianda c/mojo",
+                    "tostones nat. ajillo",
+                    "tost. rellenos jamoniquesos",
+                    "tost. rellenos c/camaron",
+                    "mariposas chinas",
+                    "ensalada mixta",
+                    "sopa fenix",
+                    "fritura malanga"
+                ],
+                "appetizers_price": [
+                    1785,
+                    535,
+                    835,
+                    555,
+                    1200,
+                    595,
+                    850,
+                    315,
+                    495,
+                    695,
+                    835,
+                    375,
+                    360,
+                    895,
+                    510
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz frito fenix",
+                    "arroz frito fenix especial",
+                    "arroz frito fenix esp. familiar",
+                    "paella fenix",
+                    "arroz moro",
+                    "arroz blanco"
+                ],
+                "garnishes_price": [
+                    1120,
+                    1540,
+                    2810,
+                    2920,
+                    335,
+                    265
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "chop suey pollo",
+                    "pollo grille",
+                    "bistec cerdo grille",
+                    "bistec cerdo encebollado",
+                    "chop suey cerdo",
+                    "mucho cerdo (3 lb)",
+                    "masas cerdo ftas (1.5b)",
+                    "brochetas cerdo (1.56)",
+                    "ropa vieja",
+                    "plancha mar y tierra",
+                    "corona fenix"
+                ],
+                "main_price": [
+                    1995,
+                    3975,
+                    1625,
+                    1885,
+                    2205,
+                    8550,
+                    4550,
+                    4650,
+                    2535,
+                    5255,
+                    5965
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "chop suey camaron",
+                    "camaron grille",
+                    "camaron al ajillo",
+                    "camaron enchilado",
+                    "zarzuela de mariscos",
+                    "plancha de mar",
+                    "filete pescado grille",
+                    "filete sensacion",
+                    "filete terraza"
+                ],
+                "sea_food_price": [
+                    2970,
+                    2785,
+                    2950,
+                    3120,
+                    5455,
+                    5255,
+                    2675,
+                    3000,
+                    3940
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espag. nap. c/queso gouda",
+                    "espag. nap. c/queso bco"
+                ],
+                "pasta_price": [
+                    995,
+                    645
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza c/queso gouda",
+                    "pizza c/queso blanco",
+                    "pizza haw. queso blanco",
+                    "pizza haw. queso gouda"
+                ],
+                "pizza_price": [
+                    1120,
+                    695,
+                    1145,
+                    1570
+                ]
+            },
+            "adds": {
+                "adds_list": [
+                    "pimiento",
+                    "cebolla",
+                    "pinha",
+                    "jamon",
+                    "chorizo",
+                    "queso bco",
+                    "queso gouda"
+                ],
+                "adds_price": [
+                    200,
+                    200,
+                    200,
+                    250,
+                    300,
+                    295,
+                    520
+                ]
+            },
+            
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza corona",
+                    "cerveza nacional",
+                    "cerveza importada"
+                ],
+                "alcohol_price": [
+                    480,
+                    360,
+                    280
+                ],
+                "infusions_list": [
+                    "cafe expreso",
+                    "cafe americano",
+                    "cafe carajillo"
+                ],
+                "infusions_price": [
+                    220,
+                    220,
+                    320
+                ],
+                "non_alcoholic_list": [
+                    "refresco nacional",
+                    "refresco importado",
+                    "malta",
+                    "energizante",
+                    "nectar frutas",
+                    "aqua nat, importada 500ml",
+                    "agua nat. nacional 500ml",
+                    "malteada",
+                    "batido helado"
+                ],
+                "non_alcoholic_price": [
+                    310,
+                    350,
+                    340,
+                    500,
+                    340,
+                    250,
+                    210,
+                    600,
+                    540
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Comida China"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

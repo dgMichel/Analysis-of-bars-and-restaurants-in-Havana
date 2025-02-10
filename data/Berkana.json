@@ -1,0 +1,210 @@
+{
+    "general_info": {
+        "name": "Berkana",
+        "township": "Habana Vieja",
+        "adress": "Obispo y obrapia",
+        "local": "restaurante",
+        "open": "09:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "ceviche de pescado",
+                    "cebiche de camaron",
+                    "tostones rellenos",
+                    "crema virginia",
+                    "crema de queso",
+                    "crema de jamon y queso",
+                    "ensalada de vegetales",
+                    "sopa marinera"
+                ],
+                "appetizers_price": [
+                    2440,
+                    2450,
+                    1515,
+                    1830,
+                    1715,
+                    1770,
+                    300,
+                    3020
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "tostones rellenos",
+                    "tostones tradicionales",
+                    "vianda hervida a la criolla",
+                    "arroz moro",
+                    "arroz blanoc",
+                    "arroz con vegetales",
+                    "arroz pilaf"
+                ],
+                "garnishes_price": [
+                    850,
+                    700,
+                    560,
+                    580,
+                    380,
+                    690,
+                    580
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pierna de pollo grille (arroz, vianda hervida y ensalada de vegetal)",
+                    "suprema de pollo grille",
+                    "milanesa de pollo",
+                    "suprema de pollo napada  con queso",
+                    "bistec de cerdo a la criolla(arroz, vianda hervida y ensalada de vegetal)",
+                    "bistec de cerdo al grill",
+                    "escalope de cerdo con  cebolla",
+                    "bistec de cerdo empanado",
+                    "bistec de cerdo a la roca",
+                    "milanesa de res",
+                    "bistec de res con cebolla",
+                    "ropa vieja",
+                    "chilindron de cordero",
+                    "cordero mechado",
+                    "cordero en salsa demi glase"
+                ],
+                "main_price": [
+                    2800,
+                    1760,
+                    2420,
+                    3200,
+                    3300,
+                    2520,
+                    3100,
+                    2940,
+                    3730,
+                    3300,
+                    3150,
+                    2370,
+                    4400,
+                    3720,
+                    3020
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado grille",
+                    "enchilado de pescado",
+                    "filete de pescado empanado",
+                    "camarones grille",
+                    "camarones al ajillo",
+                    "camarones en salsa criolla",
+                    "langosta grille",
+                    "langosta en salsa napada con queso"
+                ],
+                "sea_food_price": [
+                    2820,
+                    3360,
+                    3300,
+                    2820,
+                    3180,
+                    3200,
+                    2670,
+                    3650
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espaguetti con queso",
+                    "espaguetti de jamon y queso",
+                    "espaguetti frutos del mar"
+                ],
+                "pasta_price": [
+                    1340,
+                    2080,
+                    3790
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "flan de leche",
+                    "bolas de helado con sirope",
+                    "criollo cubano"
+                ],
+                "dessert_price": [
+                    750,
+                    650,
+                    500
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [
+                    "cafe express",
+                    "rocio de gallo"
+                ],
+                "infusions_price": [
+                    275,
+                    440
+                ],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica en vivo",
+            "Musica grabada"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

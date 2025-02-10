@@ -1,0 +1,160 @@
+{
+    "general_info": {
+        "name":"Tu Tiempo",
+        "township":"Centro Habana",
+        "adress":"Calle Hospital entre San Lazaro y Jovellar",
+        "local":"restaurante",
+        "open":"0800",
+        "close":"2000",
+        "days_of_week":[],
+        "sector":"estatal",
+        "capability":null,
+        "social_network":[],
+        "years":null
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":false,
+        "tips_included":null,
+        "delivery":true
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers":{
+                "appetizers_list":[],
+                "appetizers_price":[]
+            },
+            "garnishes":{
+                "garnishes_list":[],
+                "garnishes_price":[]
+            },
+            "hamburger":{
+                "hamburger_list":[],
+                "hamburger_price":[]
+            },
+            "bread":{
+                "bread_list":[],
+                "bread_price":[]
+            },
+            "main":{
+                "main_list":[ 
+                    "combo 1",
+                    "combo 2",
+                    "combo 3",
+                    "combo 4",
+                    "combo 5",
+                    "combo 6",
+                    "combo 7",
+                    "combo 8",
+                    "combo 9",
+                    "combo 10",
+                    "combo 11",
+                    "combo 12",
+                    "combo 13",
+                    "combo 14",
+                    "combo 15",
+                    "combo 16",
+                    "combo 17",
+                    "combo 18",
+                    "combo 19",
+                    "combo 20",
+                    "combo 21",
+                    "combo 22",
+                    "combo 23",
+                    "combo 24",
+                    "combo 25",
+                    "combo 26 (tu tiempo)",
+                    "fricase de pollo",
+                    "bistec de res",
+                    "arroz con pollo"
+                ],
+                "main_price":[
+                    1500,
+                    1800,
+                    2000,
+                    2000,
+                    2300,
+                    2600,
+                    3000,
+                    2000,
+                    2000,
+                    2100,
+                    2000,
+                    2000,
+                    2000,
+                    2000,
+                    2000,
+                    2300,
+                    2000,
+                    2000,
+                    2300,
+                    2300,
+                    3000,
+                    3000,
+                    3000,
+                    2000,
+                    2500,
+                    5000,
+                    2000,
+                    3300,
+                    2000
+                ]
+            },
+            "sea_food":{
+                "sea_food_list":[],
+                "sea_food_price":[]
+            },
+            "pasta":{
+                "pasta_list":[],
+                "pasta_price":[]
+            },
+            "pizza":{
+                "pizza_list":[],
+                "pizza_price":[]
+            },
+            "adds":{
+                "adds_list":[],
+                "adds_price":[]
+            },
+            
+            "dessert":{
+                "dessert_list":[
+                    "arroz con leche",
+                    "coctel de frutas"
+                ],
+                "dessert_price":[
+                    300,
+                    150
+                ]
+            },
+            "drinks":{
+                "alcohol_list":[],
+                "alcohol_price":[],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":[
+                    "batido de helado"
+                ],
+                "non_alcoholic_price":[
+                    400
+                ]
+            }
+        },
+        "popular_food":[],
+        "popular_drink":[],
+        "food_especialization":["criolla"],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":false,
+        "blackout_alternatives":true,
+        "entertainment":[],
+        "peak_hour":[],
+        "tourism":null,
+        "pets":null,
+        "bathroom":null,
+        "heated":null
+    }
+}

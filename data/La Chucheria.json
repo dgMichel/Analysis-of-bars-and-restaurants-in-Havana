@@ -1,0 +1,395 @@
+{
+    "general_info": {
+        "name": "La Chucheria",
+        "township": "Playa",
+        "adress": "Calle 42 e/13 y 15",
+        "local": "bar-restaurante",
+        "open": "08:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "La Chucheria",
+            "@lachucheria_cafebar"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "brusquetas con serrano",
+                    "tapas de croquetas",
+                    "picadera chucheria",
+                    "empanadas de carne",
+                    "empanada de pollo",
+                    "empanada de queso azul y espinacas",
+                    "bolitas de queso",
+                    "ensalada de verano",
+                    "ensalada chucheria",
+                    "ensalada nueva marinera",
+                    "ensalada de frutas",
+                    "ensalada girega",
+                    "ensalada prosciutto",
+                    "formula 1",
+                    "martinero",
+                    "catalan",
+                    "super chu",
+                    "waffles con nutela",
+                    "waffles con frutas y miel",
+                    "waffles con salmon pastas y queso crema",
+                    "crispy chicken waffles",
+                    "desayuno europeo",
+                    "desayuno americano",
+                    "desayuno chucheria",
+                    "tostadas de serrano",
+                    "tostadas de salmon",
+                    "tortilla vegetariana",
+                    "pancakes",
+                    "tortilla natural",
+                    "crepes chucheria",
+                    "tostadas con mantequilla",
+                    "combo de ninnos",
+                    "nuggets de pollo"
+                ],
+                "appetizers_price": [
+                    1200,
+                    900,
+                    3000,
+                    800,
+                    780,
+                    900,
+                    850,
+                    1700,
+                    1200,
+                    1800,
+                    800,
+                    1600,
+                    200,
+                    1700,
+                    1400,
+                    2000,
+                    1750,
+                    1250,
+                    1150,
+                    1850,
+                    1450,
+                    1400,
+                    1500,
+                    1600,
+                    1750,
+                    1900,
+                    1550,
+                    1200,
+                    1000,
+                    1300,
+                    950,
+                    1350,
+                    1250
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "jamon barra",
+                    "jamon pierna",
+                    "jamon serrano",
+                    "queso gouda",
+                    "queso parmessano",
+                    "queso mozzarella",
+                    "queso azul",
+                    "chorizo",
+                    "bacon",
+                    "atun",
+                    "champinnon",
+                    "aceituna",
+                    "nutella",
+                    "pinna glaseada",
+                    "mayonesa",
+                    "jalea de fruta",
+                    "mantequilla",
+                    "lonnesa",
+                    "vegetales"
+                ],
+                "garnishes_price": [
+                    400,
+                    450,
+                    800,
+                    450,
+                    500,
+                    450,
+                    500,
+                    600,
+                    450,
+                    600,
+                    350,
+                    400,
+                    400,
+                    250,
+                    250,
+                    300,
+                    300,
+                    650,
+                    300
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa jaque mate",
+                    "hamburguesa chucheria",
+                    "hamburguesa americana"
+                ],
+                "hamburger_price": [
+                    2100,
+                    1350,
+                    2350
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich jonronero",
+                    "sandwich helena ruth",
+                    "sandwich beisbolera",
+                    "sandwich pepe sport (res)",
+                    "sandwich pepe sport (cerdo)",
+                    "sandwich vegetariano",
+                    "club sandwich"
+                ],
+                "bread_price": [
+                    1650,
+                    1650,
+                    1450,
+                    2150,
+                    1900,
+                    1200,
+                    1700
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pechuga de pollo",
+                    "carne de cerdo",
+                    "filete de res"
+                ],
+                "main_price": [
+                    1700,
+                    1800,
+                    2400
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "atun"
+                ],
+                "sea_food_price": [
+                    2200
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta chucheria",
+                    "pasta carbonara",
+                    "pasta pesto",
+                    "pasta 4 quesos",
+                    "pasta bolonesa",
+                    "lasagna",
+                    "mac & cheese"
+                ],
+                "pasta_price": [
+                    1150,
+                    1900,
+                    1600,
+                    2500,
+                    1400,
+                    1850,
+                    1250
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza chucheria",
+                    "pizza familiar"
+                ],
+                "pizza_price": [
+                    1250,
+                    3000
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "postre de la casa",
+                    "cono de helado",
+                    "cesta de helado",
+                    "tarta especial"
+                ],
+                "dessert_price": [
+                    750,
+                    400,
+                    600,
+                    1300
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cervezas nacionales",
+                    "cervezas importadas",
+                    "cervezas coronas",
+                    "mojito",
+                    "mojito de frutas",
+                    "cuba libre",
+                    "ron collins",
+                    "caipirinna",
+                    "caipiroska",
+                    "sangria",
+                    "cali mocho",
+                    "tinto verano",
+                    "gin tonic",
+                    "gingin tonic premium",
+                    "vodka tonic",
+                    "margarita",
+                    "chelada nacional",
+                    "chelada importada",
+                    "chelada corona",
+                    "michelada nacional",
+                    "michelada importada",
+                    "michelada importada premium",
+                    "daiquiri",
+                    "mary pickford",
+                    "bloody mary",
+                    "bloody premium",
+                    "screw driver absolut",
+                    "cubata",
+                    "ton collins",
+                    "tom collins premium",
+                    "long island",
+                    "pinna colada",
+                    "canchanchara"
+                ],
+                "alcohol_price": [
+                    500,
+                    600,
+                    790,
+                    800,
+                    1000,
+                    700,
+                    750,
+                    750,
+                    800,
+                    1200,
+                    950,
+                    950,
+                    900,
+                    1200,
+                    1100,
+                    950,
+                    650,
+                    750,
+                    940,
+                    750,
+                    950,
+                    1050,
+                    700,
+                    650,
+                    900,
+                    1250,
+                    950,
+                    750,
+                    850,
+                    1000,
+                    1500,
+                    1200,
+                    750
+                ],
+                "infusions_list": [
+                    "expresso",
+                    "chucheria",
+                    "con leche",
+                    "cortado",
+                    "capuccino",
+                    "frapuccino",
+                    "carajillo",
+                    "bombon",
+                    "americano",
+                    "nespresso",
+                    "nespresso americano",
+                    "nespresso bombon",
+                    "nespresso cortado",
+                    "nespresso capuccino",
+                    "nespresso frapuccino",
+                    "descafeinado",
+                    "chocolate a la espannola",
+                    "leche con chocolate"
+                ],
+                "infusions_price": [
+                    200,
+                    900,
+                    450,
+                    300,
+                    600,
+                    850,
+                    650,
+                    650,
+                    250,
+                    500,
+                    500,
+                    900,
+                    600,
+                    900,
+                    1200,
+                    350,
+                    800,
+                    650
+                ],
+                "non_alcoholic_list": [
+                    "refrescos nacional",
+                    "refrescos importados",
+                    "jugos"
+                ],
+                "non_alcoholic_price": [
+                    380,
+                    450,
+                    350
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "italiana",
+            "americana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

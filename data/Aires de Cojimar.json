@@ -1,0 +1,185 @@
+{
+    "general_info": {
+        "name":"Aires de Cojimar",
+        "township":"Habana del Este",
+        "adress":"Pezuela #3e05 entre RUA y Espartero, Cojimar",
+        "local":"bar-restaurante",
+        "open":"12:00",
+        "close":"24:00",
+        "days_of_week":[],
+        "sector":"privado",
+        "capability":15,
+        "social_network":[
+            "@aires_cojimar",
+            "Aires de Cojimar"
+        ],
+        "years":null
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":true,
+        "tips_included":null,
+        "delivery":false
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers":{
+                "appetizers_list":[
+                    "coctel de pescado",
+                    "picadera mixta",
+                    "coctel bella mar",
+                    "ceviche Aires de Cojimar",
+                    "lomo de pescado en escabeche",
+                    "bolitas de queso",
+                    "eperlan",
+                    "frituras de malanga",
+                    "tapas caprichosas",
+                    "surtido de croquetas",
+                    "tostones al ajo",
+                    "sopon de mariscos",
+                    "sopa de pollo y vegetales",
+                    "crema de calabaza y queso",
+                    "crema de queso",
+                    "crema de mariscos"
+                ],
+                "appetizers_price":[
+                    550,
+                    1200,
+                    750,
+                    850,
+                    950,
+                    550,
+                    950,
+                    550,
+                    425,
+                    450,
+                    350,
+                    750,
+                    550,
+                    500,
+                    500,
+                    600
+                ]
+            },
+            "garnishes":{
+                "garnishes_list":[
+                    "ensalada mixta"
+                ],
+                "garnishes_price":[
+                    400
+                ]
+            },
+            "hamburger":{
+                "hamburger_list":[],
+                "hamburger_price":[]
+            },
+            "bread":{
+                "bread_list":[],
+                "bread_price":[]
+            },
+            "main":{
+                "main_list":[
+                    "costillas de cerdo fritas",
+                    "milanesa a la napolitana",
+                    "uruguayo de cerdo",
+                    "caldereta Donna Blanca",
+                    "dados de cerdo a la cojimera",
+                    "bistec de cerdo al mojo criollo",
+                    "pollo con camarones al graten",
+                    "pollo hawaiano",
+                    "sabor del cielo"
+                ],
+                "main_price":[
+                    1950,
+                    1450,
+                    1750,
+                    3500,
+                    1400,
+                    1400,
+                    1450,
+                    1150,
+                    1550
+                ]
+            },
+            "sea_food":{
+                "sea_food_list":[
+                    "arroz con camarones",
+                    "camaron al ajillo",
+                    "langosta varadero",
+                    "langosta busito",
+                    "langosta aires de cojimar",
+                    "pulpo al vino tinto",
+                    "pulpo al ajillo",
+                    "filete de pescado grille",
+                    "filete de pescado en salsa romero y limon",
+                    "filete de pescado con camarones al graten",
+                    "filete de pescado canciller",
+                    "camarones tropicales",
+                    "enchilado de camarones",
+                    "camarones al sesamo"
+                ],
+                "sea_food_price":[
+                    1450,
+                    1550,
+                    1950,
+                    2000,
+                    5500,
+                    2850,
+                    2850,
+                    1250,
+                    1350,
+                    1650,
+                    1650,
+                    1550,
+                    1450,
+                    1450
+                ]
+            },
+            "pasta":{
+                "pasta_list":[],
+                "pasta_price":[]
+            },
+            "pizza":{
+                "pizza_list":[],
+                "pizza_price":[]
+            },
+            "adds":{
+                "adds_list":[],
+                "adds_price":[]
+            },
+            
+            "dessert":{
+                "dessert_list":[
+                    "dulces finos"
+                ],
+                "dessert_price":[
+                    450
+                ]
+            },
+            "drinks":{
+                "alcohol_list":[],
+                "alcohol_price":[],
+                "infusions_list":[],
+                "infusions_price":[],
+                "non_alcoholic_list":[],
+                "non_alcoholic_price":[]
+            }
+        },
+        "popular_food":[],
+        "popular_drink":[],
+        "food_especialization":["Variada"],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":null,
+        "blackout_alternatives":null,
+        "entertainment":[],
+        "peak_hour":[],
+        "tourism":null,
+        "pets":null,
+        "bathroom":null,
+        "heated":null
+    }
+}

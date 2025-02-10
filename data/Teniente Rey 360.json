@@ -1,0 +1,190 @@
+{
+    "general_info": {
+        "name": "Teniente Rey 360",
+        "township": "Habana Vieja",
+        "adress": "Calle Teniente Rey #360 entre Aguacate y Villegas, Habana Vieja",
+        "local": "bar-restaurante",
+        "open": "11:00",
+        "close": "21:30",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": true,
+        "tips_included": true,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas",
+                    "bolitas de queso",
+                    "tostones rellenos",
+                    "garbanzos fritos"
+                ],
+                "appetizers_price": [
+                    400,
+                    500,
+                    600,
+                    700
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz",
+                    "chatinos",
+                    "yuca"
+                ],
+                "garnishes_price": [
+                    200,
+                    300,
+                    200
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pechuga de pollo",
+                    "fajitas de pechuga de pollo",
+                    "masas de cerdo",
+                    "fricase de cerdo",
+                    "ropa vieja",
+                    "picadillo a la cubana",
+                    "solomillo",
+                    "cazuelita teniente rey",
+                    "filete mignon",
+                    "punta de filete"
+                ],
+                "main_price": [
+                    1950,
+                    2000,
+                    1700,
+                    1750,
+                    1950,
+                    1500,
+                    1900,
+                    2900,
+                    3200,
+                    2900
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "coctel de camarones",
+                    "coctel de langosta",
+                    "langosta al ajillo o enchilada",
+                    "colas de langosta",
+                    "camarones a la orden (al ajillo o enchilado)",
+                    "camarones rebosados",
+                    "pulpo al ajillo o grille",
+                    "mariscada teniente rey",
+                    "filete de pescado",
+                    "filete jhon bill"
+                ],
+                "sea_food_price": [
+                    700,
+                    700,
+                    2500,
+                    2600,
+                    2500,
+                    2800,
+                    2700,
+                    2900,
+                    2400,
+                    3500
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "flan",
+                    "torrejas"
+                ],
+                "dessert_price": [
+                    500,
+                    400
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza nacional enlatada",
+                    "cerveza nacional en botella",
+                    "cerveza importada"
+                ],
+                "alcohol_price": [
+                    360,
+                    460,
+                    460
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "refrescos nacionales",
+                    "refrescos importados",
+                    "malta nacional",
+                    "agua natural nacional",
+                    "kermato",
+                    "agua tonica"
+                ],
+                "non_alcoholic_price": [
+                    380,
+                    420,
+                    420,
+                    250,
+                    500,
+                    450
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Criolla"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

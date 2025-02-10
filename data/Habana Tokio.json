@@ -1,0 +1,176 @@
+{
+    "general_info": {
+        "name": "Habana Tokio",
+        "township": "Habana Vieja",
+        "adress": "Obrapia entre Bernaza y Villegas",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": true,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "chicken teriyaki",
+                    "chashu",
+                    "ramen",
+                    "ramen de camaron",
+                    "yakitori",
+                    "tonkatsu",
+                    "karaage",
+                    "katsudon",
+                    "katsudon oyakudan",
+                    "yakisoba",
+                    "combo de habana tokio"
+                ],
+                "main_price": [
+                    2400,
+                    1000,
+                    2550,
+                    3000,
+                    2400,
+                    2750,
+                    2400,
+                    2850,
+                    2800,
+                    2750,
+                    3900
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "tempura udon",
+                    "tempura",
+                    "tempura de camaron",
+                    "tempura de calamar",
+                    "sushi mixto",
+                    "sushi de atun",
+                    "sushi de salmon",
+                    "takoyaki",
+                    "yakisoba de camaron",
+                    "yakisoba de calamar",
+                    "yakisoba de mariscos",
+                    "sashimi salmon",
+                    "sashimi de atun",
+                    "sashimi",
+                    "tataki",
+                    "nigiri",
+                    "sashimi (acompanhado de arroz y sopa)",
+                    "nigiri (acompanhado de sopa)",
+                    "sashimi de calamar"
+
+                ],
+                "sea_food_price": [
+                    2000,
+                    2300,
+                    3000,
+                    3000,
+                    2750,
+                    1750,
+                    2100,
+                    1000,
+                    3100,
+                    3100,
+                    3100,
+                    4400,
+                    4200,
+                    2200,
+                    2300,
+                    2500,
+                    2900,
+                    2900,
+                    2900
+
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "flan",
+                    "kakigori"
+                ],
+                "dessert_price": [
+                    600,
+                    800
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Japonesa"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Karaoke"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

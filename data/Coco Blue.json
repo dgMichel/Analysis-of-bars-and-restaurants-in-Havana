@@ -1,0 +1,236 @@
+{
+    "general_info": {
+        "name": "CocoBlue & La Zorra Pelua",
+        "township": "Plaza de la Revolucion",
+        "adress": "Calle 14 e 11 y 13",
+        "local": "bar-cafeteria",
+        "open": "12:00",
+        "close": "00:30",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "@cocoblueylazorrapelua",
+            "https://www.facebook.com/cocoblueylazorrapelua/"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "nachos",
+                    "boniato frito",
+                    "frituras de malanga",
+                    "croquetas de pescado",
+                    "croquetas de res",
+                    "tacos de pollo",
+                    "tacos de vegetales",
+                    "tacos de res",
+                    "ceviche",
+                    "fajitas de pollo",
+                    "desayuno"
+                ],
+                "appetizers_price": [
+                    400,
+                    500,
+                    700,
+                    1000,
+                    1100,
+                    1100,
+                    1000,
+                    1200,
+                    1600,
+                    1200,
+                    2800
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa de pollo",
+                    "hamburguesa de res"
+                ],
+                "hamburger_price": [
+                    1400,
+                    1900
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich zorra pelua"
+                ],
+                "bread_price": [
+                    1600
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "bistec de pollo",
+                    "ropa vieja"
+                ],
+                "main_price": [
+                    2000,
+                    2100
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado"
+                ],
+                "sea_food_price": [
+                    2000
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espaguetti napolitano"
+                ],
+                "pasta_price": [
+                    1600
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "cascos de guayaba"
+                ],
+                "dessert_price": [
+                    800
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "importadas",
+                    "nacional",
+                    "cristal dispensada",
+                    "cubetazo",
+                    "mojito",
+                    "cuba libre",
+                    "cubata",
+                    "daiquiri",
+                    "daiquiri de sabores",
+                    "caipirinha",
+                    "caipiroska base",
+                    "caipirisima",
+                    "pinha colada",
+                    "chelada",
+                    "michelada",
+                    "sangria",
+                    "margarita",
+                    "long island",
+                    "jagger bomb",
+                    "blue lagon"
+                ],
+                "alcohol_price": [
+                    500,
+                    550,
+                    400,
+                    2800,
+                    700,
+                    700,
+                    600,
+                    700,
+                    750,
+                    600,
+                    570,
+                    650,
+                    700,
+                    880,
+                    900,
+                    1100,
+                    800,
+                    1100,
+                    1000,
+                    1100
+                ],
+                "infusions_list": [
+                    "expresso",
+                    "cortado",
+                    "capuccino",
+                    "frappuccino",
+                    "americano"
+                ],
+                "infusions_price": [
+                    400,
+                    450,
+                    500,
+                    600,
+                    350
+                ],
+                "non_alcoholic_list": [
+                    "frutas",
+                    "natural",
+                    "frappe",
+                    "frescura",
+                    "tonica",
+                    "gaseada",
+                    "refrescos",
+                    "energizante"
+                ],
+                "non_alcoholic_price": [
+                    450,
+                    450,
+                    500,
+                    600,
+                    500,
+                    600,
+                    500,
+                    700
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Caribenha",
+            "Bar",
+            "Cafe",
+            "Pub",
+            "Cubana",
+            "Bares para comer"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "A la Carta",
+            "Entretenimiento"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,205 @@
+{
+    "general_info": {
+        "name": "Paladar JR",
+        "township": "Habana del Este",
+        "adress": "Calle 20 Aniversario, 12 plantas, Alamar",
+        "local": "restaurante",
+        "open": "09:00",
+        "close": "24:00",
+        "days_of_week": [],
+        "sector": "privado",
+        "capability": 15,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich de jamon y queso",
+                    "bocadito de atun",
+                    "sandwich de queso",
+                    "pan con bistec de cerdo"
+                ],
+                "bread_price": [
+                    700,
+                    800,
+                    800,
+                    850
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "bistec de cerdo grille",
+                    "fricase de cerdo",
+                    "chop suey de cerdo",
+                    "escalope de cerdo",
+                    "tiras de cerdo empanado",
+                    "chuleta de cerdo",
+                    "lomo ahumado",
+                    "bistec princesa de cerdo",
+                    "rollo de cerdo",
+                    "masas de cerdo",
+                    "bistec uruguayo",
+                    "bistec uruguayo especial",
+                    "bistec de pollo",
+                    "fricase de pollo",
+                    "tiritas de pollo empanado",
+                    "bistec de pollo empanado",
+                    "gordon blue",
+                    "princesa de pollo",
+                    "bistec gordon blue",
+                    "gordon blue especial",
+                    "filete de pollo gamba",
+                    "arroz frito",
+                    "arroz frito especial"
+                ],
+                "main_price": [
+                    1300,
+                    1350,
+                    1400,
+                    1400,
+                    1400,
+                    1450,
+                    1550,
+                    1650,
+                    1650,
+                    1650,
+                    1750,
+                    1950,
+                    1000,
+                    1100,
+                    1200,
+                    1200,
+                    1300,
+                    1300,
+                    1400,
+                    1600,
+                    1700,
+                    1300,
+                    1550
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado",
+                    "eperlan",
+                    "pescado empanado",
+                    "filete de pescado milanesa",
+                    "filete de pescado montetoro",
+                    "canciller",
+                    "canciller especial",
+                    "camaron grille",
+                    "enchilado de camarones",
+                    "empanado especial jr",
+                    "cacerola del mar"
+                ],
+                "sea_food_price": [
+                    1700,
+                    1800,
+                    1800,
+                    2100,
+                    2100,
+                    2100,
+                    2300,
+                    1800,
+                    1900,
+                    3700,
+                    2200
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napoles con queso gouda",
+                    "pizza de cebolla",
+                    "pizza de aji",
+                    "pizza de jamon",
+                    "pizza hawaiana",
+                    "pizza de aceitunas",
+                    "pizza de atun"
+                ],
+                "pizza_price": [
+                    900,
+                    1100,
+                    1100,
+                    1150,
+                    1350,
+                    1350,
+                    1450
+                ]
+            },
+            "adds": {
+                "adds_list": [
+                    "pina",
+                    "jamon",
+                    "queso",
+                    "aceitunas",
+                    "atun",
+                    "camaron"
+                ],
+                "adds_price": [
+                    200,
+                    250,
+                    300,
+                    400,
+                    400,
+                    950
+                ]
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Comida mixta"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

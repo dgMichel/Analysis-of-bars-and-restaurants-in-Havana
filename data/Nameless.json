@@ -1,0 +1,148 @@
+{
+    "general_info": {
+        "name": "Nameless",
+        "township": "Boyero",
+        "adress": "Avenida Independencia % 407A & 409, Santiago de las Vegas",
+        "local": "restaurante",
+        "open": "08:00",
+        "close": "12:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": false,
+        "tips_included": false,
+        "delivery": false,
+        "online_reservations": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz frito"
+                ],
+                "garnishes_price": [
+                    700
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo frito",
+                    "chuleta de cerdo natural",
+                    "lomo de cerdo natural",
+                    "bistec de cerdo",
+                    "bistec de res",
+                    "uruguayo de res",
+                    "canciller",
+                    "pechuga",
+                    "fricase de res",
+                    "gordem blue",
+                    "picadera mixta",
+                    "costilla de cerdo ahumada",
+                    "costilla de cerdo a la barbacoa "
+                ],
+                "main_price": [
+                    1000,
+                    1000,
+                    1000,
+                    1000,
+                    1300,
+                    1700,
+                    1700,
+                    1200,
+                    1000,
+                    1700,
+                    1600,
+                    1000,
+                    1200
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza de jamon",
+                    "pizza de aceitunas",
+                    "pizza de cebolla",
+                    "pizza marinera",
+                    "pizza doble via",
+                    "pizza hawaiana",
+                    "pizza de chorizo"
+                ],
+                "pizza_price": [
+                    600,
+                    700,
+                    900,
+                    700,
+                    1500,
+                    1500,
+                    850,
+                    900
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

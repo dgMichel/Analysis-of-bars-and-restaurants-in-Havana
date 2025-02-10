@@ -1,0 +1,225 @@
+{
+    "general_info": {
+        "name": "La Baronesa",
+        "township": "Centro Habana",
+        "adress": "Lagunas",
+        "local": "restaurante",
+        "open": "08:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas de la casa",
+                    "croquetas con jamon y queso",
+                    "fajitas de jamon y queso",
+                    "frito natural",
+                    "revuelto con vegetales",
+                    "revuelto con jamon",
+                    "revuelto con queso",
+                    "revuelto con jamon y queso",
+                    "natural",
+                    "con vegetales",
+                    "con queso",
+                    "con jamon",
+                    "con jamon y queso"
+                ],
+                "appetizers_price": [
+                    600,
+                    750,
+                    950,
+                    450,
+                    500,
+                    550,
+                    550,
+                    600,
+                    330,
+                    380,
+                    400,
+                    400,
+                    450
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "vegetales salteados",
+                    "moro",
+                    "fritura de vianda",
+                    "tostones"
+                ],
+                "garnishes_price": [
+                    350,
+                    250,
+                    350,
+                    450
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa sencilla",
+                    "hamburguesa con vegetales",
+                    "hamburguesa con jamon",
+                    "hamburguesa con queso",
+                    "hamburguesa con jamon y queso"
+                ],
+                "hamburger_price": [
+                    300,
+                    350,
+                    400,
+                    400,
+                    500
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "suaper",
+                    "suaper al burro ",
+                    "pan con bistec pollo",
+                    "pan con bistec cerdo",
+                    "pan con jamon y queso"
+                ],
+                "bread_price": [
+                    650,
+                    800,
+                    600,
+                    750,
+                    350
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "chiflado",
+                    "parrilla bistec",
+                    "a la campesina",
+                    "fajitas con vegetales",
+                    "fajitas empanizadas",
+                    "bistec de cerdo",
+                    "bistec de cerdo encebollado",
+                    "cerdo a la campesina (picante)-",
+                    "ropa vieja ",
+                    "fajitas con vegetales",
+                    "fajitas empanizadas",
+                    "lonjas de cerdo",
+                    "lomo ahumado",
+                    "fricase de cerdo ",
+                    "solomillo al jugo",
+                    "bistec uruguayo",
+                    "chuleton de cerdo",
+                    "fricase de res",
+                    "ropa vieja de res"
+                ],
+                "main_price": [
+                    750,
+                    1200,
+                    1250,
+                    1250,
+                    1350,
+                    1500,
+                    1550,
+                    1550,
+                    1650,
+                    1550,
+                    1600,
+                    1500,
+                    1350,
+                    1850,
+                    1750,
+                    1800,
+                    1850,
+                    2300,
+                    2300
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado",
+                    "camarones",
+                    "langosta",
+                    "canciller"
+                ],
+                "sea_food_price": [
+                    1500,
+                    1600,
+                    2500,
+                    1800
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [
+                    "expreso",
+                    "cortadito",
+                    "americano",
+                    "con leche",
+                    "capuchino"
+                ],
+                "infusions_price": [
+                    100,
+                    150,
+                    150,
+                    200,
+                    300
+                ],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica grabada"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

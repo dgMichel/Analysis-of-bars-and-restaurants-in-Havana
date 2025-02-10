@@ -1,0 +1,328 @@
+{
+    "general_info": {
+        "name": "Restaurante_Los_Hermanos",
+        "township": "Habana del Este",
+        "adress": "478 entre 5ta Avenida y 5ta.D, Guanabo",
+        "local": "restaurante",
+        "open": "09:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "toston relleno de jamon y queso",
+                    "fritura de malanga",
+                    "eperlan de pescado",
+                    "ceviche de pescado",
+                    "coctel de camaron",
+                    "tabla de jamon serrano",
+                    "fajitas de pollo"
+                ],
+                "appetizers_price": [
+                    950,
+                    900,
+                    1200,
+                    1500,
+                    2000,
+                    2700,
+                    1100
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo grille",
+                    "lonjas de cerdo asado al carbon",
+                    "costillas de cerdo a la brasa en aroma de carbon",
+                    "bistec de cerdo encebollado",
+                    "lomo ahumado",
+                    "bistec uruguayo",
+                    "arroz frito",
+                    "tacos de cerdo asado",
+                    "arroz frito especial",
+                    "tacos de fajita de cerdo",
+                    "tacos de fajitas de pollo",
+                    "tacos de langosta",
+                    "tacos de camaron"
+                ],
+                "main_price": [
+                    1600,
+                    1900,
+                    3000,
+                    1700,
+                    1700,
+                    3000,
+                    1500,
+                    1500,
+                    1900,
+                    1500,
+                    1400,
+                    2000,
+                    1900
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "camarones grille",
+                    "enchilado de camarones",
+                    "langosta grille",
+                    "enchilado de langosta",
+                    "langosta varadero",
+                    "mariscada los hermanos",
+                    "filete canciller",
+                    "filete de pescado grille",
+                    "pescado frito entero",
+                    "grillada los hermanos"
+                ],
+                "sea_food_price": [
+                    2000,
+                    2300,
+                    2500,
+                    2600,
+                    2800,
+                    3500,
+                    3000,
+                    1900,
+                    2500,
+                    3000
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espaguetis napoles",
+                    "espaguetis con jamon",
+                    "espaguetis con atun",
+                    "espaguetis con camarones",
+                    "espaguetis con langosta",
+                    "lasanha"
+                ],
+                "pasta_price": [
+                    1250,
+                    1500,
+                    1750,
+                    1900,
+                    2000,
+                    1300
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napole",
+                    "pizza con jamon",
+                    "pizza hawaiana",
+                    "pizza con chorizo",
+                    "pizza con atun y cebolla",
+                    "pizza con langosta",
+                    "pizza con camaron"
+                ],
+                "pizza_price": [
+                    1250,
+                    1500,
+                    1600,
+                    1750,
+                    1750,
+                    1800,
+                    1800
+                ]
+            },
+            "adds": {
+                "adds_list": [
+                    "cebolla",
+                    "queso",
+                    "jamon cocido",
+                    "jamon serrano",
+                    "chorizo",
+                    "pinha",
+                    "camaron"
+                ],
+                "adds_price": [
+                    250,
+                    600,
+                    350,
+                    950,
+                    600,
+                    200,
+                    850
+                ]
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "copa de helado",
+                    "flan",
+                    "copa lolita",
+                    "mermelada de mango con queso"
+                ],
+                "dessert_price": [
+                    600,
+                    700,
+                    800,
+                    600
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cristal(lata)",
+                    "cristal(botella)",
+                    "bucanero",
+                    "colonia",
+                    "havana club 3 anhos",
+                    "havana club anhejo especial",
+                    "anhejo reserva",
+                    "havana club 7 anhos",
+                    "whisky ballantine",
+                    "whisky johnnie walker red lavel",
+                    "whisky johnnie walker swing",
+                    "whisky chivas regal 12",
+                    "tequila blanco",
+                    "tequila reposado",
+                    "jagermeifter",
+                    "crema baileys",
+                    "aguardiente",
+                    "vodka absolute",
+                    "ginebra ginmaster",
+                    "mojito",
+                    "mojito de fruta",
+                    "ginc tonic",
+                    "cuba libre",
+                    "cubata",
+                    "daiquiri",
+                    "pinha colada",
+                    "pinha con ron",
+                    "sangria",
+                    "sangria tinto verano",
+                    "caipirinha/...caipiroshka",
+                    "canchanchara",
+                    "canchanchara 7 anhos",
+                    "margarita",
+                    "tekila sunrise",
+                    "agrego de michelada",
+                    "agrego de chelada",
+                    "copa de vino tinto",
+                    "copa de vino blanco"
+                ],
+                "alcohol_price": [
+                    400,
+                    450,
+                    400,
+                    250,
+                    370,
+                    480,
+                    500,
+                    500,
+                    800,
+                    800,
+                    1000,
+                    900,
+                    800,
+                    900,
+                    600,
+                    600,
+                    400,
+                    700,
+                    700,
+                    800,
+                    1000,
+                    1500,
+                    900,
+                    1000,
+                    850,
+                    850,
+                    950,
+                    900,
+                    950,
+                    1000,
+                    800,
+                    1000,
+                    950,
+                    950,
+                    350,
+                    250,
+                    700,
+                    700
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "agua de 500ml",
+                    "jugo natural de frutas",
+                    "jugo de frutas(cajita)",
+                    "malta importada",
+                    "malta nacional",
+                    "bebidas energizantes",
+                    "refrescos importados",
+                    "batido de helado",
+                    "malteada",
+                    "limonada frappe",
+                    "limonada frescura"
+                ],
+                "non_alcoholic_price": [
+                    200,
+                    400,
+                    300,
+                    350,
+                    400,
+                    400,
+                    350,
+                    950,
+                    950,
+                    700,
+                    800
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Criolla"
+        ],
+        "house_especiality": [
+            "grillada los hermanos"
+        ]
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

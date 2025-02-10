@@ -1,0 +1,278 @@
+{
+    "general_info": {
+        "name": "Galy Cafe",
+        "township": "Centro Habana",
+        "adress": "Calle San Jose/ Aguila y Galiano",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas cremosas galy",
+                    "eperlan",
+                    "crema de queso",
+                    "crema virginia",
+                    "crema aurora",
+                    "crema de queso azul",
+                    "fajitas de pechuga de pollo",
+                    "coctel de camarones"
+                ],
+                "appetizers_price": [
+                    650,
+                    760,
+                    570,
+                    600,
+                    590,
+                    720,
+                    760,
+                    1100
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "arroz moro",
+                    "frijol del dia",
+                    "vianda hervida con mojo",
+                    "papas fritas",
+                    "pure de la casa",
+                    "ensalada de temporada"
+                ],
+                "garnishes_price": [
+                    350,
+                    420,
+                    490,
+                    650,
+                    720,
+                    850,
+                    850
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich de queso",
+                    "sandwich de jamon",
+                    "sandwich de jamon y queso",
+                    "sandwich de jamon, queso y chorizo",
+                    "sandwich de atun y cebolla"
+                ],
+                "bread_price": [
+                    1150,
+                    1150,
+                    1200,
+                    1250,
+                    1270
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pechuga a la plancha",
+                    "pechuga empanada",
+                    "pechuga gordon bleu",
+                    "pechuga milanesa",
+                    "bistec de cerdo a la plancha",
+                    "lomo de cerdo ahumado",
+                    "filetillo de res",
+                    "bistec uruguayo",
+                    "bistec de palomilla",
+                    "ropa vieja"
+                ],
+                "main_price": [
+                    2750,
+                    3100,
+                    2970,
+                    2860,
+                    2750,
+                    2100,
+                    1550,
+                    2970,
+                    2650,
+                    2650
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "pescado a la plancha",
+                    "pescado empanado",
+                    "pescado en salsa de tomate con camarones y almejas",
+                    "filete canciller",
+                    "camaron al ajillo",
+                    "camaron enchilado",
+                    "camaron rebosado",
+                    "camaron empanado",
+                    "camaron a la plancha",
+                    "pulpo enchilado",
+                    "pulpo al ajillo",
+                    "paella melosa del mar",
+                    "mar y tierra"
+                ],
+                "sea_food_price": [
+                    3200,
+                    3200,
+                    3200,
+                    3520,
+                    3200,
+                    3200,
+                    3200,
+                    3200,
+                    3200,
+                    3300,
+                    3300,
+                    3100,
+                    3300
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espaguettis de queso",
+                    "espaguettis al diablo",
+                    "espaguettis de jamon",
+                    "espaguetti de chorizo",
+                    "espaguetti carbonara",
+                    "espaguettis camarones",
+                    "espaguetti con pescado y marisco",
+                    "lasagna"
+                ],
+                "pasta_price": [
+                    1160,
+                    1200,
+                    1270,
+                    1270,
+                    1450,
+                    1550,
+                    1700,
+                    1760
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza de queso",
+                    "pizza de jamon",
+                    "pizza de chorizo",
+                    "pizza hawaiana",
+                    "pizza de cebolla",
+                    "pizza de pimientos",
+                    "pizza de camarones",
+                    "pizza de atun y cebolla",
+                    "pizza galy(dos quesos)"
+                ],
+                "pizza_price": [
+                    1160,
+                    1270,
+                    1270,
+                    1270,
+                    1270,
+                    1270,
+                    1250,
+                    1500,
+                    1550
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "tarta de chocolate galy",
+                    "tres leche con hilo de chocolate",
+                    "helados variados"
+                ],
+                "dessert_price": [
+                    650,
+                    690,
+                    610
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cervezas nacionales",
+                    "cervezas importadas"
+                ],
+                "alcohol_price": [
+                    440,
+                    330
+                ],
+                "infusions_list": [
+                    "cafe expreso",
+                    "cafe cortado",
+                    "cafe cremoso",
+                    "cafe galy"
+                ],
+                "infusions_price": [
+                    330,
+                    305,
+                    440,
+                    500
+                ],
+                "non_alcoholic_list": [
+                    "agua natural",
+                    "agua gaseada",
+                    "red bull",
+                    "malteada",
+                    "jugos naturales",
+                    "jugo natural (cajita 200ml)",
+                    "jugo importado (enlatado)",
+                    "batido de helado"
+                ],
+                "non_alcoholic_price": [
+                    385,
+                    300,
+                    500,
+                    500,
+                    210,
+                    320,
+                    385,
+                    950
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica grabada"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

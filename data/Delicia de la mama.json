@@ -1,0 +1,177 @@
+{
+    "general_info": {
+        "name": "Delicia de la mama",
+        "township": "Plaza de la Revolucion",
+        "adress": "Calle 19 entre C y D",
+        "local": "restaurante",
+        "open": "00:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "fritura de malanga",
+                    "croqueta de jamon",
+                    "tostada de mantequilla",
+                    "vianda frita",
+                    "estaciones de la mama",
+                    "fajitas de la mama con salsa x0",
+                    "ensalada de la mama (jamon, queso, chorizo y croqueta)",
+                    "ensalada de la mama (jamon, queso, chorizo)",
+                    "alitas de pollo",
+                    "albondigas"
+                ],
+                "appetizers_price": [
+                    550,
+                    850,
+                    350,
+                    450,
+                    850,
+                    750,
+                    2500,
+                    2000,
+                    950,
+                    950
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa sencilla",
+                    "hamburguesa de jamon",
+                    "hamburguesa de queso gouda",
+                    "hamburguesa de queso gouda y jamon"
+                ],
+                "hamburger_price": [
+                    800,
+                    1050,
+                    1150,
+                    1250
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "pan con queso gouda",
+                    "pan con jamon y queso gouda",
+                    "pan con lomo",
+                    "pan con bistec",
+                    "pan con atun"
+                ],
+                "bread_price": [
+                    700,
+                    850,
+                    950,
+                    980,
+                    1000
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pollo frito",
+                    "pollo ahumado",
+                    "pechuga",
+                    "pollo gordon blue",
+                    "lomo ahumado",
+                    "chuleta ahumada",
+                    "bistec de cerdo",
+                    "fricase de cerdo",
+                    "fricase de res"
+                ],
+                "main_price": [
+                    1550,
+                    1550,
+                    1650,
+                    1800,
+                    1550,
+                    1800,
+                    1550,
+                    1750,
+                    2300
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado"
+                ],
+                "sea_food_price": [
+                    1950
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [
+                    "cafe",
+                    "cafe con leche"
+                ],
+                "infusions_price": [
+                    150,
+                    450
+                ],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variado"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

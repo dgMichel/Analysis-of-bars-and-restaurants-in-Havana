@@ -1,0 +1,195 @@
+{
+    "general_info": {
+        "name": "El Chanchullero",
+        "township": "Habana del Este",
+        "adress": "#162D entre Calle 5G y Calle 162, zona 6, Alamar",
+        "local": "bar-restaurante",
+        "open": "11:30",
+        "close": "23:30",
+        "days_of_week": [],
+        "sector": "privado",
+        "capability": 30,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "chicharrita de platano macho",
+                    "toston relleno con cerdo",
+                    "fritura de malanga con miel",
+                    "ceviche de pulpo y pescado"
+                ],
+                "appetizers_price": [
+                    250,
+                    375,
+                    375,
+                    450
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "cerdo al perejil",
+                    "brochetas de cerdo",
+                    "bistec encebollado",
+                    "ropa vieja",
+                    "cerdo asado al horno",
+                    "masas de cerdo"
+                ],
+                "main_price": [
+                    795,
+                    795,
+                    800,
+                    800,
+                    795,
+                    800
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "puplo al ajillo",
+                    "pescado chanchullero (castero)",
+                    "enchilado de langosta",
+                    "langosta a la plancha"
+                ],
+                "sea_food_price": [
+                    925,
+                    800,
+                    975,
+                    975
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "flan al caramelo"
+                ],
+                "dessert_price": [
+                    150
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "catarro",
+                    "cuba libre",
+                    "mojito",
+                    "caipirissima",
+                    "ron collins",
+                    "cosita de esa",
+                    "caipiroska",
+                    "caipirinna",
+                    "daiquiri",
+                    "pinna colada",
+                    "vodka con naranja",
+                    "copa de vino",
+                    "cerveza importada",
+                    "ron hc club especial",
+                    "chelada",
+                    "michelada",
+                    "botella de vino",
+                    "vodka absolut",
+                    "whiskey black and white",
+                    "clan cambell",
+                    "jameson",
+                    "finest blended (speech)"
+                ],
+                "alcohol_price": [
+                    275,
+                    275,
+                    275,
+                    275,
+                    275,
+                    275,
+                    275,
+                    300,
+                    300,
+                    300,
+                    300,
+                    300,
+                    275,
+                    325,
+                    400,
+                    450,
+                    1200,
+                    525,
+                    395,
+                    425,
+                    425,
+                    400
+                ],
+                "infusions_list": [
+                    "cafe espresso"
+                ],
+                "infusions_price": [
+                    100
+                ],
+                "non_alcoholic_list": [
+                    "jugo de fruta natural",
+                    "agua natural",
+                    "agua gaseada",
+                    "refrescos importados",
+                    "refrescos nacionales",
+                    "red bull"
+                ],
+                "non_alcoholic_price": [
+                    140,
+                    130,
+                    180,
+                    240,
+                    200,
+                    300
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Comida criolla"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

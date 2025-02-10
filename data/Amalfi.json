@@ -1,0 +1,266 @@
+{
+    "general_info": {
+        "name": "Amalfi",
+        "township": "Playa",
+        "adress": "Calle 1ra # 4215 entre 42 y 44",
+        "local": "bar-restaurante",
+        "open": "12:00",
+        "close": "22:30",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "Amalfi",
+            "@amalfi_havana_restaurant"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "bruschetta",
+                    "bruschetta amalfi",
+                    "focaccia clasica",
+                    "parmigiana",
+                    "carpaccio pulpo",
+                    "carpaccio res",
+                    "carpaccio atun",
+                    "focaccia 500",
+                    "focaccia con prosciutto",
+                    "focaccia pomodoro e rucola",
+                    "focaccia salume del giorno e formaggio"
+                ],
+                "appetizers_price": [
+                    1600,
+                    1920,
+                    1280,
+                    2240,
+                    3840,
+                    4160,
+                    3520,
+                    1280,
+                    3840,
+                    2560,
+                    3200
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "ensalada de estacion",
+                    "ensalada positano",
+                    "ensalada ravello",
+                    "ensalada vettica"
+                ],
+                "garnishes_price": [
+                    1280,
+                    1920,
+                    1920,
+                    1920
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "fantasia di mare",
+                    "gambari al limone",
+                    "profumo mediterraneo"
+                ],
+                "sea_food_price": [
+                    4800,
+                    3840,
+                    5120
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "salsiccia italiana la plancha",
+                    "pomodoro fresco",
+                    "carbonara",
+                    "amatriciana",
+                    "carbonara salsiccia",
+                    "puttanesca",
+                    "ragu malale",
+                    "zucca e salsiccia",
+                    "funghi e salsiccia",
+                    "penne a la sorrentina",
+                    "spaghetti con bottarga",
+                    "penne al salmon",
+                    "pasta amalfi",
+                    "spaghetti cetara",
+                    "linguine con calamar",
+                    "pasta mediterranea"
+                ],
+                "pasta_price": [
+                    3840,
+                    3520,
+                    3520,
+                    3520,
+                    3840,
+                    3840,
+                    3840,
+                    3840,
+                    4800,
+                    3840,
+                    3200,
+                    3840,
+                    3840,
+                    3840,
+                    5120,
+                    5120
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza margarita",
+                    "pizza de la casa",
+                    "pizza vegetariana",
+                    "pizza mixta",
+                    "pizza de atun",
+                    "pizza de brocoli y salchicha",
+                    "pizza diavola",
+                    "pizza de serrano",
+                    "pizza romana",
+                    "pizza de jamon barra"
+                ],
+                "pizza_price": [
+                    1920,
+                    3520,
+                    2560,
+                    3200,
+                    3200,
+                    2880,
+                    3880,
+                    3200,
+                    3200,
+                    2560
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "torta al limon",
+                    "tortino al cioccolato",
+                    "profiterol",
+                    "tiramisu",
+                    "tiramisu pan di stelle",
+                    "delicia del dia"
+                ],
+                "dessert_price": [
+                    1280,
+                    1600,
+                    1280,
+                    1280,
+                    1600,
+                    1280
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza",
+                    "daiquiri",
+                    "cuba libre",
+                    "cubanito",
+                    "cubata",
+                    "mojito",
+                    "caipiroska",
+                    "caipirinna",
+                    "caipirissima",
+                    "sangria",
+                    "margarita",
+                    "gin tonic",
+                    "pina colada",
+                    "negroni",
+                    "copa de vino",
+                    "copa de vino italiano"
+                ],
+                "alcohol_price": [
+                    980,
+                    1400,
+                    1400,
+                    1400,
+                    1400,
+                    1400,
+                    1400,
+                    1400,
+                    1400,
+                    1400,
+                    1400,
+                    1400,
+                    1400,
+                    2240,
+                    1260,
+                    1680
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "agua nacional",
+                    "agua importada",
+                    "refresco nacional",
+                    "refresco importado",
+                    "limonada",
+                    "jugo natural"
+                ],
+                "non_alcoholic_price": [
+                    500,
+                    850,
+                    420,
+                    750,
+                    840,
+                    700
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "italiana",
+            "mediterranea",
+            "europea"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

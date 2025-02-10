@@ -1,0 +1,438 @@
+{
+    "general_info": {
+        "name": "Jota_Jota",
+        "township": "Playa",
+        "adress": "0 entre 3ra y 3raA",
+        "local": "bar-restaurante",
+        "open": "12:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "JotaJota",
+            "@jota_jota_restaurante_habana"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "jota jota",
+                    "big tasty",
+                    "sencilla",
+                    "carpaccio res",
+                    "picadera jj",
+                    "desayuno ij",
+                    "tabla de jamon serrano",
+                    "ceviche",
+                    "coctel de langosta",
+                    "montado de salmon",
+                    "tabla de queso",
+                    "coctel de camaron",
+                    "eperlan de pescado",
+                    "queso frito 1",
+                    "empanadas de la abuela",
+                    "croquetas"
+                ],
+                "appetizers_price": [
+                    1600,
+                    1250,
+                    1000,
+                    4500,
+                    3800,
+                    2500,
+                    2000,
+                    2000,
+                    1800,
+                    1750,
+                    1650,
+                    1600,
+                    1500,
+                    400,
+                    850,
+                    800
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "cheeseburguer"
+                ],
+                "hamburger_price": [
+                    1250
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich de atun",
+                    "sandwich de jamon y queso",
+                    "focaccia"
+                ],
+                "bread_price": [
+                    1200,
+                    920,
+                    700
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "t bone de cerdo",
+                    "masa de cerdo",
+                    "filete mignon",
+                    "filete de douche",
+                    "rinonada",
+                    "vaca frita",
+                    "ropa vieja"
+                ],
+                "main_price": [
+                    3800,
+                    2500,
+                    6500,
+                    4500,
+                    3500,
+                    2200,
+                    2200
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "camaron al gusto",
+                    "langosta al gusto",
+                    "pescado jon bille langosta",
+                    "pescado jon bille camarones",
+                    "filete de pescado"
+                ],
+                "sea_food_price": [
+                    3500,
+                    3000,
+                    3800,
+                    3500,
+                    2500
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "fettuccine frutti di mare",
+                    "fettuccine con camaron o langosta",
+                    "fettuccine carbonara",
+                    "fettuccine jamon serrano",
+                    "fettuccine 4 quesos",
+                    "fettuccine q parmesano y jamon",
+                    "fettuccine bolognesa",
+                    "fettuccine con q azul",
+                    "fettuccine salmon",
+                    "fettuccine de atun",
+                    "fettuccine alfredo",
+                    "fettuccine al pesto"
+                ],
+                "pasta_price": [
+                    3200,
+                    3000,
+                    3000,
+                    2500,
+                    2500,
+                    2350,
+                    2200,
+                    2000,
+                    1850,
+                    1750,
+                    1700,
+                    1650
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza de jamon serrano",
+                    "pizza 4 quesos",
+                    "pizza de langosta",
+                    "pizza de camarones",
+                    "pizza c ropa vieja",
+                    "pizza de vegetales",
+                    "pizza salmon",
+                    "pizza hawaiana",
+                    "pizza jamon",
+                    "pizza de atun",
+                    "pizza de chorizo",
+                    "pizza margarita",
+                    "pizza de cebolla",
+                    "pizza napolitana"
+                ],
+                "pizza_price": [
+                    2750,
+                    2500,
+                    2200,
+                    2200,
+                    2200,
+                    2000,
+                    1900,
+                    1900,
+                    1800,
+                    1750,
+                    1700,
+                    1500,
+                    1400,
+                    1200
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "copa de helado"
+                ],
+                "dessert_price": [
+                    900
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza corona",
+                    "cerveza cristal botella",
+                    "cerveza cristal lata",
+                    "cerveza modelo",
+                    "cerveza bucanero botella",
+                    "cerveza bucanero lata",
+                    "mojito",
+                    "caipiroska",
+                    "caipiroska absoluta",
+                    "caipiroska ciroc",
+                    "caipiroska gordons",
+                    "caipiroska grey goose",
+                    "caipiroska samaraskaya",
+                    "caipirissima",
+                    "caipirina",
+                    "caipiriacho",
+                    "canchanchara",
+                    "sangria",
+                    "gin tonic base",
+                    "vodka tonic",
+                    "cuba libre",
+                    "cubata",
+                    "daiquiri",
+                    "pina colada",
+                    "martini",
+                    "ron collins",
+                    "crema aldabo",
+                    "amareto",
+                    "limoncello",
+                    "frenet zanin",
+                    "licor de coco",
+                    "baileys",
+                    "jaggermeister",
+                    "vermouth",
+                    "sheridans",
+                    "sambuca",
+                    "martini blanco",
+                    "licor patron de limon",
+                    "samaraskaya",
+                    "grey goose",
+                    "absolut",
+                    "ciroc",
+                    "gin london no 3",
+                    "beefeater",
+                    "gordons",
+                    "gin tanqueray",
+                    "havana club 3 anos",
+                    "havana club profundo",
+                    "havana club especial",
+                    "havana club anejo blanco",
+                    "havana club reserva",
+                    "havana club 7 anos",
+                    "havana club selec maestros",
+                    "legendario anejo",
+                    "stgo de cuba 8 anos",
+                    "stgo de cuba 12 anos",
+                    "stgo de cuba 11 anos",
+                    "pacto navio",
+                    "aguardiente black tears",
+                    "bacardi blanco",
+                    "bacardi spiced",
+                    "roble superior black tears",
+                    "black tears super dry",
+                    "ron barcelo",
+                    "stgo carta blanca",
+                    "black white",
+                    "chivas regal 12 anos",
+                    "jw black label",
+                    "jw red label",
+                    "jw island green",
+                    "jw gold label",
+                    "jw swing",
+                    "glenlivet",
+                    "ballantines",
+                    "jameson",
+                    "crown royal black",
+                    "buchanans",
+                    "dewars",
+                    "clan campbell",
+                    "jack daniels",
+                    "jb blended scotch"
+                ],
+                "alcohol_price": [
+                    650,
+                    450,
+                    400,
+                    650,
+                    450,
+                    400,
+                    900,
+                    850,
+                    1100,
+                    1200,
+                    900,
+                    1200,
+                    670,
+                    550,
+                    600,
+                    550,
+                    500,
+                    850,
+                    700,
+                    900,
+                    750,
+                    650,
+                    850,
+                    1000,
+                    500,
+                    500,
+                    200,
+                    550,
+                    550,
+                    350,
+                    700,
+                    1000,
+                    650,
+                    350,
+                    1150,
+                    350,
+                    600,
+                    1300,
+                    350,
+                    1250,
+                    800,
+                    950,
+                    1200,
+                    700,
+                    450,
+                    1200,
+                    300,
+                    400,
+                    450,
+                    300,
+                    500,
+                    650,
+                    1250,
+                    300,
+                    800,
+                    1100,
+                    1200,
+                    1350,
+                    500,
+                    1000,
+                    1200,
+                    300,
+                    300,
+                    300,
+                    450,
+                    500,
+                    900,
+                    1800,
+                    1000,
+                    4500,
+                    5000,
+                    2500,
+                    900,
+                    650,
+                    750,
+                    1000,
+                    2000,
+                    700,
+                    600,
+                    1200,
+                    1000
+                ],
+                "infusions_list": [
+                    "cafe expresso",
+                    "cafe americano",
+                    "cafe cortado",
+                    "cafe capuchino",
+                    "cafe frappuccino",
+                    "cafe con leche",
+                    "cafe bombon"
+                ],
+                "infusions_price": [
+                    200,
+                    200,
+                    300,
+                    500,
+                    550,
+                    350,
+                    500
+                ],
+                "non_alcoholic_list": [
+                    "agua natural 500ml",
+                    "pepsy cola",
+                    "refresco 7 up limon",
+                    "energizante times flies",
+                    "vaso jugo de frutas caja",
+                    "jugo natural fruta",
+                    "limonada frappe",
+                    "limonada natural",
+                    "limonada hierba buena"
+                ],
+                "non_alcoholic_price": [
+                    200,
+                    350,
+                    350,
+                    250,
+                    250,
+                    250,
+                    650,
+                    650,
+                    700
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "cubana",
+            "internacional"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

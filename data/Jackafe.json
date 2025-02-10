@@ -1,0 +1,250 @@
+{
+    "general_info": {
+        "name": "Jackafe",
+        "township": "Habana del Este",
+        "adress": "Calle 164B, #3B01, Esquina 3ra B, Mercado de los Rusos, zona 1, Alamar",
+        "local": "bar-restaurante",
+        "open": "12:00",
+        "close": "09:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas",
+                    "bolitas de queso",
+                    "tostones rellenos de chorizo",
+                    "tostones rellenos de atun",
+                    "tostones rellenos de jamon",
+                    "coctel de pescado",
+                    "coctel de camaron",
+                    "coctelde langosta",
+                    "trio de cocteles",
+                    "ceviche",
+                    "eperlan",
+                    "garbanzos fritos",
+                    "entremes de la casa",
+                    "entremes de jamon serrano",
+                    "tabla de quesos"
+                ],
+                "appetizers_price": [
+                    360,
+                    280,
+                    940,
+                    840,
+                    680,
+                    760,
+                    780,
+                    980,
+                    2280,
+                    1190,
+                    1720,
+                    1680,
+                    1920,
+                    1350,
+                    1820
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "arroz moro",
+                    "arroz frito jackafe",
+                    "ensalada de estacion",
+                    "viandas fritas"
+                ],
+                "garnishes_price": [
+                    180,
+                    250,
+                    1480,
+                    250,
+                    250
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "bistec de cerdo grille",
+                    "bistec de cerdo princesa",
+                    "bistec uruguayo",
+                    "estofado de res",
+                    "cordero al vino tinto"
+
+                ],
+                "main_price": [
+                    1620,
+                    2240,
+                    2380,
+                    3320,
+                    2730
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "pulpo enchilado",
+                    "pulpo al ajillo",
+                    "langosta grille",
+                    "langosta enchilada",
+                    "langosta termidor",
+                    "filete de pescado grille",
+                    "filete de pescado princesa",
+                    "filete de pescado canciller"
+                ],
+                "sea_food_price": [
+                    1330,
+                    1850,
+                    2190,
+                    2310,
+                    2520,
+                    1590,
+                    2140,
+                    2320
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "crema de queso",
+                    "lazana bolonesa",
+                    "espaghetti napolitano queso gouda",
+                    "espaghetti napolitano queso mozarella",
+                    "espaghetti al aglio y olio"
+                ],
+                "pasta_price": [
+                    590,
+                    1690,
+                    840,
+                    610,
+                    1240
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana queso gouda",
+                    "pizza napolitana queso mozarella"
+                ],
+                "pizza_price": [
+                    760,
+                    610
+                ]
+            },
+            "adds": {
+                "adds_list": [
+                    "champinon",
+                    "atun",
+                    "aceitunas",
+                    "jamon",
+                    "jamon serrano",
+                    "chorizo",
+                    "queso gouda",
+                    "queso mimolett",
+                    "queso azul",
+                    "pina",
+                    "salsa de tomate"
+                ],
+                "adds_price": [
+                    140,
+                    510,
+                    450,
+                    250,
+                    650,
+                    480,
+                    420,
+                    480,
+                    380,
+                    170,
+                    150
+                ]
+            },
+            
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza importada",
+                    "cerveza michelada"
+                ],
+                "alcohol_price": [
+                    280,
+                    100
+                ],
+                "infusions_list": [
+                    "cafe expreso",
+                    "cafe americano",
+                    "cafe cortado",
+                    "cafe capuchino",
+                    "cafe con ashe",
+                    "te"
+                ],
+                "infusions_price": [
+                    180,
+                    180,
+                    250,
+                    300,
+                    395,
+                    80
+                ],
+                "non_alcoholic_list": [
+                    "refresco importado",
+                    "jugo de caja",
+                    "energizante",
+                    "agua natural importada",
+                    "agua tonica"
+                ],
+                "non_alcoholic_price": [
+                    330,
+                    850,
+                    370,
+                    260,
+                    720
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Comida mixta"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

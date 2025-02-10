@@ -1,0 +1,227 @@
+{
+    "general_info": {
+        "name": "Donha Lis Pizza",
+        "township": "Plaza de la Revolucion",
+        "adress": "Neptuno #1169 esquina Basarrate",
+        "local": "restaurante",
+        "open": "10:30",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            "https://www.facebook.com/p/DO%C3%91A-LIS-100092583440020/?locale=mt_MT",
+            "@donalis_pizza"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas",
+                    "bolitas de queso/jamon",
+                    "bolitas de pescado",
+                    "frituras malanga",
+                    "papas fritas",
+                    "fajitas de pollo",
+                    "tostones rellenos",
+                    "nachos",
+                    "tacos al pastor",
+                    "tacos cerdo",
+                    "tacos pollo/vegetales",
+                    "tacos de pescado"
+                ],
+                "appetizers_price": [
+                    400,
+                    500,
+                    450,
+                    350,
+                    500,
+                    600,
+                    500,
+                    300,
+                    700,
+                    800,
+                    700,
+                    750
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "racion yuca/mojo"
+                ],
+                "garnishes_price": [
+                    250
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "don hamburgueso/vianda frita",
+                    "hamburguesa donha lis/vianda frita",
+                    "cheeseburger/vianda frita"
+                ],
+                "hamburger_price": [
+                    550,
+                    1000,
+                    650
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich atun/vianda frita",
+                    "sandwich jamon y queso/vianda frita",
+                    "sandwich pollo y vegetales/vianda frita"
+                ],
+                "bread_price": [
+                    650,
+                    550,
+                    650
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pechuga grille",
+                    "pechuga empanada",
+                    "fajitas salteadas",
+                    "bistec de cerdo",
+                    "bistec de cerdo gratinado",
+                    "filete de pescado grille"
+                ],
+                "main_price": [
+                    800,
+                    850,
+                    700,
+                    900,
+                    1000,
+                    900
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "lasanha"
+                ],
+                "pasta_price": [
+                    800
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza margarita",
+                    "pizza hawaiana",
+                    "pizza donha lis",
+                    "pasta napolitana",
+                    "pasta vegetariana"
+                ],
+                "pizza_price": [
+                    650,
+                    700,
+                    900,
+                    1400,
+                    500,
+                    650
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "pote de helado",
+                    "paleta de helado"
+                ],
+                "dessert_price": [
+                    750,
+                    200
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "servicio michelada",
+                    "servicio chelada",
+                    "cerveza nacional",
+                    "cerveza de botella",
+                    "cerveza importada"
+                ],
+                "alcohol_price": [
+                    300,
+                    200,
+                    300,
+                    300,
+                    280
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "jugo natural",
+                    "batido de fruta",
+                    "batido de trigo",
+                    "malteada",
+                    "batido de helado",
+                    "limonada frappe",
+                    "malta",
+                    "energizante",
+                    "refresco",
+                    "agua"
+                ],
+                "non_alcoholic_price": [
+                    150,
+                    350,
+                    500,
+                    500,
+                    500,
+                    300,
+                    300,
+                    250,
+                    280,
+                    180
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Pizzas",
+            "Bar"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "A la carta"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

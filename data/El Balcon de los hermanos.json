@@ -1,0 +1,129 @@
+{
+    "general_info": {
+        "name": "El Balcon de los hermanos",
+        "township": "Habana Vieja",
+        "adress": "Obispo",
+        "local": "restaurante",
+        "open": "09:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": 30,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz con vegetales"
+                ],
+                "garnishes_price": [
+                    1900
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "fajitas de pollo",
+                    "pollo dos hermanos",
+                    "mixto de cerdo y pollo con vegetales"
+                ],
+                "main_price": [
+                    2500,
+                    2600,
+                    2900
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "mixto grille de langosta y camarones",
+                    "mixto de langosta y pescado",
+                    "langosta"
+                ],
+                "sea_food_price": [
+                    2900,
+                    3000,
+                    3500
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta napoles",
+                    "pasta del mar"
+                ],
+                "pasta_price": [
+                    1700,
+                    2500
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica en vivo"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": true,
+        "bathroom": null,
+        "heated": null
+    }
+}

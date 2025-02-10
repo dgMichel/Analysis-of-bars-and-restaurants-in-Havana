@@ -1,0 +1,184 @@
+{
+    "general_info": {
+        "name": "El Pelicano",
+        "township": "Plaza de la Revolucion",
+        "adress": "dentro del zoologico de 26, Nuevo Vedado",
+        "local": "restaurante-cafeteria",
+        "open": "10:00",
+        "close": "18:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas",
+                    "picadera de jamon y queso",
+                    "papas fritas",
+                    "bolitas de queso",
+                    "salchipapa"
+                ],
+                "appetizers_price": [
+                    350,
+                    450,
+                    550,
+                    650,
+                    750
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz moro",
+                    "arroz blanco"
+                ],
+                "garnishes_price": [
+                    150,
+                    150
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "pan con jamon y queso",
+                    "pan con perro",
+                    "pan con lechon",
+                    "pan con hamburguesa"
+                ],
+                "bread_price": [
+                    350,
+                    360,
+                    500,
+                    550
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pollo frito",
+                    "pollo chiflado",
+                    "brochetas de pollo y vegetales",
+                    "brochetas mixtas",
+                    "brochetas de cerdo",
+                    "bistec de cerdo",
+                    "lonja de cerdo",
+                    "masa de cerdo"
+                ],
+                "main_price": [
+                    420,
+                    520,
+                    580,
+                    700,
+                    950,
+                    950,
+                    950,
+                    990
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "paleta de chocolate",
+                    "pote de helado"
+                ],
+                "dessert_price": [
+                    260,
+                    495
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza",
+                    "chelada",
+                    "cuba libre",
+                    "michelada"
+                ],
+                "alcohol_price": [
+                    190,
+                    290,
+                    380,
+                    390
+                ],
+                "infusions_list": [
+                    "cafe expresso",
+                    "cafe cortado",
+                    "cafe bombon"
+                ],
+                "infusions_price": [
+                    90,
+                    110,
+                    150
+                ],
+                "non_alcoholic_list": [
+                    "jugo de cajita",
+                    "agua",
+                    "refresco de lata",
+                    "limonada frape",
+                    "energizante"
+                ],
+                "non_alcoholic_price": [
+                    190,
+                    120,
+                    195,
+                    250,
+                    220
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "A domicilio",
+            "Zoologico"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

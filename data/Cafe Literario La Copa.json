@@ -1,0 +1,151 @@
+{
+    "general_info": {
+        "name": "Cafe Literario La Copa",
+        "township": "Playa",
+        "adress": " 1ra A % 42 y 44, La Copa",
+        "local": "cafeteria",
+        "open": "08:00",
+        "close": "17:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "@cafe_literario_lacopa"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas con tostadas",
+                    "papas fritas",
+                    "hot dog",
+                    "sandwich de jamon y queso",
+                    "pan con hamburguesa",
+                    "croissant de jamon con queso",
+                    "croissant natural"
+                ],
+                "appetizers_price": [
+                    500,
+                    600,
+                    600,
+                    700,
+                    700,
+                    800,
+                    500
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "copa de helado",
+                    "suero helado"
+                ],
+                "dessert_price": [
+                    500,
+                    800
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [
+                    "cafe expresso",
+                    "cafe cortado",
+                    "cafe bombon",
+                    "capuchino",
+                    "frapucchino"
+                ],
+                "infusions_price": [
+                    150,
+                    200,
+                    350,
+                    400,
+                    500
+                ],
+                "non_alcoholic_list": [
+                    "malteada",
+                    "malta bucanero",
+                    "energizante",
+                    "jugo de lata",
+                    "agua natural"
+                ],
+                "non_alcoholic_price": [
+                    500,
+                    300,
+                    230,
+                    270,
+                    120
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Cafe"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "A la carta"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,367 @@
+{
+    "general_info": {
+        "name": "San giovanni",
+        "township": "Plaza de la Revolucion",
+        "adress": "Linea entre paseo y A",
+        "local": "restaurante",
+        "open": "08:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "papaps fritas",
+                    "frituras de malanga",
+                    "croquetas de la casa",
+                    "fajitas de pollo",
+                    "eperlan",
+                    "queso frito",
+                    "tostones rellenos",
+                    "bruchettas",
+                    "coctel de mariscos",
+                    "ceviche de pescado",
+                    "crema de queso",
+                    "tabla de jamon serrano",
+                    "picadera napolitana",
+                    "tabla especial",
+                    "picadera mixta",
+                    "desayuno cuabno (cafe con leche, tostada, mantequilla y jalea)",
+                    "desayuno americano (bacon, queso, huevo, tostadas, mantequilla, jalea, jugo natural)",
+                    "desayuno europeo (ensalada de frutas, tostadas, mnantequilla, jalea, dulce y jugo natural)",
+                    "desayuno especial",
+                    "pan, cakes con frutas y jugo natural",
+                    "crepes rellenas de chocolate con bola de helado y jugo natural",
+                    "tacos de pollo",
+                    "tacos de cerdo",
+                    "tacos de res",
+                    "tacos de pescado",
+                    "tacos de vegetales"
+                ],
+                "appetizers_price": [
+                    900,
+                    900,
+                    900,
+                    1500,
+                    1000,
+                    1200,
+                    900,
+                    1000,
+                    2500,
+                    1900,
+                    1800,
+                    4200,
+                    4000,
+                    4600,
+                    3800,
+                    1000,
+                    2900,
+                    2900,
+                    3500,
+                    2500,
+                    2900,
+                    2000,
+                    2200,
+                    2500,
+                    2300,
+                    1800
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "ensalada de la estacion",
+                    "ensalada vegana",
+                    "ensalada cesar",
+                    "ensalada mediterranea",
+                    "ensalada iberica",
+                    "arroz moro",
+                    "arroz blanco",
+                    "arroz pilaf"
+                ],
+                "garnishes_price": [
+                    1500,
+                    2500,
+                    2500,
+                    2500,
+                    2500,
+                    550,
+                    450,
+                    700
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pechuga grillada",
+                    "pechuga a la genovesa",
+                    "bistec de cerdo encebollado",
+                    "masas fritas de cerdo",
+                    "fricase de cerdo",
+                    "bistec uruguayo",
+                    "ropa vieja de res",
+                    "vaca frita",
+                    "grillada de tierra"
+                ],
+                "main_price": [
+                    2500,
+                    3200,
+                    2600,
+                    2600,
+                    2900,
+                    4000,
+                    3600,
+                    3600,
+                    3900
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "pescado frito entero",
+                    "filete de pescado grille",
+                    "jhon bill",
+                    "filete canciller",
+                    "langosta al gusto",
+                    "camaron al gusto",
+                    "grillada del mar",
+                    "grillada de mar y tierra"
+                ],
+                "sea_food_price": [
+                    3000,
+                    2500,
+                    2900,
+                    3600,
+                    3500,
+                    3300,
+                    4000,
+                    7300
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espaguetti bolognesa",
+                    "espaguetti carbnonara",
+                    "espaguetti amatriciana",
+                    "espaguetti pesto",
+                    "espaguetti sabor del mar",
+                    "espaguetti de langosta",
+                    "lasagna bolognesa",
+                    "lasagna napolitana",
+                    "raviolis de jamon y queso"
+                ],
+                "pasta_price": [
+                    2800,
+                    3000,
+                    2700,
+                    2900,
+                    4500,
+                    4000,
+                    3700,
+                    4600,
+                    3200
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza margerita",
+                    "pizza napoli",
+                    "pizza diavola",
+                    "pizza tonno e cipolla",
+                    "pizza hawaiana",
+                    "pizza procciutto e funghi",
+                    "pizza capricciosa",
+                    "pizza primavera",
+                    "pizza wurstel e patatine",
+                    "pizza 4 queso",
+                    "pizza de mozzarella y jamon serrano"
+                ],
+                "pizza_price": [
+                    1900,
+                    1900,
+                    2500,
+                    2600,
+                    2600,
+                    2800,
+                    3200,
+                    1600,
+                    2300,
+                    2900,
+                    3300
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "copa de helado",
+                    "dulce de la casa"
+                ],
+                "dessert_price": [
+                    450,
+                    500
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza nacional",
+                    "cerveza importada",
+                    "cerveza heineken",
+                    "cerveza corona",
+                    "servicio de chelada",
+                    "servicio de michelada",
+                    "servicio de tonic",
+                    "mojito",
+                    "daiquiri",
+                    "cuba libre",
+                    "cubata",
+                    "canchanchara",
+                    "pinha colada",
+                    "caipirinha",
+                    "cubanito",
+                    "screw driver",
+                    "bloddy mary",
+                    "margarita",
+                    "tequila sunrise",
+                    "mimosa",
+                    "aperol spritz",
+                    "sangria",
+                    "long island ice tea",
+                    "old fashioned",
+                    "negroni",
+                    "martini"
+                ],
+                "alcohol_price": [
+                    400,
+                    300,
+                    600,
+                    600,
+                    350,
+                    450,
+                    1200,
+                    1200,
+                    900,
+                    900,
+                    1100,
+                    950,
+                    1300,
+                    950,
+                    1250,
+                    900,
+                    1250,
+                    1000,
+                    1100,
+                    1200,
+                    2000,
+                    1600,
+                    2000,
+                    2000,
+                    2000,
+                    1300
+                ],
+                "infusions_list": [
+                    "cafe con leche",
+                    "frapuccino",
+                    "carajillo",
+                    "cafe espresso",
+                    "cafe americano",
+                    "cafecortado",
+                    "cafe bombom"
+                ],
+                "infusions_price": [
+                    650,
+                    800,
+                    500,
+                    300,
+                    300,
+                    350,
+                    400
+                ],
+                "non_alcoholic_list": [
+                    "leche",
+                    "agua natural",
+                    "agua carbonatada",
+                    "agua tonica",
+                    "refresco",
+                    "malta",
+                    "jugo natural",
+                    "limonada natural",
+                    "limonada frappe",
+                    "energizantes",
+                    "red bull",
+                    "pinha colada  sin alcohol",
+                    "san francisco",
+                    "virgen maria",
+                    "malteada",
+                    "batido de frutas"
+                ],
+                "non_alcoholic_price": [
+                    400,
+                    300,
+                    300,
+                    1000,
+                    400,
+                    500,
+                    450,
+                    500,
+                    550,
+                    500,
+                    800,
+                    1200,
+                    1000,
+                    1150,
+                    900,
+                    800
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Italiana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

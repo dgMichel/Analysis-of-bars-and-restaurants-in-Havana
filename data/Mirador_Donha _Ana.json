@@ -1,0 +1,283 @@
+{
+    "general_info": {
+        "name": "Mirador_Donha _Ana",
+        "township": "Habana Vieja",
+        "adress": "406 Obispo",
+        "local": "bar-restaurante",
+        "open": "08:30",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": 140,
+        "social_network": [
+            "https://www.instagram.com/restaurante_mirador_donana/?hl=es",
+            "https://www.facebook.com/p/Restaurant-Bar-Mirador-Do%C3%B1a-Ana-100076533901882/?locale=es_LA"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "coctel de camarones",
+                    "ensalada de pollo",
+                    "ensalada de pescado",
+                    "ensalada mixta",
+                    "croquetas de la abuela",
+                    "chicharritas de platano",
+                    "tostones rellenos",
+                    "tamal en hojas",
+                    "sopa de pollo",
+                    "frituras de malanga"
+                ],
+                "appetizers_price": [
+                    1500,
+                    1100,
+                    1200,
+                    900,
+                    660,
+                    660,
+                    880,
+                    660,
+                    800,
+                    660
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo grille",
+                    "pollo en salsa",
+                    "pollo a la pinha",
+                    "brocheta de pollo",
+                    "pechuga de pollo a la juliana",
+                    "cerdo grille",
+                    "cerdo agridulce",
+                    "chuleta de cerdo",
+                    "bistec de cerdo con champinhon",
+                    "milanesa de cerdo",
+                    "ropa vieja",
+                    "picadillo a la habanera"
+                ],
+                "main_price": [
+                    2000,
+                    2800,
+                    2800,
+                    2800,
+                    4200,
+                    2000,
+                    2200,
+                    2900,
+                    2900,
+                    2900,
+                    2800,
+                    2500
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "langosta batabano",
+                    "langosta donha ana",
+                    "degustacion de la casa mariscada",
+                    "pulpo: grille, ajillo o en salsa",
+                    "langosta grille",
+                    "langosta en salsa",
+                    "langosta al ron",
+                    "camaron grille",
+                    "camaron al ajillo",
+                    "camaron en salsa",
+                    "enchilado de pescado",
+                    "filete de pescado grille"
+                ],
+                "sea_food_price": [
+                    2000,
+                    3400,
+                    3800,
+                    3600,
+                    2900,
+                    3000,
+                    3000,
+                    3400,
+                    3500,
+                    3500,
+                    2700,
+                    2200
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "vino tinto",
+                    "vino blanco",
+                    "cabernet suavignon",
+                    "vodka abssolut",
+                    "ballantines",
+                    "clan campbell",
+                    "chivas regal 12 anhos",
+                    "johnnie walker",
+                    "olmeca reposado",
+                    "jose cuervo",
+                    "havana club 3 anhos",
+                    "havana club 7 anhos",
+                    "havana club profundo",
+                    "havana club especial",
+                    "havana club reserva",
+                    "hav. club selec. de maestros",
+                    "ritual",
+                    "santiago",
+                    "santiago 12 anhos",
+                    "ron pacto navio",
+                    "ron cubay extra anhejo",
+                    "ron cubay extra viejo",
+                    "cuba libre",
+                    "mojito",
+                    "daiquiri",
+                    "pinha colada",
+                    "cubanito",
+                    "michelada",
+                    "margarita",
+                    "gin tonic",
+                    "vodka tonic",
+                    "sangria",
+                    "caipirinha",
+                    "caipiroska",
+                    "caipirissima",
+                    "bloody mary",
+                    "cubata"
+                ],
+                "alcohol_price": [
+                    550,
+                    550,
+                    660,
+                    660,
+                    550,
+                    550,
+                    770,
+                    770,
+                    660,
+                    660,
+                    440,
+                    550,
+                    440,
+                    550,
+                    550,
+                    660,
+                    440,
+                    550,
+                    660,
+                    660,
+                    880,
+                    880,
+                    660,
+                    660,
+                    660,
+                    880,
+                    770,
+                    770,
+                    770,
+                    880,
+                    770,
+                    770,
+                    770,
+                    770,
+                    770,
+                    770,
+                    770
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "jugos naturales",
+                    "agua natural 500ml",
+                    "agua natural 600ml",
+                    "agua tonica",
+                    "agua gaseada",
+                    "refresco nacional",
+                    "refresco importado",
+                    "malta",
+                    "cerveza nacional",
+                    "cerveza importada",
+                    "red bull",
+                    "tigon",
+                    "kermato",
+                    "limonada frappe"
+                ],
+                "non_alcoholic_price": [
+                    220,
+                    330,
+                    330,
+                    330,
+                    220,
+                    330,
+                    330,
+                    330,
+                    500,
+                    350,
+                    330,
+                    330,
+                    330,
+                    485
+                ]
+            }
+        },
+        "popular_food": ["langosta grille","ropa vieja"],
+        "popular_drink": [],
+        "food_especialization": [
+            "Criolla"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": false,
+        "bathroom": null,
+        "heated": null
+    }
+}

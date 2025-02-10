@@ -1,0 +1,163 @@
+{
+    "general_info": {
+        "name": "Los Doce Apostoles",
+        "township": "Habana del Este",
+        "adress": "Complejo Morro Cabana,Via Monumental",
+        "local": "restaurante",
+        "open": "12:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "entremes de jamon y queso",
+                    "eperlan de pescado",
+                    "anillas de calamar",
+                    "alitas de pollo",
+                    "nuggets de pollo",
+                    "picadera especial"
+                ],
+                "appetizers_price": [
+                    400,
+                    550,
+                    550,
+                    450,
+                    250,
+                    600
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo grille",
+                    "fajitas de cerdo",
+                    "masas de cerdo",
+                    "fajitas de res",
+                    "steak de res"
+                ],
+                "main_price": [
+                    700,
+                    800,
+                    900,
+                    950,
+                    950
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "gambas al grill",
+                    "filete de pescado",
+                    "pescado del chef"
+                ],
+                "sea_food_price": [
+                    1200,
+                    900,
+                    1100
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza dispensada",
+                    "cerveza importada",
+                    "cerveza nacional",
+                    "vino tinto (copa)",
+                    "ron habana club anejo blanco (shot)",
+                    "ron habana club profundo (shot)",
+                    "ron habana club seleccion de maestro (shot)",
+                    "ron cubay carta blanca (shot)"
+                ],
+                "alcohol_price": [
+                    190,
+                    220,
+                    215,
+                    200,
+                    80,
+                    160,
+                    350,
+                    100
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "maltas",
+                    "malta perla negra",
+                    "jugo natural en caja",
+                    "refrescos nacionales"
+                ],
+                "non_alcoholic_price": [
+                    210,
+                    180,
+                    300,
+                    280
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Criolla"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,262 @@
+{
+    "general_info": {
+        "name": "MMCafeteria",
+        "township": "Marianao",
+        "adress": "Avenida 41",
+        "local": "restaurante",
+        "open": "09:00",
+        "close": "10:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "papas fritas",
+                    "croquetas",
+                    "fritura de malanga",
+                    "tostones rellenos",
+                    "ensalada fria de jamon",
+                    "ensalada fria de atun",
+                    "fajitas de pechuga salteada",
+                    "fajitas de pechuga empanada",
+                    "fajitas de cerdo salteadas",
+                    "fajitas de cerdo empanada",
+                    "eperlan",
+                    "coctel de camarones"
+                ],
+                "appetizers_price": [
+                    650,
+                    550,
+                    550,
+                    650,
+                    800,
+                    900,
+                    1200,
+                    1450,
+                    1300,
+                    1350,
+                    1350,
+                    2100
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "arroz congri",
+                    "arroz frito",
+                    "arroz imperial",
+                    "paella",
+                    "arroz frito de cerdo,pollo y mejillon"
+                ],
+                "garnishes_price": [
+                    200,
+                    300,
+                    1550,
+                    1650,
+                    2100,
+                    1450
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa clasica",
+                    "hamburguesa de queso",
+                    "hamburguesa de jamon",
+                    "hamburguesas jamon y queso"
+                ],
+                "hamburger_price": [
+                    400,
+                    600,
+                    550,
+                    700
+                ]
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "bistec de cerdo grille",
+                    "cerdo bistec empanizado",
+                    "bistec de cerdo uruguayo",
+                    "masa de cerdo salteada",
+                    "lomo de cerdo",
+                    "fricase de cerdo ",
+                    "bistec de pollo gordon blue",
+                    "bistec de pechuga gordon blue",
+                    "pechuga de pollo grille",
+                    "pechuga de pollo empanada",
+                    "vaca frita",
+                    "ropa vieja"
+                ],
+                "main_price": [
+                    1400,
+                    1600,
+                    1950,
+                    1350,
+                    1500,
+                    1400,
+                    1900,
+                    1900,
+                    1500,
+                    1400,
+                    1900,
+                    1900
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "pescado grille",
+                    "pescado empanizado",
+                    "enchilado de camaron",
+                    "camaron al ajillo",
+                    "camaron empanado",
+                    "canciller 190grs",
+                    "langosta",
+                    "cazuela de mariscos",
+                    "canciller 180 grs"
+                ],
+                "sea_food_price": [
+                    1500,
+                    1900,
+                    1400,
+                    1700,
+                    2000,
+                    2000,
+                    2100,
+                    2100,
+                    2000
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "crema de queso",
+                    "lasagnna bolonnesa",
+                    "espaguettis napolitano"
+                ],
+                "pasta_price": [
+                    800,
+                    1700,
+                    700
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizzas napolitanas, 32 cm",
+                    "pizzas jamon",
+                    "pizzas bacon",
+                    "pizzas pimiento",
+                    "pizzas cebolla",
+                    "pizzas hawaiana",
+                    "pizzas atun",
+                    "pizzas camaron",
+                    "pizzas ropa vieja",
+                    "pizzas de chorizo",
+                    "pizzas mm"
+                ],
+                "pizza_price": [
+                    750,
+                    1100,
+                    1650,
+                    1050,
+                    950,
+                    1350,
+                    1650,
+                    1350,
+                    1500,
+                    1100,
+                    1800
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "helado cid"
+                ],
+                "dessert_price": [
+                    850
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "santa isabel",
+                    "cristal v",
+                    "cristal b",
+                    "bucanero"
+                ],
+                "alcohol_price": [
+                    250,
+                    245,
+                    200,
+                    240
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "agua",
+                    "jugo lata",
+                    "refresco santa",
+                    "sprite",
+                    "energizante"
+                ],
+                "non_alcoholic_price": [
+                    130,
+                    265,
+                    200,
+                    450,
+                    260
+                ]
+            }
+        },
+        "popular_food": [
+            "Casuela de mariscos",
+            "Cerdo Grille"
+        ],
+        "popular_drink": [
+            "Cerveza",
+            "Refresco"
+        ],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica grabada"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

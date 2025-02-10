@@ -1,0 +1,152 @@
+{
+    "general_info": {
+        "name": "Salchipizza",
+        "township": "Centro Habana",
+        "adress": null,
+        "local": "restaurante",
+        "open": "13:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "Salchipizza",
+            "@salchipizza"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "tabla de panes artesanales",
+                    "terrina de pescado",
+                    "tinaja de carbon con crema parmentier de verduras de estacion",
+                    "ensalada de cerdo guayaba y fruta bomba"
+                ],
+                "appetizers_price": [
+                    1500,
+                    2700,
+                    2500,
+                    2000
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "masa de cerdo con verduras al gratin",
+                    "senhorita de cerdo con verduras al gratin",
+                    "carreton de boniato, rueda de quimbombo y y latigo de carnero ahumado"
+                ],
+                "main_price": [
+                    2300,
+                    3000,
+                    3000
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "volcan de maiz, lava de pescado ardiente y cenizas de pulpo"
+                ],
+                "sea_food_price": [
+                    3500
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "lasanha de carne a la bolonhesa"
+                ],
+                "pasta_price": [
+                    1600
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "recuerdos de la infancia"
+                ],
+                "dessert_price": [
+                    2000
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "copa de vino",
+                    "copa de champagne",
+                    "cerveza nacional",
+                    "cerveza importada"
+                ],
+                "alcohol_price": [
+                    750,
+                    800,
+                    350,
+                    400
+                ],
+                "infusions_list": [
+                    "cafe"
+                ],
+                "infusions_price": [
+                    150
+                ],
+                "non_alcoholic_list": [
+                    "agua"
+                ],
+                "non_alcoholic_price": [
+                    200
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "cubana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,294 @@
+{
+    "general_info": {
+        "name": "Lo de Monik",
+        "township": "Habana Vieja",
+        "adress": "Compostela, esquina Chacon, Habana Vieja",
+        "local": "bar-restaurante",
+        "open": "11:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": true,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "frituras de malanga",
+                    "yucas bravas",
+                    "croquetas",
+                    "ceviche",
+                    "tartar de atun",
+                    "tamal en casuela",
+                    "tostones rellenos de jamon y queso",
+                    "tostones rellenos de ropa vieja",
+                    "tostones rellenos de cerdo",
+                    "dos huevos, tostadas, jamon, vegetales, jugo, cafe",
+                    "taco de vegetales",
+                    "tacos de pollo",
+                    "tacos de cerdo",
+                    "taco de ropa vieja",
+                    "taco de camaron",
+                    "taco de pescado",
+                    "taco de punta de filete",
+                    "taco de langosta",
+                    "taco de pulpo"
+                ],
+                "appetizers_price": [
+                    700,
+                    700,
+                    700,
+                    1200,
+                    900,
+                    1700,
+                    1100,
+                    1200,
+                    1300,
+                    1800,
+                    1500,
+                    1700,
+                    2200,
+                    2300,
+                    3000,
+                    2400,
+                    3800,
+                    2400,
+                    2500
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz",
+                    "frijoles"
+                ],
+                "garnishes_price": [
+                    300,
+                    300
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich de vegetales",
+                    "sandwich de jamon y queso",
+                    "sandwich de pollo",
+                    "sandwich de atun",
+                    "sandwich cubano"
+                ],
+                "bread_price": [
+                    1000,
+                    1200,
+                    1700,
+                    1500,
+                    2000
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pollo grillado",
+                    "masas de cerdo",
+                    "ropa vieja",
+                    "ropa vieja con garbanzos",
+                    "punta de filete a la deutche",
+                    "filete mignon"
+                ],
+                "main_price": [
+                    1700,
+                    2800,
+                    2300,
+                    2600,
+                    3800,
+                    4500
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "camaron grillado",
+                    "pescado empanado",
+                    "pescado grillado",
+                    "pulpo grillado",
+                    "langosta"
+                ],
+                "sea_food_price": [
+                    3000,
+                    2600,
+                    2400,
+                    3800,
+                    3000
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta napolitana",
+                    "pasta de pollo con salsa alfredo",
+                    "pasta fruti di mare"
+                ],
+                "pasta_price": [
+                    1800,
+                    2000,
+                    2500
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "postre de la casa"
+                ],
+                "dessert_price": [
+                    600
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza importada",
+                    "cerveza nacional",
+                    "copa de vino blanco",
+                    "copa de vino tinto",
+                    "botella de vino",
+                    "mojito",
+                    "mojito loco",
+                    "mojito de frutas",
+                    "daiquiri",
+                    "daiquiri de fruta",
+                    "cuba libre",
+                    "habana special",
+                    "habana london",
+                    "ron collins",
+                    "canchanchara",
+                    "gin tonic",
+                    "caipiroska absolut",
+                    "carpiblue",
+                    "negroni",
+                    "pinha colada",
+                    "caipirissima",
+                    "caipirinha",
+                    "caipirinha cachaca",
+                    "caipiroska",
+                    "cubanito",
+                    "michelada",
+                    "michelada kermato",
+                    "chelada",
+                    "bloody mary",
+                    "margarita",
+                    "sangria",
+                    "martini"
+                ],
+                "alcohol_price": [
+                    700,
+                    700,
+                    650,
+                    650,
+                    2600,
+                    700,
+                    1400,
+                    750,
+                    650,
+                    700,
+                    650,
+                    600,
+                    800,
+                    600,
+                    600,
+                    800,
+                    850,
+                    1200,
+                    800,
+                    650,
+                    600,
+                    600,
+                    600,
+                    600,
+                    800,
+                    800,
+                    850,
+                    750,
+                    800,
+                    700,
+                    700,
+                    750
+                ],
+                "infusions_list": [
+                    "cafe expresso",
+                    "cafe americano",
+                    "cafe cortado",
+                    "capuccino",
+                    "frapuccino",
+                    "cafe bombom"
+                ],
+                "infusions_price": [
+                    300,
+                    300,
+                    350,
+                    400,
+                    600,
+                    700
+                ],
+                "non_alcoholic_list": [
+                    "jugo de frutas naturales",
+                    "limonada",
+                    "limonada de hierbabuena",
+                    "batido de frutas",
+                    "agua nacional",
+                    "agua nacional gaseada",
+                    "refresco"
+                ],
+                "non_alcoholic_price": [
+                    400,
+                    600,
+                    600,
+                    600,
+                    300,
+                    300,
+                    500
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

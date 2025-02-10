@@ -1,0 +1,332 @@
+{
+    "general_info": {
+        "name": "Salsa Mora",
+        "township": "Playa",
+        "adress": "Paseo Maritimo 1ra. y 70",
+        "local": "bar-restaurante",
+        "open": "12:00",
+        "close": "04:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "Salsa Mora",
+            "@salsamora_70"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas de la casa",
+                    "tostones rellenos",
+                    "tacos de la casa",
+                    "ceviche",
+                    "fajitas",
+                    "esperland",
+                    "bolitas de queso",
+                    "garbanzos fritos",
+                    "coctel de camarones",
+                    "papas fritas"
+                ],
+                "appetizers_price": [
+                    1000,
+                    1050,
+                    1150,
+                    2250,
+                    2050,
+                    2250,
+                    1450,
+                    1250,
+                    2350,
+                    1250
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "ensalada mixta",
+                    "arroz blanco",
+                    "arroz moro",
+                    "tostones naturales"
+                ],
+                "garnishes_price": [
+                    450,
+                    200,
+                    300,
+                    250
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "pan de la casa",
+                    "baguette j & q",
+                    "baguette de queso"
+                ],
+                "bread_price": [
+                    250,
+                    750,
+                    650
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pollo asado",
+                    "cordon blue",
+                    "pechuga de pollo",
+                    "bistec de cerdo",
+                    "uruguayo de cerdo",
+                    "chuleta de cerdo",
+                    "cerdo asado",
+                    "ropa vieja",
+                    "rib eye",
+                    "tomahawk",
+                    "cordero estofado"
+                ],
+                "main_price": [
+                    2300,
+                    4500,
+                    2500,
+                    3000,
+                    4500,
+                    3000,
+                    3000,
+                    2500,
+                    8500,
+                    12500,
+                    3500
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "camaron al gusto",
+                    "langosta al gusto",
+                    "pulpo al gusto",
+                    "langosta termidor",
+                    "caldereta de mariscos",
+                    "grillada del mar",
+                    "filete de pescado",
+                    "filete de canciller",
+                    "arroz melosos de pollo",
+                    "arroz melosos de mariscos"
+                ],
+                "sea_food_price": [
+                    4300,
+                    4500,
+                    4500,
+                    5000,
+                    6000,
+                    6000,
+                    4000,
+                    5000,
+                    1800,
+                    3500
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta napoles",
+                    "pasta fruto di mare",
+                    "pasta carbonara"
+                ],
+                "pasta_price": [
+                    1300,
+                    3000,
+                    2500
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "tarta",
+                    "flan de la casa"
+                ],
+                "dessert_price": [
+                    1000,
+                    500
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "hc 7 anos",
+                    "hc seleccion",
+                    "santiago 8 anos",
+                    "santiago 11 anos",
+                    "santiago 12 anos",
+                    "pacto navio",
+                    "ciroc",
+                    "grey goose",
+                    "patron silver",
+                    "patron reposado",
+                    "olmeca silver",
+                    "olmeca reposado",
+                    "jameson",
+                    "ballantines",
+                    "chivas 12",
+                    "jw red label",
+                    "jw black label",
+                    "jw blue label",
+                    "jw gold label",
+                    "jw green label",
+                    "buchanans",
+                    "jack daniels",
+                    "cerveza dispensada",
+                    "cerveza cristal",
+                    "cerveza bucanero",
+                    "cerveza corona",
+                    "servicio michelada",
+                    "servicio chelada",
+                    "caipirina",
+                    "caipirisima",
+                    "caipiroska",
+                    "mojito",
+                    "pina colada",
+                    "ron collins",
+                    "tom collins",
+                    "martini",
+                    "gin tonic",
+                    "margarita",
+                    "tequila sunrise",
+                    "cuba libre",
+                    "cubata",
+                    "cubata santiago 8",
+                    "cubanito",
+                    "daiquiri",
+                    "bloody mary",
+                    "sangria salsa mora",
+                    "baileys",
+                    "jagger",
+                    "campari",
+                    "sambuca",
+                    "grapa"
+                ],
+                "alcohol_price": [
+                    650,
+                    1850,
+                    780,
+                    1300,
+                    1500,
+                    1850,
+                    1300,
+                    1500,
+                    2400,
+                    2500,
+                    600,
+                    700,
+                    700,
+                    900,
+                    1100,
+                    850,
+                    1500,
+                    10000,
+                    2300,
+                    2500,
+                    2500,
+                    1200,
+                    220,
+                    600,
+                    600,
+                    850,
+                    300,
+                    250,
+                    500,
+                    500,
+                    500,
+                    700,
+                    550,
+                    500,
+                    780,
+                    1000,
+                    780,
+                    550,
+                    550,
+                    700,
+                    800,
+                    900,
+                    600,
+                    550,
+                    960,
+                    600,
+                    1000,
+                    750,
+                    800,
+                    650,
+                    550
+                ],
+                "infusions_list": [
+                    "cafe expreso",
+                    "cafe cortado",
+                    "capuccino",
+                    "frappuccino"
+                ],
+                "infusions_price": [
+                    250,
+                    300,
+                    700,
+                    1000
+                ],
+                "non_alcoholic_list": [
+                    "agua natural",
+                    "refrescos",
+                    "energizantes",
+                    "red bull",
+                    "limonada",
+                    "jugos naturales"
+                ],
+                "non_alcoholic_price": [
+                    250,
+                    350,
+                    250,
+                    650,
+                    250,
+                    350
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "internacional"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

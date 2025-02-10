@@ -1,0 +1,326 @@
+{
+    "general_info": {
+        "name": "chacon 162",
+        "township": "Habana Vieja",
+        "adress": "Callejon entrechacon y compostela",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "ceviche de pescado",
+                    "empanaditas",
+                    "croquetas",
+                    "brusquetas",
+                    "garbanzo frito",
+                    "caldo marinero",
+                    "caldo de vegetales",
+                    "caldo de pollo"
+                ],
+                "appetizers_price": [
+                    1650,
+                    650,
+                    700,
+                    680,
+                    1250,
+                    1450,
+                    990,
+                    1350
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "ensalada de vegetales",
+                    "ensalada cesar con salmon",
+                    "ensalada cesar",
+                    "ensalada verde de la casa",
+                    "arroz meloso",
+                    "arroz frito"
+                ],
+                "garnishes_price": [
+                    690,
+                    1700,
+                    1450,
+                    700,
+                    2950,
+                    2500
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "baguette de ropa vieja y palmesano",
+                    "baguette de pollo",
+                    "baguette de vegetales"
+                ],
+                "bread_price": [
+                    1700,
+                    1700,
+                    1100
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pollo grille",
+                    "masa de cerdo",
+                    "costillas de cerdo",
+                    "bistec de cerdo",
+                    "filete mignon",
+                    "ropa vieja",
+                    "tacos de marisco",
+                    "tacos de ropa vieja",
+                    "tacos frio de marisco",
+                    "taco de pollo"
+                ],
+                "main_price": [
+                    2200,
+                    2900,
+                    3100,
+                    2500,
+                    6000,
+                    2500,
+                    2300,
+                    2200,
+                    2300,
+                    2100
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "camaron al gusto",
+                    "camaron al ajillo",
+                    "pulpo al gusto",
+                    "pescado grille",
+                    "langosta al gusto"
+                ],
+                "sea_food_price": [
+                    2900,
+                    3200,
+                    4800,
+                    2600,
+                    2980
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "frutti de mare",
+                    "al buey",
+                    "pollo al curri",
+                    "vegetales",
+                    "salmon",
+                    "camaron"
+                ],
+                "pasta_price": [
+                    2700,
+                    2200,
+                    2100,
+                    1700,
+                    2950,
+                    2700
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "tarta de la casa"
+                ],
+                "dessert_price": [
+                    700
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza nacional",
+                    "cerveza importada",
+                    "bloddy mary twin",
+                    "michelada street bob",
+                    "martini",
+                    "michelada de la casa",
+                    "mojito",
+                    "jinger mojito",
+                    "mojito anhejo",
+                    "mojito loco",
+                    "mojito de fruta",
+                    "caipi de fruta",
+                    "cuba libre",
+                    "cubata",
+                    "canchanchara",
+                    "daiquiri",
+                    "daiquiri de frutas",
+                    "habana special",
+                    "caipirinha",
+                    "caipiroska",
+                    "caipirissima",
+                    "bloddy mary",
+                    "cubanito",
+                    "margarita",
+                    "sangria",
+                    "pinha colada",
+                    "gin tonic",
+                    "habana club anhejo especial",
+                    "habana club anhejo 3 anhos",
+                    "habana club anhejo reserva",
+                    "habana club anhejo 7 anhos",
+                    "habana club pacto navio",
+                    "habana club seleccion de maestros",
+                    "santiago anhejo",
+                    "santiago anhejo 11 anhos",
+                    "santiago anhejo 12 anhos",
+                    "copa de vino tinto",
+                    "copa de vino blanco",
+                    "whisky clan campell",
+                    "ballantines",
+                    "ballentines 12",
+                    "chivas regal 12",
+                    "chivas regal 18 anhos",
+                    "chivas regal extra",
+                    "jb",
+                    "hamesson",
+                    "jhonny walker black label",
+                    "jhonny walker red label",
+                    "jack daniels"
+                ],
+                "alcohol_price": [
+                    850,
+                    700,
+                    1100,
+                    1400,
+                    1050,
+                    1000,
+                    900,
+                    1050,
+                    1050,
+                    1200,
+                    950,
+                    950,
+                    900,
+                    950,
+                    900,
+                    900,
+                    950,
+                    1000,
+                    900,
+                    900,
+                    900,
+                    950,
+                    900,
+                    1000,
+                    1000,
+                    1050,
+                    1100,
+                    550,
+                    500,
+                    600,
+                    750,
+                    1650,
+                    1600,
+                    1000,
+                    1500,
+                    1550,
+                    900,
+                    900,
+                    1000,
+                    1100,
+                    1200,
+                    1500,
+                    1550,
+                    1550,
+                    1550,
+                    1100,
+                    1500,
+                    1400,
+                    1600
+                ],
+                "infusions_list": [
+                    "cafe espresso",
+                    "cafe cortado",
+                    "cafe con leche",
+                    "cafe capuccino",
+                    "cafe frapuccino",
+                    "te"
+                ],
+                "infusions_price": [
+                    360,
+                    420,
+                    420,
+                    480,
+                    960,
+                    330
+                ],
+                "non_alcoholic_list": [
+                    "pepsi cola",
+                    "sprite",
+                    "jugos naturales",
+                    "limonada",
+                    "limonada de pepino y apio",
+                    "agua natural",
+                    "agua gaseada",
+                    "agua tonica"
+                ],
+                "non_alcoholic_price": [
+                    600,
+                    600,
+                    550,
+                    600,
+                    650,
+                    500,
+                    600,
+                    650
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            " Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

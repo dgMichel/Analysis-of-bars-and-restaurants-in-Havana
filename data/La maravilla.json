@@ -1,0 +1,214 @@
+{
+    "general_info": {
+        "name": "La maravilla",
+        "township": "Habana Vieja",
+        "adress": "El parque cristo",
+        "local": "bar-restaurante",
+        "open": "08:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            "@restaurante_lamaravilla",
+            "https://www.facebook.com/profile.php?id=61558387506677"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas de baicon y queso azul",
+                    "croquetas de pescado",
+                    "tacos de pescado",
+                    "tacos de pollo",
+                    "empanadas",
+                    "pastel de carne y papa"
+                ],
+                "appetizers_price": [
+                    1600,
+                    1000,
+                    3000,
+                    2500,
+                    1200,
+                    1800
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "baguette de jamon y queso",
+                    "baguette de tocino y queso",
+                    "baguette de cerdo"
+                ],
+                "bread_price": [
+                    1600,
+                    1600,
+                    1600
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pollo asado",
+                    "cerdo asado",
+                    "costillas de cerdo",
+                    "ropa vieja",
+                    "solomillo de res"
+                ],
+                "main_price": [
+                    3000,
+                    3800,
+                    3800,
+                    3500,
+                    3500
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "pescado a la malaguenhe"
+                ],
+                "sea_food_price": [
+                    3000
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "granola artesanal"
+                ],
+                "dessert_price": [
+                    1100
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "mojito royal",
+                    "daiquiri frutal/natural",
+                    "margarita frutal/natural",
+                    "canchanchara",
+                    "gin tonic",
+                    "tinto de verano",
+                    "ron collins",
+                    "vodka tonic",
+                    "caipiroska",
+                    "caipirisima",
+                    "caipirinha",
+                    "cuba libre",
+                    "mojito",
+                    "red wine glass",
+                    "white  wine glass",
+                    "sparkling wine glass",
+                    "cerveza"
+                ],
+                "alcohol_price": [
+                    1500,
+                    1200,
+                    1500,
+                    1000,
+                    1500,
+                    1200,
+                    900,
+                    1200,
+                    1000,
+                    1000,
+                    1000,
+                    900,
+                    1200,
+                    700,
+                    600,
+                    950,
+                    300
+                ],
+                "infusions_list": [
+                    "espresso",
+                    "americano",
+                    "capuccino",
+                    "cafe bombon",
+                    "cafe con leche",
+                    "carajillo",
+                    "frappucino"
+                ],
+                "infusions_price": [
+                    350,
+                    350,
+                    550,
+                    650,
+                    550,
+                    600,
+                    750
+                ],
+                "non_alcoholic_list": [
+                    "limonada",
+                    "jugo",
+                    "soda",
+                    "milk shake",
+                    "tea",
+                    "agua"
+                ],
+                "non_alcoholic_price": [
+                    700,
+                    350,
+                    400,
+                    1100,
+                    200,
+                    300
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica en vivo"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

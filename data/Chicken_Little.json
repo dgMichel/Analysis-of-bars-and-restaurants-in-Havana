@@ -1,0 +1,233 @@
+{
+    "general_info": {
+        "name": "Chicken_Little",
+        "township": "Habana del Este",
+        "adress": "5ta. B y 5ta. C, 5B15 e 504",
+        "local": "restaurante",
+        "open": "09:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "ensalada de pollo",
+                    "coctel de camaron",
+                    "coctel de langosta",
+                    "tabla surtida chicken little",
+                    "crudo de pescado",
+                    "sopa de pollo con fideos",
+                    "tostones rellenos",
+                    "tostones rellenos mixtos",
+                    "tapas de pescado",
+                    "tapas mixtas"
+                ],
+                "appetizers_price": [
+                    825,
+                    1300,
+                    1300,
+                    1995,
+                    995,
+                    595,
+                    895,
+                    925,
+                    725,
+                    995
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo grille",
+                    "pollo al ajillo",
+                    "pollo salteado con pinha",
+                    "pollo a la mostaza",
+                    "suprema especial de pollo",
+                    "pollo tropical",
+                    "pollo princesa",
+                    "pollo salteado con vegetales",
+                    "bistec uruguayo",
+                    "bistec de cerdo grille",
+                    "masas fritas",
+                    "masas hawaianas",
+                    "costillas de cerdo fritas"
+                ],
+                "main_price": [
+                    1650,
+                    1795,
+                    1675,
+                    1795,
+                    2150,
+                    2295,
+                    1995,
+                    1795,
+                    2795,
+                    2050,
+                    2395,
+                    2550,
+                    1525
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "camaron grille",
+                    "camaron al ajillo",
+                    "camarones enchilados",
+                    "camarones empanados",
+                    "langosta grille",
+                    "langosta enchilada",
+                    "langosta al ajillo",
+                    "tres delicias",
+                    "gran plato del mar",
+                    "cazuela marinera",
+                    "filete de pescado grille",
+                    "pescado con vegetales",
+                    "dados de pescado al ajillo",
+                    "filete jon ville",
+                    "filete canciller",
+                    "filete costa sur",
+                    "filete princesa"
+                ],
+                "sea_food_price": [
+                    2495,
+                    2595,
+                    2595,
+                    2595,
+                    2595,
+                    2595,
+                    2595,
+                    2900,
+                    3300,
+                    2995,
+                    1995,
+                    2095,
+                    2095,
+                    2795,
+                    2695,
+                    2795,
+                    2395
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "flan de caramelo",
+                    "helados",
+                    "copa lolita"
+                ],
+                "dessert_price": [
+                    325,
+                    450,
+                    550
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "mojito",
+                    "daiquiri",
+                    "cuba libre",
+                    "gin tonic",
+                    "caipirinha",
+                    "caipiroska",
+                    "ron havana club 7 anhos",
+                    "ballantine finest",
+                    "ballantine 12",
+                    "cerveza nacional",
+                    "cerveza corona"
+                ],
+                "alcohol_price": [
+                    395,
+                    400,
+                    450,
+                    525,
+                    375,
+                    650,
+                    325,
+                    800,
+                    600,
+                    345,
+                    495
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "limonada frappe",
+                    "agua nacional",
+                    "agua tonica",
+                    "sodas nacionales",
+                    "sodas importadas",
+                    "malta"
+                ],
+                "non_alcoholic_price": [
+                    650,
+                    250,
+                    250,
+                    325,
+                    350,
+                    400
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Criolla"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

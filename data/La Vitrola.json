@@ -1,0 +1,366 @@
+{
+    "general_info": {
+        "name": "La Vitrola",
+        "township": "Habana Vieja",
+        "adress": "Muralla No.151 e/ San Ignacio y Cuba, Habana Vieja",
+        "local": "bar-restaurante",
+        "open": "08:30",
+        "close": "02:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [
+            "https://www.instagram.com/lavitrolaa?igsh=MWZ3a2E5Y3Exd3BwbQ==",
+            "https://m.facebook.com/lavitrolacuba/"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": true,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "yuca con queso",
+                    "croquetas",
+                    "eperlan",
+                    "albondigas",
+                    "trozos de cerdo frito",
+                    "costilla de cerdo frita",
+                    "tacos de cerdo o pollo",
+                    "tacos de camaron",
+                    "chickpea frita",
+                    "platano relleno frito",
+                    "tamales",
+                    "tamales vitrola",
+                    "vitrola mixta",
+                    "picadera vitrola",
+                    "assorted picadera",
+                    "coctel de camarones",
+                    "ceviche",
+                    "pulpo en gardin/parrilla",
+                    "patacon de la abuela"
+                ],
+                "appetizers_price": [
+                    440,
+                    440,
+                    1730,
+                    720,
+                    1730,
+                    1730,
+                    1040,
+                    1240,
+                    870,
+                    650,
+                    360,
+                    700,
+                    2880,
+                    1730,
+                    1730,
+                    1590,
+                    1880,
+                    3000,
+                    1500
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "vianda frita",
+                    "ensalada de vegetales",
+                    "arroz blanco",
+                    "arroz moro",
+                    "frijoles",
+                    "arroz con vegetales",
+                    "ensalada vitrola",
+                    "ensalada plaza vieja"
+                ],
+                "garnishes_price": [
+                    240,
+                    300,
+                    160,
+                    240,
+                    240,
+                    240,
+                    530,
+                    720
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa de cerdo, pollo o res"
+
+                ],
+                "hamburger_price": [
+                    870
+
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich de pollo",
+                    "sandwich cubano",
+                    "sandwich vitrola",
+                    "sandwich de jamon y queso",
+                    "sandwich de atun",
+                    "brusquetas"
+                ],
+                "bread_price": [
+                    720,
+                    940,
+                    940,
+                    720,
+                    720,
+                    540
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pechuga de pollo a la plancha",
+                    "pollo gordon blue",
+                    "pollo grille",
+                    "bistec uruguayo",
+                    "bistec cerdo encebollado",
+                    "trozos de cerdo frito",
+                    "costilla de cerdo fritas",
+                    "bistec de res",
+                    "vaca frita",
+                    "ropa vieja",
+                    "pinchos de su eleccion",
+                    "fajitas de pollo/cerdo",
+                    "estofado de cordero",
+                    "arroz frito con camarones",
+                    "tres piezas de lomo de cerdo",
+                    "mar y tierra"
+                ],
+                "main_price": [
+                    1160,
+                    1440,
+                    1160,
+                    1440,
+                    1230,
+                    1730,
+                    1730,
+                    2160,
+                    1440,
+                    1440,
+                    1160,
+                    1160,
+                    2600,
+                    1020,
+                    1730,
+                    2600
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado grille/empanizado",
+                    "filete de pescado gouda",
+                    "camarones al gusto",
+                    "pescado frito",
+                    "filete jhon bill",
+                    "filete de pescado monte toro",
+                    "filete de pescado canciller",
+                    "grillada mixta",
+                    "grillada rural"
+                ],
+                "sea_food_price": [
+                    1850,
+                    2100,
+                    1590,
+                    2600,
+                    2400,
+                    2400,
+                    2600,
+                    2160,
+                    2600
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta cuatro quesos",
+                    "pasta alberto",
+                    "pasta bolognesa",
+                    "pasta carbonara",
+                    "pasta puttanesca",
+                    "pasta al pesto",
+                    "pasta de jamon",
+                    "pasta de chorizo",
+                    "pasta al ajo",
+                    "pasta al pomodoro",
+                    "pasta retro",
+                    "pasta al horno",
+                    "pasta amatriciana",
+                    "pasta frutti di mare",
+                    "pasta focaccia",
+                    "brusquetas",
+                    "crema (queso, aurora, virginia, champignon)",
+                    "lasagna",
+                    "canelones"
+                ],
+                "pasta_price": [
+                    2190,
+                    1740,
+                    1900,
+                    1740,
+                    2590,
+                    1740,
+                    1740,
+                    1740,
+                    1560,
+                    1560,
+                    2590,
+                    2590,
+                    1740,
+                    2590,
+                    750,
+                    820,
+                    880,
+                    1740,
+                    1740
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza margarita",
+                    "pizza de jamon viking",
+                    "pizza de jamon pierna",
+                    "pizza de jamon serrano",
+                    "pizza hawaiana",
+                    "pizza de atun",
+                    "pizza cuatro estaciones",
+                    "pizza de salame",
+                    "pizza de cebolla",
+                    "pizza de champignones",
+                    "pizza de calzone",
+                    "pizza de pepperone",
+                    "pizza retro",
+                    "pizza habanera",
+                    "pizza cuatro quesos",
+                    "pizza de camarones",
+                    "pizza mixta",
+                    "pizza de sardina",
+                    "pizza de langosta"
+                ],
+                "pizza_price": [
+                    1250,
+                    1650,
+                    1900,
+                    2500,
+                    1750,
+                    1750,
+                    1750,
+                    1900,
+                    1350,
+                    1750,
+                    1750,
+                    1750,
+                    2500,
+                    3000,
+                    1900,
+                    2250,
+                    2500,
+                    1500,
+                    3750
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza dispensada",
+                    "cerveza importada",
+                    "jarra de cerveza dispensada",
+                    "michelada nacional",
+                    "michelada importada"
+                ],
+                "alcohol_price": [
+                    180,
+                    350,
+                    350,
+                    340,
+                    540
+                ],
+                "infusions_list": [
+                    "expresso",
+                    "americano",
+                    "cafe cortado",
+                    "cafe con leche",
+                    "capuccino"
+                ],
+                "infusions_price": [
+                    240,
+                    240,
+                    300,
+                    300,
+                    390
+                ],
+                "non_alcoholic_list": [
+                    "chocolate con leche",
+                    "aguaa nacional",
+                    "refresco nacional",
+                    "refresco importado",
+                    "refresco dispensado",
+                    "malta",
+                    "malta impotada",
+                    "limonada",
+                    "jugos naturales",
+                    "batido de frutas",
+                    "batido de helado"
+                ],
+                "non_alcoholic_price": [
+                    390,
+                    390,
+                    400,
+                    400,
+                    250,
+                    400,
+                    400,
+                    390,
+                    240,
+                    450,
+                    540
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": false,
+        "bathroom": null,
+        "heated": null
+    }
+}

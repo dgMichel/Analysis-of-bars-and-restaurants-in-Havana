@@ -1,0 +1,203 @@
+{
+    "general_info": {
+        "name": "Dona Carmela",
+        "township": "Habana del Este",
+        "adress": "Casa #10, Comunidad 1, Complejo Morro Cabana, Via Monumental",
+        "local": "bar-restaurante",
+        "open": "12:00",
+        "close": "23:00",
+        "days_of_week": [],
+        "sector": "privado",
+        "capability": 25,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "frituras de malanga y miel",
+                    "croquetas de la casa",
+                    "caldo de pescado",
+                    "caldo de pollo",
+                    "caldo de mariscos",
+                    "coctel de camarones",
+                    "coctel de pescado",
+                    "pulpitos para picar"
+                ],
+                "appetizers_price": [
+                    600,
+                    600,
+                    600,
+                    600,
+                    700,
+                    1000,
+                    900,
+                    1200
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "arroz moro",
+                    "ensalada mixta",
+                    "frijoles negros",
+                    "yuca"
+                ],
+                "garnishes_price": [
+                    300,
+                    300,
+                    300,
+                    300,
+                    300
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo asado",
+                    "pollo frito",
+                    "bistec de cerdo encebollado",
+                    "costillas fritas",
+                    "milanesa de cerdo",
+                    "ropa vieja de cerdo",
+                    "combinacion Carmela",
+                    "cordero al gusto"
+                ],
+                "main_price": [
+                    1800,
+                    1800,
+                    2200,
+                    2400,
+                    2500,
+                    2200,
+                    4000,
+                    3000
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado grille",
+                    "filete de pescado gratinado",
+                    "camaron al ajillo",
+                    "camaron a la criolla",
+                    "pulpo al ajillo",
+                    "pulpo a la criolla",
+                    "langosta al gusto",
+                    "mariscada"
+                ],
+                "sea_food_price": [
+                    2200,
+                    2400,
+                    2500,
+                    2500,
+                    2700,
+                    2700,
+                    6000,
+                    6000
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "postre del dia"
+                ],
+                "dessert_price": [
+                    1000
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza",
+                    "mojito natural",
+                    "mojito de la casa",
+                    "cuba libre",
+                    "sangria",
+                    "cubata",
+                    "pinna colada",
+                    "daiquiri natural",
+                    "daiquiri"
+                ],
+                "alcohol_price": [
+                    500,
+                    700,
+                    900,
+                    700,
+                    800,
+                    700,
+                    900,
+                    700,
+                    800
+                ],
+                "infusions_list": [
+                    "cafe capuccino",
+                    "cafe cortado",
+                    "cafe expreso",
+                    "cafe con leche"
+                ],
+                "infusions_price": [
+                    350,
+                    250,
+                    200,
+                    300
+                ],
+                "non_alcoholic_list": [
+                    "refrescos nacionales",
+                    "refrescos importados",
+                    "agua natural de 500ml",
+                    "agua natural de 1500ml"
+                ],
+                "non_alcoholic_price": [
+                    350,
+                    350,
+                    250,
+                    600
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Cocina criolla"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

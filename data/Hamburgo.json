@@ -1,0 +1,178 @@
+{
+    "general_info": {
+        "name": "Hamburgo",
+        "township": "Centro Habana",
+        "adress": null,
+        "local": "restaurante",
+        "open": "09:00",
+        "close": "19:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            false,
+            false
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "queso gouda (50g)",
+                    "jamon bravo (50g)",
+                    "jamon serrano (50g)",
+                    "aceitunas (50g)",
+                    "vegetales encurtidos (50g)",
+                    "papas fritas (50g)",
+                    "papas fritas (100g)"
+                ],
+                "garnishes_price": [
+                    150,
+                    120,
+                    250,
+                    120,
+                    80,
+                    75,
+                    150
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa de cerdo (220g)",
+                    "hamburguesa de res (220g)",
+                    "hamburguesa vegetal con aderezos (235g)",
+                    "super hamburguesa (435g)"
+                ],
+                "hamburger_price": [
+                    275,
+                    275,
+                    300,
+                    550
+                ]
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [
+                    "cafe espresso",
+                    "doble espresso",
+                    "descafeinado",
+                    "cafe americano",
+                    "cafe cortado",
+                    "capuchino",
+                    "cafe con leche",
+                    "cafe con hielo",
+                    "cafe americano con leche",
+                    "cafe bombon",
+                    "cafe carajillo",
+                    "cafe brasilenho",
+                    "cafe espanhol",
+                    "cafe irlandes",
+                    "cafe frances",
+                    "frapuchino",
+                    "chocolate frio",
+                    "chocolate caliente",
+                    "batido de helado",
+                    "te negro",
+                    "te rojo",
+                    "te verde",
+                    "infusion de hierba buena o albahaca"
+                ],
+                "infusions_price": [
+                    300,
+                    600,
+                    480,
+                    450,
+                    450,
+                    600,
+                    600,
+                    450,
+                    750,
+                    900,
+                    750,
+                    1050,
+                    1050,
+                    1050,
+                    1050,
+                    1050,
+                    1050,
+                    1050,
+                    1200,
+                    450,
+                    540,
+                    540,
+                    300
+                ],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "americana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,250 @@
+{
+    "general_info": {
+        "name": "5ta Billar",
+        "township": "Regla",
+        "adress": "Avenida Rotaria entre Enlace y A",
+        "local": "restaurante",
+        "open": "13:00",
+        "close": "01:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "cacahuete picante",
+                    "tostones rellenos j&g",
+                    "tostones rellenos de atun",
+                    "tostones rellenos de carne",
+                    "croquetas bola 9",
+                    "bolita de queso",
+                    "fajitas de pollo",
+                    "eperlan",
+                    "entremes",
+                    "surtido 5tabilla",
+                    "surtido premium",
+                    "rositas de maiz",
+                    "tacos de cerdo"
+                ],
+                "appetizers_price": [
+                    110,
+                    750,
+                    980,
+                    900,
+                    650,
+                    850,
+                    920,
+                    950,
+                    960,
+                    1650,
+                    2950,
+                    600,
+                    950
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo a la gordon blue",
+                    "bistec de pollo encebollado",
+                    "baby chicken",
+                    "kings chicken",
+                    "uruguayo de cerdo",
+                    "bistec de pollo encebollado",
+                    "bistec de cerdo encebollado",
+                    "brochetas de cerdo al carbon",
+                    "lomo de cerdo al carbon",
+                    "chorizada al carbon",
+                    "la parrillada"
+                ],
+                "main_price": [
+                    1800,
+                    1600,
+                    960,
+                    1350,
+                    2100,
+                    1600,
+                    1900,
+                    1800,
+                    1800,
+                    2000,
+                    4950
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [
+                    "focaccia",
+                    "pizza napolitana",
+                    "pizza mixta",
+                    "pizza cuatro estaciones"
+                ],
+                "pizza_price": [
+                    700,
+                    1100,
+                    1600,
+                    1900
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cervezas nacionales",
+                    "cerveza corona",
+                    "cerveza importada",
+                    "margarita",
+                    "margarita blue",
+                    "tequila sunrise",
+                    "medusa",
+                    "servicio chelada",
+                    "servicio michelada",
+                    "jagger bomb",
+                    "mojito corona",
+                    "corona sunrise",
+                    "sangria",
+                    "jarra de sangria",
+                    "alexander",
+                    "eclipse",
+                    "mai tai",
+                    "orgasmo",
+                    "aperol sprits",
+                    "italian sunset",
+                    "mimosa"
+                ],
+                "alcohol_price": [
+                    400,
+                    600,
+                    320,
+                    400,
+                    400,
+                    400,
+                    650,
+                    450,
+                    350,
+                    1200,
+                    900,
+                    800,
+                    760,
+                    3720,
+                    1000,
+                    1020,
+                    550,
+                    1080,
+                    1650,
+                    780,
+                    1500
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "malteada",
+                    "san francisco",
+                    "refresco",
+                    "malta",
+                    "red bull",
+                    "agua natural",
+                    "kermato",
+                    "tigon",
+                    "jugo",
+                    "limonada frappe",
+                    "limonada frappe curacao",
+                    "limonada frappe granadina",
+                    "limonada frappe melocoton",
+                    "limonada frappe menta",
+                    "limonada frappe mora",
+                    "limonada frappe naranja",
+                    "limonada frescura (hierbabuena)",
+                    "limonada frappe pinha",
+                    "limonada frappe tropical blue"
+                ],
+                "non_alcoholic_price": [
+                    250,
+                    350,
+                    340,
+                    400,
+                    750,
+                    220,
+                    680,
+                    400,
+                    230,
+                    300,
+                    350,
+                    380,
+                    400,
+                    380,
+                    380,
+                    470,
+                    350,
+                    350,
+                    350
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variado"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica grabada",
+            "Billar"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

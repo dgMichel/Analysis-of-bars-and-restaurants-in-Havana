@@ -1,0 +1,172 @@
+{
+    "general_info": {
+        "name": "Ivonne cafe",
+        "township": "Centro Habana",
+        "adress": "San Lazaro entre Espada y Hospital",
+        "local": "bar-restaurante",
+        "open": "09:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espagueti blanco",
+                    "espagueti gouda"
+                ],
+                "pasta_price": [
+                    700,
+                    850
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza  queso blanco",
+                    "pizza grande queso blanco",
+                    "pizza pequenha gouda",
+                    "pizza grande gouda"
+                ],
+                "pizza_price": [
+                    350,
+                    500,
+                    600,
+                    850
+                ]
+            },
+            "adds": {
+                "adds_list": [
+                    "cebolla",
+                    "jamon",
+                    "aceituna"
+                ],
+                "adds_price": [
+                    200,
+                    200,
+                    200
+                ]
+            },
+            "dessert": {
+                "dessert_list": [
+                    "tartaleta",
+                    "donut",
+                    "coffee cake",
+                    "empanada",
+                    "cangrejitos",
+                    "rollitos",
+                    "pasteles",
+                    "cakes"
+                ],
+                "dessert_price": [
+                    350,
+                    170,
+                    160,
+                    250,
+                    250,
+                    200,
+                    100,
+                    4500
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cervezas"
+                ],
+                "alcohol_price": [
+                    300
+                ],
+                "infusions_list": [
+                    "expreso",
+                    "cortado",
+                    "con leche",
+                    "americano",
+                    "capuchino",
+                    "bombon",
+                    "frapuccino"
+                ],
+                "infusions_price": [
+                    100,
+                    150,
+                    100,
+                    100,
+                    300,
+                    300,
+                    750
+                ],
+                "non_alcoholic_list": [
+                    "aguas",
+                    "refrescos",
+                    "limonada frappe",
+                    "batido helado",
+                    "batido fruta"
+                ],
+                "non_alcoholic_price": [
+                    250,
+                    250,
+                    850,
+                    850,
+                    550
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

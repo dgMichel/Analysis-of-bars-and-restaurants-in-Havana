@@ -1,0 +1,271 @@
+{
+    "general_info": {
+        "name": "Guang zhou",
+        "township": "Centro Habana",
+        "adress": "Cuchillo entre San Nicolas y Rayo",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "arroz frito",
+                    "arroz moro",
+                    "arroz frito especial",
+                    "arroz frito familiar",
+                    "chao mian (fideos fritos)",
+                    "chop suey de pollo",
+                    "chop suey de cerdo",
+                    "chop suey de vegetales",
+                    "viandas fritas del dia",
+                    "yuca con mojo",
+                    "ensalada mixta"
+                ],
+                "garnishes_price": [
+                    315,
+                    1710,
+                    415,
+                    2110,
+                    2970,
+                    900,
+                    1700,
+                    1900,
+                    800,
+                    300,
+                    250,
+                    300
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo a la plancha",
+                    "pollo grille",
+                    "cerdo a la plancha",
+                    "cerdo grille",
+                    "res a la plancha"
+                ],
+                "main_price": [
+                    1800,
+                    1500,
+                    2000,
+                    1650,
+                    2100
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "cazuela de mariscos",
+                    "marisco a la plancha",
+                    "pescado a la plancha",
+                    "pescado grille"
+                ],
+                "sea_food_price": [
+                    5575,
+                    3100,
+                    2100,
+                    1500
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espaguetis napolitanos"
+                ],
+                "pasta_price": [
+                    1080
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana con queso blanco",
+                    "pizza napolitana con queso gouda"
+                ],
+                "pizza_price": [
+                    1150,
+                    1250
+                ]
+            },
+            "adds": {
+                "adds_list": [
+                    "tomate natural",
+                    "pimiento",
+                    "cebolla",
+                    "pinha",
+                    "jamon",
+                    "chorizo",
+                    "bacon",
+                    "champinhones",
+                    "aceitunas",
+                    "atun",
+                    "queso blanco",
+                    "marisco",
+                    "jamon serrano"
+                ],
+                "adds_price": [
+                    200,
+                    200,
+                    200,
+                    200,
+                    450,
+                    300,
+                    300,
+                    300,
+                    250,
+                    500,
+                    250,
+                    750,
+                    500
+                ]
+            },
+            
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "havana club 3 anhos",
+                    "havana club especial",
+                    "havana club reserva",
+                    "havana club 7 anhos",
+                    "whisky",
+                    "vodka",
+                    "tequila blanco",
+                    "tequila reposado",
+                    "ginebra",
+                    "vino tinto",
+                    "vino blanco",
+                    "cerveza nacional",
+                    "cerveza importada",
+                    "michelada ",
+                    "mojito",
+                    "cuba libre",
+                    "ron collins",
+                    "daiquiri frappe",
+                    "pinha colada",
+                    "cubata",
+                    "sangria",
+                    "gin tonic",
+                    "margarita",
+                    "caipirinha",
+                    "caipiroska"
+                ],
+                "alcohol_price": [
+                    350,
+                    250,
+                    400,
+                    450,
+                    400,
+                    500,
+                    500,
+                    500,
+                    500,
+                    500,
+                    500,
+                    385,
+                    300,
+                    200,
+                    400,
+                    400,
+                    400,
+                    400,
+                    600,
+                    400,
+                    600,
+                    550,
+                    550,
+                    450,
+                    550
+                ],
+                "infusions_list": [
+                    "cafe expreso",
+                    "cafe americano",
+                    "cafe cortado",
+                    "cafe capsula",
+                    "te"
+                ],
+                "infusions_price": [
+                    100,
+                    150,
+                    150,
+                    300,
+                    60
+                ],
+                "non_alcoholic_list": [
+                    "kermato (jugo de tomate)",
+                    "refresco nacional",
+                    "refresco importado",
+                    "malta",
+                    "malteada (malta con leche)",
+                    "agua",
+                    "agua 1.5l",
+                    "jugo natural",
+                    "jugo en conserva"
+                ],
+                "non_alcoholic_price": [
+                    200,
+                    350,
+                    350,
+                    400,
+                    550,
+                    190,
+                    280,
+                    325,
+                    350
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Comida China"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

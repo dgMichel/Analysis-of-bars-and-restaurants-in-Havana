@@ -1,0 +1,139 @@
+{
+    "general_info": {
+        "name": "El rapido",
+        "township": "Cerro",
+        "adress": "Cruz del Pader entre Pedrosa y Amenidares",
+        "local": "cafeteria",
+        "open": "07:30",
+        "close": "19:30",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas",
+                    "papas fritas"
+                ],
+                "appetizers_price": [
+                    300,
+                    360
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa de cerdo",
+                    "hamburguesa de res"
+                ],
+                "hamburger_price": [
+                    620,
+                    720
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "pan con tortilla",
+                    "pan con tortilla , jamon",
+                    "pan con tortilla, chorizo",
+                    "pan con tortilla, cebolla",
+                    "pan con tortilla , queso gouda",
+                    "sandwich cubano",
+                    "pan con bitec de cerdo"
+                ],
+                "bread_price": [
+                    300,
+                    360,
+                    360,
+                    360,
+                    400,
+                    860,
+                    750
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pollo chiflado"
+                ],
+                "main_price": [
+                    750
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espaguetis",
+                    "espaguetis napolitano",
+                    "espaguetis de chorizo"
+                ],
+                "pasta_price": [
+                    850,
+                    380,
+                    1000
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,390 @@
+{
+    "general_info": {
+        "name": "El biky",
+        "township": "Centro Habana",
+        "adress": "Infanta No412 e/ San Lazaro y Concordia",
+        "local": "bar-restaurante",
+        "open": "08:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+           
+            "appetizers": {
+                "appetizers_list": [
+                    "croqueticas de la casa",
+                    "frituras de malanga",
+                    "tostones rellenos de jamon",
+                    "tostones rellenos de ropa vieja",
+                    "tostones rellenos mixtos",
+                    "tostones rellenos de atun",
+                    "sandwich de jamon en pan baguette (con viandas fritas)",
+                    "sandwich de queso en pan baguette (con viandas fritas)",
+                    "sandwich de jamon y queso en pan baguette (con viandas fritas)",
+                    "baguette con lomo de cerdo (con viandas fritas)",
+                    "baguette de atun",
+                    "baguette catalana (jamon serrano con viandas fritas)",
+                    "baguette de pollo (pechuga de pollo con viandas fritas)",
+                    "baguette cubano (cerdo asado, jamon ahumado y queso)",
+                    "pepito de filete de res (filete de res con vegetales y viandas fritas)",
+                    "hamburguesa de carne (res) con vegetales y vianda frita",
+                    "cheeseburger (res) con queso, vegetales y vianda frita",
+                    "hamburguesa especial (res) con jamon, queso, bacon y vegetales",
+                    "crema de queso",
+                    "crema reina",
+                    "crema aurora",
+                    "crema virginia",
+                    "cazuela de garbanzos",
+                    "surtido de quesos",
+                    "pimientos piquillos rellenos (queso crema, atun y vegetales)",
+                    "entremes de jamon serrano"
+                ],
+                "appetizers_price": [
+                    700,
+                    500,
+                    2000,
+                    2200,
+                    2200,
+                    2200,
+                    700,
+                    1400,
+                    1200,
+                    3500,
+                    1900,
+                    1800,
+                    1900,
+                    1393,
+                    5000,
+                    2740,
+                    2950,
+                    3700,
+                    850,
+                    850,
+                    850,
+                    850,
+                    2100,
+                    2200,
+                    1950,
+                    2000
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "ensalada de vegetales, vegetales de estacion",
+                    "ensalada mixta vegetal (queso, atun, huevo y cebolla)",
+                    "ensalada fria de pasta (de la casa) italiana",
+                    "racion de arroz blanco",
+                    "racion de arroz mongol",
+                    "ensalada verde",
+                    "papas fritas",
+                    "pure de malanga"
+                ],
+                "garnishes_price": [
+                    1000,
+                    2300,
+                    900,
+                    140,
+                    180,
+                    200,
+                    1300,
+                    650
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "fajitas de pollo",
+                    "pollo grille",
+                    "gorden blue",
+                    "lomo de cerdo grille",
+                    "masas de cerdo fritas",
+                    "chuleta de cerdo frita",
+                    "escalope de cerdo",
+                    "bistec de cerdo a la plancha",
+                    "carpaccio de res",
+                    "solomillo de res"
+                ],
+                "main_price": [
+                    1300,
+                    1800,
+                    2400,
+                    3500,
+                    2800,
+                    2300,
+                    3900,
+                    3500,
+                    3800,
+                    6800
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "esperlan de langosta",
+                    "ceviche de camarones",
+                    "coctel de camarones en salsa rosa",
+                    "carpaccio de pulpo aderezado de aceite extra virgen de olivas",
+                    "zalzuela de mariscos",
+                    "pulpo",
+                    "ceviche de pescado",
+                    "esperlan de pescado",
+                    "filete de pescado",
+                    "filete de salmon",
+                    "rosa de salmon ahumado"
+                ],
+                "sea_food_price": [
+                    2900,
+                    2800,
+                    2400,
+                    2300,
+                    6000,
+                    5800,
+                    2650,
+                    1300,
+                    3000,
+                    5500,
+                    4100
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espaguetis a la carbonara",
+                    "espaguetis con jamon y queso",
+                    "espaguetis napolitanos",
+                    "espaguetis bolognesa",
+                    "espaguetis con atun",
+                    "lasanha bolognesa"
+                ],
+                "pasta_price": [
+                    3000,
+                    1250,
+                    970,
+                    2500,
+                    2400,
+                    3800
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza de queso"
+                ],
+                "pizza_price": [
+                    1300
+                ]
+            },
+            "adds": {
+                "adds_list": [
+                    "racion de jamon",
+                    "racion de pimientos",
+                    "racion de bacon",
+                    "racion de queso gouda",
+                    "racion de salsa bolonhesa",
+                    "racion de aceitunas",
+                    "racion de champinhones",
+                    "racion de jamon serrano",
+                    "racion de atun",
+                    "racion de camaron",
+                    "racion de chorizo vela",
+                    "racion queso parmesano"
+                ],
+                "adds_price": [
+                    350,
+                    250,
+                    1300,
+                    750,
+                    1100,
+                    400,
+                    400,
+                    1100,
+                    1600,
+                    2150,
+                    2000,
+                    950
+                ]
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "flan de caramelo",
+                    "cheesecake",
+                    "bizcocho con helado",
+                    "copa tres leches",
+                    "pie de limon",
+                    "helado sencillo",
+                    "jimaguas",
+                    "tres gracias",
+                    "copa lolita (helado con flan)",
+                    "ensalada de helado",
+                    "batido de helado",
+                    "suero de helado"
+                ],
+                "dessert_price": [
+                    400,
+                    920,
+                    720,
+                    960,
+                    1100,
+                    420,
+                    740,
+                    680,
+                    860,
+                    900,
+                    850,
+                    970
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "ron collis",
+                    "limonada clarete",
+                    "sangria",
+                    "cuba libre",
+                    "mary pickford",
+                    "cuba bella",
+                    "majto",
+                    "daiquiri rebelde",
+                    "havana special",
+                    "b-52",
+                    "pinha colada",
+                    "bloody mary",
+                    "manhattan",
+                    "cantharchars",
+                    "martini",
+                    "colada",
+                    "miami vice",
+                    "virgin maria",
+                    "47's frozen",
+                    "cervezas",
+                    "jarra de cerveza",
+                    "vaso de cerveza",
+                    "copa de vino",
+                    "copa de vino digestivo dulce (50ml)",
+                    "michelada",
+                    "chelada"
+                ],
+                "alcohol_price": [
+                    750,
+                    2000,
+                    750,
+                    1800,
+                    750,
+                    750,
+                    750,
+                    750,
+                    750,
+                    800,
+                    1000,
+                    800,
+                    900,
+                    750,
+                    800,
+                    400,
+                    400,
+                    400,
+                    400,
+                    1200,
+                    400,
+                    350,
+                    1500,
+                    1200,
+                    250,
+                    200
+                ],
+                "infusions_list": [
+                    "cafe expreso",
+                    "cafe americano",
+                    "cafe cortado",
+                    "cafe con leche",
+                    "cafe carajillo",
+                    "cafe bombon",
+                    "capuchino",
+                    "te"
+                ],
+                "infusions_price": [
+                    170,
+                    170,
+                    200,
+                    270,
+                    400,
+                    400,
+                    310,
+                    150
+                ],
+                "non_alcoholic_list": [
+                    "san francisco",
+                    "agua gaseosa importada",
+                    "agua natural sin gas",
+                    "agua tonica",
+                    "refrescos",
+                    "malta",
+                    "red bull",
+                    "kermato",
+                    "limonada",
+                    "limonada fresca",
+                    "jugos de frutas naturales",
+                    "batidos de frutas naturales",
+                    "vaso de leche"
+                ],
+                "non_alcoholic_price": [
+                    400,
+                    550,
+                    440,
+                    1000,
+                    550,
+                    650,
+                    1200,
+                    1200,
+                    720,
+                    850,
+                    500,
+                    600,
+                    200
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Comida Caribenha"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,358 @@
+{
+    "general_info": {
+        "name": "Finca La Pinta",
+        "township": "La Lisa",
+        "adress": "",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "22:00",
+        "days_of_week": [],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": null,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "Croquetas de la Casa",
+                    "Frituras de Malanga",
+                    "Tostones rellenos con ropa vieja",
+                    "Eperlan de Pescado",
+                    "Coctel de Camarones",
+                    "Sopa de Cebolla Francesa",
+                    "Ceviche Tropical",
+                    "Coctel de Langostas",
+                    "Garbanzos Fritos",
+                    "Ensalada de Pollo con Vegetales",
+                    "Tartar de atun rojo",
+                    "Queso Provolone al horno",
+                    "Calamares fritos rebozados",
+                    "Tabla espanola",
+                    "Crema de Queso",
+                    "Crema Aurora",
+                    "Crema de Champinones",
+                    "Crema Virginia"    
+                ],
+                "appetizers_price": [
+                    600,
+                    600,
+                    800,
+                    1000,
+                    1000,
+                    1000,
+                    1100,
+                    1200,
+                    1500,
+                    1800,
+                    2500,
+                    2500,
+                    3500,
+                    5000,
+                    650,
+                    650,
+                    700,
+                    700    
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "Ensalada de vegetales",
+                    "ensalada De la Finca",
+                    "caprese"    
+                ],
+                "garnishes_price": [
+                    500,
+                    1200,
+                    2000    
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "Chuletillas de cordero con salsa chimichurri",
+                    "Delmonico Steak con mantequilla de ajo",
+                    "Tomahawk Steak",
+                    "Risotto Parmesano",
+                    "Risotto Funghi porcini",
+                    "Risotto negro con camarones",
+                    "risotto al queso azul",
+                    "Risotto de Mariscos",
+                    "Masas de cerdo fritas",
+                    "Fricase de cerdo a la camagueyana",
+                    "Costillas de cerdo",
+                    "Solomillo de Cerdo en salsa",
+                    "Pechuga de Pollo gratinada con jamon y queso",
+                    "Vaca frita",
+                    "Ropa vieja a la cubana",
+                    "Estofado de ternera",
+                    "Tasajo Montevideo",
+                    "Bistec de palomilla",
+                    "Chuleta de ternera",
+                    "Costilla de res a la parrilla",
+                    "Filete de rinonada",
+                    "Rabo encendido cubano",
+                    "Churrasco con salsa chimichurri",
+                    "Tournedo de ternera",
+                    "Ribeye con salsa BBQ",
+                    "Ossobuco en salsa de Vino tinto",
+                    "T-Bone Steak a la Parrilla",
+                    "Cowboy Ribeye Steak",
+                    "Chilindron de cordero al vino",
+                    "Cordero Steak a la parrilla"
+                ],
+                "main_price": [
+                    4000,
+                    4200,
+                    8500,
+                    19200,
+                    1500,
+                    2200,
+                    2500,
+                    3500,
+                    5000,
+                    1800,
+                    2000,
+                    3000,
+                    3500,
+                    2000,
+                    1500,
+                    1700,
+                    2000,
+                    3500,
+                    3500,
+                    3500,
+                    3800,
+                    4500,
+                    4500,
+                    4500,
+                    5000,
+                    5000,
+                    5000,
+                    7000,
+                    9000,
+                    3500
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "Rodaballo en salsa de hinojo",
+                    "Arroz con Mariscos",
+                    "Tesoros del Caribe",
+                    "Medallon de atun sellado con ajonjoli negro",
+                    "Filete de Salmon en salsa de limon y vinagre balsamico",
+                    "Langosta al cafe del chef Gilberto Smith",
+                    "Filete de Pescado Grille",
+                    "Enchilado de Camarones",
+                    "Camarones a la parrilla",
+                    "Camarones al ajillo",
+                    "Pulpo mulato",
+                    "Tataki de atun rojo con sesamo",
+                    "Enchilada de langosta",
+                    "Cola de langosta a la mariposa",
+                    "Pescado La Pinta",
+                    "Langosta Thermidor",
+                    "Camarones Franceses sobre linguini",
+                    "Pescado Frances sobre Linguini",
+                    "Bacalao a la gallega",
+                    "Langosta La Pinta",
+                    "Calderata de Cangrejos moros",
+                    "Cazuela de mariscos"
+    
+                ],
+                "sea_food_price": [
+                    4000,
+                    4200,
+                    7000,
+                    2500,
+                    4000,
+                    4000,
+                    2000,
+                    2000,
+                    2000,
+                    2200,
+                    2500,
+                    3000,
+                    3000,
+                    3200,
+                    3500,
+                    3500,
+                    3500,
+                    3500,
+                    3500,
+                    3500,
+                    3500,
+                    4000
+    
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "Espaguetis a la Carbonara",
+                    "Pasta Alla Routa",
+                    "Pasta alla routa burrata"
+    
+                ],
+                "pasta_price": [
+                    2000,
+                    2000,
+                    3000
+    
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "Pizza de la Finca",
+                    "Pizza loncheada de Peperoni"
+    
+                ],
+                "pizza_price": [
+                    4000,
+                    1600
+    
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+
+            "dessert": {
+                "dessert_list": [
+                    "Pastel de Hojaldre",
+                    "Roscas rellenas de Nutella",
+                    "Roscas de Frambuesas",
+                    "Pastel de Limon",
+                    "Lonjas de Caramelo",
+                    "Lonjas de fresa",
+                    "Copa de Tiramisu",
+                    "pastel de Chocolate",
+                    "Jarra Tres Leches",
+                    "cheesecake",
+                    "tartaleta de limon",
+                    "Torrejas con helado de vainilla"    
+                ],
+                "dessert_price": [
+                    120,
+                    260,
+                    260,
+                    550,
+                    550,
+                    550,
+                    600,
+                    600,
+                    600,
+                    600,
+                    600,
+                    600    
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "Jarra de Cerveza",
+                    "Cerveza Stella Arcoiris",
+                    "Cerveza Cristal",
+                    "Cerveza Bucanero",
+                    "Cerveza Cristal Extra",
+                    "Cerveza Corona"    
+                ],
+                "alcohol_price": [
+                    300,
+                    750,
+                    400,
+                    400,
+                    400,
+                    750    
+                ],
+                "infusions_list": [
+                    "Expresso",
+                    "Macchiato",
+                    "Americano",
+                    "Capuccino",
+                    "Latte",
+                    "Moka",
+                    "Bombon",
+                    "Macchiato Nutella",
+                    "Moka blanco",
+                    "Macchiato de vainilla francesa",
+                    "Macchiato de caramelo",
+                    "Macchiato de avellana",
+                    "Chocolate Mexicano Frappuccino",
+                    "Frapuccino Moka Blanco y Negro"  
+                ],
+                "infusions_price": [
+                    250,
+                    300,
+                    300,
+                    350,
+                    350,
+                    400,
+                    450,
+                    600,
+                    600,
+                    600,
+                    600,
+                    600,
+                    800,
+                    850    
+                ],
+                "non_alcoholic_list": [
+                    "Refresco Ciego Montero",
+                    "Malta",
+                    "coca-cola",
+                    "Fanta",
+                    "Sprite",
+                    "Pepsi cola",
+                    "Seven-up",
+                    "Bebida Energizante",
+                    "Malteada"    
+                ],
+                "non_alcoholic_price": [
+                    280,
+                    320,
+                    450,
+                    450,
+                    450,
+                    450,
+                    450,
+                    350,
+                    800    
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Caribbean"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

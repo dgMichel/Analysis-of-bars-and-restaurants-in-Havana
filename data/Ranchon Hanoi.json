@@ -1,0 +1,263 @@
+{
+    "general_info": {
+        "name": "Ranchon Hanoi",
+        "township": "Habana del Este",
+        "adress": "Parque Hanoi, zona 6, Alamar",
+        "local": "restaurante",
+        "open": "12:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "dados de jamon",
+                    "dados de queso gouda",
+                    "entremes de jamon y queso gouda",
+                    "entremes de chorizo y queso gouda",
+                    "entremes surtido",
+                    "coctel de camaron",
+                    "coctel de langosta",
+                    "ensalada fria de jamon",
+                    "ensalada fria de atun",
+                    "vianda frita",
+                    "croquetas de la casa",
+                    "baston de pollo",
+                    "eperlan de pescado",
+                    "toston con mojo criollo",
+                    "toston estilo ranchon",
+                    "toston relleno con jamon y queso gouda"
+                ],
+                "appetizers_price": [
+                    300,
+                    450,
+                    700,
+                    700,
+                    1200,
+                    950,
+                    950,
+                    360,
+                    400,
+                    250,
+                    300,
+                    500,
+                    900,
+                    250,
+                    580,
+                    600
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "arroz congri",
+                    "vianda hervida",
+                    "ensalada de estacion"
+                ],
+                "garnishes_price": [
+                    100,
+                    150,
+                    150,
+                    150
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "bistec de pollo al queso",
+                    "pollo san carlos con jamon gratinado con queso",
+                    "pollo al gusto",
+                    "bistec de cerdo",
+                    "fajitas de cerdo",
+                    "bistec de cerdo napado con queso",
+                    "bistec de cerdo a la princesa",
+                    "fricase de cerdo",
+                    "masas de cerdo fritas",
+                    "lomo de cerdo ahumado",
+                    "higado de res a la italiana",
+                    "ropa vieja",
+                    "fricase de cordero"
+                ],
+                "main_price": [
+                    1690,
+                    1850,
+                    1000,
+                    1350,
+                    1350,
+                    1700,
+                    1950,
+                    1500,
+                    1450,
+                    1450,
+                    900,
+                    1100,
+                    1650
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "todo mar",
+                    "langosta grille",
+                    "enchilado de langosta",
+                    "camaron grille",
+                    "enchilado de camaron",
+                    "filete de pescado",
+                    "ruedas de pescado",
+                    "filete de pescado gratinado al queso",
+                    "filete de pescado john bill",
+                    "eperlan de pescado",
+                    "pescado entero",
+                    "mar y tierra"
+                ],
+                "sea_food_price": [
+                    2600,
+                    1800,
+                    1900,
+                    1800,
+                    1900,
+                    1700,
+                    1650,
+                    1950,
+                    2400,
+                    1800,
+                    1500,
+                    2300
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espaghettis napolitanos"
+                ],
+                "pasta_price": [
+                    650
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana"
+                ],
+                "pizza_price": [
+                    700
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "flan",
+                    "copa lolita de helado",
+                    "jimaguas de helado",
+                    "3 gracias",
+                    "ensalada de helado"
+                ],
+                "dessert_price": [
+                    250,
+                    425,
+                    200,
+                    270,
+                    400
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cuba libre",
+                    "cubata",
+                    "mojito",
+                    "ron coffin",
+                    "mary pickfor",
+                    "habana especial",
+                    "daiquiri",
+                    "daiquiri rebelde",
+                    "pina colada",
+                    "caipirina",
+                    "caipiroska",
+                    "caipirisima",
+                    "michelada",
+                    "chelada",
+                    "sangria",
+                    "tinto verano"
+                ],
+                "alcohol_price": [
+                    380,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    350,
+                    380,
+                    500,
+                    350,
+                    350,
+                    350,
+                    500,
+                    400,
+                    500,
+                    500
+                ],
+                "infusions_list": [
+                    "cafe cortadito",
+                    "cafe expreso"
+                ],
+                "infusions_price": [
+                    250,
+                    100
+                ],
+                "non_alcoholic_list": [
+                    "limonada clarete"
+                ],
+                "non_alcoholic_price": [
+                    500
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Comida mixta"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

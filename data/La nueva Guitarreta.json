@@ -1,0 +1,273 @@
+{
+    "general_info": {
+        "name": "La nueva Guitarreta",
+        "township": "Regla",
+        "adress": "Loredo",
+        "local": "restaurante",
+        "open": "08:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "picadera de jamon, chorizo, queso gouda, aceitunas, papas fritas",
+                    "picadera mini jamon, chorizo, queso gouda, aceitunas",
+                    "picadera guitarron jamon, chorizo, queso gouda, aceitunas, frituras de malanga,fajitas de pollo,chips de boniato",
+                    "maripositas chinas",
+                    "croquetas bechamel",
+                    "croquetas de la abuela",
+                    "papas fritas con ketchup y qg",
+                    "papas fritas con ketchup",
+                    "fajitas de pollo",
+                    "bolitas de queso g",
+                    "tostones rellenos qb",
+                    "tostones rellenos qg"
+                ],
+                "appetizers_price": [
+                    850,
+                    550,
+                    3000,
+                    400,
+                    650,
+                    350,
+                    650,
+                    500,
+                    800,
+                    700,
+                    600,
+                    750
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz frito",
+                    "arroz frito especial",
+                    "tacos de pollo",
+                    "tacos de res",
+                    "tostones rellenos qb",
+                    "tostones rellenos qg",
+                    "yuca con mojo",
+                    "ensalda de estacion"
+                ],
+                "garnishes_price": [
+                    1500,
+                    1800,
+                    750,
+                    1350,
+                    600,
+                    750,
+                    250,
+                    150
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pechuga empanada",
+                    "pechuga grille",
+                    "pechuga milanesa",
+                    "pechuga princesa",
+                    "fajitas de pollo",
+                    "ropa vieja"
+                ],
+                "main_price": [
+                    1500,
+                    1350,
+                    1600,
+                    1750,
+                    800,
+                    1750
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "lasagna",
+                    "espaguetis de queso blanco",
+                    "espaguetis de queso gouda"
+                ],
+                "pasta_price": [
+                    1350,
+                    500,
+                    650
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza de queso blanco",
+                    "pizza de queso gouda",
+                    "pizza hawaiana qb",
+                    "pizza hawaiana qg"
+                ],
+                "pizza_price": [
+                    700,
+                    950,
+                    1000,
+                    1250
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "pinha colada",
+                    "cerveza importada",
+                    "cerveza nacional",
+                    "pantera rosa",
+                    "sangria",
+                    "tinto verano",
+                    "long island",
+                    "screwdriver",
+                    "gin tonic basic",
+                    "gin tonic con beefeater",
+                    "vodkatonic",
+                    "cuba libre",
+                    "cubata",
+                    "pocion guitarreta",
+                    "ron hav club anhejo especial",
+                    "ron hav club anhejo 7 anhos",
+                    "crema tequila de fresa",
+                    "crema de ron rua vieja",
+                    "whisky ballantines",
+                    "whisky jameson",
+                    "whisky chivas regal",
+                    "whisky jb",
+                    "whisky chanceler",
+                    "shot tequila olmeca silver",
+                    "shot jagermeifter",
+                    "copa de vino tinto semidulce",
+                    "copa de vino tinto merlot",
+                    "copa de vino tinto cabernet sauvignon",
+                    "copa de vino tinto tempranillo",
+                    "copa de vino blanco",
+                    "michelada",
+                    "chelada",
+                    "caipiroska",
+                    "caipirisima"
+                ],
+                "alcohol_price": [
+                    600,
+                    220,
+                    285,
+                    650,
+                    400,
+                    350,
+                    700,
+                    300,
+                    450,
+                    600,
+                    450,
+                    250,
+                    350,
+                    500,
+                    300,
+                    350,
+                    400,
+                    450,
+                    600,
+                    550,
+                    700,
+                    450,
+                    200,
+                    400,
+                    450,
+                    350,
+                    400,
+                    450,
+                    675,
+                    350,
+                    250,
+                    150,
+                    450,
+                    450
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "agua natural importada",
+                    "refresco de cola importado",
+                    "refresco de cola importado pepsi",
+                    "refresco de limon importado 7up",
+                    "refresco de naranja imp fanta",
+                    "refresco de naranja importado",
+                    "refresco mate",
+                    "malta nacional bucanero",
+                    "energizante importado",
+                    "energizante red bull",
+                    "limonada frape",
+                    "suero de helado",
+                    "pinha colada virgen"
+                ],
+                "non_alcoholic_price": [
+                    200,
+                    220,
+                    260,
+                    270,
+                    260,
+                    260,
+                    280,
+                    300,
+                    400,
+                    500,
+                    290,
+                    350,
+                    500
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "general_info": {
+        "name": "RicarDon",
+        "township": "Centro Habana",
+        "adress": null,
+        "local": "restaurante",
+        "open": "12:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "RicarDon",
+            "@restaurantericardon"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas de chorizo (10 un)",
+                    "tostones rellenos con jamon y queso (50g jamon, 30g queso)",
+                    "tacos de camaron (200g)",
+                    "tacos de cerdo y res (65g cerdo y 65g res)",
+                    "tacos de pollo (125g)",
+                    "ceviche estilo ricardo",
+                    "coctel de langosta (150g)",
+                    "quesadillas de jamon y queso (75g cada uno)",
+                    "empanadillas de queso con mermelada de guayaba",
+                    "tacos de pollo en salsa pico de gallo (125)",
+                    "brusquetas de jamon y queso (50g jamon y 30g queso)",
+                    "frituras de malanga",
+                    "tapas de salmon con queso crema y uvas pasas (60g)",
+                    "tostones rellenos de ropa vieja de cerdo (100g)"
+                ],
+                "appetizers_price": [
+                    970,
+                    600,
+                    1800,
+                    1100,
+                    1100,
+                    1350,
+                    1000,
+                    750,
+                    950,
+                    1250,
+                    875,
+                    500,
+                    1125,
+                    1000
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "boniato frito",
+                    "arroz blanco",
+                    "tostones al ajo",
+                    "arroz moro",
+                    "tostones naturales",
+                    "vegetales salteados al estilo del chef",
+                    "baguette de jamon y queso",
+                    "baguette de atun y vegetales",
+                    "arroz marinero"
+                ],
+                "garnishes_price": [
+                    200,
+                    210,
+                    350,
+                    310,
+                    300,
+                    150,
+                    1150,
+                    975,
+                    3350
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "baston de pollo empanado (280g)",
+                    "brochetas de pollo con pinha (280g)",
+                    "brochetas de pollo (280g)",
+                    "pollo a la crema con jamon serrano (280g)",
+                    "fajitas de pollo a la campesina (280g)",
+                    "pollo gorden blue (280g y 45g jamon y queso)",
+                    "pollo grille en salsa de cebolla (280g)",
+                    "pollo grille basado en salsa barbecue (250g)",
+                    "alondridas de cerdo en salsa criolla (210g)",
+                    "montado de pollo jamon y queso (280c pollo y jamon y queso)",
+                    "pollo asado",
+                    "pollo entero relleno 2500gr (ordenar minimo 4 horas de antelacion)",
+                    "brochetas de cerdo con pinha (280g)",
+                    "ropa vieja de cerdo sin salsa de tomate (170g)",
+                    "ropa vieja de cerdo con salsa de tomate (170g)",
+                    "bistec de cerdo gratinado con jamon y queso (280g y 45g jamon y queso)",
+                    "lomo de cerdo deshuesado con mojo criollo (280g)",
+                    "lomo ahumado agridulce (280g)",
+                    "lomo ahumado al graten (280)",
+                    "lomo ahumado grille (280g)",
+                    "lomo ahumado en salsa barbacoa (280g)",
+                    "ribeye de wagyu de res",
+                    "ribeye angus",
+                    "wagyu new york strip",
+                    "ropa vieja de res sin salsa de tomate (170g)",
+                    "dados de res estofado (250g)",
+                    "ropa vieja de res con salsa de tomate (170g)",
+                    "new york strip angus",
+                    "sirloin con salsa espanhola",
+                    "estofado de cordero al vino tinto (250g)",
+                    "chilindron de cordero (250g)"
+                ],
+                "main_price": [
+                    2200,
+                    2025,
+                    2000,
+                    2250,
+                    2500,
+                    3000,
+                    2250,
+                    1700,
+                    1500,
+                    2500,
+                    2300,
+                    10000,
+                    2100,
+                    1900,
+                    2000,
+                    2400,
+                    2200,
+                    2250,
+                    2200,
+                    2000,
+                    2250,
+                    14000,
+                    9000,
+                    13750,
+                    2500,
+                    2600,
+                    2700,
+                    8400,
+                    12000,
+                    2250,
+                    2400
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "camaron en salsa de crema de queso y albahaca",
+                    "camaron thermidor",
+                    "langosta grille c/ m d hotel (350g)",
+                    "enchilado de pulpo (250g)",
+                    "pescado marinero (280g pescado y 60g camaron)",
+                    "camaron empanado (250g)",
+                    "camarones enchilados (250g)",
+                    "zarzuela marinera (150g de cada producto)",
+                    "pescado relleno con salmon",
+                    "filete de salmon (350g)",
+                    "pescado del dia (280g)",
+                    "pescado salvaje",
+                    "fajitas de pescado en mirepoix de vegetales (280g)",
+                    "pescado grille c/ m d hotel (280g)",
+                    "filete de pescado empanado (200g)",
+                    "dados de pescado en salsa cubana (200g)",
+                    "pescado joinville (280g pescado y 50g de camaron)"
+                ],
+                "sea_food_price": [
+                    3300,
+                    2500,
+                    2500,
+                    4000,
+                    3000,
+                    2500,
+                    2800,
+                    4900,
+                    3200,
+                    2500,
+                    2625,
+                    2800,
+                    2300,
+                    2500,
+                    2500,
+                    2500,
+                    3700
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "spaghetti napoles con queso gouda",
+                    "spaghetti con jamon y queso gouda",
+                    "spaghetti camarones",
+                    "spaghetti en salsa blanca cremosa con parmesano y...",
+                    "spaghetti con atun",
+                    "spaghetti en salsa cremosa de salmon ahumado",
+                    "spaghetti carbonara"
+                ],
+                "pasta_price": [
+                    1200,
+                    1700,
+                    2200,
+                    1900,
+                    2000,
+                    2300,
+                    2500
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza de serrano",
+                    "pizza de camarones",
+                    "pizza de atun",
+                    "pizza de cebolla",
+                    "pizza de chorizo vela",
+                    "pizza de jamon",
+                    "pizza napolitana",
+                    "pizza de aji y cebolla",
+                    "pizza al pesto",
+                    "pizza 4 queso",
+                    "pizza a la carbonara"
+                ],
+                "pizza_price": [
+                    1950,
+                    2000,
+                    1550,
+                    1100,
+                    2000,
+                    1450,
+                    1100,
+                    1200,
+                    1100,
+                    2000,
+                    2500
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "flan al caramelo",
+                    "eclair de crema y chocolate (1 unidad)",
+                    "cake de chocolate (porcion)",
+                    "dulce de papaya",
+                    "dulce coco del abuelo"
+                ],
+                "dessert_price": [
+                    350,
+                    850,
+                    1000,
+                    275,
+                    250
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza corona",
+                    "cerveza cristal",
+                    "cerveza stella de botella",
+                    "cerveza heineken (botella)",
+                    "cerveza presidente light",
+                    "cerveza presidente",
+                    "cerveza modelo superior",
+                    "vb frontera chardonnay (botella)",
+                    "vb frontera sauvignon blanc (botella)",
+                    "vt frontera c 3/4 (botella)",
+                    "vt frontera merlot (botella)"
+                ],
+                "alcohol_price": [
+                    600,
+                    440,
+                    660,
+                    600,
+                    550,
+                    600,
+                    600,
+                    2650,
+                    2400,
+                    2600,
+                    2400
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "agua gaseada",
+                    "agua natural buonaso ml",
+                    "agua tonica (mg)",
+                    "malta importada turbo malta",
+                    "refresco santa de naranja",
+                    "refresco 7 up",
+                    "refresco importado pepsi cola (lata)",
+                    "jugo kermato"
+                ],
+                "non_alcoholic_price": [
+                    600,
+                    280,
+                    750,
+                    425,
+                    450,
+                    450,
+                    450,
+                    750
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "caribenha",
+            "latina",
+            "mediterranea",
+            "cubana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

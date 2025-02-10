@@ -1,0 +1,199 @@
+{
+    "general_info": {
+        "name": "Cafe Del angel",
+        "township": "Habana Vieja",
+        "adress": "Chacon #201, Esquina Cuarteles y compostela",
+        "local": "restaurante",
+        "open": "08:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": true,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas serrano",
+                    "rillete de cerdo",
+                    "tacos de cerdo",
+                    "mixto de brusquetas",
+                    "tacos de camarones",
+                    "empanadillas de cerdo",
+                    "tabla charcuteria",
+                    "huevos & pesto",
+                    "del angel",
+                    "croissant madame",
+                    "omelette al queso",
+                    "americano",
+                    "pancakes",
+                    "continental",
+                    "bagel mordico",
+                    "yogurt parfait",
+                    "bagel catalan"
+                ],
+                "appetizers_price": [
+                    1480,
+                    1500,
+                    2200,
+                    2200,
+                    2380,
+                    1400,
+                    4000,
+                    2400,
+                    2500,
+                    2500,
+                    1630,
+                    2400,
+                    1700,
+                    1600,
+                    2450,
+                    1360,
+                    2450
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "ensalada del angel"
+                ],
+                "garnishes_price": [
+                    2340
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa de res"
+                ],
+                "hamburger_price": [
+                    3200
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich de atun",
+                    "sandwich de vegetales",
+                    "sandwich cubano",
+                    "baguette de jamon y queso",
+                    "bocata catalana"
+                ],
+                "bread_price": [
+                    1530,
+                    1530,
+                    2600,
+                    1600,
+                    2400
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pollo mediterraneo",
+                    "solomillo de cerdo",
+                    "costillas de cerdo",
+                    "ropa vieja"
+                ],
+                "main_price": [
+                    2340,
+                    4200,
+                    4950,
+                    3580
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "pescado a la siciliana",
+                    "langosta caribenha"
+                ],
+                "sea_food_price": [
+                    3580,
+                    5400
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espaguetti pomodoro",
+                    "ragu de cordero",
+                    "ravioli carbonara",
+                    "espaguetti al pesto",
+                    "rigatoni amatriciana",
+                    "espaguetti altamar"
+                ],
+                "pasta_price": [
+                    1880,
+                    3450,
+                    3200,
+                    2200,
+                    3200,
+                    3450
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "mousse de chocolate",
+                    "esfera de maracuya",
+                    "arroz con leche",
+                    "dados de guayaba"
+                ],
+                "dessert_price": [
+                    1925,
+                    1925,
+                    1500,
+                    1500
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

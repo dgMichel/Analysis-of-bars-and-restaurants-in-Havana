@@ -1,0 +1,149 @@
+{
+    "general_info": {
+        "name": "FoodTruck Pelegrin",
+        "township": "Playa",
+        "adress": "Calle 76 / 3ra y 5ta, Miramar Trade Center",
+        "local": "restaurante",
+        "open": "08:00",
+        "close": "21:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "@food_truck_pelegrin"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "bolitas de queso",
+                    "papas fritas",
+                    "croquetas",
+                    "sandwich jamon y queso",
+                    "sandwich atun",
+                    "sandwich cubano",
+                    "sandwich pelegrin",
+                    "sandwich pechuga",
+                    "perro caliente",
+                    "palomitas",
+                    "waffles",
+                    "desayuno"
+                ],
+                "appetizers_price": [
+                    850,
+                    600,
+                    700,
+                    750,
+                    850,
+                    1200,
+                    1300,
+                    2500,
+                    750,
+                    850,
+                    700,
+                    1250
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [
+                    "expresso",
+                    "cortado",
+                    "capuchino",
+                    "cafe bombon",
+                    "frapuchino",
+                    "carajillo",
+                    "leche fria"
+                ],
+                "infusions_price": [
+                    150,
+                    250,
+                    400,
+                    450,
+                    550,
+                    350,
+                    370
+                ],
+                "non_alcoholic_list": [
+                    "jugos"
+                ],
+                "non_alcoholic_price": [
+                    270
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "cubana",
+            "internacional"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": false,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "general_info": {
+        "name": "Juanky's Pan",
+        "township": "La Lisa",
+        "adress": "",
+        "local": "cafeteria",
+        "open": "11:00",
+        "close": "22:00",
+        "days_of_week": [],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": null,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "Croquetas de Jamon",
+                    "Entremes de Jamon y Queso",
+                    "Huevos Rotos",
+                    "Mixto de Maria",
+                    "Punetazos de Cerdo c/ Queso",
+                    "Punetazos de Cerdo c/ Queso y Bacon",
+                    "Punetazos de cerdo c/ Bacon",
+                    "Tacos de Ropa Vieja de Carnero",
+                    "Tacos de Ropa Vieja de Cerdo"
+        
+                ],
+                "appetizers_price": [
+                    570,
+                    765,
+                    905,
+                    2200,
+                    895,
+                    1030,
+                    955,
+                    2055,
+                    1400 
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "Hamburguesa A Caballo de Cerdo",
+                    "Big Cheese BUrger de Cerdo",
+                    "Big Tasty Cerdo",
+                    "Hanburguesa de Cerdo con Atun",
+                    "Hamburguesa de Cerdo con Bacon",
+                    "Hamburguesa de Cerdo con Jamon y Queso",
+                    "Doble Hamburguesa de Cerdo",
+                    "Hamburguesa de Cerdo de Doble queso",
+                    "Hamburguesa Don JUan Cerdo",
+                    "Hamburguesa Don Pascual Cerdo",
+                    "Especial de Cerdo",
+                    "Hamburguesa Guajira de Cerdo",
+                    "Juanky's Combo de Cerdo con Queso + Jugo",
+                    "Mix sin Pan de Cerdo",
+                    "Pina Caramelo de Cerdo",
+                    "Premium de Champinon Cerdo",
+                    "Hamburguesa Sencilla de Cerdo",
+                    "Hamburguesa Taquena de Cerdo",
+                    "Juankymon",
+                    "Media Noche",
+                    "Media Noche sin queso"    
+                ],
+                "hamburger_price": [
+                    733,
+                    890,
+                    870,
+                    1000,
+                    995,
+                    1000,
+                    1050,
+                    895,
+                    1130,
+                    1375,
+                    800,
+                    2715,
+                    1094,
+                    830,
+                    1055,
+                    730,
+                    838,
+                    230,
+                    594,
+                    454,
+                    760    
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "Sandwich de Atun",
+                    "Sandwich de Queso",
+                    "Sandwich Hawaiano"    
+                ],
+                "bread_price": [
+                    780,
+                    560,
+                    1360    
+                ]
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "Espaguetis de Bacon con Queso",
+                    "Espaguetis Base",
+                    "Espaguetis con carne de Cerdo",
+                    "Espaguetis de Chorizo con Queso",
+                    "Espaguetis de Jamon con queso"    
+                ],
+                "pasta_price": [
+                    470,
+                    1195,
+                    1390,
+                    695,
+                    985    
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "Cerveza Stella",
+                    "Caipirisima",
+                    "Caipiroska",
+                    "Caipiroska Absolut",
+                    "Caipiroska c/ Cirok",
+                    "Cuba Libre",
+                    "Cubanito",
+                    "Cubata c/ 7 anos",
+                    "cubata c/ especial",
+                    "cubata c/ Reserva",
+                    "Gin Tonic",
+                    "Gin Tonic Beefeater",
+                    "Gin Tonic c/ Tanqueray",
+                    "sangria",
+                    "Screwdriver",
+                    "Screwdriver Absolut",
+                    "Vodka Tonic",
+                    "Vodka Tonic Absolut",
+                    "Copa de Vino Tinto",
+                    "Copa de Vino Tinto Yzaguirre Vermouth",
+                    "Jagger",
+                    "Ron Anejo 7 Anos",
+                    "Ron Anejo Especial",
+                    "Ron Anejo Reserva",
+                    "Ron Seleccion de Maestros",
+                    "Tequila Don Julio Reposado",
+                    "Tequila Silver Los Corrales",
+                    "Whisky Ballentines",
+                    "Whisky Chivas Regal",
+                    "Whisky J&B",
+                    "Whisky Jack Daniels Black Label",
+                    "Whisky Jack Daniels Honey",
+                    "Whisky Jameson",
+                    "Whisky JW Black Label",
+                    "Whisky JW Red Label",
+                    "Whisky Old Partner",
+                    "Whisky Spirit Speech"    
+                ],
+                "alcohol_price": [
+                    510,
+                    600,
+                    520,
+                    680,
+                    950,
+                    530,
+                    420,
+                    600,
+                    695,
+                    580,
+                    795,
+                    940,
+                    990,
+                    600,
+                    500,
+                    780,
+                    850,
+                    1200,
+                    460,
+                    450,
+                    350,
+                    250,
+                    175,
+                    195,
+                    830,
+                    1400,
+                    380,
+                    450,
+                    790,
+                    350,
+                    495,
+                    380,
+                    575,
+                    940,
+                    470,
+                    200,
+                    200    
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "jugo de Fruta Bomba",
+                    "Jugo de Guayaba",
+                    "Liminada",
+                    "Jugo de Melon",
+                    "Jugo de PLatano",
+                    "Batido de Helado",
+                    "Batido de Fruta Bomba",
+                    "Batido de Guayaba",
+                    "Helado Montado",
+                    "Suero de Helado",
+                    "Belga Star",
+                    "Refresco de Cola",
+                    "Refresco de Limon",
+                    "Refresco de Naranja"    
+                ],
+                "non_alcoholic_price": [
+                    185,
+                    185,
+                    415,
+                    185,
+                    185,
+                    850,
+                    300,
+                    300,
+                    580,
+                    950,
+                    300,
+                    300,
+                    300,
+                    300    
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Snack Food"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

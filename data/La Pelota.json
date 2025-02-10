@@ -1,0 +1,140 @@
+{
+    "general_info": {
+        "name": "La Pelota",
+        "township": "Plaza de la Revolucion",
+        "adress": "Esquina 23 y 12",
+        "local": "bar",
+        "open": "09:45",
+        "close": "21:45",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "chicharron 58g",
+                    "croqueta 36g",
+                    "entrante de jamon"
+                ],
+                "appetizers_price": [
+                    120,
+                    150,
+                    300
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz moro",
+                    "vianda hervida"
+                ],
+                "garnishes_price": [
+                    100,
+                    40
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo grille",
+                    "pollo asado",
+                    "bistec de cerdo",
+                    "masa de cerdo frita",
+                    "costilla de credo frito",
+                    "picadillo"
+                ],
+                "main_price": [
+                    550,
+                    550,
+                    600,
+                    600,
+                    600,
+                    250
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza importada"
+                ],
+                "alcohol_price": [
+                    200
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "energizante",
+                    "refresco de cola",
+                    "jugo de frutas"
+                ],
+                "non_alcoholic_price": [
+                    200,
+                    190,
+                    180
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Criolla"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

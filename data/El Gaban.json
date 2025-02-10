@@ -1,0 +1,268 @@
+{
+    "general_info": {
+        "name": "El Gaban",
+        "township": "Playa",
+        "adress": " Ave 1ra Esq. 46, Miramar",
+        "local": "bar-restaurante",
+        "open": "12:00",
+        "close": "00:30",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "El Gaban la 14 restaurante",
+            "@elgaban_oficial"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "crema de vegetales",
+                    "croquetones a la amatriciana",
+                    "croquetones de iberico",
+                    "tartar de res con maracuya",
+                    "tabla mixta",
+                    "carpaccio de res",
+                    "tartar de langosta"
+                ],
+                "appetizers_price": [
+                    2400,
+                    3000,
+                    3600,
+                    4500,
+                    5400,
+                    6000,
+                    6000
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "pure de malanga",
+                    "papas al horno",
+                    "vegetales salteados",
+                    "arroz pilaf"
+                ],
+                "garnishes_price": [
+                    1800,
+                    1800,
+                    1800,
+                    2400
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "mignon",
+                    "ribeye"
+                ],
+                "main_price": [
+                    8400,
+                    8400
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "pesca blanca",
+                    "pesca azul"
+                ],
+                "sea_food_price": [
+                    7500,
+                    7500
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "nnoquis",
+                    "raviolis mariscos",
+                    "risotto rosa",
+                    "risotto al coco"
+                ],
+                "pasta_price": [
+                    3600,
+                    4500,
+                    5400,
+                    6000
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza new york",
+                    "pizza de bolonia"
+                ],
+                "pizza_price": [
+                    6000,
+                    5400
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "brownie blanco",
+                    "paulova",
+                    "arroz con leche",
+                    "postre con helado"
+                ],
+                "dessert_price": [
+                    1800,
+                    1800,
+                    1800,
+                    1800
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza de botella",
+                    "copa de vino (espumoso, tinto o blanco)",
+                    "grinch",
+                    "mohana",
+                    "mojito de frutas",
+                    "pinna colada",
+                    "rossini",
+                    "negroni chocolate",
+                    "bellini",
+                    "garibaldi",
+                    "mi to",
+                    "negroni g",
+                    "aperol spritz",
+                    "spritz",
+                    "campari spritz",
+                    "daiquiri",
+                    "canchanchara",
+                    "mojito",
+                    "cubanito",
+                    "caipirisima",
+                    "margarita",
+                    "sangria",
+                    "caipiroska",
+                    "moscow mule",
+                    "fernet con cola",
+                    "vodka tonic",
+                    "caipirinha",
+                    "bloody mary",
+                    "amaretto sour",
+                    "old fashioned",
+                    "new york whisky sour",
+                    "expresso martini"
+                ],
+                "alcohol_price": [
+                    1600,
+                    1800,
+                    1600,
+                    1600,
+                    1600,
+                    1600,
+                    2500,
+                    2500,
+                    2500,
+                    2500,
+                    2500,
+                    2500,
+                    2500,
+                    2500,
+                    2500,
+                    2000,
+                    2000,
+                    2000,
+                    2000,
+                    2000,
+                    2500,
+                    2500,
+                    2500,
+                    2500,
+                    2500,
+                    2500,
+                    2500,
+                    2500,
+                    2500,
+                    2500,
+                    2500,
+                    1500
+                ],
+                "infusions_list": [
+                    "cafe",
+                    "frapuccino",
+                    "carajillo",
+                    "te",
+                    "infusiones"
+                ],
+                "infusions_price": [
+                    800,
+                    1500,
+                    1500,
+                    800,
+                    800
+                ],
+                "non_alcoholic_list": [
+                    "agua tonica",
+                    "agua san pellegrino",
+                    "agua natural",
+                    "agua panna",
+                    "agua con gas",
+                    "refresco",
+                    "malta",
+                    "energizante",
+                    "kermato",
+                    "limonada frappe/natural"
+                ],
+                "non_alcoholic_price": [
+                    1500,
+                    1600,
+                    1600,
+                    1600,
+                    1600,
+                    1000,
+                    1000,
+                    1500,
+                    1600,
+                    1600
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "internacional"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

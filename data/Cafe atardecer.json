@@ -1,0 +1,144 @@
+{
+    "general_info": {
+        "name": "Cafe atardecer",
+        "township": "Regla",
+        "adress": "Marti entre Albuquerque y perdomo",
+        "local": "cafeteria",
+        "open": "08:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [],
+                "appetizers_price": []
+            },
+            "garnishes": {
+                "garnishes_list": [
+                ],
+                "garnishes_price": [
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "pan con croqueta",
+                    "pan con medallon",
+                    "pan con queso",
+                    "pan con perro",
+                    "pan con jamon y queso"
+                ],
+                "bread_price": [
+                    75,
+                    90,
+                    90,
+                    120,
+                    150
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "empanada",
+                    "fajitas",
+                    "escalope",
+                    "fajitas",
+                    "fricase"
+                ],
+                "main_price": [
+                    450,
+                    450,
+                    480,
+                    480,
+                    380
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "pescado empanado"
+                ],
+                "sea_food_price": [
+                    320
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espaghetti napolitano",
+                    "espaguetti de jamon"
+                ],
+                "pasta_price": [
+                    250,
+                    300
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [
+                    "cafe"
+                ],
+                "infusions_price": [
+                    15
+                ],
+                "non_alcoholic_list": [
+                    "refresco"
+                ],
+                "non_alcoholic_price": [
+                    20
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Criolla"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

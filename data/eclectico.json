@@ -1,0 +1,235 @@
+{
+    "general_info": {
+        "name": "Eclectico",
+        "township": "Plaza de la Revolucion",
+        "adress": "Avenida paseo",
+        "local": "restaurante",
+        "open": "06:30",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "tempura de mariscos y pescado",
+                    "tabla de charcuteria y quesos",
+                    "carpaccio de res con perlas de trufa, escamas de parmesamo, aceite de oliva extra virgen y avellanas tostadas",
+                    "tabla de quesos",
+                    "ensalada eclectico con vegetales de estacion, fruta tropical, queso fresco de cabra y aceitunas negras"
+                ],
+                "appetizers_price": [
+                    4800,
+                    6400,
+                    5540,
+                    3840,
+                    2880
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa de solomillo de res con papas asadas"
+                ],
+                "hamburger_price": [
+                    6720
+                ]
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "entrecot de ternera con papas fondat y zanahorias glaseadas"
+
+                ],
+                "main_price": [
+                    11520
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "pescado del dia con rissoto rosado, salsa verde y zanahorias glaseadas",
+                    "tataki de atun aleta negra en semilla de sesamo con salsa teriyaki y risotto de mar y tierra"
+                ],
+                "sea_food_price": [
+                    6080,
+                    6720
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espaguetti con calamar",
+                    "fettucine con cangrejo y tomate cherry",
+                    "fettucine con langosta y tomate cherry",
+                    "rigatoni con ragout de res",
+                    "espaguetti a la carbonara",
+                    "rissotto de hongos porcini, perejil y parmesano"
+                ],
+                "pasta_price": [
+                    5120,
+                    5120,
+                    5120,
+                    3840,
+                    4480,
+                    7040
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "cheescake de parmesano",
+                    "tiramisu eclectico",
+                    "gelato italiano"
+                ],
+                "dessert_price": [
+                    2560,
+                    1600,
+                    1920
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "the haze",
+                    "tropical daiquiri",
+                    "eclectico sling",
+                    "black dog",
+                    "havana purple",
+                    "havana pink",
+                    "havana rainbow",
+                    "negroni",
+                    "old fashioned",
+                    "manhattan",
+                    "el presidente",
+                    "hemingway daiquiri",
+                    "mary pickford",
+                    "mojito",
+                    "aperol spritz",
+                    "campari spritz",
+                    "campari soda",
+                    "campari orange",
+                    "pinha colada",
+                    "dry martini",
+                    "caipirinha",
+                    "caipiroska",
+                    "ron collins",
+                    "sangria",
+                    "margarita",
+                    "catalan sangria",
+                    "tinto verano",
+                    "vodka tonic",
+                    "blue lagoon",
+                    "ron santiago de cuba 11 anhos",
+                    "ron santiago de cuba 12 anhos",
+                    "vigia reserva 18 anhos",
+                    "cubat extra viejo",
+                    "cubay extra anhejo",
+                    "havana club profundo",
+                    "havana club especial",
+                    "havana club reserva",
+                    "havana club 7 anhos",
+                    "ron santiago de cuba 8 anhos",
+                    "cerveza cristal"
+                ],
+                "alcohol_price": [
+                    1200,
+                    1000,
+                    1000,
+                    1000,
+                    700,
+                    700,
+                    700,
+                    2250,
+                    1500,
+                    1800,
+                    1500,
+                    1500,
+                    1500,
+                    1250,
+                    2500,
+                    2500,
+                    2000,
+                    2000,
+                    1500,
+                    1500,
+                    1300,
+                    1300,
+                    1100,
+                    1500,
+                    1300,
+                    1500,
+                    1200,
+                    1500,
+                    1100,
+                    1600,
+                    2000,
+                    5000,
+                    5000,
+                    5000,
+                    700,
+                    700,
+                    800,
+                    1200,
+                    1400,
+                    550
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Italiana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica en vivo los jueves"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "general_info": {
+        "name": "Bohio_Mercadito",
+        "township": "Plaza de la Revolucion",
+        "adress": "Calle 19 / 12 y 10, Vedado",
+        "local": "cafeteria",
+        "open": "10:00",
+        "close": "21:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "@bohio_mercadito"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croissant nutella",
+                    "croissant jamon y queso",
+                    "mini croissants chocolate",
+                    "dona chocolate"
+                ],
+                "appetizers_price": [
+                    800,
+                    900,
+                    150,
+                    250
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "baguette jamon y queso"
+                ],
+                "bread_price": [
+                    700
+                ]
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [
+                    "capuchino",
+                    "expresso",
+                    "cortado",
+                    "bombon",
+                    "affogato",
+                    "frappuccino"
+                ],
+                "infusions_price": [
+                    250,
+                    100,
+                    150,
+                    250,
+                    500,
+                    500
+                ],
+                "non_alcoholic_list": [
+                    "frutos del bosque/platano",
+                    "mango",
+                    "frutabomba"
+                ],
+                "non_alcoholic_price": [
+                    600,
+                    500,
+                    500
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Bar",
+            "Americana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "A la carta"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

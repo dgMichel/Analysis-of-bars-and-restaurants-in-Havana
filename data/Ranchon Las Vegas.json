@@ -1,0 +1,272 @@
+{
+    "general_info": {
+        "name": "Ranchon Las Vegas",
+        "township": "Boyero",
+        "adress": "Calle 409 % 182 & Avenida Independencia, Santiago de las Vegas",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": false,
+        "tips_included": false,
+        "delivery": false,
+        "online_reservations": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "brusquetas de serrano y queso",
+                    "montaditos de cerdo",
+                    "papas fritas",
+                    "patacon de cerdo",
+                    "croquetas rancho",
+                    "papas fritas y chorizos",
+                    "tamal en cazuela",
+                    "tacos de pollo",
+                    "tacos de cerdo",
+                    "tabla de queso",
+                    "tabla de serrano, quesos y frutos secos",
+                    "la tranka"
+                ],
+                "appetizers_price": [
+                    600,
+                    700,
+                    800,
+                    900,
+                    1000,
+                    1000,
+                    1000,
+                    1100,
+                    1200,
+                    1900,
+                    2000,
+                    2500
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "arroz moro",
+                    "ensalada de estacion",
+                    "pure del dia",
+                    "verduras grilladas"
+                ],
+                "garnishes_price": [
+                    300,
+                    350,
+                    350,
+                    350,
+                    400
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa clasica"
+                ],
+                "hamburger_price": [
+                    800
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "bagutte guajiro",
+                    "sandwich cubano"
+                ],
+                "bread_price": [
+                    1300,
+                    1500
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pollo grille al carbon",
+                    "brochetas de pollo",
+                    "bistec de cerdo",
+                    "cerdo asado",
+                    "lomo ahumado",
+                    "uruguayo",
+                    "brocheta de cerdo",
+                    "costillas bbq",
+                    "fricase de cerdo",
+                    "ropa vieja de res",
+                    "vaca frita",
+                    "entrecot",
+                    "steak new york",
+                    "steak ribeye",
+                    "super fish + copa de vino"
+                ],
+                "main_price": [
+                    1600,
+                    1800,
+                    1600,
+                    1800,
+                    1900,
+                    2200,
+                    2200,
+                    2500,
+                    2500,
+                    1800,
+                    1800,
+                    5000,
+                    6000,
+                    6500,
+                    4500
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "enchilado de cangrejo",
+                    "enchilado de camaron",
+                    "pescado 1 pax",
+                    "atun de aleta amarilla"
+                ],
+                "sea_food_price": [
+                    2200,
+                    2500,
+                    2500,
+                    7000
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "helado",
+                    "flan",
+                    "copa lolita"
+                ],
+                "dessert_price": [
+                    450,
+                    450,
+                    850
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "Cuba Libre",
+                    "Caipirinna",
+                    "Caipiroska",
+                    "Caipirisima",
+                    "Mojito",
+                    "Daiquiri",
+                    "Pinna Colada",
+                    "Bloody Mary",
+                    "Tinto de Verano",
+                    "Sangria",
+                    "Cubanito",
+                    "Margarita",
+                    "Cerveza Importada",
+                    "Cheladas",
+                    "Cristal",
+                    "Micheladas",
+                    "Cristal de Botella",
+                    "Corona",
+                    "Cerveza Modelo",
+                    "Vino Blanco",
+                    "Vino Tinto"
+                ],
+                "alcohol_price": [
+                    750,
+                    750,
+                    750,
+                    750,
+                    750,
+                    800,
+                    900,
+                    900,
+                    900,
+                    900,
+                    900,
+                    1250,
+                    250,
+                    300,
+                    350,
+                    400,
+                    450,
+                    600,
+                    700,
+                    700,
+                    700
+                ],
+                "infusions_list": [
+                    "cafe"
+                ],
+                "infusions_price": [
+                    350
+                ],
+                "non_alcoholic_list": [
+                    "pinna colada virgen",
+                    "energizante importado",
+                    "agua natural",
+                    "refresco cola",
+                    "refresco limon",
+                    "refresco naranja",
+                    "pinna",
+                    "jugos",
+                    "coca cola",
+                    "sprite",
+                    "malta",
+                    "malta bucanero",
+                    "pepsi cola"
+                ],
+                "non_alcoholic_price": [
+                    800,
+                    400,
+                    200,
+                    250,
+                    250,
+                    250,
+                    250,
+                    250,
+                    350,
+                    350,
+                    300,
+                    350,
+                    350
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

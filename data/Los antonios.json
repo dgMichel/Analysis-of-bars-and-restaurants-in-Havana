@@ -1,0 +1,317 @@
+{
+    "general_info": {
+        "name": "Los antonios",
+        "township": "Plaza de la Revolucion",
+        "adress": "Paseo entre calle 3 y calle 5",
+        "local": "restaurante",
+        "open": "00:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "tostones",
+                    "pure de viandas",
+                    "croquetas",
+                    "papas fritas",
+                    "sopa",
+                    "tacos mexicanos",
+                    "tacos marineros",
+                    "ensalada de vegetales"
+                ],
+                "appetizers_price": [
+                    600,
+                    700,
+                    600,
+                    750,
+                    1350,
+                    1100,
+                    1750,
+                    1300
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa",
+                    "super hamburguesa"
+                ],
+                "hamburger_price": [
+                    590,
+                    950
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich de vegetal",
+                    "sandwich tradicional",
+                    "sandwich de ropa vieja",
+                    "super sandwich",
+                    "rebanadas de pan",
+                    "tostadas de pan",
+                    "pan con tortilla",
+                    "pan con huevo frito",
+                    "pan con huevo revuelto"
+                ],
+                "bread_price": [
+                    550,
+                    850,
+                    1000,
+                    1400,
+                    180,
+                    200,
+                    600,
+                    600,
+                    600
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pechuga grille",
+                    "fricase de pollo",
+                    "fajita de pollo",
+                    "pollo frito",
+                    "gordon blue",
+                    "bistec de cerdo",
+                    "masas fritas",
+                    "fricase de cerdo",
+                    "lomo ahumado",
+                    "bistec uruguayo",
+                    "ropa vieja",
+                    "bistec de res"
+                ],
+                "main_price": [
+                    1590,
+                    1790,
+                    1800,
+                    1590,
+                    1950,
+                    1590,
+                    1690,
+                    1750,
+                    1800,
+                    1950,
+                    1850,
+                    1950
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado",
+                    "filete canciller",
+                    "camarones",
+                    "langosta",
+                    "paella aire y tierra",
+                    "paella aire, mar y tierra"
+                ],
+                "sea_food_price": [
+                    2100,
+                    2950,
+                    2850,
+                    3500,
+                    3600,
+                    4600
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "lasagna",
+                    "crema de quesop",
+                    "crema aurora",
+                    "crema virginia",
+                    "canelones",
+                    "espaguettis"
+                ],
+                "pasta_price": [
+                    1500,
+                    750,
+                    700,
+                    700,
+                    1100,
+                    890
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "bambina",
+                    "pizza grande",
+                    "pizza especial"
+                ],
+                "pizza_price": [
+                    400,
+                    890,
+                    2200
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [
+                    "dulces finos",
+                    "bola de helado",
+                    "cake a la moda",
+                    "postre del dia"
+                ],
+                "dessert_price": [
+                    600,
+                    200,
+                    850,
+                    500
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cervezas nacionales",
+                    "cervezas importadas",
+                    "linea ron corriente",
+                    "havana club 3 anhos",
+                    "anhejo especial",
+                    "havana club 7 anhos",
+                    "havana club gama alta",
+                    "whisky corriente",
+                    "whisky gama media",
+                    "whisky gama alta",
+                    "agua ardiente",
+                    "tequila",
+                    "copa vino corriente",
+                    "copa vino gama alta",
+                    "vodka",
+                    "michelada",
+                    "cuba libre",
+                    "cubata",
+                    "sangria",
+                    "caipirinha",
+                    "caipiroska",
+                    "caipirissima",
+                    "mojito",
+                    "pinha colada",
+                    "daiquiri",
+                    "licores",
+                    "cremas"
+                ],
+                "alcohol_price": [
+                    290,
+                    260,
+                    100,
+                    300,
+                    300,
+                    800,
+                    900,
+                    150,
+                    350,
+                    800,
+                    150,
+                    500,
+                    400,
+                    900,
+                    200,
+                    600,
+                    600,
+                    600,
+                    600,
+                    600,
+                    600,
+                    600,
+                    800,
+                    800,
+                    800,
+                    400,
+                    800
+                ],
+                "infusions_list": [
+                    "cafe con leche",
+                    "te"
+                ],
+                "infusions_price": [
+                    600,
+                    200
+                ],
+                "non_alcoholic_list": [
+                    "agua",
+                    "agua gaseada",
+                    "energizante",
+                    "red bull",
+                    "refresco",
+                    "refrescos importados",
+                    "maltas",
+                    "malta bucanero",
+                    "jugos naturales de caja",
+                    "jugos naturales con agua",
+                    "jugos naturales sin agua",
+                    "leche fria",
+                    "leche caliente",
+                    "jugos naturales",
+                    "limonada frappe",
+                    "leche con chocolate",
+                    "batido de helado"
+                ],
+                "non_alcoholic_price": [
+                    150,
+                    300,
+                    350,
+                    550,
+                    250,
+                    300,
+                    300,
+                    350,
+                    250,
+                    350,
+                    120,
+                    500,
+                    500,
+                    350,
+                    600,
+                    650,
+                    600
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

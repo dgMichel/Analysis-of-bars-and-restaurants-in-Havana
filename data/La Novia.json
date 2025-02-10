@@ -1,0 +1,228 @@
+{
+    "general_info": {
+        "name": "La Novia",
+        "township": "La Lisa",
+        "adress": "",
+        "local": "restaurante",
+        "open": "11:00",
+        "close": "22:00",
+        "days_of_week": [],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": null,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            
+            "appetizers": {
+                "appetizers_list": [
+                    "Croquetas de la Casa",
+                    "Frituras de Malanga",
+                    "Bolitas de yuca y queso",
+                    "Fajitas de cerdo",
+                    "Fajitas de pollo",
+                    "Picadera Mixta",
+                    "Chips de Vianda",
+                    "Milanesa de Pollo" 
+                ],
+                "appetizers_price": [
+                    600,
+                    400,
+                    350,
+                    1000,
+                    1000,
+                    2200,
+                    200,
+                    1200    
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "Ensaladita de aceitunas, queso y peperoni",
+                    "Tostones criollos",
+                    "Tostones Rellenos",
+                    "Racion de Arroz Moro",
+                    "Racion de Ensalada"    
+                ],
+                "garnishes_price": [
+                    1100,
+                    300,
+                    850,
+                    300,
+                    300    
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "Sandwich de Jamon",
+                    "Sandwich de Jamon y Queso",
+                    "Sandwich Cubano con cerdo asado"    
+                ],
+                "bread_price": [
+                    580,
+                    730,
+                    1300    
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "Tacos de cerdo",
+                    "Tacos de pollo",
+                    "Tacos de jamon y queso",
+                    "Tacos marineros",
+                    "Tacos de ropa vieja",
+                    "Masas fritas de cerdo",
+                    "Pollo frito",
+                    "Pollo asado" ,   
+                    "Bistec de Cerdo",
+                    "Bistec de Pechuga",
+                    "Chuleta de Cerdo",
+                    "Ropa Vieja",
+                    "Brochetas de Cerdo",
+                    "Completa de enchilado de Cangrejo",
+                    "Cerdo asado"    
+                ],
+                "main_price": [
+                    1100,
+                    1100,
+                    1100,
+                    1100,
+                    1300,
+                    1700,
+                    1300,
+                    1300,
+                    1200,
+                    1600,
+                    1600,
+                    1900,
+                    1800,
+                    1500,
+                    1500      
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "Espaguetis Napolitanos"
+                ],
+                "pasta_price": [
+                    700
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "Pizza Napolitana",
+                    "Pizza de Peperoni"    
+                ],
+                "pizza_price": [
+                    280,
+                    400    
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+
+            "dessert": {
+                "dessert_list": [
+                    "Copa de Helado",
+                    "Flan"    
+                ],
+                "dessert_price": [
+                    550,
+                    270    
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "Jarra de Cerveza dispensada",
+                    "cerveza importada",
+                    "cerveza nacional",
+                    "Michelada mexicana",
+                    "Michelada",
+                    "Sangria",
+                    "Cuba Libre",
+                    "Caipiroska",
+                    "Caipirinha",
+                    "Pina Colada"    
+                ],
+                "alcohol_price": [
+                    300,
+                    250,
+                    290,
+                    250,
+                    230,
+                    550,
+                    250,
+                    300,
+                    300,
+                    550    
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "Agua",
+                    "Limonada Frappe",
+                    "Limonada Natural",
+                    "Jugos Naturales",
+                    "Batido de Frutas",
+                    "Batido de Helado",
+                    "Malta importada",
+                    "Refresco importado",
+                    "Energizante",
+                    "Cafe expresso",
+                    "Cafe frapuccino",
+                    "Pina Colada"    
+                ],
+                "non_alcoholic_price": [
+                    150,
+                    340,
+                    340,
+                    160,
+                    350,
+                    700,
+                    290,
+                    260,
+                    260,
+                    100,
+                    450,
+                    550    
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Caribbean"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

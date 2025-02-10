@@ -1,0 +1,201 @@
+{
+    "general_info": {
+        "name": "Gol bar",
+        "township": "Plaza de la Revolucion",
+        "adress": "Esquina entre 19 y 14",
+        "local": "bar-restaurante",
+        "open": "10:30",
+        "close": "22:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "privado",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "coctel de langosta",
+                    "coctel de camarones",
+                    "entremes de jamon y queso",
+                    "eperlan de pescado",
+                    "eperlan de pollo",
+                    "eperlan de cerdo",
+                    "croquetas",
+                    "fritura de malanga",
+                    "toston",
+                    "tamales"
+                ],
+                "appetizers_price": [
+                    1000,
+                    1000,
+                    1000,
+                    1750,
+                    1750,
+                    1750,
+                    600,
+                    350,
+                    450,
+                    150
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo gordon blue",
+                    "bella habana de pollo",
+                    "pollo bbq",
+                    "fajitas de pollo",
+                    "pollo asado",
+                    "crema de pollo",
+                    "muslo de pollo deshuesado",
+                    "bistec uruguayo",
+                    "bella habana de cerdo",
+                    "masas de cerdo",
+                    "fajitas de cerdo",
+                    "bistec de cerdo grille",
+                    "chuleta natural",
+                    "chuleta de cerdo ahumado",
+                    "costillas de cerdo",
+                    "lonjas de cerdo",
+                    "fajitas de cerdo con pinha",
+                    "bistec de res",
+                    "ropa vieja de res",
+                    "vaca frita",
+                    "chilindron de carnero",
+                    "chuleton a la pinha",
+                    "filete mignon"
+                ],
+                "main_price": [
+                    1700,
+                    1700,
+                    1600,
+                    1650,
+                    1600,
+                    1600,
+                    1600,
+                    1700,
+                    1700,
+                    1600,
+                    1600,
+                    1600,
+                    1600,
+                    1600,
+                    1600,
+                    1600,
+                    1700,
+                    1600,
+                    1600,
+                    1600,
+                    1600,
+                    1700,
+                    1700
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "camaron rebosado",
+                    "camaron de enchilado",
+                    "camaron grille",
+                    "camaron al ajillo",
+                    "pulpo al gusto",
+                    "canciller",
+                    "fajitas de pescado",
+                    "filete de pescado empanizado",
+                    "filete de pescado maitress hotel"
+                ],
+                "sea_food_price": [
+                    1860,
+                    1850,
+                    1800,
+                    1850,
+                    1600,
+                    1700,
+                    1650,
+                    1800,
+                    1600
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza"
+                ],
+                "alcohol_price": [
+                    400
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "agua"
+                ],
+                "non_alcoholic_price": [
+                    350
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

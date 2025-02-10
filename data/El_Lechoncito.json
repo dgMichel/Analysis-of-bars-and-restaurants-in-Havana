@@ -1,0 +1,334 @@
+{
+    "general_info": {
+        "name": "El_Lechoncito",
+        "township": "Habana del Este",
+        "adress": null,
+        "local": "restaurante",
+        "open": "00:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "tostones rellenos con jamon y queso",
+                    "tostones rellenos con langosta",
+                    "tostones rellenos con camaron",
+                    "frituras de malanga",
+                    "pan con bistec",
+                    "pan con lechon",
+                    "entremes de jamon, queso",
+                    "croquetas melosas",
+                    "ceviche de pescado",
+                    "tabla de jamon serrano",
+                    "picadera lechoncito",
+                    "coctel de camaron",
+                    "hamburguesa de res"
+                ],
+                "appetizers_price": [
+                    950,
+                    1300,
+                    1300,
+                    900,
+                    900,
+                    900,
+                    900,
+                    900,
+                    1500,
+                    2700,
+                    3000,
+                    2000,
+                    1200
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo grille",
+                    "lonjas de cerdo asado al carbon",
+                    "costillas de cerdo criolla",
+                    "costillas de cerdo bbq",
+                    "bistec de cerdo a la criolla",
+                    "bistec de cerdo princesa",
+                    "lomo ahumado",
+                    "fajitas de cerdo salteada",
+                    "filete de res",
+                    "ropa vieja de res",
+                    "vaca frita",
+                    "parrillada lechoncito"
+                ],
+                "main_price": [
+                    1500,
+                    1900,
+                    3000,
+                    3500,
+                    1700,
+                    2100,
+                    1700,
+                    1700,
+                    3900,
+                    2500,
+                    2500,
+                    3000
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "camaron grille",
+                    "camaron enchilado",
+                    "langosta enchilada o grille",
+                    "filete de pescado a la maire hotel",
+                    "pescado napado con queso",
+                    "pescado entero",
+                    "mariscada lechoncito"
+                ],
+                "sea_food_price": [
+                    2000,
+                    2200,
+                    2500,
+                    1800,
+                    1900,
+                    2500,
+                    3950
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "espagueti napoles",
+                    "espagueti con jamon",
+                    "espagueti con atun",
+                    "espagueti con camaron",
+                    "espagueti con langosta"
+                ],
+                "pasta_price": [
+                    1250,
+                    1450,
+                    1750,
+                    1800,
+                    1900
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napoles",
+                    "pizza con jamon",
+                    "pizza con atun",
+                    "pizza con cebolla",
+                    "pizza con chorizo",
+                    "pizza hawaiana",
+                    "pizza lechoncito",
+                    "pizza aceituna",
+                    "pizza diavola",
+                    "pizza camaron",
+                    "pizza langosta"
+                ],
+                "pizza_price": [
+                    1250,
+                    1500,
+                    1750,
+                    1400,
+                    1650,
+                    1600,
+                    1900,
+                    1500,
+                    1650,
+                    1950,
+                    1950
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "batidos de helado",
+                    "copa lolita",
+                    "copa de helado",
+                    "flan"
+                ],
+                "dessert_price": [
+                    950,
+                    800,
+                    600,
+                    700
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "mojito",
+                    "mojito de fruta",
+                    "ginc tonic",
+                    "cuba libre",
+                    "cubata",
+                    "daiquiri",
+                    "daiquiri de frutas",
+                    "daiquiri rebelde",
+                    "pinha colada con ron",
+                    "sangria/...tinto verano",
+                    "caipiroshka",
+                    "caipiroshka de frutas",
+                    "canchanchara",
+                    "canchanchara 7 anhos",
+                    "margarita",
+                    "tekila 3 sombreros",
+                    "baileys",
+                    "margarita blue",
+                    "coctel martini",
+                    "aperol fizz",
+                    "pantera rosa",
+                    "agrego de michelada",
+                    "agrego de chelada",
+                    "havana club anhejo especial",
+                    "havana club 3 anhos",
+                    "anhejo reserva",
+                    "havana club 7 anhos",
+                    "johnnie walker red",
+                    "label 5",
+                    "tequila blanco",
+                    "tequila reposado",
+                    "copa de vino tinto",
+                    "copa de vino blanco",
+                    "old partner",
+                    "ballantine",
+                    "cerveza colonia",
+                    "cerveza corona",
+                    "cerveza cristal de lata",
+                    "cerveza cristal de botella",
+                    "cerveza puerto santo",
+                    "cerveza dispensada(jarra 500 ml)",
+                    "vermouth martini & rossi",
+                    "vermouth cinzano",
+                    "jagermeifter",
+                    "licor aperol/apricot/amerato"
+
+
+                ],
+                "alcohol_price": [
+                    800,
+                    1000,
+                    1500,
+                    900,
+                    1000,
+                    850,
+                    1000,
+                    950,
+                    950,
+                    950,
+                    1000,
+                    1200,
+                    800,
+                    1000,
+                    950,
+                    950,
+                    950,
+                    1000,
+                    950,
+                    1000,
+                    950,
+                    600,
+                    500,
+                    480,
+                    370,
+                    500,
+                    500,
+                    800,
+                    600,
+                    800,
+                    900,
+                    700,
+                    700,
+                    500,
+                    800,
+                    400,
+                    550,
+                    500,
+                    500,
+                    400,
+                    450,
+                    500,
+                    500,
+                    500,
+                    700
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "pinha colada",
+                    "agua de 500 mlts",
+                    "agua de 1500 mlts",
+                    "jugo de cajita",
+                    "limonada frappe",
+                    "malta importada",
+                    "energizantes",
+                    "guarapo",
+                    "refresco pepsi cola",
+                    "malteada"
+                ],
+                "non_alcoholic_price": [
+                    850,
+                    200,
+                    350,
+                    300,
+                    700,
+                    400,
+                    400,
+                    250,
+                    400,
+                    950
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            ""
+        ],
+        "house_especiality": ["parrillada lechoncito","mariscada lechoncito"]
+    },
+    "social": {
+        "kids_seat": true,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "general_info": {
+        "name": "Tonyzz Bar",
+        "township": "Centro Habana",
+        "adress": null,
+        "local": "bar-restaurante",
+        "open": "12:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "Tonyzz Bar",
+            false
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas",
+                    "fajitas de pollo",
+                    "entremes de jamon y queso",
+                    "empanadas espanholas (atun/pollo/queso)",
+                    "papas bravas espanholas",
+                    "tacos (pollo o atun)",
+                    "papas fritas",
+                    "picadera familiar",
+                    "desayuno americano"
+                ],
+                "appetizers_price": [
+                    490,
+                    1090,
+                    990,
+                    640,
+                    690,
+                    1280,
+                    690,
+                    2690,
+                    2200
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich c/ jamon",
+                    "sandwich c/ queso",
+                    "sandwich c/ jamon y queso",
+                    "sandwich c/ huevo (frito o tortilla)",
+                    "sandwich c/ atun y mayonesa",
+                    "sandwich tonyzzz"
+                ],
+                "bread_price": [
+                    600,
+                    600,
+                    890,
+                    600,
+                    1300,
+                    1290
+                ]
+            },
+            "main": {
+                "main_list": [
+                    "pollo asado",
+                    "fricase de pollo",
+                    "chicken tikka",
+                    "traditional chicken curry",
+                    "chicken tikka masala",
+                    "chicken madras",
+                    "butter chicken",
+                    "escalope de cerdo",
+                    "bistec de cerdo",
+                    "bistec uruguayo",
+                    "pollo frito",
+                    "ropa vieja",
+                    "authentic srilankan lamb curry",
+                    "rawan curry"
+                ],
+                "main_price": [
+                    1790,
+                    1790,
+                    1290,
+                    1890,
+                    1990,
+                    1990,
+                    1490,
+                    1790,
+                    1690,
+                    1990,
+                    1690,
+                    1990,
+                    1990,
+                    2190
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "camaron enchilado",
+                    "camaron al ajillo",
+                    "cangrejo enchilado",
+                    "pescado grille",
+                    "pescado a la cubana",
+                    "devilled fish",
+                    "authentic srilankan fish curry",
+                    "crab curry"
+                ],
+                "sea_food_price": [
+                    1990,
+                    1900,
+                    1990,
+                    1800,
+                    1890,
+                    1390,
+                    1990,
+                    2190
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta napolitana",
+                    "pasta arrabbiata",
+                    "pasta de jamon",
+                    "pasta carbonara",
+                    "pasta al pesto",
+                    "pasta de champinhon",
+                    "pasta bolonesa",
+                    "pasta de atun",
+                    "lasanha"
+                ],
+                "pasta_price": [
+                    850,
+                    890,
+                    1290,
+                    1800,
+                    990,
+                    1290,
+                    1890,
+                    1890,
+                    1990
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana",
+                    "pizza margarita",
+                    "pizza de jamon",
+                    "pizza de champinhones",
+                    "pizza hawaiana",
+                    "pizza de atun y cebolla",
+                    "pizza de atun",
+                    "pizza 4 estaciones",
+                    "pizza de jamon y champinhones",
+                    "pizza de chorizo"
+                ],
+                "pizza_price": [
+                    850,
+                    990,
+                    1290,
+                    1290,
+                    1390,
+                    1990,
+                    1890,
+                    1590,
+                    1490,
+                    1350
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "helado (diferentes sabores)"
+                ],
+                "dessert_price": [
+                    130
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza nacional",
+                    "cerveza colonia",
+                    "mojito",
+                    "cuba libre",
+                    "daiquiri",
+                    "cubata",
+                    "canchanchara",
+                    "caipirinha",
+                    "caipirisima",
+                    "caipiroska",
+                    "chelada",
+                    "michelada",
+                    "pinha colada",
+                    "vodka tonic",
+                    "sangria",
+                    "gin tonic",
+                    "gin tonic (beefeter o bombay)",
+                    "jack daniel's",
+                    "chivas regal 12 anhos",
+                    "j.w. double black",
+                    "j.w. black label",
+                    "j.w. red label",
+                    "ballantines",
+                    "clamb campbell",
+                    "jameson",
+                    "old partner",
+                    "copa de vino tinto",
+                    "copa de vino blanco",
+                    "paco navio",
+                    "santiago de cuba 12 anhos",
+                    "santiago de cuba 8 anhos",
+                    "black tears",
+                    "ritual",
+                    "habana club 7 anhos",
+                    "habana club anhejo reserva",
+                    "habana club especial",
+                    "habana club 3 anhos",
+                    "aguardiente",
+                    "olmeca blanco",
+                    "olmeca reposado",
+                    "jose cuervo"
+                ],
+                "alcohol_price": [
+                    300,
+                    220,
+                    890,
+                    790,
+                    790,
+                    790,
+                    1190,
+                    1190,
+                    1190,
+                    1190,
+                    490,
+                    850,
+                    1190,
+                    990,
+                    990,
+                    1190,
+                    1390,
+                    1400,
+                    1200,
+                    1800,
+                    990,
+                    990,
+                    990,
+                    890,
+                    790,
+                    350,
+                    700,
+                    650,
+                    900,
+                    1200,
+                    790,
+                    400,
+                    600,
+                    790,
+                    590,
+                    500,
+                    490,
+                    350,
+                    600,
+                    640,
+                    740
+                ],
+                "infusions_list": [
+                    "cafe expreso",
+                    "cafe cortado",
+                    "cafe con leche",
+                    "cappuccino",
+                    "cafe americano"
+                ],
+                "infusions_price": [
+                    290,
+                    300,
+                    490,
+                    490,
+                    350
+                ],
+                "non_alcoholic_list": [
+                    "agua natural 500ml",
+                    "agua natural 1500ml",
+                    "malta",
+                    "refrescos lata",
+                    "refresco pomo",
+                    "refresco pomo 1500ml",
+                    "tigon",
+                    "jugos naturales"
+                ],
+                "non_alcoholic_price": [
+                    180,
+                    300,
+                    300,
+                    300,
+                    300,
+                    300,
+                    300,
+                    250
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "italiana",
+            "americana",
+            "india",
+            "caribenha",
+            "asiatica",
+            "cubana",
+            "ceilanesa"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

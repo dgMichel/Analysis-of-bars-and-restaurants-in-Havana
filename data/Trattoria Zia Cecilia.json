@@ -1,0 +1,219 @@
+{
+    "general_info": {
+        "name": "Trattoria Zia Cecilia",
+        "township": "Habana del Este",
+        "adress": "#503, Calle 482 entre 5ta Avenida y 5ta D, Guanabo",
+        "local": "restaurante",
+        "open": "12:00",
+        "close": "23:00",
+        "days_of_week": [],
+        "sector": "privado",
+        "capability": 30,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "focaccia",
+                    "croquetas",
+                    "brusquetas"
+                ],
+                "appetizers_price": [
+                    800,
+                    480,
+                    320
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta al olio aglio",
+                    "pasta napoletanos",
+                    "pasta pomodoro e basilico",
+                    "pasta amatriciana",
+                    "pasta carbonara",
+                    "pasta alfredo",
+                    "pasta di prosciutto",
+                    "pasta pasticciata",
+                    "pasta di atun",
+                    "pasta tonno",
+                    "pasta mixta",
+                    "pasta acciuga",
+                    "pasta raviolio",
+                    "pasta spinacas",
+                    "pasta noquis"
+                ],
+                "pasta_price": [
+                    1120,
+                    1120,
+                    1120,
+                    1440,
+                    1440,
+                    1440,
+                    1440,
+                    1440,
+                    1760,
+                    1760,
+                    2080,
+                    2400,
+                    1440,
+                    1440,
+                    1760
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza margarita",
+                    "pizza diavola",
+                    "pizza de jamon",
+                    "pizza de aceitunas",
+                    "pizza de cebolla",
+                    "pizza hawaiana",
+                    "pizza de salame",
+                    "pizza de champignon",
+                    "pizza caprichosa",
+                    "pizza de vegetales",
+                    "pizza 4 estaciones",
+                    "pizza mixta",
+                    "pizza supreme"
+                ],
+                "pizza_price": [
+                    1120,
+                    1440,
+                    1440,
+                    1440,
+                    1440,
+                    1760,
+                    1760,
+                    1760,
+                    2080,
+                    2400,
+                    2400,
+                    2400,
+                    2400
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "trago de ron blanco",
+                    "trago de ron 3 anos",
+                    "trago de ron especial",
+                    "trago de ron reserva",
+                    "trago de ron 7 anos",
+                    "mojito",
+                    "caipirissima",
+                    "sangria",
+                    "tinto de verano",
+                    "chelada",
+                    "cuba libre",
+                    "cubata",
+                    "copa de vino entre rios",
+                    "copa de vino 13% y 12.5%",
+                    "copa de vino 11.5%",
+                    "cerveza corona",
+                    "cerveza cristal",
+                    "cerveza hollandia",
+                    "cerveza bucanero"
+                ],
+                "alcohol_price": [
+                    320,
+                    320,
+                    480,
+                    640,
+                    800,
+                    544,
+                    544,
+                    672,
+                    640,
+                    115,
+                    384,
+                    384,
+                    544,
+                    960,
+                    864,
+                    800,
+                    480,
+                    480,
+                    480
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "limonada frappe",
+                    "pepsi cola",
+                    "7up",
+                    "mirnanda",
+                    "mate",
+                    "hiper malta",
+                    "malta bucanero",
+                    "jugos"
+                ],
+                "non_alcoholic_price": [
+                    640,
+                    320,
+                    320,
+                    320,
+                    320,
+                    320,
+                    480,
+                    320
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Cocina italiana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

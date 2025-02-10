@@ -1,0 +1,265 @@
+{
+    "general_info": {
+        "name": "El Ajiaco",
+        "township": "Habana del Este",
+        "adress": "esquina de calle Los Pinos y Cuba, Cojimar",
+        "local": "restaurante",
+        "open": "12:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "ceviche de pescado",
+                    "coctel de camarones",
+                    "coctel de langosta",
+                    "escabache de pescado con aderezo de aceitunas y cebolla",
+                    "pulpo fresco en vinagreta de cilantro y pimenton",
+                    "ajiaco cubano con dados de tamal y corona de ropa vieja",
+                    "sopa crema de malanga con sofritos de ajo",
+                    "garbanzos fritos del chef",
+                    "croquetas caseras del dia",
+                    "tostones rellenos con ropa vieja",
+                    "tostones rellenos con jamon y queso",
+                    "tostones rellenos mixtos",
+                    "cartucho de frituras de malanga",
+                    "tamal en cazuela con chorizo y cerdo o camarones",
+                    "tamal en hoja en monteria de cerdo",
+                    "tamal en hoja con salsa chirnichurri"
+                ],
+                "appetizers_price": [
+                    890,
+                    1200,
+                    990,
+                    990,
+                    1350,
+                    390,
+                    650,
+                    1470,
+                    490,
+                    990,
+                    990,
+                    990,
+                    490,
+                    1200,
+                    890,
+                    420
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "moros y cristianos",
+                    "vegetales frescos, marinados, salteados",
+                    "frijoles negros dormidos",
+                    "seleccion de viandas con mojo del dia",
+                    "pure de viandas",
+                    "vianda frita",
+                    "tamal en hoja",
+                    "arroz a la cubana",
+                    "arroz a la marinera",
+                    "arroz a la campesina"
+                ],
+                "garnishes_price": [
+                    290,
+                    380,
+                    290,
+                    350,
+                    290,
+                    250,
+                    350,
+                    210,
+                    590,
+                    2200,
+                    1690
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "arroz con pollo en bano de cerveza",
+                    "suprema de pollo grille",
+                    "fricase de pollo al estilo campesino",
+                    "suprema de pollo relleno con jamon y queso",
+                    "bistec de cerdo",
+                    "masas de cerdo fritas con marinado de ajo y oregano",
+                    "patas de cerdo cocidas en salsa criolla",
+                    "cerdo empanado y relleno con jamon y queso",
+                    "escalopes de cerdo empanados",
+                    "ropa vieja de la casa",
+                    "estofado de res",
+                    "chilindron de carnero"
+                ],
+                "main_price": [
+                    1650,
+                    1400,
+                    1690,
+                    1750,
+                    1450,
+                    2490,
+                    1050,
+                    1890,
+                    1390,
+                    1690,
+                    1790,
+                    2150
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "pulpo estofado en vino tinto y salsa criolla",
+                    "camaron grille",
+                    "camarones cocidos en aceite, ajo y guindillas",
+                    "langosta cocida en aceite, ajo y guindillas",
+                    "langosta al ron en salsa criolla",
+                    "pescado fresco del dia con salteado de albahaca, tomate y ajo",
+                    "eperlan o minutas de pescado con mayonesa",
+                    "cazuela mixta del mar",
+                    "filete de pescado al estilo canciller"
+                ],
+                "sea_food_price": [
+                    2980,
+                    2190,
+                    2400,
+                    2450,
+                    2400,
+                    1890,
+                    1890,
+                    2450,
+                    2200
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta de queso",
+                    "pasta de jamon"                   
+                ],
+                "pasta_price": [
+                    790,
+                    1150
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza de queso",
+                    "pizza de jamon",
+                    "pizza de camarones",
+                    "pizza hawaiana",
+                    "pizza de ropa vieja y platanos maduros fritos"
+                ],
+                "pizza_price": [
+                    1250,
+                    1550,
+                    1990,
+                    1490,
+                    1890
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "helados"
+                ],
+                "dessert_price": [
+                    550
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "mojito ajiaco",
+                    "mojito clasico",
+                    "cuba libre",
+                    "daiquiri",
+                    "caipirina",
+                    "sangria",
+                    "cerveza nacional",
+                    "copa de vino de la casa",
+                    "ginebra"
+                ],
+                "alcohol_price": [
+                    350,
+                    350,
+                    350,
+                    350,
+                    350,
+                    380,
+                    350,
+                    390,
+                    250
+                ],
+                "infusions_list": [
+                    "cafe expreso",
+                    "te"
+                ],
+                "infusions_price": [
+                    180,
+                    120
+                ],
+                "non_alcoholic_list": [
+                    "pina colada",
+                    "jugos naturales",
+                    "limonada natural o frappe",
+                    "energizante",
+                    "malta"
+                ],
+                "non_alcoholic_price": [
+                    650,
+                    220,
+                    220,
+                    280,                    
+                    300
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Criolla"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

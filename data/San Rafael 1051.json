@@ -1,0 +1,187 @@
+{
+    "general_info": {
+        "name": "San Rafael 1051",
+        "township": "Centro Habana",
+        "adress": null,
+        "local": "restaurante",
+        "open": "12:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "san_rafael1051",
+            "@san_rafael1051"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "croquetas de la casa",
+                    "tabla de serrano y queso",
+                    "nuggets de pollo",
+                    "tacos",
+                    "brusquetas mixtas",
+                    "ensalada de atun",
+                    "ensalada de pollo",
+                    "ensalada del mar"
+                ],
+                "appetizers_price": [
+                    850,
+                    1450,
+                    950,
+                    1150,
+                    850,
+                    1100,
+                    1100,
+                    1300
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "hamburguesa black panther",
+                    "hamburguesa megaburger",
+                    "hamburguesa hawaiana",
+                    "hamburguesa 1051",
+                    "hamburguesa parrillera",
+                    "hamburguesa sweet burger",
+                    "hamburguesa deluxe",
+                    "hamburguesa cheese burger",
+                    "hamburguesa cubana"
+                ],
+                "hamburger_price": [
+                    2400,
+                    2750,
+                    1650,
+                    2000,
+                    1920,
+                    1100,
+                    1550,
+                    1790,
+                    2140
+                ]
+            },
+            "bread": {
+                "bread_list": [
+                    "entrepan clasico",
+                    "entrepan cubano",
+                    "entrepan marinero",
+                    "entrepan iberico",
+                    "entrepan vaquero",
+                    "entrepan de crispy chicken"
+                ],
+                "bread_price": [
+                    1300,
+                    1500,
+                    1300,
+                    1500,
+                    1300,
+                    1500
+                ]
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "caipirinha",
+                    "caipiroska",
+                    "gin tonic",
+                    "sangria",
+                    "mojito",
+                    "cuba libre",
+                    "vodka tonic",
+                    "cerveza",
+                    "cerveza cristal, heineken, corona",
+                    "servicio michelada"
+                ],
+                "alcohol_price": [
+                    580,
+                    580,
+                    650,
+                    650,
+                    580,
+                    580,
+                    650,
+                    450,
+                    650,
+                    250
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "agua natural",
+                    "refresco importado",
+                    "jugo natural"
+                ],
+                "non_alcoholic_price": [
+                    300,
+                    380,
+                    390
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "americana",
+            "internacional"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

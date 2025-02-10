@@ -1,0 +1,327 @@
+{
+    "general_info": {
+        "name": "Union Francesa de la Habana",
+        "township": "Plaza de la Revolucion",
+        "adress": "Calle 17 entre 23 y 21",
+        "local": "restaurante",
+        "open": "08:00",
+        "close": "24:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "tostones rellenos",
+                    "eperlan de pescado",
+                    "frituras de malanga",
+                    "caldo del dia",
+                    "fajitas de pollo",
+                    "picadera de la casa",
+                    "entremes surtido"
+                ],
+                "appetizers_price": [
+                    750,
+                    1000,
+                    500,
+                    600,
+                    600,
+                    3000,
+                    3000
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "arroz moro",
+                    "ensalada mixta",
+                    "vegetal salteado",
+                    "tostones tradicionales",
+                    "papas fritas"
+                ],
+                "garnishes_price": [
+                    150,
+                    200,
+                    350,
+                    400,
+                    400,
+                    600
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo grille",
+                    "pechuga grille",
+                    "bistec de cerdo encebollado",
+                    "lomo ahumado",
+                    "ropa vieja",
+                    "chuleton",
+                    "ropa vieja",
+                    "mar y tierra"
+                ],
+                "main_price": [
+                    1200,
+                    1500,
+                    800,
+                    2000,
+                    2000,
+                    4800,
+                    2500,
+                    4800
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de pescado grille",
+                    "filete de emperador",
+                    "empedrado",
+                    "salmon",
+                    "marisco enchilado",
+                    "marisco mariposa",
+                    "marisco reina",
+                    "camaron al gusto",
+                    "mariscada",
+                    "arroz a la marinera"
+                ],
+                "sea_food_price": [
+                    2000,
+                    4000,
+                    4000,
+                    4000,
+                    2800,
+                    2500,
+                    3200,
+                    2300,
+                    5000,
+                    4600
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "pasta napole"
+                ],
+                "pasta_price": [
+                    800
+                ]
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza napolitana"
+                ],
+                "pizza_price": [
+                    400
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "helado",
+                    "otros postres"
+                ],
+                "dessert_price": [
+                    450,
+                    500
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza",
+                    "cerveza parranda 500ml",
+                    "cerveza parranda 1.500ml",
+                    "cerveza nacional",
+                    "servicio de michelada/chelada",
+                    "copa de vino",
+                    "vino de la casa",
+                    "otros vinos(botella)",
+                    "ron collins",
+                    "tom collins",
+                    "mojito",
+                    "cuba libre",
+                    "pinha colada",
+                    "cubata",
+                    "daiquiri",
+                    "sangria tropical",
+                    "dri helada",
+                    "daiquiri frutal",
+                    "zombie",
+                    "habana club anhejo blanco",
+                    "habana club 3 anhos",
+                    "habana club anhejo especial",
+                    "habana club anhejo 7 anhos",
+                    "habana club anhejo reserva",
+                    "ritual",
+                    "whiskey chivas regal 12 anhos",
+                    "whiskey chivas regal 18 anhos",
+                    "whiskey valentine",
+                    "whiskey clan cambell",
+                    "otros whiskies economico",
+                    "tequila blanco",
+                    "tequila reposado",
+                    "tres sombreros",
+                    "vodka absolut",
+                    "ginebra",
+                    "seleccion de maestros",
+                    "pacto de navio",
+                    "crema y licores",
+                    "smocky cubana",
+                    "black jaret",
+                    "ron conde cuba",
+                    "mama juana",
+                    "gin tonic",
+                    "caipiroska",
+                    "sangria",
+                    "limonada paris",
+                    "san francisco",
+                    "mary pick foard",
+                    "limonada clarete",
+                    "mojito de frutas",
+                    "long island",
+                    "fires man daiquiri"
+                ],
+                "alcohol_price": [
+                    400,
+                    350,
+                    1000,
+                    450,
+                    150,
+                    500,
+                    2500,
+                    3800,
+                    450,
+                    500,
+                    400,
+                    450,
+                    550,
+                    500,
+                    500,
+                    900,
+                    800,
+                    700,
+                    800,
+                    200,
+                    250,
+                    280,
+                    400,
+                    300,
+                    300,
+                    550,
+                    1000,
+                    380,
+                    350,
+                    250,
+                    350,
+                    450,
+                    500,
+                    450,
+                    350,
+                    650,
+                    650,
+                    250,
+                    450,
+                    350,
+                    500,
+                    500,
+                    600,
+                    550,
+                    600,
+                    450,
+                    700,
+                    700,
+                    700,
+                    700,
+                    800,
+                    800
+                ],
+                "infusions_list": [
+                    "cafe expresso",
+                    "cafe americano",
+                    "cafe cortado",
+                    "capuccino",
+                    "frapuccino"
+                ],
+                "infusions_price": [
+                    200,
+                    200,
+                    250,
+                    300,
+                    500
+                ],
+                "non_alcoholic_list": [
+                    "agua natural",
+                    "agua gaseada",
+                    "agua tonica",
+                    "jugos naturales",
+                    "jugos en conserva",
+                    "limonada natural",
+                    "limonada frappe",
+                    "limonada frescura",
+                    "malta",
+                    "refresco"
+                ],
+                "non_alcoholic_price": [
+                    250,
+                    280,
+                    350,
+                    300,
+                    350,
+                    350,
+                    350,
+                    400,
+                    400,
+                    400
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Variada"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [
+            "Musica"
+        ],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

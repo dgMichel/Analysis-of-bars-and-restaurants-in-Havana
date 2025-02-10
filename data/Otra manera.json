@@ -1,0 +1,194 @@
+{
+    "general_info": {
+        "name": "Otra manera",
+        "township": "Playa",
+        "adress": "Calle 35 #1810 e/ 20 y 41, Miramar",
+        "local": "restaurante",
+        "open": "12:30",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "Otramaneralahabana",
+            "@otramanera.lahabana"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "ceviche del dia",
+                    "bniato marinado y frito con ali oli de cachucha",
+                    "falafel con salsa tzatziki",
+                    "croquetas de chuleton de cerdo al carbon",
+                    "nachos mexicanos con picadillo de cerdo picanton",
+                    "tacos de lechon asado",
+                    "huevos de codorniz trufados al horno, con papas y chorizo frito",
+                    "wok de pulpo",
+                    "ensalada de aguacate asado, tomate, pepino y remolacha crujiente",
+                    "tartar de mozzarella fresca, aguacate y tomate",
+                    "ensalada verde con queso de cabra y reduccion de frutas",
+                    "ensalada verde con pollo marinado en nuestra salsa de pinna y cilantro"
+                ],
+                "appetizers_price": [
+                    2400,
+                    2050,
+                    1900,
+                    2050,
+                    2400,
+                    2400,
+                    2050,
+                    3200,
+                    2050,
+                    2050,
+                    1900,
+                    2050
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz blanco",
+                    "matajibaro",
+                    "vegetales salteados",
+                    "cesta de pan"
+                ],
+                "garnishes_price": [
+                    700,
+                    700,
+                    700,
+                    700
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [
+                    "mini hamburguesas de cordero con queso de cabra"
+                ],
+                "hamburger_price": [
+                    3200
+                ]
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "costillar deshuesado de cerdo cocinado en baja temperatura y matajibaro",
+                    "costillas asadas en salsa barbacoa, pastel de yuca y verduritas",
+                    "new york steak con papas asadas y salsa chimichurri",
+                    "albondiga de res rellena de setas y papas asadas",
+                    "cordero en salsa de chocolate con verduras grilladas",
+                    "risotto de zanahoria con mozzarella y hierbas aromaticas"
+                ],
+                "main_price": [
+                    3400,
+                    4050,
+                    4000,
+                    4500,
+                    4050,
+                    4050
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "langosta al horno con mantequilla, limon y mole negro",
+                    "pescado del dia a la plancha con mole verde y boniatos asados",
+                    "dados de pescado blanco, cocinado en salsa de curry amarillo con leche de coco y arroz blanco",
+                    "wok de atun, vegetales y salsa teriyaki",
+                    "wok de tallarines con cerdo, vegetales, pinna y teriyaki",
+                    "arroz de marisco"
+                ],
+                "sea_food_price": [
+                    5100,
+                    3400,
+                    3400,
+                    2400,
+                    2400,
+                    4500
+                ]
+            },
+            "pasta": {
+                "pasta_list": [
+                    "canelon de pollo asado con setas",
+                    "canelon de cangrejo xl con doble salsa"
+                ],
+                "pasta_price": [
+                    3500,
+                    3400
+                ]
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "biscocho breton, crema de limon y toffe",
+                    "coulant de chocolate con helado",
+                    "baba al ron con helado",
+                    "arroz con leche",
+                    "helado"
+                ],
+                "dessert_price": [
+                    1700,
+                    2100,
+                    1700,
+                    1800,
+                    1350
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "caribenna",
+            "internacional",
+            "espannola",
+            "cubana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

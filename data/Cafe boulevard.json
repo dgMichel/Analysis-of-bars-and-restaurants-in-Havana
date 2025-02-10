@@ -1,0 +1,149 @@
+{
+    "general_info": {
+        "name": "Cafe boulevard",
+        "township": "Centro Habana",
+        "adress": "Boulevard de San Refael",
+        "local": "bar-restaurante",
+        "open": "11:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": false,
+        "tips_included": null,
+        "delivery": null
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "ensalada de estacion",
+                    "papas fritas",
+                    "caldosa boulevard"
+                ],
+                "appetizers_price": [
+                    200,
+                    150,
+                    200
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [
+                    "arroz con subproductos"
+                ],
+                "garnishes_price": [
+                    300
+                ]
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "fajitas de pollo",
+                    "fajitas de cerdo"
+                ],
+                "main_price": [
+                    1300,
+                    1350
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "filete de merluza"
+                ],
+                "sea_food_price": [
+                    550
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "cerveza importada",
+                    "vino tinto cabernet",
+                    "licor paso pondal (30ml)",
+                    "licor fenet blanca (30ml)",
+                    "grappa carolina bianca (30ml)",
+                    "ron legendario anhejo (45ml)",
+                    "ron legendario dorado (45ml)",
+                    "trago legendario ronse (45ml)",
+                    "licor de cafe (30ml)",
+                    "copa de vino blanco (125ml)"
+                ],
+                "alcohol_price": [
+                    180,
+                    1340,
+                    75,
+                    75,
+                    75,
+                    90,
+                    100,
+                    75,
+                    75,
+                    145
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "jugo de fruta"
+                ],
+                "non_alcoholic_price": [
+                    100
+                ]
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "Cubana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

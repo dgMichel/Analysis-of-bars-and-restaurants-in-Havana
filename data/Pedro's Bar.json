@@ -1,0 +1,175 @@
+{
+    "general_info": {
+        "name": "Pedro's Bar",
+        "township": "Centro Habana",
+        "adress": null,
+        "local": "bar-restaurante",
+        "open": "14:00",
+        "close": "02:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "Pedro's Bar",
+            "@pedrosbar_boulevard"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": false
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "papas fritas",
+                    "frituras de malanga",
+                    "croquetas",
+                    "dados de queso",
+                    "fajitas de pollo",
+                    "tabla mixta"
+                ],
+                "appetizers_price": [
+                    1150,
+                    800,
+                    1050,
+                    1350,
+                    1450,
+                    4600
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [
+                    "sandwich de jamon y queso",
+                    "sandwich de pechuga",
+                    "sandwich de atun",
+                    "sandwich de lechon"
+                ],
+                "bread_price": [
+                    1200,
+                    1550,
+                    1500,
+                    1550
+                ]
+            },
+            "main": {
+                "main_list": [],
+                "main_price": []
+            },
+            "sea_food": {
+                "sea_food_list": [],
+                "sea_food_price": []
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [
+                    "pizza de queso",
+                    "pizza hawaiana",
+                    "pizza de vegetales"
+                ],
+                "pizza_price": [
+                    1200,
+                    1500,
+                    1500
+                ]
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            "dessert": {
+                "dessert_list": [],
+                "dessert_price": []
+            },
+            "drinks": {
+                "alcohol_list": [
+                    "canchanchara",
+                    "mojito",
+                    "caipis",
+                    "daiquiri",
+                    "gin tonic",
+                    "margarita",
+                    "cubata",
+                    "sangria",
+                    "pinha colada",
+                    "jarra de cerveza",
+                    "cerveza",
+                    "vasos de ceveza",
+                    "servicio de michelada",
+                    "servicio de chelada"
+                ],
+                "alcohol_price": [
+                    1150,
+                    1100,
+                    1100,
+                    1100,
+                    1450,
+                    1050,
+                    1050,
+                    1350,
+                    1100,
+                    350,
+                    600,
+                    200,
+                    300,
+                    400
+                ],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [
+                    "agua natural",
+                    "refresco",
+                    "energizante"
+                ],
+                "non_alcoholic_price": [
+                    250,
+                    500,
+                    500
+                ]
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "cocteleria",
+            "italiana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": null,
+        "blackout_alternatives": null,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}

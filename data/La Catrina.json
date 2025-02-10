@@ -1,0 +1,215 @@
+{
+    "general_info": {
+        "name": "La Catrina",
+        "township": "Playa",
+        "adress": "Calle 84 # 503 entre 5ta y 5taA",
+        "local": "restaurante",
+        "open": "12:00",
+        "close": "23:00",
+        "days_of_week": [
+            "lunes",
+            "martes",
+            "miercoles",
+            "jueves",
+            "viernes",
+            "sabado",
+            "domingo"
+        ],
+        "sector": "estatal",
+        "capability": null,
+        "social_network": [
+            "La Catrina Havana",
+            "@lacatrina_havana"
+        ],
+        "years": null
+    },
+    "economy": {
+        "payment_methods": [
+            "efectivo",
+            "transferencia"
+        ],
+        "online_reservation": true,
+        "tips_included": null,
+        "delivery": true
+    },
+    "food": {
+        "menu": {
+            "appetizers": {
+                "appetizers_list": [
+                    "quesadillas con tortillas de trigo con queso",
+                    "quesadillas con queso y champinones",
+                    "quesadillas con queso y chorizo iberico",
+                    "tacos envenenados",
+                    "tacos dorados",
+                    "frijoles refritos",
+                    "ceviche acapulquenno",
+                    "ceviche de atun rojo",
+                    "carpaccio de res",
+                    "carpaccio de pulpo",
+                    "tostada de atun",
+                    "aguachile de camaron",
+                    "trio de ceviches",
+                    "salmorejo la catrina pequena",
+                    "salmorejo la catrina grande",
+                    "guacamole",
+                    "quesadillas de huitlacoche",
+                    "chilaquiles",
+                    "quesadilla tacos de fajitas de pollo",
+                    "quesadilla tacos de carne de cerdo",
+                    "festival de tacos 6",
+                    "festival de tacos 12",
+                    "carnitas michoacanas",
+                    "tacos al pastor",
+                    "cochinita pibil",
+                    "tacos de res",
+                    "gobernador",
+                    "festival de tacos del mar"
+                ],
+                "appetizers_price": [
+                    1700,
+                    2300,
+                    2300,
+                    1900,
+                    1900,
+                    1350,
+                    2700,
+                    3950,
+                    4200,
+                    3800,
+                    2700,
+                    2900,
+                    3800,
+                    1550,
+                    2100,
+                    1750,
+                    1700,
+                    2700,
+                    2450,
+                    2300,
+                    4600,
+                    8900,
+                    2700,
+                    2700,
+                    2700,
+                    3100,
+                    3350,
+                    8800
+                ]
+            },
+            "garnishes": {
+                "garnishes_list": [],
+                "garnishes_price": []
+            },
+            "hamburger": {
+                "hamburger_list": [],
+                "hamburger_price": []
+            },
+            "bread": {
+                "bread_list": [],
+                "bread_price": []
+            },
+            "main": {
+                "main_list": [
+                    "pollo en mole",
+                    "fajitas de pollo",
+                    "eperlan de pollo y papas fritas",
+                    "chuleton",
+                    "albondigas de la abuela",
+                    "fajitas de res",
+                    "solomillo de res",
+                    "bistec de res y papas fritas",
+                    "entrecot",
+                    "tomahawk"
+                ],
+                "main_price": [
+                    3200,
+                    2700,
+                    2450,
+                    2470,
+                    2700,
+                    3050,
+                    6900,
+                    2900,
+                    1090,
+                    2100
+                ]
+            },
+            "sea_food": {
+                "sea_food_list": [
+                    "langosta grille",
+                    "calamares al ajillo",
+                    "ensenada de camaron",
+                    "langosta estilo baja california",
+                    "eperlan de pescado y papas fritas",
+                    "pescado del dia",
+                    "ensenada de pescado"
+                ],
+                "sea_food_price": [
+                    4600,
+                    3800,
+                    3000,
+                    3050,
+                    2450,
+                    3250,
+                    2900
+                ]
+            },
+            "pasta": {
+                "pasta_list": [],
+                "pasta_price": []
+            },
+            "pizza": {
+                "pizza_list": [],
+                "pizza_price": []
+            },
+            "adds": {
+                "adds_list": [],
+                "adds_price": []
+            },
+            
+            "dessert": {
+                "dessert_list": [
+                    "tartas del dia",
+                    "pie de limon",
+                    "tiramisu",
+                    "cheesecake",
+                    "gelato italiano artesanal",
+                    "flan casero"
+                ],
+                "dessert_price": [
+                    1400,
+                    1400,
+                    1400,
+                    1400,
+                    1200,
+                    1400
+                ]
+            },
+            "drinks": {
+                "alcohol_list": [],
+                "alcohol_price": [],
+                "infusions_list": [],
+                "infusions_price": [],
+                "non_alcoholic_list": [],
+                "non_alcoholic_price": []
+                
+            }
+        },
+        "popular_food": [],
+        "popular_drink": [],
+        "food_especialization": [
+            "mexicana"
+        ],
+        "house_especiality": []
+    },
+    "social": {
+        "kids_seat": false,
+        "blackout_alternatives": true,
+        "entertainment": [],
+        "peak_hour": [],
+        "tourism": null,
+        "pets": null,
+        "bathroom": null,
+        "heated": null
+    }
+}
